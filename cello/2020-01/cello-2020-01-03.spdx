@@ -1,0 +1,6451 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_cello-2020-01-03.zip_1578081138.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2020-01-03T19:52:19Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: cello-2020-01-03.zip
+PackageFileName: cello-2020-01-03.zip
+SPDXID: SPDXRef-upload2000
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: b7c75605c3b937afc26df8aa482d0e1516886f64
+PackageChecksum: SHA1: f633e2ae98363fb9a87751f40b764c6fe5c7c2d9
+PackageChecksum: MD5: e1b3b220541528f65fd457d5f989ea2b
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2000
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: cello-analytics/README.md
+SPDXID: SPDXRef-item7784067
+FileChecksum: SHA1: 9b430b0458eecb49e9d007976153e80aa519dfc1
+FileChecksum: MD5: fbabf4a9ddf81a84739a12abdf45111c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello-analytics/MAINTAINERS.md
+SPDXID: SPDXRef-item7784081
+FileChecksum: SHA1: 2ceeb6eb23b3e924a96b134e4391f47d94cf3cb4
+FileChecksum: MD5: 27ee06b05dd7dd930c1c826c7298df0b
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/MAINTAINERS.md
+SPDXID: SPDXRef-item7784052
+FileChecksum: SHA1: 47d6fe3ecd7eb60f4d2914eb16e23de7fceb0f6c
+FileChecksum: MD5: 8420027bc7be7586d0a089bcf237caf7
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/docs/reference/commands/cli.md
+SPDXID: SPDXRef-item7783962
+FileChecksum: SHA1: c80ef4d8209407a86b1ae12f0a3832690a9bcf6d
+FileChecksum: MD5: 7960f59b4f5d8cb921d2a5c881ab5483
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/docs/index.md
+SPDXID: SPDXRef-item7783972
+FileChecksum: SHA1: 38f6e720cb0e5f4bf794b25c136d479d750d2a7f
+FileChecksum: MD5: 7ab376994e7abee80d99e0c35803f544
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/docs/reference/commands/make.md
+SPDXID: SPDXRef-item7783961
+FileChecksum: SHA1: b12a5f9aa31bd14c7fdb83a8804e58244ac99268
+FileChecksum: MD5: 03fef88893d525ed4dc78aa62f4b461e
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/docs/concepts.md
+SPDXID: SPDXRef-item7783974
+FileChecksum: SHA1: 3ebc5656aad5481dddf214177c77c55c757dcd3b
+FileChecksum: MD5: 8467b18f8cdfccf9fa21861a072d42e5
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/docs/contributing.md
+SPDXID: SPDXRef-item7783973
+FileChecksum: SHA1: 98d7b65272b63922c0be62a9a8297ecfd6da4b9a
+FileChecksum: MD5: a433a2cf7df9a64a4d3462da2c85818c
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/docs/design/arch.md
+SPDXID: SPDXRef-item7783977
+FileChecksum: SHA1: 5c1659cb326e943c553713645f38a886f8d81c6d
+FileChecksum: MD5: 3e1e00c9564534f9d2a83eb5fbf866fa
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/docs/agents/kubernetes.md
+SPDXID: SPDXRef-item7783980
+FileChecksum: SHA1: b33ae0b8278e46c8f7e0efe7b43567ca05bf7970
+FileChecksum: MD5: 6ca7dbd49eceef9b05ba5155d4e55885
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/docs/setup/server.md
+SPDXID: SPDXRef-item7783985
+FileChecksum: SHA1: c1b20137f554e3a4b21b7af5aa015f8965fe75c2
+FileChecksum: MD5: a8e27fa8b9f06978498efb7dfbb978e2
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/README.md
+SPDXID: SPDXRef-item7783436
+FileChecksum: SHA1: 491ba0a81350133c08310e9b3012b33641263867
+FileChecksum: MD5: bd95085da86662a13a58b4deecc297d5
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/README.md
+SPDXID: SPDXRef-item7783317
+FileChecksum: SHA1: 58a224b774759ede9b573d75922b689b06498d3b
+FileChecksum: MD5: 28aa406e850f01491a3d2eb31a646c41
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/kubernetes-agent/src/__init__.py
+SPDXID: SPDXRef-item7783357
+FileChecksum: SHA1: 07c33298358a5835e20e51b7a15bfa2f233170bd
+FileChecksum: MD5: 72b1e750f141439a2554cbeb1ea4ab66
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/common/__init__.py
+SPDXID: SPDXRef-item7783548
+FileChecksum: SHA1: 07c33298358a5835e20e51b7a15bfa2f233170bd
+FileChecksum: MD5: 72b1e750f141439a2554cbeb1ea4ab66
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/lib/agent/__init__.py
+SPDXID: SPDXRef-item7783591
+FileChecksum: SHA1: 07c33298358a5835e20e51b7a15bfa2f233170bd
+FileChecksum: MD5: 72b1e750f141439a2554cbeb1ea4ab66
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/lib/__init__.py
+SPDXID: SPDXRef-item7783598
+FileChecksum: SHA1: 07c33298358a5835e20e51b7a15bfa2f233170bd
+FileChecksum: MD5: 72b1e750f141439a2554cbeb1ea4ab66
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/migrations/__init__.py
+SPDXID: SPDXRef-item7783536
+FileChecksum: SHA1: 07c33298358a5835e20e51b7a15bfa2f233170bd
+FileChecksum: MD5: 72b1e750f141439a2554cbeb1ea4ab66
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/routes/agent/__init__.py
+SPDXID: SPDXRef-item7783560
+FileChecksum: SHA1: 07c33298358a5835e20e51b7a15bfa2f233170bd
+FileChecksum: MD5: 72b1e750f141439a2554cbeb1ea4ab66
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/routes/cluster/__init__.py
+SPDXID: SPDXRef-item7783573
+FileChecksum: SHA1: 07c33298358a5835e20e51b7a15bfa2f233170bd
+FileChecksum: MD5: 72b1e750f141439a2554cbeb1ea4ab66
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/routes/network/__init__.py
+SPDXID: SPDXRef-item7783581
+FileChecksum: SHA1: 07c33298358a5835e20e51b7a15bfa2f233170bd
+FileChecksum: MD5: 72b1e750f141439a2554cbeb1ea4ab66
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/routes/node/__init__.py
+SPDXID: SPDXRef-item7783564
+FileChecksum: SHA1: 07c33298358a5835e20e51b7a15bfa2f233170bd
+FileChecksum: MD5: 72b1e750f141439a2554cbeb1ea4ab66
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/routes/organization/__init__.py
+SPDXID: SPDXRef-item7783556
+FileChecksum: SHA1: 07c33298358a5835e20e51b7a15bfa2f233170bd
+FileChecksum: MD5: 72b1e750f141439a2554cbeb1ea4ab66
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/routes/user/__init__.py
+SPDXID: SPDXRef-item7783577
+FileChecksum: SHA1: 07c33298358a5835e20e51b7a15bfa2f233170bd
+FileChecksum: MD5: 72b1e750f141439a2554cbeb1ea4ab66
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/routes/__init__.py
+SPDXID: SPDXRef-item7783569
+FileChecksum: SHA1: 07c33298358a5835e20e51b7a15bfa2f233170bd
+FileChecksum: MD5: 72b1e750f141439a2554cbeb1ea4ab66
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/__init__.py
+SPDXID: SPDXRef-item7783551
+FileChecksum: SHA1: 07c33298358a5835e20e51b7a15bfa2f233170bd
+FileChecksum: MD5: 72b1e750f141439a2554cbeb1ea4ab66
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/build_image/dockerhub/v0.9.0/mongo/docker-entrypoint.sh
+SPDXID: SPDXRef-item7783910
+FileChecksum: SHA1: c02a9ebdf17d45c97c6978844580da7079de1bce
+FileChecksum: MD5: c824020189733690ecf556db22d250dd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/build_image/dockerhub/v0.9.0/mongo/Dockerfile
+SPDXID: SPDXRef-item7783911
+FileChecksum: SHA1: 3ce82d90a94ee4dc3e44caa655b7559c18e17d7d
+FileChecksum: MD5: 4a6154b27e8f42b678a0f3dfd492427f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp, All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/scripts/master_node/start_netdata.sh
+SPDXID: SPDXRef-item7783942
+FileChecksum: SHA1: acbb6b64ea4fae82747f548992b3dc5fe4d15964
+FileChecksum: MD5: 43806448951d55222a12a80d553e0822
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp., All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/scripts/master_node/start_cadvisor.sh
+SPDXID: SPDXRef-item7783944
+FileChecksum: SHA1: c501f99b731182cad2dfe20f38757439afef461d
+FileChecksum: MD5: f0a8f4229256c0a01fbd71e365543e0f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp., All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/scripts/master_node/start_mongoexpress.sh
+SPDXID: SPDXRef-item7783945
+FileChecksum: SHA1: 9c2bd56f3fea317401bb08feb0ae89407d10dff6
+FileChecksum: MD5: 9c06ae62860b98a07319c4f78d801789
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp., All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/scripts/worker_node/setup_worker_node_swarm.sh
+SPDXID: SPDXRef-item7783948
+FileChecksum: SHA1: c58f0c9b4fa1833113803aaf665fe402746564fd
+FileChecksum: MD5: cbf00df1a7b1ee78fc9e326047df6163
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp, All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/scripts/changelog.sh
+SPDXID: SPDXRef-item7783953
+FileChecksum: SHA1: 2113d3ca382de07895bc48f50406f0ceb677ac89
+FileChecksum: MD5: 685e1196c36ee7f07b6dca8b7d27c103
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2009-2017 SAP SE or an SAP affiliate company. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/scripts/header.sh
+SPDXID: SPDXRef-item7783955
+FileChecksum: SHA1: 23bf91d848ac3d2a773358123d0df21af0d53901
+FileChecksum: MD5: 4cf8166cc12c35211868870f8c31c158
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp., All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello-analytics/elk/elk-master/elasticsearch.yml
+SPDXID: SPDXRef-item7784058
+FileChecksum: SHA1: 4c6a223b5eee375e2d60b49184081b9fb443a097
+FileChecksum: MD5: 0e1b0234b550ffd93ef2bc8f01bb14ab
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp., All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello-analytics/elk/elk-master/docker-compose.yml
+SPDXID: SPDXRef-item7784059
+FileChecksum: SHA1: d2eb26d83fa7026272663642b0976226934bb1e2
+FileChecksum: MD5: 4679ce82efa46cc0281c0adb694371f8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp., All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello-analytics/elk/elk-master/logstash.conf
+SPDXID: SPDXRef-item7784057
+FileChecksum: SHA1: 4b9f311ba5f64b98913442e1ffcbf295d71441eb
+FileChecksum: MD5: 73a77d33f23a07a9b61816e83b11534e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp., All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello-analytics/elk/elk-slave/docker-compose.yml
+SPDXID: SPDXRef-item7784063
+FileChecksum: SHA1: e76ceff4ada27ac7c4e9cc22041eba50f5febcf1
+FileChecksum: MD5: 2e16ed95d6807bf02720ea28b0fd348e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp., All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello-analytics/elk/scripts/clean_indices.sh
+SPDXID: SPDXRef-item7784065
+FileChecksum: SHA1: 649784ee3ee9875d7df4989774b61656b7a6d924
+FileChecksum: MD5: 54f942b18649eb254bd3b514c343657b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp., All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello-analytics/elk/elk-slave/elasticsearch.yml
+SPDXID: SPDXRef-item7784062
+FileChecksum: SHA1: 2d48b473b116146975b96cb711c5b387c86d95dc
+FileChecksum: MD5: 79fc81d266c7a1934d5a42f75b37d343
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp., All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/scripts/worker_node/setup_worker_node_k8s.sh
+SPDXID: SPDXRef-item7783951
+FileChecksum: SHA1: 37b09d224b80463c8b9d4e8035f48f8afa82ae60
+FileChecksum: MD5: 96377f593d367696d1f76870e38e6261
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp, All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/build_image/dockerhub/v0.9.0/baseimage/install.sh
+SPDXID: SPDXRef-item7783913
+FileChecksum: SHA1: 9a18ddf27994014741484bed482760c67b9dfbf0
+FileChecksum: MD5: 71fc069a231da7bb21760b0ede5e5ac0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/build_image/dockerhub/v0.9.0-beta/baseimage/install.sh
+SPDXID: SPDXRef-item7783896
+FileChecksum: SHA1: 9a18ddf27994014741484bed482760c67b9dfbf0
+FileChecksum: MD5: 71fc069a231da7bb21760b0ede5e5ac0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/build_image/dockerhub/v0.9.0/engine/Dockerfile
+SPDXID: SPDXRef-item7783918
+FileChecksum: SHA1: cb5bee8d241a04d6bb10fa8d57945d277bf12801
+FileChecksum: MD5: 2432631fae8cc5b727989d991a47c7fc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp, All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/build_image/dockerhub/v0.9.0/watchdog/Dockerfile
+SPDXID: SPDXRef-item7783916
+FileChecksum: SHA1: ee11082d13c7158e6aa0280f015c2d38e9462166
+FileChecksum: MD5: 347a2e8b91825439cdb65e8a3599e56f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp, All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/build_image/dockerhub/v0.9.0/user-dashboard/Dockerfile
+SPDXID: SPDXRef-item7783908
+FileChecksum: SHA1: b843052385758778d69cb3b0412a5d28180e1adc
+FileChecksum: MD5: d84fdadb234cdf3b9737da7a7d3201cc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp, All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/src/api-engine/manage.py
+SPDXID: SPDXRef-item7783521
+FileChecksum: SHA1: 589fe60e80bfd1d740434753300559eb3a1c7822
+FileChecksum: MD5: 17b49d346a1042d2eaf6dba627f8e937
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/tests.py
+SPDXID: SPDXRef-item7783532
+FileChecksum: SHA1: f399f3574a7a4b0d06786fe42388ae677be1b8bc
+FileChecksum: MD5: 5cb0b5767aba2546dc71ddf3aa0ab639
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/views.py
+SPDXID: SPDXRef-item7783533
+FileChecksum: SHA1: 2a2c97e196c463adfcc4af0d7cab6a9575296e44
+FileChecksum: MD5: 8cbd34dadb9e0391fcdc8f8997c1eb38
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api_engine/wsgi.py
+SPDXID: SPDXRef-item7783523
+FileChecksum: SHA1: 5aeb44b8d9c6690380e3032d17dcad5ffffca079
+FileChecksum: MD5: 09d44aacb5f5791af2ee9b99c1208ebf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/admin.py
+SPDXID: SPDXRef-item7783534
+FileChecksum: SHA1: d401591f525f3e2430b0f990189938dac19af16f
+FileChecksum: MD5: 0ac87707676f884582292af6c732d9f9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/routes/cluster/views.py
+SPDXID: SPDXRef-item7783571
+FileChecksum: SHA1: cb6c15645ccb0b0b8d67492a80848e93154e5697
+FileChecksum: MD5: 3122a1d22c8ec090a993f659285e55c0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/routes/network/views.py
+SPDXID: SPDXRef-item7783579
+FileChecksum: SHA1: 80ef7a3661af3eb2e5b433e01e9ab2cbe07dd16a
+FileChecksum: MD5: 2e9d6869331c8fe8953870da8af13031
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/apps.py
+SPDXID: SPDXRef-item7783604
+FileChecksum: SHA1: 018b60594d79e7490fe69f924769283c8e7caba2
+FileChecksum: MD5: 8a11a68bc9456a6dda9295ec7791c98b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/build_image/dockerhub/v0.9.0-beta/engine/Dockerfile
+SPDXID: SPDXRef-item7783901
+FileChecksum: SHA1: 4b54adf4d06031b4249ad7a277bc6226b7050358
+FileChecksum: MD5: 057466d8023f33d8249d3dcd88b0a854
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp, All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/build_image/dockerhub/v0.9.0-beta/watchdog/Dockerfile
+SPDXID: SPDXRef-item7783899
+FileChecksum: SHA1: d7448c63a5e4ed2bd1489aa29bd23bd91887b891
+FileChecksum: MD5: 0f28988ffa87a7450ef50e301bff4d5b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp, All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/build_image/dockerhub/v0.9.0-beta/user-dashboard/Dockerfile
+SPDXID: SPDXRef-item7783894
+FileChecksum: SHA1: 7c322016c0cfa0b5ea6f62584b8154b0d7235062
+FileChecksum: MD5: 90f41e40faf12ce674bc9c7f60c77beb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp, All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/scripts/master_node/build_js.sh
+SPDXID: SPDXRef-item7783940
+FileChecksum: SHA1: 1b52fe2b412a9b3fd04dee039d1f8a67f821c5ab
+FileChecksum: MD5: a39d9c4d7354b039d7e374fb7bfee877
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp., All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/build_image/dockerhub/v0.9.0-beta/operator-dashboard/Dockerfile
+SPDXID: SPDXRef-item7783903
+FileChecksum: SHA1: a923c31665cdc3b4e53a59183cbc98fff7c3af78
+FileChecksum: MD5: b359803f77b4ddff97f794a3c0d49912
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp, All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/scripts/worker_node/download_images.sh
+SPDXID: SPDXRef-item7783950
+FileChecksum: SHA1: cb76d199db6d27d4cfb93a04a4ea07327147ed8d
+FileChecksum: MD5: cdbb5cdcfc17899d873243f261d3e0f5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright O Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/src/api-engine/api_engine/__init__.py
+SPDXID: SPDXRef-item7783525
+FileChecksum: SHA1: b18f36db97c818ea8cf902fee1454bcd74fd0a95
+FileChecksum: MD5: a1dd5bc712d2b752d8ec64369ac6e45e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/routes/organization/serializers.py
+SPDXID: SPDXRef-item7783555
+FileChecksum: SHA1: 3c167204feaee7d1c5697c2221a4ebeeb071ba8f
+FileChecksum: MD5: 87106529f2f5725bd67449a06b876e67
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/lib/agent/base.py
+SPDXID: SPDXRef-item7783590
+FileChecksum: SHA1: 4af86354d8dda0287b506c6dad27dd1bd157a098
+FileChecksum: MD5: 08c433b8e4eea6f84ebe481265a4c7d6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/utils/__init__.py
+SPDXID: SPDXRef-item7783541
+FileChecksum: SHA1: d1f3f4d06f272206987395c47a7dba1863c53a1c
+FileChecksum: MD5: 339e7ee428642b5ac20c8d84b0826fde
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/tox.ini
+SPDXID: SPDXRef-item7783529
+FileChecksum: SHA1: e8d861267cd0816bf0a9022833dccd9664c5d6c7
+FileChecksum: MD5: 41b45868c8adde12065b32dde50856fe
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp, All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/scripts/worker_node/setup_worker_node_docker.sh
+SPDXID: SPDXRef-item7783947
+FileChecksum: SHA1: 137c0dfe358c568e0f906efa6d540f3e381cc6c4
+FileChecksum: MD5: ca9b915a2f3d86867396866ce47d2b6f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp, All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/scripts/master_node/setup.sh
+SPDXID: SPDXRef-item7783941
+FileChecksum: SHA1: 6708777ba67f599b1b679c0f3dc4d0ff965c050f
+FileChecksum: MD5: 98ddfe834db4b5bd0112ae925252efb0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp., All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/scripts/worker_node/setup.sh
+SPDXID: SPDXRef-item7783949
+FileChecksum: SHA1: 11253522e2430b5fa9d6d625a716024955341486
+FileChecksum: MD5: 6d04fcf58aa8199094d9068a5c850bdb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp., All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/cmd/internal/organization.go
+SPDXID: SPDXRef-item7783323
+FileChecksum: SHA1: 3b52a07e605f4fc754ed81e778a366f2dd9b729b
+FileChecksum: MD5: 458d4f0b1818c1702601b002a5e24625
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/cmd/internal/node.go
+SPDXID: SPDXRef-item7783322
+FileChecksum: SHA1: 339ccd6be00167c0719323045f89dfac58a5ac58
+FileChecksum: MD5: 11fb92e402c183681a95af9722324070
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/cmd/internal/user.go
+SPDXID: SPDXRef-item7783321
+FileChecksum: SHA1: 70b86a7e7d757ec99155176fb317e88e14f2ef22
+FileChecksum: MD5: 2884514fe59a84958f78ab199f3960ca
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/cmd/main.go
+SPDXID: SPDXRef-item7783325
+FileChecksum: SHA1: d633df532433fb673b126ed797c5fcd2ffc97663
+FileChecksum: MD5: a4effcdb9b0af4cdc1404845eb73a063
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/cmd/cmd/root.go
+SPDXID: SPDXRef-item7783327
+FileChecksum: SHA1: d9fc47381e856a58e07e05f4b2d1dc3256f7e7af
+FileChecksum: MD5: ef74aab2c2b7304d17a39b8ff6024a78
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/cmd/internal/agent.go
+SPDXID: SPDXRef-item7783324
+FileChecksum: SHA1: f88ea26e994931a4a633d4fbabdfaaccaadaf663
+FileChecksum: MD5: 5d333d1949a8f90bb3b18e764e08b7ea
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/cmd/cmd/version.go
+SPDXID: SPDXRef-item7783328
+FileChecksum: SHA1: 2b0239aea151165777b4cfed253134c2c3c3b963
+FileChecksum: MD5: c502fcfa754acb460d8e6151cdb0047b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/cmd/cmd/get.go
+SPDXID: SPDXRef-item7783331
+FileChecksum: SHA1: cbe050eee30c1e03b33f2217a1abf36e5441b0a0
+FileChecksum: MD5: d3a3091bb1c0d675e9df91725988378e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/cmd/cmd/delete.go
+SPDXID: SPDXRef-item7783329
+FileChecksum: SHA1: d905468b24992356373fc79bf01cb1fda5df02f0
+FileChecksum: MD5: 15e5d983ebdd333673e48a238d7657fb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/cmd/cmd/token.go
+SPDXID: SPDXRef-item7783330
+FileChecksum: SHA1: cceebeb22fedffc278c820dce68faf196f55eeca
+FileChecksum: MD5: 191dfc89293097d6b7ccd6feb8129f2d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/cmd/cmd/create.go
+SPDXID: SPDXRef-item7783332
+FileChecksum: SHA1: f27cca15301e27da79782cde2af82275ded4093f
+FileChecksum: MD5: 43a6ce02efefef2ff1ecfb1291543462
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/cmd/model/token.go
+SPDXID: SPDXRef-item7783335
+FileChecksum: SHA1: fff92d221b1ab0fa2663bcd3a24557fb260bfb00
+FileChecksum: MD5: 59b2c6f5d0081c86b6c66f206c433bd5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/cmd/model/user.go
+SPDXID: SPDXRef-item7783334
+FileChecksum: SHA1: dd5fcb152e4ae67bcc96f8eb950b31b33cc2e723
+FileChecksum: MD5: 31c85e7f16c850c65d9f6e88395de45e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/cmd/model/node.go
+SPDXID: SPDXRef-item7783336
+FileChecksum: SHA1: 22aaccabe17eb9f07328d6570fc3fabd91f0b369
+FileChecksum: MD5: 5281a4635257ae5ceb4aa41bcffce2e7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/cmd/model/config.go
+SPDXID: SPDXRef-item7783337
+FileChecksum: SHA1: 4ecba2bfd319dc156540045bdbffd465c8258a83
+FileChecksum: MD5: 23ebb8a3ff382a36c14c38bd3a726cdc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/utils/port_picker.py
+SPDXID: SPDXRef-item7783540
+FileChecksum: SHA1: fd028206a79fa77f698cc8b1bd287a2cd5915aef
+FileChecksum: MD5: 3a1c93a490e087d46e475a380cff3ef4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/cmd/model/organization.go
+SPDXID: SPDXRef-item7783338
+FileChecksum: SHA1: d9b0beae670aee7ad88502b47e1d0dd93f109df8
+FileChecksum: MD5: 376d8f73038e801e3e99372d3b611959
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/routes/organization/views.py
+SPDXID: SPDXRef-item7783554
+FileChecksum: SHA1: 0f6867edb97e33b4461ba0eb198e9a2e1f12a1d1
+FileChecksum: MD5: 83074dacb1aa6a2a1d86b314e6322263
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/utils/common.py
+SPDXID: SPDXRef-item7783542
+FileChecksum: SHA1: ff0d492273be8fedde6494cf24768adbd7418efb
+FileChecksum: MD5: 5ad2d0a646e5a1e9a9ee975abd9c250c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/lib/agent/docker/__init__.py
+SPDXID: SPDXRef-item7783587
+FileChecksum: SHA1: 57ec6fd10d1803acf511138893d8c1bc905b3fcc
+FileChecksum: MD5: 18ee0529466ffb63a9358555bcec462b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/routes/file/views.py
+SPDXID: SPDXRef-item7783566
+FileChecksum: SHA1: f7bcf6f5b211e63d8c505a83bd011a96346b69f5
+FileChecksum: MD5: eb9c1530d50ece319ada46368935b5f6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/routes/file/serializers.py
+SPDXID: SPDXRef-item7783567
+FileChecksum: SHA1: ea42d9d427ca2939597ee36a8b5fe71deddb1317
+FileChecksum: MD5: 3587cba4345bd8c56d5e7fed69d569ee
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/lib/agent/docker/fabric/__init__.py
+SPDXID: SPDXRef-item7783589
+FileChecksum: SHA1: cf9697ca24b96b929da4ae2467d6009738092875
+FileChecksum: MD5: 9d696f840d885db9ed1e9a49f2c079d2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/lib/agent/kubernetes/fabric/__init__.py
+SPDXID: SPDXRef-item7783595
+FileChecksum: SHA1: b86447a9e1a536d553e5eb73b32ae0c0a071960b
+FileChecksum: MD5: ca739544dd42e78501c256ef35f55aea
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/cmd/model/agent.go
+SPDXID: SPDXRef-item7783339
+FileChecksum: SHA1: b8490a2b862c30570c1525d9898e6600c3822525
+FileChecksum: MD5: 9e376bba843c5e8957da34cfc1e2411e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/lib/agent/network_base.py
+SPDXID: SPDXRef-item7783597
+FileChecksum: SHA1: 44544e5a03707e7f667e496594e7609259b7bec8
+FileChecksum: MD5: 5e0700594b3a62552da939675e0ff7a9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/lib/agent/kubernetes/__init__.py
+SPDXID: SPDXRef-item7783593
+FileChecksum: SHA1: 561977fbb7d562dc2d853c1d458e86af53033011
+FileChecksum: MD5: ff65ced10cc944145a4ae272d4034949
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/build_image/dockerhub/v0.9.0/operator-dashboard/Dockerfile
+SPDXID: SPDXRef-item7783921
+FileChecksum: SHA1: e3d2768a56e0d571022d7ddfdd5357fabed99a49
+FileChecksum: MD5: 4fa5ecfe450835ae486ac16362140c42
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp, All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/cmd/internal/login.go
+SPDXID: SPDXRef-item7783320
+FileChecksum: SHA1: e40a9e981b6fa6ad27147d7e9aedcb3c015fcf78
+FileChecksum: MD5: aec722bf5bce703b412405d0c0640138
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/src/agent/kubernetes-agent/src/network/__init__.py
+SPDXID: SPDXRef-item7783359
+FileChecksum: SHA1: 92b51ce14ff4fe5dafa41e815037b9a8c8ddc8b1
+FileChecksum: MD5: a26459a94a9813e8c8ee5ad8d6090193
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api_engine/urls.py
+SPDXID: SPDXRef-item7783527
+FileChecksum: SHA1: 2c4c37e09486851bee46243530eb786c35d4eb5e
+FileChecksum: MD5: 4f3c18fcc8c9d94e03ee370811928cca
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/routes/agent/views.py
+SPDXID: SPDXRef-item7783558
+FileChecksum: SHA1: dd81e87c2c399fd96b88e80dcf522822b0f64b9f
+FileChecksum: MD5: 630369c10c1d9ae22568f2ab2bd765c2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/routes/user/views.py
+SPDXID: SPDXRef-item7783575
+FileChecksum: SHA1: e5223fbdf636f6ef669ec1b4555a101a973abac1
+FileChecksum: MD5: f6d457573b159c2057c82e23704b2fdd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/routes/agent/serializers.py
+SPDXID: SPDXRef-item7783559
+FileChecksum: SHA1: 564cbf23cdb3a0d35c0475634172caac454a17a7
+FileChecksum: MD5: 5b97200ebab61cdb194932069dda8ef6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/lib/agent/handler.py
+SPDXID: SPDXRef-item7783585
+FileChecksum: SHA1: e8f9d442b263ef8f04369239b4160ca888d71db9
+FileChecksum: MD5: 48a8e0988650a0a2152b765d6f0d4efc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/layouts/BasicLayout.js
+SPDXID: SPDXRef-item7783628
+FileChecksum: SHA1: ca1186f157b04ae3125b0e7f731283f9161fa153
+FileChecksum: MD5: d145e7246745253443331f2ee26d81d6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/models/user.js
+SPDXID: SPDXRef-item7783613
+FileChecksum: SHA1: fd09d28f2575e9c431879f2fb9304eb531302fa9
+FileChecksum: MD5: 3849f39d210135d329c346c0794949f6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/pages/User/Login.js
+SPDXID: SPDXRef-item7783746
+FileChecksum: SHA1: 97f35a6625ee5b1c992613b20ed4ae3fe4dac541
+FileChecksum: MD5: 44d5e4e2dfa9618284c047a3f03601bb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/pages/Operator/Organization.js
+SPDXID: SPDXRef-item7783754
+FileChecksum: SHA1: 5f492ac396ca6c61590841f2b80a62fe5144f806
+FileChecksum: MD5: 2e810726478c7fcaca6d571d0626fd6b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/services/user.js
+SPDXID: SPDXRef-item7783795
+FileChecksum: SHA1: 005cf682cca3ce6f012a12e48877967bf8c22f64
+FileChecksum: MD5: 14fdde0dde2893bbecf29a18270ad1bd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/scripts/check_license.sh
+SPDXID: SPDXRef-item7783954
+FileChecksum: SHA1: 619936aff610e01c75603e3bf1e41d67fda5b5b9
+FileChecksum: MD5: 6bd26e4546bf4cdbf275e5d90da94ca2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/src/dashboard/.eslintrc.js
+SPDXID: SPDXRef-item7783799
+FileChecksum: SHA1: 923e84ed6e14205cb4d3cb44554d362ec61e6dff
+FileChecksum: MD5: 4f0303a70a5547f26edbc76ddace2d83
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/kubernetes-agent/src/main.py
+SPDXID: SPDXRef-item7783345
+FileChecksum: SHA1: d8ddffa83e9157d6424dd7aa92388c12613f9c8d
+FileChecksum: MD5: 9031b69471b6a27c976e1f1dc6635d6a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/kubernetes-agent/src/operations/fabric_ca_register.py
+SPDXID: SPDXRef-item7783349
+FileChecksum: SHA1: c1aa8db3415b2fd7d623baf45985654ea9a769f9
+FileChecksum: MD5: 2a3050f49e31cd637e4d1e891382aa11
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/kubernetes-agent/src/operations/__init__.py
+SPDXID: SPDXRef-item7783350
+FileChecksum: SHA1: 4e969f1a7320b4592792d9396fd4f85836d30fa5
+FileChecksum: MD5: 428e330fce3cfd4f75e952fdf9211f43
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/kubernetes-agent/src/operations/delete_node.py
+SPDXID: SPDXRef-item7783351
+FileChecksum: SHA1: 94882ba67cd64edc88af1f50e7f5cf04c9c8e7f1
+FileChecksum: MD5: 87f146fc31fef1de7bf0c7d79826e4df
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/.makerc/dashboard
+SPDXID: SPDXRef-item7784041
+FileChecksum: SHA1: 8be55d6fc97a66ffc8acf77648f4d54ad0c7ef93
+FileChecksum: MD5: 299a5a1dcbf1f9a17a934b5ce4a01646
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/kubernetes-agent/src/utils/env.py
+SPDXID: SPDXRef-item7783354
+FileChecksum: SHA1: d3d8968bf0bef98b53b76de5a9e3dcb6e81bbb56
+FileChecksum: MD5: 3aa21e2f542980237ec5da2acf8ab71a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/kubernetes-agent/src/utils/__init__.py
+SPDXID: SPDXRef-item7783355
+FileChecksum: SHA1: 192d871a9d1f6e20d90b1e8d73cf954491461a9e
+FileChecksum: MD5: e280f7f4fcafe05919ddfbfcdbf97c67
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/kubernetes-agent/src/utils/download.py
+SPDXID: SPDXRef-item7783356
+FileChecksum: SHA1: c9013c85ba4815964aeb0beef6f194a42fe3ee8a
+FileChecksum: MD5: c6bfb9cd55a4a6c0711ed46e087d6a0d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/kubernetes-agent/src/network/fabric/__init__.py
+SPDXID: SPDXRef-item7783361
+FileChecksum: SHA1: 7efe8ff5f13a47df1a3a2f8df24a98b5e12b8e8a
+FileChecksum: MD5: 4b9ce8c1094779465f9b1c13c8fc5426
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/tasks/agent.py
+SPDXID: SPDXRef-item7783545
+FileChecksum: SHA1: 23d370de09b6b1825412318396ff02a7d72d83d6
+FileChecksum: MD5: acff6b37bdf4f8fbd85c73d8c9f65254
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/models.py
+SPDXID: SPDXRef-item7783537
+FileChecksum: SHA1: 0bb2785fa5a96bc348b0ac78cedb6d3793729652
+FileChecksum: MD5: 9ba883fbc56fa1a6bdac361f2231802f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/common/enums.py
+SPDXID: SPDXRef-item7783549
+FileChecksum: SHA1: 896c17af3fbf3a426b3c70d93779b596b057f9b5
+FileChecksum: MD5: 7b3b9dc0d06bfdb853c28f6627f73078
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/routes/node/views.py
+SPDXID: SPDXRef-item7783562
+FileChecksum: SHA1: 1e3d08b8d73db30fdb7fa461bbc9258130e3a5db
+FileChecksum: MD5: 85c40b76a03b2a92e434f65a00e7eaca
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/routes/node/serializers.py
+SPDXID: SPDXRef-item7783563
+FileChecksum: SHA1: b854bd9147660c4e22a2fd506d7f8349befb2d00
+FileChecksum: MD5: cc883eb42f5e19197eae345b334cc4cb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/routes/cluster/serializers.py
+SPDXID: SPDXRef-item7783572
+FileChecksum: SHA1: b1f908fcac60da04aa912db043805475636b838f
+FileChecksum: MD5: 34496642c5cfa7b45a2c994885a03a47
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/routes/network/serializers.py
+SPDXID: SPDXRef-item7783580
+FileChecksum: SHA1: d70299518bc48fef7e2b516af652e196371d3537
+FileChecksum: MD5: 922d5c0117b1d89dfe08235ac0ad6816
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/routes/user/serializers.py
+SPDXID: SPDXRef-item7783576
+FileChecksum: SHA1: cea815c55fec08e91086cfcda131d77dba84b88b
+FileChecksum: MD5: 08354d7cf0d63d570ac97da09cedfa76
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/locales/en-US.js
+SPDXID: SPDXRef-item7783632
+FileChecksum: SHA1: dba4e01bf84a7dee5d022ae337de9bf09cc36e4c
+FileChecksum: MD5: f2204ac62f345b89b16f5b271aaacd89
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/locales/en-US/form.js
+SPDXID: SPDXRef-item7783637
+FileChecksum: SHA1: 4c623ea696fc3ef17a1d38496f3a4b0cc5a5e512
+FileChecksum: MD5: 0878265ba8a0126bfc74bb7d7e7725fd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/locales/en-US/operatorUser.js
+SPDXID: SPDXRef-item7783639
+FileChecksum: SHA1: 08a2f28d924cc73ac406ac9e2db86590ca0483df
+FileChecksum: MD5: e087847c68dc4d43c6b861426ff7c73f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/locales/zh-CN.js
+SPDXID: SPDXRef-item7783647
+FileChecksum: SHA1: eacceb36c480f68fd09f01306f51f471dd7879d5
+FileChecksum: MD5: aaf78a81e18483494b0e097f1a879a04
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/locales/zh-CN/operatorUser.js
+SPDXID: SPDXRef-item7783654
+FileChecksum: SHA1: 41e30c0031f8d8533798920988b66e6df2411803
+FileChecksum: MD5: 56f7d5fc57f7b64a1feb9fac78022d64
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/locales/zh-CN/form.js
+SPDXID: SPDXRef-item7783652
+FileChecksum: SHA1: a7bf335d42cbda0ecec5ecbcebb587522c25f1a4
+FileChecksum: MD5: d1aea851baa5ec0ec7f163c7028925a5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/pages/Operator/UserManagement.js
+SPDXID: SPDXRef-item7783772
+FileChecksum: SHA1: 41ed91e9d2298f55f55ab099f61892c45e936e6b
+FileChecksum: MD5: 9de94a088de981f2c1263fbaa56a1d1d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/config/router.config.js
+SPDXID: SPDXRef-item7783802
+FileChecksum: SHA1: 1ce1ee466bea0f82b2d28d6aeecdf2ec902831b3
+FileChecksum: MD5: 1bb9a1a9c0db6c297b97ad1734b9f710
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/build/bin/scripts/orderer_configtx.yaml
+SPDXID: SPDXRef-item7783496
+FileChecksum: SHA1: 062abc2f1abd357cf80f416130acf1c880ccd625
+FileChecksum: MD5: a4178324aa01f11a2b1ec15b2296394b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/ci/check.yml
+SPDXID: SPDXRef-item7783288
+FileChecksum: SHA1: 6fcce73df842f40a8e4ebaca373fd3c38de3cead
+FileChecksum: MD5: c1f44d7b03e49b9dddc3615c4d061b6c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/kubernetes-agent/src/operations/create_node.py
+SPDXID: SPDXRef-item7783347
+FileChecksum: SHA1: 27c3046e10a2a799581818fc09cd796c9f95f1ae
+FileChecksum: MD5: be22f1b7e8c84a279038c979f2f9a199
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/bootup/docker-compose-files/docker-compose-dev.yml
+SPDXID: SPDXRef-item7783291
+FileChecksum: SHA1: f0bd184336b3fabd9daed4476158e658e57a19fe
+FileChecksum: MD5: 69c65a3cd2c7bdaaa4ac30a5995330d3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp., All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/src/agent/kubernetes-agent/src/utils/client.py
+SPDXID: SPDXRef-item7783353
+FileChecksum: SHA1: ab9f283f788f75f2d861e0ead93a5b5334cae459
+FileChecksum: MD5: e7ef8349fd5cf82e1369c894ec8593c8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/bootup/docker-compose-files/docker-compose.yml
+SPDXID: SPDXRef-item7783292
+FileChecksum: SHA1: b6772b6cc497a5882bd24cfe63cd51f9e7f8dba2
+FileChecksum: MD5: dfed42468a59b8aab7ad58cb7f3c368a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp., All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/scripts/master_node/download_images.sh
+SPDXID: SPDXRef-item7783943
+FileChecksum: SHA1: ebd2b026e8d2def58415c950f719651ac4556b72
+FileChecksum: MD5: 66341ab52c72ca9e98cf87ccc0876b04
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp., All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/CODEOWNERS
+SPDXID: SPDXRef-item7783924
+FileChecksum: SHA1: b55b0be437d133776cb88aaaab18f987f4ad5419
+FileChecksum: MD5: 75e3a5b3595e3a2a1c628b5516b2dc20
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/.github/stale.yml
+SPDXID: SPDXRef-item7784043
+FileChecksum: SHA1: 79d52c76a406cdb25a549917817913b06f1c1f4d
+FileChecksum: MD5: 7b8267a518ceeb6b96a18e7d4a0e5660
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/Makefile
+SPDXID: SPDXRef-item7783286
+FileChecksum: SHA1: fd7dafc1569c9eeb43c3c390ec5d293fb83e9e83
+FileChecksum: MD5: 6f829d1e5fd9a9d87bfae5d0983a826e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp, All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/src/dashboard/Makefile
+SPDXID: SPDXRef-item7783606
+FileChecksum: SHA1: ed3600cc4dd47efcff9f330041a96cb57fc0056d
+FileChecksum: MD5: d0e93e0b8c3c27de786258f97db8a4ae
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp, All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/pages/Operator/Node/Node.js
+SPDXID: SPDXRef-item7783771
+FileChecksum: SHA1: 518dae8ad5d306d8e1845b2d0b19aef7db2e0a15
+FileChecksum: MD5: f5c079f848872068c3c2f05e654443d4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello-analytics/CODEOWNERS
+SPDXID: SPDXRef-item7784077
+FileChecksum: SHA1: c7cfa793b77ddd6879303d5a4c44c3f9a386c7c9
+FileChecksum: MD5: 46d5193dbfe38c814462d5b8f1f300f9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/roles/deploy_k8s/fabricsetup/templates/firstcode.go
+SPDXID: SPDXRef-item7783390
+FileChecksum: SHA1: 653006f27f4016f14e6ef78ecb76e672d14da78f
+FileChecksum: MD5: 346a66ff373f9fc1a4610d7caba2044d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. 2016 All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: cello/LICENSE
+SPDXID: SPDXRef-item7783841
+FileChecksum: SHA1: 669a1e53b9dd9df3474300d3d959bb85bad75945
+FileChecksum: MD5: fa818a259cbed7ce8bc2a22d35a464fc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello-analytics/LICENSE
+SPDXID: SPDXRef-item7784069
+FileChecksum: SHA1: 669a1e53b9dd9df3474300d3d959bb85bad75945
+FileChecksum: MD5: fa818a259cbed7ce8bc2a22d35a464fc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/pkg/apis/fabric/utils.go
+SPDXID: SPDXRef-item7783473
+FileChecksum: SHA1: 60372c553c19411ae6d82f0e85a79c2809144432
+FileChecksum: MD5: 2273db0dd59c5d5b161d795d0224bca7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 IBM Corp. </text>
+ 
+
+##File
+
+FileName: cello/build_image/dockerhub/v0.9.0/user-dashboard/package.json
+SPDXID: SPDXRef-item7783907
+FileChecksum: SHA1: dbd3aa70432831d398a42b7b874ac100ef227d53
+FileChecksum: MD5: efa0af187088d81ff349b9d47ee49bde
+LicenseConcluded: ISC AND LicenseRef-Meta-Wrong-License-Statement
+LicenseInfoInFile: ISC
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/docs/agents/ansible.md
+SPDXID: SPDXRef-item7783982
+FileChecksum: SHA1: 799bbf85831d0cc816e31541c88cdb03ed8fea24
+FileChecksum: MD5: 5ecf40df8d69527dd0bdf71f5c8eb5ae
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/scripts/README.md
+SPDXID: SPDXRef-item7783938
+FileChecksum: SHA1: a991d0f10e2ac616fa05631ce853ff5c1d04c688
+FileChecksum: MD5: bbec497dee3728555f0c95f1d0f33903
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello-analytics/elk/logspout.md
+SPDXID: SPDXRef-item7784066
+FileChecksum: SHA1: 53f7ae24c43cab6dace090b49bfdba20c3417bb6
+FileChecksum: MD5: 53150da8a6499a0ee99717f2ba1cb5ce
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello-analytics/elk/README.md
+SPDXID: SPDXRef-item7784060
+FileChecksum: SHA1: 58e3647ff1d3415076fe3510004a7d16f7b5624d
+FileChecksum: MD5: 1043904c53fa1a97960f7efc864279c4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/build_image/dockerhub/v0.9.0-beta/user-dashboard/package.json
+SPDXID: SPDXRef-item7783893
+FileChecksum: SHA1: 54b23b92fd253d7d4a58e3f061d0c3c0bb0e9256
+FileChecksum: MD5: ee83cfdfce79b23329f6efe12f3e64e5
+LicenseConcluded: ISC AND LicenseRef-Meta-Wrong-License-Statement
+LicenseInfoInFile: ISC
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/docs/agents/fabric-operator.md
+SPDXID: SPDXRef-item7783981
+FileChecksum: SHA1: bc63fd28dc99acb879a6fe15101ce23ceba6c124
+FileChecksum: MD5: 7d346f23bdc3c9e592b4abc0f0f78d38
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/bootup/kubernetes/Makefile
+SPDXID: SPDXRef-item7783294
+FileChecksum: SHA1: 264209eb90d0ec5efa29038be71b5e07a67066d1
+FileChecksum: MD5: c1ff651a6a90e99d2506bc47862d69bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/bootup/kubernetes/templates/api-engine-tasks/deploy.tmpl
+SPDXID: SPDXRef-item7783297
+FileChecksum: SHA1: caa128148387996dc4cfa5eedb722cf21aa5113a
+FileChecksum: MD5: 16bade50083432537eb27ce2acfbed65
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/bootup/kubernetes/templates/redis/service.tmpl
+SPDXID: SPDXRef-item7783299
+FileChecksum: SHA1: fec2514d3b4531092c745bcb7285b148944451fa
+FileChecksum: MD5: 15b3ccc10abb0da8b521196f1f32d8a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/bootup/kubernetes/templates/redis/deploy.tmpl
+SPDXID: SPDXRef-item7783300
+FileChecksum: SHA1: 0009d33e00f972a00a45ebdd287c8647455c7dca
+FileChecksum: MD5: 270ee4c51bcbbee290c4d8c0bb00347b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/bootup/kubernetes/templates/api-engine/service.tmpl
+SPDXID: SPDXRef-item7783302
+FileChecksum: SHA1: 86a1f2cbdc9c88fda79dc3f7f71cf7342c60edbb
+FileChecksum: MD5: a92464a3b08a754d643206d5db1385cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/bootup/kubernetes/templates/api-engine/deploy-dev.tmpl
+SPDXID: SPDXRef-item7783303
+FileChecksum: SHA1: 2a04f3eb236c96d0d2ebc684052975e3cfaaca67
+FileChecksum: MD5: 91c060f915e3e3dd8cc015e8e78d5548
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/bootup/kubernetes/templates/api-engine/deploy.tmpl
+SPDXID: SPDXRef-item7783304
+FileChecksum: SHA1: ea527ebb64961d02c04a31ed12be1aaaf5960ab5
+FileChecksum: MD5: 282ac592c57819b9238c244248d8cde8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/bootup/kubernetes/templates/api-engine/config.tmpl
+SPDXID: SPDXRef-item7783305
+FileChecksum: SHA1: c41281d5ee41e4a8944d431fa9c7a6b1c1c3c578
+FileChecksum: MD5: a65e63b501dd5ddb6c3dfb9df962221f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/bootup/kubernetes/templates/api-engine/ingress.tmpl
+SPDXID: SPDXRef-item7783306
+FileChecksum: SHA1: 2be6c0454fb9e063d07106d207d22c3770a3917b
+FileChecksum: MD5: 5c5b1a10d8f08bf4447adcaaf1af77fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/bootup/kubernetes/templates/postgres/service.tmpl
+SPDXID: SPDXRef-item7783308
+FileChecksum: SHA1: 3a436111680e0191067b0c1b2369fd9e4c05792b
+FileChecksum: MD5: a3fcf77e5c52f55970a830163ea5da6a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/bootup/kubernetes/templates/postgres/deploy.tmpl
+SPDXID: SPDXRef-item7783309
+FileChecksum: SHA1: f4b48a266be814e995d9428e6f29b534d9d38999
+FileChecksum: MD5: 874f7e129f2e6480f13ed71e320329b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/bootup/kubernetes/templates/postgres/config.tmpl
+SPDXID: SPDXRef-item7783310
+FileChecksum: SHA1: 7ac47ef2d7f9dc1a98af598dd65dbbde228a64cc
+FileChecksum: MD5: 8f712277431519a1c04090321259d92b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/bootup/kubernetes/templates/nginx/service.tmpl
+SPDXID: SPDXRef-item7783312
+FileChecksum: SHA1: b2231bac41abdb6e6a7156f1651de7aabcfdf3f6
+FileChecksum: MD5: b90a58c49c88cc3ccbbf2bc1ac27cd37
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/bootup/kubernetes/templates/nginx/deploy.tmpl
+SPDXID: SPDXRef-item7783313
+FileChecksum: SHA1: b97c6af9853e010e9d69a19fbf584eee22ea447c
+FileChecksum: MD5: bc4959aadb32171f8cb4882159244970
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/bootup/kubernetes/templates/nginx/config.tmpl
+SPDXID: SPDXRef-item7783314
+FileChecksum: SHA1: 353b5a43d8cb834c4a9758836624be102b420792
+FileChecksum: MD5: 363e7af6bf01cc05c099541ca2a1f698
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/bootup/kubernetes/templates/nginx/ingress.tmpl
+SPDXID: SPDXRef-item7783315
+FileChecksum: SHA1: 78445828a1f735c03e78500e314ef32ba14440b6
+FileChecksum: MD5: 8b9f514179818fa581e1e6de4f220707
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/mkdocs.yml
+SPDXID: SPDXRef-item7783316
+FileChecksum: SHA1: ebdae7e658b94d6cda80f1712e817ba046524177
+FileChecksum: MD5: b4a296b835e23a1625003e58a63c2ef5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/.pre-commit-config.yaml
+SPDXID: SPDXRef-item7783340
+FileChecksum: SHA1: 71b85128340c24e47260e1af0d1b81466af433ba
+FileChecksum: MD5: 8b90a2e8bb26c095c0eb904ef9c076b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/kubernetes-agent/src/operations/fabric_ca_register.sh
+SPDXID: SPDXRef-item7783348
+FileChecksum: SHA1: 637c70d4fe0e6e2497e005e37eaa48e9b9ecd974
+FileChecksum: MD5: e342685663816430ad15eb50a7d2f1cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/kubernetes-agent/src/network/fabric/peer_initial_ca.sh
+SPDXID: SPDXRef-item7783362
+FileChecksum: SHA1: 8aa593d831b59e1dfb22ccab6146f9c68fe8c1cb
+FileChecksum: MD5: e6d448ded1af5f41240c6cf0490b8c78
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/kubernetes-agent/requirements.txt
+SPDXID: SPDXRef-item7783363
+FileChecksum: SHA1: 5ec807c44ba421f86f5ac252990a2c4c38c16354
+FileChecksum: MD5: 625c7df3e6e8b787942fc906266924ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/kubernetes-agent/Dockerfile
+SPDXID: SPDXRef-item7783364
+FileChecksum: SHA1: 52b47b69d3c062a207ad0ee00d26029d4f25a9ed
+FileChecksum: MD5: 2dc2c1e1f74f120587b902437a64ff73
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/hosts
+SPDXID: SPDXRef-item7783366
+FileChecksum: SHA1: 37474864cce0bbfa94866634732e1b0853c8fbe6
+FileChecksum: MD5: 05ea46a24254d6f0ac9f04d015dc6698
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/ansible.cfg
+SPDXID: SPDXRef-item7783367
+FileChecksum: SHA1: c46946476b239591967eae9d0f8f7e8f5e28210f
+FileChecksum: MD5: 45c50e39aedaa828e4a5c0b59c12ed06
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/roles/deploy_k8s/priconn/templates/metriccfg.j2
+SPDXID: SPDXRef-item7783372
+FileChecksum: SHA1: 9b9a31a4147d07fcca539d0d8cbdceef9dbaef6d
+FileChecksum: MD5: c487edad42d47980d8eea7756f724a52
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/roles/deploy_k8s/priconn/templates/connyaml.j2
+SPDXID: SPDXRef-item7783373
+FileChecksum: SHA1: a25f25f009450f3c2d1fd87a803b0ef54ccee117
+FileChecksum: MD5: e2c6fe8798e1cec89c82731cc75e4572
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/roles/deploy_k8s/priconn/templates/connection.j2
+SPDXID: SPDXRef-item7783374
+FileChecksum: SHA1: 91a385b71e3c6a66e60a5994074ae00a4711010b
+FileChecksum: MD5: cb281e209cca941f5903488e28a96798
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/roles/deploy_k8s/priconn/tasks/apply.yml
+SPDXID: SPDXRef-item7783376
+FileChecksum: SHA1: f47332750958e5a5843c870088c0d1f98535e864
+FileChecksum: MD5: e4aa4c75d17ca97ed8441edd45da950b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/roles/deploy_k8s/priconn/tasks/destroy.yml
+SPDXID: SPDXRef-item7783377
+FileChecksum: SHA1: 29e0c3615294958e3ca433eeab7a7199be318946
+FileChecksum: MD5: 6105347ebb9825ac754615ca55ff3b0c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/roles/deploy_k8s/README.md
+SPDXID: SPDXRef-item7783378
+FileChecksum: SHA1: 810fa72a92a6c0374825c8da741e25c490fe5888
+FileChecksum: MD5: 434fbdb52f90bb0ecfa5742b20c0a094
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/roles/deploy_k8s/pubconn/templates/metriccfg.j2
+SPDXID: SPDXRef-item7783381
+FileChecksum: SHA1: c894c7ee44a9fa492f364e51118451f2b1637eef
+FileChecksum: MD5: abbe2d2f2e1b8f989152cbc1143d2def
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/roles/deploy_k8s/pubconn/templates/ordererendpoints.j2
+SPDXID: SPDXRef-item7783382
+FileChecksum: SHA1: a3261a0de2a59c4088af99ac9e83dc9c35b32020
+FileChecksum: MD5: 56fff85959cce0b0d7f36dd9c856bf9d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/roles/deploy_k8s/pubconn/templates/connyaml.j2
+SPDXID: SPDXRef-item7783383
+FileChecksum: SHA1: 33a485ad593fbf8d123e1999987af585573d6c64
+FileChecksum: MD5: d5a767083460bac0d9a4c80f11152646
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/roles/deploy_k8s/pubconn/templates/connection.j2
+SPDXID: SPDXRef-item7783384
+FileChecksum: SHA1: 11bfcd2f4984c15d9302d05c844177ae630d7d79
+FileChecksum: MD5: 9c660754d5aeffc7fc666e8c37c660cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/roles/deploy_k8s/pubconn/tasks/apply.yml
+SPDXID: SPDXRef-item7783386
+FileChecksum: SHA1: a5105e671c8defc8aa71b90e72f2aef750ce08aa
+FileChecksum: MD5: acf9fb8902da4c9fffaec7561c6731d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/roles/deploy_k8s/pubconn/tasks/destroy.yml
+SPDXID: SPDXRef-item7783387
+FileChecksum: SHA1: 29e0c3615294958e3ca433eeab7a7199be318946
+FileChecksum: MD5: 6105347ebb9825ac754615ca55ff3b0c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/roles/deploy_k8s/fabricsetup/templates/cli-k8s.j2
+SPDXID: SPDXRef-item7783391
+FileChecksum: SHA1: 6053a4eea1fde119e4cf5d0b11e2ff08737184fe
+FileChecksum: MD5: ec72846c9181e15c07f7945aa84d9fe7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/roles/deploy_k8s/fabricsetup/templates/certssetup.j2
+SPDXID: SPDXRef-item7783392
+FileChecksum: SHA1: 6a879a4668698171b67ac9062bb9387bf294bc13
+FileChecksum: MD5: 45bfc07c69c3c7a4220b201dd8e8e4b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/roles/deploy_k8s/fabricsetup/templates/dochannel.j2
+SPDXID: SPDXRef-item7783393
+FileChecksum: SHA1: b5d1a88d64eeed0493145543402de6c3ca346485
+FileChecksum: MD5: 98a7c3b03f702b19aa32336e056fd5ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/roles/deploy_k8s/fabricsetup/templates/bndsamplerconfig.j2
+SPDXID: SPDXRef-item7783394
+FileChecksum: SHA1: b13e2b444be45a9b16a78c59cb45a7c8848d40b6
+FileChecksum: MD5: 8c5c70d6ce78cbd8802e5b1259816ef6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/roles/deploy_k8s/fabricsetup/templates/fabric-services.j2
+SPDXID: SPDXRef-item7783395
+FileChecksum: SHA1: 6a2692b3f072018e3d7cc4d01dbd54459bbca663
+FileChecksum: MD5: 63057ff4d58f547294caabf9b3d09b81
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/roles/deploy_k8s/fabricsetup/templates/secrets.j2
+SPDXID: SPDXRef-item7783396
+FileChecksum: SHA1: 2983f1cb06f3db4c4dc45da524f42fdaaf49268d
+FileChecksum: MD5: 0ef5acf744ad41d71aafe3209525a69d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/roles/deploy_k8s/fabricsetup/templates/namespace.j2
+SPDXID: SPDXRef-item7783397
+FileChecksum: SHA1: 00b2993f25e04a56db91a55f0f469ccd8f116706
+FileChecksum: MD5: 2a558abed72bed2dbe51370679297f90
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/roles/deploy_k8s/fabricsetup/templates/pvc.j2
+SPDXID: SPDXRef-item7783398
+FileChecksum: SHA1: 94b234235d6f82e2dc72b6bb9542e4b09b4a2652
+FileChecksum: MD5: 2bf23604069a94eb94a1d3b1cc1009a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/roles/deploy_k8s/fabricsetup/templates/fabric-pod.j2
+SPDXID: SPDXRef-item7783399
+FileChecksum: SHA1: 16823a556496b48577453f1cbe5051834fc6fc3f
+FileChecksum: MD5: 4794ee7df90e98f9090319324dd2bc94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/roles/deploy_k8s/fabricsetup/tasks/apply.yml
+SPDXID: SPDXRef-item7783401
+FileChecksum: SHA1: 63a5a56abe54d9f1def9dcb1900c3d20bf636fac
+FileChecksum: MD5: b4afb7d02ccf887928ecb4c80929a41a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/roles/deploy_k8s/fabricsetup/tasks/destroy.yml
+SPDXID: SPDXRef-item7783402
+FileChecksum: SHA1: 95f3607f97fb36b9ae2a00359df953f543b6dd60
+FileChecksum: MD5: 0e08df7085ab6b130aeff3563c7cb6c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/roles/deploy_k8s/getbin/tasks/apply.yml
+SPDXID: SPDXRef-item7783405
+FileChecksum: SHA1: c3cde3f7dd95f9a32f91f12aad71eeeab3e85b73
+FileChecksum: MD5: df38c3a87010b0a7e41eedfb980f9c10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/roles/deploy_k8s/getbin/tasks/destroy.yml
+SPDXID: SPDXRef-item7783406
+FileChecksum: SHA1: 29e0c3615294958e3ca433eeab7a7199be318946
+FileChecksum: MD5: 6105347ebb9825ac754615ca55ff3b0c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/roles/deploy_k8s/certsetup/templates/fabric-ca-server-config.j2
+SPDXID: SPDXRef-item7783409
+FileChecksum: SHA1: dc4cc6ac36c46ee177c402c72196308270e8ecff
+FileChecksum: MD5: 0fb52f5a6f2c48903da91ddadbf5248e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/roles/deploy_k8s/certsetup/templates/configtx.j2
+SPDXID: SPDXRef-item7783410
+FileChecksum: SHA1: dffc785f43c9ed792eea23bc9f4f1e66530de48f
+FileChecksum: MD5: ecb4c9a013deb17cf427523ecd8f86b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/roles/deploy_k8s/certsetup/templates/crypto-config.j2
+SPDXID: SPDXRef-item7783411
+FileChecksum: SHA1: da772ae5c85319863d9d8d8b0e5367b5bbbf352e
+FileChecksum: MD5: 5d00f43b670909d2061d443a85b68250
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/roles/deploy_k8s/certsetup/templates/core.j2
+SPDXID: SPDXRef-item7783412
+FileChecksum: SHA1: 4cfbf048ab3a24d55decf77a86bf09a694106b43
+FileChecksum: MD5: 885aa33588ba4178e894ca1c8340a342
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/roles/deploy_k8s/certsetup/templates/policy.j2
+SPDXID: SPDXRef-item7783413
+FileChecksum: SHA1: 4effbece7e6e613001feeb5a79f1d8e5d381dfba
+FileChecksum: MD5: a1c81154773a86f1fcb1b5bbd0e66b36
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/roles/deploy_k8s/certsetup/tasks/apply.yml
+SPDXID: SPDXRef-item7783415
+FileChecksum: SHA1: 5276039299e7f72f7f72e846bee97712b72a1f85
+FileChecksum: MD5: 6ad14cd4175674dbb8ea3cc96dc6c4d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/roles/deploy_k8s/certsetup/tasks/destroy.yml
+SPDXID: SPDXRef-item7783416
+FileChecksum: SHA1: 29e0c3615294958e3ca433eeab7a7199be318946
+FileChecksum: MD5: 6105347ebb9825ac754615ca55ff3b0c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/roles/deploy_k8s/plays.yml
+SPDXID: SPDXRef-item7783417
+FileChecksum: SHA1: 86a7bd6b482b71565577079000186dd7571d57f5
+FileChecksum: MD5: 9a1752ed47aec7576258ebd1f7718d1a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/roles/common/config_apply.yml
+SPDXID: SPDXRef-item7783419
+FileChecksum: SHA1: ceabdec6c92dd7f59496e2d055086e55a8bcd5f1
+FileChecksum: MD5: 317a7481b4f631ec962b58b0aa6e03a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/roles/common/publicports.yml
+SPDXID: SPDXRef-item7783420
+FileChecksum: SHA1: ffae17d1c725717210303d8646f49bd7b6b69374
+FileChecksum: MD5: a3c7328fde87062f2c437f723f45dbe7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/roles/common/config_destroy.yml
+SPDXID: SPDXRef-item7783421
+FileChecksum: SHA1: 71cd3fe335811989101e4c804a2cd3cb640c2ed6
+FileChecksum: MD5: c686e946c2ee7427dc5eb8cb8dea71ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/setupfabric.yml
+SPDXID: SPDXRef-item7783422
+FileChecksum: SHA1: 6f5f75fee019b0607dd2393d3483d65bbe821284
+FileChecksum: MD5: 0f2d1c61ca16587b5ecbda90dd77b8e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/.gitignore
+SPDXID: SPDXRef-item7783423
+FileChecksum: SHA1: 5cb7c28ece8ed0c1a05fd6dc185b06039e4e7759
+FileChecksum: MD5: 94e41dc2ba091b62d0fd0b8c03c7f89d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/group_vars/all.yml
+SPDXID: SPDXRef-item7783425
+FileChecksum: SHA1: b715f7cd07365aa42937977e29b4d662b08e2d54
+FileChecksum: MD5: 22a0c2ab82da73910d09b3c2b52ec152
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/vars/ordereronly.yml
+SPDXID: SPDXRef-item7783427
+FileChecksum: SHA1: 726c4d119b134c4a7501624d070442a2770add53
+FileChecksum: MD5: 887cb55cb992867d98bbfc1ebc40e5a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/vars/bc1st.yml
+SPDXID: SPDXRef-item7783428
+FileChecksum: SHA1: 0b72f40f3fd70fc7cbe60248be242bfeb6410942
+FileChecksum: MD5: b879357d326747330489dbe67017686c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/vars/resource.yml
+SPDXID: SPDXRef-item7783429
+FileChecksum: SHA1: e7f079eeae03ab56508f7c299e85903135bac1e3
+FileChecksum: MD5: 22c9b606a7926d01b4b2ddc3f2c3d0fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/vars/vb1st.yml
+SPDXID: SPDXRef-item7783430
+FileChecksum: SHA1: 4fd83cee69b435a8e01b9cd838d2387263eec90a
+FileChecksum: MD5: 704952c6feabb54fe803a2a05f823e60
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/vars/bc2nd.yml
+SPDXID: SPDXRef-item7783431
+FileChecksum: SHA1: ea1116c9902a94b0f18b1eb0628a8a0cd9d0a0e3
+FileChecksum: MD5: 76acfe6688b28c22b25499234ba7c49a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/ansible/vars/peeronly.yml
+SPDXID: SPDXRef-item7783432
+FileChecksum: SHA1: 00c7b8efe5f213959cf2e4082035a9f70ae62198
+FileChecksum: MD5: 8ca9dd41fb2cbc92e9b25a9f277569d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/version/version.go
+SPDXID: SPDXRef-item7783435
+FileChecksum: SHA1: 2b15e7b2a1fa3ba05269590b3cb857bc20a4d9c8
+FileChecksum: MD5: 7d0fb2802543ac3cfc3475ac92da82a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/cmd/manager/main.go
+SPDXID: SPDXRef-item7783439
+FileChecksum: SHA1: ed09e39942262ff0d7887ca62aad5d4d961d5b55
+FileChecksum: MD5: eebbaf63cec9be4f4b4ad03b605fde4e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/agent/samples/peer_config.json
+SPDXID: SPDXRef-item7783442
+FileChecksum: SHA1: 9503841156114bc27c6a384f8a2a7bf6e25a5aa2
+FileChecksum: MD5: 6ab7b31d0ca1a45e17e4be6906eb7042
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/agent/delete.sh
+SPDXID: SPDXRef-item7783443
+FileChecksum: SHA1: 5d6649466e2dd5cc245b1d574fe0597fa85cf92a
+FileChecksum: MD5: b583c0d0c8f61cc5ee9e0c6f5987bfad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/agent/download_files.sh
+SPDXID: SPDXRef-item7783444
+FileChecksum: SHA1: 6a005b9600cd4a150e07c07464abb2215d80df2d
+FileChecksum: MD5: d06f9754a8d28bdbec0f6adc0f06d964
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/agent/agent_operation.sh
+SPDXID: SPDXRef-item7783445
+FileChecksum: SHA1: caab49c2d456910c566ee044f2c78935d48933aa
+FileChecksum: MD5: 5df65ceeb17136c577cb8ee42b67033a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/agent/create.sh
+SPDXID: SPDXRef-item7783446
+FileChecksum: SHA1: b7bd9c3937761862cafaf051a46347eabeebf5d9
+FileChecksum: MD5: 843435312212df3badf1c1d7bc28aba4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/agent/Dockerfile
+SPDXID: SPDXRef-item7783447
+FileChecksum: SHA1: af218600633766ad228409630e534d6ee54f5b53
+FileChecksum: MD5: a00cbcb372e092f33d48c918a4f50623
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/pkg/controller/controller.go
+SPDXID: SPDXRef-item7783450
+FileChecksum: SHA1: 5b6b1502a1d78d28c464dd1ec0442e560f1b4c1f
+FileChecksum: MD5: dfbf8beaa0080a52fd0c911ab179af55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/pkg/controller/ca/ca_controller.go
+SPDXID: SPDXRef-item7783452
+FileChecksum: SHA1: 6f225f2f5606f872eca91394fa8cc861eef5a27c
+FileChecksum: MD5: a8caeb6d9e06ad473603587b169c15ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/pkg/controller/add_orderer.go
+SPDXID: SPDXRef-item7783453
+FileChecksum: SHA1: 33ee60326c800390e451a6f1c8b1416443aca902
+FileChecksum: MD5: 24141820e1c8e23fe822d84b0f14cf14
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/pkg/controller/orderer/orderer_controller.go
+SPDXID: SPDXRef-item7783455
+FileChecksum: SHA1: e7e59dbcbd21c8de843c5b207723e1154f568cbf
+FileChecksum: MD5: 1d5a0b10d88ad34e84a13c2dbe83d46a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/pkg/controller/add_ca.go
+SPDXID: SPDXRef-item7783456
+FileChecksum: SHA1: a623c9124f4ad39e675a2664eca0113fb5bbe1b8
+FileChecksum: MD5: 89d17a8a62ba7a36c19cc88bad5568f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/pkg/controller/peer/peer_controller.go
+SPDXID: SPDXRef-item7783458
+FileChecksum: SHA1: f0979a88c20990732f6ea59da628253f4d59800f
+FileChecksum: MD5: a5ec1589a5c38c3725caebc60216b709
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/pkg/controller/add_peer.go
+SPDXID: SPDXRef-item7783459
+FileChecksum: SHA1: 95a76d28403fe61b4c061d6283436d60140ab4ce
+FileChecksum: MD5: afbc688f724620373f446615ee0dea9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/pkg/apis/addtoscheme_fabric_v1alpha1.go
+SPDXID: SPDXRef-item7783461
+FileChecksum: SHA1: a51a1bfbf7c04b148aa411fb9e0061ba795537ae
+FileChecksum: MD5: 66dbd90a0c1ffb5a0200f8057d166c59
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/pkg/apis/fabric/group.go
+SPDXID: SPDXRef-item7783463
+FileChecksum: SHA1: 9c323fb340e419a8be580c747c5908846462d2f1
+FileChecksum: MD5: c203ba45bddec0137160a6c01328da57
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/pkg/apis/fabric/v1alpha1/peer_types.go
+SPDXID: SPDXRef-item7783465
+FileChecksum: SHA1: 636f9852bec2f82d40f00e981ffe1b16e307ce2d
+FileChecksum: MD5: acbea70d22c816f503c1ea440efc683c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/pkg/apis/fabric/v1alpha1/zz_generated.deepcopy.go
+SPDXID: SPDXRef-item7783466
+FileChecksum: SHA1: 109bd831c46ee9b53d18e1395d2fb69e25728350
+FileChecksum: MD5: 5fcd1dac58efec61479d787529a3e2fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/pkg/apis/fabric/v1alpha1/orderer_types.go
+SPDXID: SPDXRef-item7783467
+FileChecksum: SHA1: 93865bdb5502af4f5aa2098e4cbec4193226f7fb
+FileChecksum: MD5: ebb1df45425e543520fb73c1399cf0ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/pkg/apis/fabric/v1alpha1/zz_generated.openapi.go
+SPDXID: SPDXRef-item7783468
+FileChecksum: SHA1: 97b3d004dcd048c1406b5d603523928a3dc34d6f
+FileChecksum: MD5: 08d6c9797fdd7f0fc28a7093eaf57727
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/pkg/apis/fabric/v1alpha1/ca_types.go
+SPDXID: SPDXRef-item7783469
+FileChecksum: SHA1: ed6fec293bd12d4610b136f851b2d03d75a1e801
+FileChecksum: MD5: f4d225e123060b96899518e496f61e07
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/pkg/apis/fabric/v1alpha1/doc.go
+SPDXID: SPDXRef-item7783470
+FileChecksum: SHA1: c87135e63261bf7e02d5380d4e76fddf8ceda28a
+FileChecksum: MD5: 2eccda37b48e56aa14ff1b8c407ad975
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/pkg/apis/fabric/v1alpha1/helper.go
+SPDXID: SPDXRef-item7783471
+FileChecksum: SHA1: 31502647726eebae076399f9f48e5be8ddc7d637
+FileChecksum: MD5: 88523aa4c78897efbfa9a5b488553449
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/pkg/apis/fabric/v1alpha1/register.go
+SPDXID: SPDXRef-item7783472
+FileChecksum: SHA1: fca5e084b62e1193e979a1eacb82087e64169906
+FileChecksum: MD5: 9423fd131e6f8c9f06f29f4674305918
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/pkg/apis/apis.go
+SPDXID: SPDXRef-item7783474
+FileChecksum: SHA1: 33398ced577cfdc1d082b6b4800789595818b6da
+FileChecksum: MD5: a4b17ecca15be17134212742f3c115a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/go.sum
+SPDXID: SPDXRef-item7783475
+FileChecksum: SHA1: c0a8a4dd967e6f5fcabec4a3daa1409046b3bfbc
+FileChecksum: MD5: e83e4fb010eeaa97a15aaafb4b6ca73c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/build/bin/entrypoint
+SPDXID: SPDXRef-item7783478
+FileChecksum: SHA1: b2f871403c63bb56ab907c49fe0964b98d973cbc
+FileChecksum: MD5: 23ce7c8ba020486c43c7b8c5ceef7cfd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/build/bin/templates/ca/ca_statefulset.yaml
+SPDXID: SPDXRef-item7783481
+FileChecksum: SHA1: 3e974f6850bdf9b911fde97ace991cd19ef6541c
+FileChecksum: MD5: 206c9c5c0e3ec993fe135957293e6d67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/build/bin/templates/ca/ca_secret.yaml
+SPDXID: SPDXRef-item7783482
+FileChecksum: SHA1: 6783dbbc359dc19621a1b50fab1f17cd700cafd0
+FileChecksum: MD5: af306b6599674e7c8c46a202030780b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/build/bin/templates/ca/ca_service.yaml
+SPDXID: SPDXRef-item7783483
+FileChecksum: SHA1: 3d38059d84637edd8446f09bc9e97d7864eeeb11
+FileChecksum: MD5: 16dd82e349c99d868aa41bd97cd95200
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/build/bin/templates/orderer/orderer_service.yaml
+SPDXID: SPDXRef-item7783485
+FileChecksum: SHA1: 41abcd10eba34136d1859a1abc97916152ecc065
+FileChecksum: MD5: 6b6b92149eaab369c69d791533113fc9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/build/bin/templates/orderer/orderer_secret.yaml
+SPDXID: SPDXRef-item7783486
+FileChecksum: SHA1: 6b93d2610b9263e905caf3d6adc1b52f9f5dd346
+FileChecksum: MD5: 3c077d56cf0994e079737c2f4fd94e03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/build/bin/templates/orderer/orderer_statefulset.yaml
+SPDXID: SPDXRef-item7783487
+FileChecksum: SHA1: 53163d69737b22323f0592c00d0b2cb779c90988
+FileChecksum: MD5: 65132aa49d2d28bcc9098d69246e7b0e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/build/bin/templates/peer/peer_service.yaml
+SPDXID: SPDXRef-item7783489
+FileChecksum: SHA1: a3f77e124cdb34396a9a82aef2864e5cd320f1ae
+FileChecksum: MD5: 68e61390f78de0f6421d3c8f0fa8b195
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/build/bin/templates/peer/peer_statefulset.yaml
+SPDXID: SPDXRef-item7783490
+FileChecksum: SHA1: 39c3ce7621a9c7d9078e5067259687b06c77db36
+FileChecksum: MD5: 3bf96b70447e47d494ba119e67293da7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/build/bin/templates/peer/peer_secret.yaml
+SPDXID: SPDXRef-item7783491
+FileChecksum: SHA1: f14996231844a5c35e42c585a1bbac1adc3eb4db
+FileChecksum: MD5: 63146a1cb4bb0f989b0fdc6e8d37bbea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/build/bin/scripts/ca_config.sh
+SPDXID: SPDXRef-item7783493
+FileChecksum: SHA1: 89d2b043e2ac933a53be870363fb345916e4f733
+FileChecksum: MD5: b397a31753a47ec2f6adcf190844ddf9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/build/bin/scripts/orderer_config.sh
+SPDXID: SPDXRef-item7783494
+FileChecksum: SHA1: 1e44e8b9287cc8e0716849af54b651648fc36d10
+FileChecksum: MD5: 3f97977a6535edfd54d2f8fbe3467187
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/build/bin/scripts/ca_config.yaml
+SPDXID: SPDXRef-item7783495
+FileChecksum: SHA1: ddf16cd5a9b0c5ea2e0ba09297968e3b32835b61
+FileChecksum: MD5: 977c38e609db3778f6e27f42a0691b44
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/build/bin/scripts/peer_config.sh
+SPDXID: SPDXRef-item7783497
+FileChecksum: SHA1: cbdb53b1b0c969d9aa2208b0da66c9728e4dd205
+FileChecksum: MD5: 60afd8b997b2cf58e32871759993ae0a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/build/bin/user_setup
+SPDXID: SPDXRef-item7783498
+FileChecksum: SHA1: 1a460f9e31209a75c9fb8b6c224b86ab101e20dc
+FileChecksum: MD5: 11969e107d63dc64398681a4c1aeadbc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/build/Dockerfile
+SPDXID: SPDXRef-item7783499
+FileChecksum: SHA1: 91e468b237fbe0c0296ea61aabc16bb9e93d9364
+FileChecksum: MD5: 4fac6a402331818cff2f461f26b9cc6a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/.gitignore
+SPDXID: SPDXRef-item7783500
+FileChecksum: SHA1: 06820a6ff62031d8abb45e7f88d6c1bff1ee6abd
+FileChecksum: MD5: 22502bb8bbd24f31e431cd73096c7c08
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/go.mod
+SPDXID: SPDXRef-item7783501
+FileChecksum: SHA1: c98e1cbdaadbefaae399ee61dde03d932825d8dc
+FileChecksum: MD5: 55e9f18dfca4fdb5dac1dbd0881dd810
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/deploy/fabric-operator.yaml
+SPDXID: SPDXRef-item7783503
+FileChecksum: SHA1: 2d10c308042395d2e9703cdeab254914c155a5eb
+FileChecksum: MD5: 5ef43c3acff8443f0eb82996e3262cff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/deploy/crds/fabric_v1alpha1_peer_cr.yaml
+SPDXID: SPDXRef-item7783505
+FileChecksum: SHA1: fb14cb1741a9f0a497e4fac3400dc34cd59c256b
+FileChecksum: MD5: 54c120f5dc684a1dcf5b4951809b3259
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/deploy/crds/fabric_v1alpha1_orderer_cr.yaml
+SPDXID: SPDXRef-item7783506
+FileChecksum: SHA1: 743cf375613e5b49babe8aef4d408dee386e46e8
+FileChecksum: MD5: 54acccfa12eb5b63dd62814d9b20e29e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/deploy/crds/fabric_v1alpha1_ca_cr.yaml
+SPDXID: SPDXRef-item7783507
+FileChecksum: SHA1: aa856de4718c7f6dede14ce6141c71ef8be6a437
+FileChecksum: MD5: 424263702c89a3c4b9835f6efc672a56
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/deploy/crds/fabric_v1alpha1_peer_crd.yaml
+SPDXID: SPDXRef-item7783508
+FileChecksum: SHA1: 8458df38097228ee713dca7db1b18682a9a68b3b
+FileChecksum: MD5: ab9746d828c693a49ed376562931c9c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/deploy/crds/fabric_v1alpha1_orderer_crd.yaml
+SPDXID: SPDXRef-item7783509
+FileChecksum: SHA1: c5148a9066db9fc6c0ad42f6fcb2bc506122e03b
+FileChecksum: MD5: 638b79721551dade53c87934d1ff0048
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/deploy/crds/fabric_v1alpha1_ca_crd.yaml
+SPDXID: SPDXRef-item7783510
+FileChecksum: SHA1: 4af683199a1ac4eda51fb94fb1db4755fcdfa1e0
+FileChecksum: MD5: b95ed4c2f60a09e2c36aa6d8cf452c60
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/deploy/operator.yaml
+SPDXID: SPDXRef-item7783511
+FileChecksum: SHA1: c98b7e8ca987d9f7b8ad9d69dee45cc3ae93c5ab
+FileChecksum: MD5: 98a0377c39398bae0e06375d99bf015b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/Dockerfile
+SPDXID: SPDXRef-item7783512
+FileChecksum: SHA1: 38925dd4425db5dfd50e1b58f0262bf6924c01f8
+FileChecksum: MD5: f5c8070a5cd163c2f523566478ddd715
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/agent/fabric-operator/tools.go
+SPDXID: SPDXRef-item7783513
+FileChecksum: SHA1: 26828cb9b1a39191260c1d02a21622de6b24b645
+FileChecksum: MD5: 835ec6b5c63d99cab69e36455a0c7b3f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/docker/scripts/change_local_settings.sh
+SPDXID: SPDXRef-item7783517
+FileChecksum: SHA1: 0293a526cfad0712c116c7bf547cb2a581cacec7
+FileChecksum: MD5: 61c18e0ecbf8f8d59ba59588cd4b4fdb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/docker/scripts/initial.sh
+SPDXID: SPDXRef-item7783518
+FileChecksum: SHA1: 08de9a348cf951c017b368942df4f0e4177e7aea
+FileChecksum: MD5: 37338791d4d5a8b04bd8a7c98f95c72c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/docker/uwsgi/server.ini
+SPDXID: SPDXRef-item7783520
+FileChecksum: SHA1: 4fbc02f728561073461d62e6412799f326fbdd3b
+FileChecksum: MD5: 7f6c6c7fc6c5364afd525f1c0860fb2b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api_engine/celery.py
+SPDXID: SPDXRef-item7783524
+FileChecksum: SHA1: 4c26120443e5eb6356c1e4636ac98012628b83bd
+FileChecksum: MD5: f123514c2492ad7719b58b41d53ea3b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api_engine/settings.py.example
+SPDXID: SPDXRef-item7783526
+FileChecksum: SHA1: 07e91835b64339d3cc0b8760e573474058cc446b
+FileChecksum: MD5: 56cadbf1a29a21137520b454a4b2de32
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api_engine/settings.py.initial
+SPDXID: SPDXRef-item7783528
+FileChecksum: SHA1: 25b0aa79cdaf22e74f0bfacb468048d989ff4db8
+FileChecksum: MD5: 627994cd4967c74ae8f685e6c5818f08
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/requirements.txt
+SPDXID: SPDXRef-item7783530
+FileChecksum: SHA1: 2aa3c9b75612190fce27e9b07c4323e198a3f569
+FileChecksum: MD5: 94ca86c5bd82726cd176dd1b0c2985aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/utils/jwt.py
+SPDXID: SPDXRef-item7783539
+FileChecksum: SHA1: 0d07845b796ccd4fbaa9697605fd7d1764c1caf0
+FileChecksum: MD5: 4da6b837ceb1cd32147260b7bc840240
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/tasks/__init__.py
+SPDXID: SPDXRef-item7783544
+FileChecksum: SHA1: b3a2ab0d8ddf87084db9a1db40009bf7d4872e2a
+FileChecksum: MD5: cfc0b5373a19ababb97ff476d8e50fdf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/common/serializers.py
+SPDXID: SPDXRef-item7783547
+FileChecksum: SHA1: a5cb4df4e34085016e7aa9d7624653cdb77ca014
+FileChecksum: MD5: 912ea4a8fb91e2658aa9efb8fd531d9c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/auth.py
+SPDXID: SPDXRef-item7783550
+FileChecksum: SHA1: 55cf854c9d93ffa941c933029e6797eb31533d6e
+FileChecksum: MD5: c72071e3de9c6ad207227e0e6793518e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/routes/file/__init__.py
+SPDXID: SPDXRef-item7783568
+FileChecksum: SHA1: 9762053d4defb8be822cb0957983a6b8796976d6
+FileChecksum: MD5: 552dacb15f2019c8f3f74c55befa242c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/exceptions.py
+SPDXID: SPDXRef-item7783582
+FileChecksum: SHA1: b2d0332b0d32b4137da54b2389477e47b1d8d436
+FileChecksum: MD5: 3abe5183cfe9bfbb78c2f7aff0b52229
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/lib/agent/kubernetes/common.py
+SPDXID: SPDXRef-item7783596
+FileChecksum: SHA1: 4879dea6552406399e3e37da6281a62d70ff41ae
+FileChecksum: MD5: 2ea0dae3bb4dadd1a721bd12e8188545
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/management/commands/create_user.py
+SPDXID: SPDXRef-item7783601
+FileChecksum: SHA1: 403072f335361df4c201b4a5874ffcadc6d9cfbd
+FileChecksum: MD5: 4f779cccfe7e2b73ce98bccb3e419c21
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/management/commands/__init__.py
+SPDXID: SPDXRef-item7783602
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/api-engine/api/management/__init__.py
+SPDXID: SPDXRef-item7783603
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/.prettierignore
+SPDXID: SPDXRef-item7783607
+FileChecksum: SHA1: d571247238716e4857dacbe85c9318775674179f
+FileChecksum: MD5: 740856c69432e44b6cfff8701eb4354e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/models/node.js
+SPDXID: SPDXRef-item7783610
+FileChecksum: SHA1: 4d55f935227ce19e2a85bec928de64c85f3d2c1d
+FileChecksum: MD5: 1360692abc66f24bba95f05c5c78362e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/models/global.js
+SPDXID: SPDXRef-item7783611
+FileChecksum: SHA1: b96e54cda2e21f05cd81b21a6734e0d56dcee9db
+FileChecksum: MD5: 4575c41c3d91e06b3859251a4b1b937a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/models/login.js
+SPDXID: SPDXRef-item7783612
+FileChecksum: SHA1: 4f99f0b7cb32e785d06e11d12cce6dbb52ad9062
+FileChecksum: MD5: 7475e0e1e9fef67336b8f4c589840f90
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/models/setting.js
+SPDXID: SPDXRef-item7783614
+FileChecksum: SHA1: 64888207746e4b810212dcf84f790319b71c75e0
+FileChecksum: MD5: 7bb0f5e3f369ee34df6eef0bf835fa76
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/models/menu.js
+SPDXID: SPDXRef-item7783615
+FileChecksum: SHA1: 08335e8b6a0f2a6fcfb5f15420eadcb1f8ed5069
+FileChecksum: MD5: ccfeb684d0658c8f8226ebef60504069
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/global.js
+SPDXID: SPDXRef-item7783616
+FileChecksum: SHA1: 30fa7cfec4d8a7cb5efdc0526b0a8f456eafc525
+FileChecksum: MD5: e28a66588cd23ab7e15191a81401b30d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/app.js
+SPDXID: SPDXRef-item7783617
+FileChecksum: SHA1: 1913abb8bea0d41afadcd53db80a2792617247fd
+FileChecksum: MD5: 3e718908d99fe8823823e9c60f393a60
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/global.less
+SPDXID: SPDXRef-item7783618
+FileChecksum: SHA1: 1993953e4108cdf6c525ede236552d4ba51468cc
+FileChecksum: MD5: 20f17bb3734359ca7b9132795b755f0b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/layouts/UserLayout.js
+SPDXID: SPDXRef-item7783620
+FileChecksum: SHA1: 962f9e39b5aeec6a5ede2c0e3742b0a58181f950
+FileChecksum: MD5: dfe96554dc9572f480e7cc1ae4f6b22e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/layouts/BasicLayout.less
+SPDXID: SPDXRef-item7783621
+FileChecksum: SHA1: 2dccfe5d669986670237f06627bd1fdd22e5bfc0
+FileChecksum: MD5: b896cf3e9d7417c8e98bd450db007eb6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/layouts/Header.less
+SPDXID: SPDXRef-item7783622
+FileChecksum: SHA1: 74de4bae408339c93e867a57a570371132ff7f61
+FileChecksum: MD5: 4f64265c03c06a704900981f4344786c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/layouts/MenuContext.js
+SPDXID: SPDXRef-item7783623
+FileChecksum: SHA1: d9391ebf50fa922895973f1f8ecd9449600d30d3
+FileChecksum: MD5: 0e455c008739185decb29c1afeced2d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/layouts/UserLayout.less
+SPDXID: SPDXRef-item7783624
+FileChecksum: SHA1: 6c590c0d42e09c1c8a4687a7b831f69ab8c1d28e
+FileChecksum: MD5: b4b682cc301f4656f7f9017ab76fe85f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/layouts/BlankLayout.js
+SPDXID: SPDXRef-item7783625
+FileChecksum: SHA1: 3dc7f916eef0ac30d5cc74d96c95c211cd6f2eee
+FileChecksum: MD5: ece65abf090868e496bc153e155a0fa0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/layouts/Footer.js
+SPDXID: SPDXRef-item7783626
+FileChecksum: SHA1: 457404668bf79dd7fb0c49af674af08490f1daea
+FileChecksum: MD5: 27907dea4fb94ba67250e03ae6892109
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) Cello </text>
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/layouts/Header.js
+SPDXID: SPDXRef-item7783627
+FileChecksum: SHA1: 98514dec261afc4f28c6d7225be6f09710b8cfaf
+FileChecksum: MD5: d4cbaaeac43d42c8774d11aaeb43020d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/assets/logo.svg
+SPDXID: SPDXRef-item7783630
+FileChecksum: SHA1: 4a47c9bfc5e32fc76a29396ffe4234fe6e261e43
+FileChecksum: MD5: 49d6c34218e132f71c028f7adf938e04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/locales/en-US/exception.js
+SPDXID: SPDXRef-item7783634
+FileChecksum: SHA1: 1915855489fa426ff6b0ac4ff3adfe5f15f6c025
+FileChecksum: MD5: a3c5f006021e4e7c79557186882f165e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/locales/en-US/globalHeader.js
+SPDXID: SPDXRef-item7783635
+FileChecksum: SHA1: ea33583d21ce180e363b6a7cace7d1c13bbd6ea4
+FileChecksum: MD5: eb6d88cb666383640b01562e5083ae29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/locales/en-US/operatorAgent.js
+SPDXID: SPDXRef-item7783636
+FileChecksum: SHA1: b4d6f899532d9c6c1411edb4a9de704ff2720869
+FileChecksum: MD5: f62b7fc1342f86b81bc7f0e3cf0c9396
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/locales/en-US/login.js
+SPDXID: SPDXRef-item7783638
+FileChecksum: SHA1: 9b40a3e57698eb20a05797b26346968e8b11d2c5
+FileChecksum: MD5: 8ea379fd4a24a98ac71ea0cf8db3ba05
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/locales/en-US/pwa.js
+SPDXID: SPDXRef-item7783640
+FileChecksum: SHA1: 1e9a48c0f77786cc2cf7db74e3643623113e539c
+FileChecksum: MD5: 02a5df3e81cf87ccc4bf7f04a1577824
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/locales/en-US/operatorNode.js
+SPDXID: SPDXRef-item7783641
+FileChecksum: SHA1: cf2d834b653f0da3addf18577bf87188ca271696
+FileChecksum: MD5: 95484409ef52697435b0627c95bbdfa9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/locales/en-US/fabric/ca.js
+SPDXID: SPDXRef-item7783643
+FileChecksum: SHA1: bd74fb51a7d7f3cd80a1543c5529d0fb7b19a609
+FileChecksum: MD5: aec81c72c8ad2923ac73b5df4b3181e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/locales/en-US/component.js
+SPDXID: SPDXRef-item7783644
+FileChecksum: SHA1: 83cfa6219986682045fa0d313c0b1dcfcc10d491
+FileChecksum: MD5: ed460f7f208bf4ec4338b6de964a445e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/locales/en-US/menu.js
+SPDXID: SPDXRef-item7783645
+FileChecksum: SHA1: f972e7f5c5140b60b873d134e1975e8422433873
+FileChecksum: MD5: 761a986dd077953fd17f51a9ad129448
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/locales/en-US/operatorOrganization.js
+SPDXID: SPDXRef-item7783646
+FileChecksum: SHA1: 4124edc1af9fc9ea575c1d1154ddbaa3e8b0afa1
+FileChecksum: MD5: b1372fa929a4cfa69f8bdc6998a1c7bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/locales/zh-CN/exception.js
+SPDXID: SPDXRef-item7783649
+FileChecksum: SHA1: 1ba2e565b864bbf1b54a6599735f3c0d74ef3361
+FileChecksum: MD5: 9834f932fba05ccc11fdd6fd46e66fc7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/locales/zh-CN/globalHeader.js
+SPDXID: SPDXRef-item7783650
+FileChecksum: SHA1: bcd71ccf606df664f46849046c4645b66a1d03ff
+FileChecksum: MD5: 204f7e32266d39e74e3fcdce8052f642
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/locales/zh-CN/operatorAgent.js
+SPDXID: SPDXRef-item7783651
+FileChecksum: SHA1: 51856593e21e3c6ee26315d4b262807446283d45
+FileChecksum: MD5: bc1e447654e28ecb9ee7a491c7f6bc68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/locales/zh-CN/login.js
+SPDXID: SPDXRef-item7783653
+FileChecksum: SHA1: 75ebfe1b5cd4c13f895ebda97ef9ae1d905a9b18
+FileChecksum: MD5: 917903d3c91c7ec66fb7d31762e1fbeb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/locales/zh-CN/pwa.js
+SPDXID: SPDXRef-item7783655
+FileChecksum: SHA1: 30e7767b0ad0c147635b39e7928a888f44b569d4
+FileChecksum: MD5: 9a22f35fdbe37b26bfc630c1e35ea9ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/locales/zh-CN/operatorNode.js
+SPDXID: SPDXRef-item7783656
+FileChecksum: SHA1: bdf018042b0853acab9db43710b2aabc20f03e8f
+FileChecksum: MD5: d7d9e8cc4244ca69b475e73d8453f7c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/locales/zh-CN/fabric/ca.js
+SPDXID: SPDXRef-item7783658
+FileChecksum: SHA1: 766257e9664253967ef3a10193c2bf3f1c4714b7
+FileChecksum: MD5: 4ec8ec6c8bddb028139dfd964af7f1b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/locales/zh-CN/component.js
+SPDXID: SPDXRef-item7783659
+FileChecksum: SHA1: 32c83f6573d0968e2c19977726ca827e3019267b
+FileChecksum: MD5: 12732831ac3e4940c87d09d832646d45
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/locales/zh-CN/menu.js
+SPDXID: SPDXRef-item7783660
+FileChecksum: SHA1: 017232f0aae50139f2017fd4809cceb5922e0967
+FileChecksum: MD5: cc53a60aab156518614a30bb8d984a11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/locales/zh-CN/operatorOrganization.js
+SPDXID: SPDXRef-item7783661
+FileChecksum: SHA1: ff4f7226e5fe3902db59254f635bf8b8216addb4
+FileChecksum: MD5: 6e30dc95f8c13347b4045e41e25d89e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/Login/LoginItem.js
+SPDXID: SPDXRef-item7783664
+FileChecksum: SHA1: 4a0624a2b32fa80489a296b27b2601c11ecf60a3
+FileChecksum: MD5: 637147e71fcf9b8cdf5c881c82542d51
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/Login/map.js
+SPDXID: SPDXRef-item7783665
+FileChecksum: SHA1: 9cd2a0bf41cbf9fc0a3c9f86b7782d9d32ad37c6
+FileChecksum: MD5: dcc2b24ae3d0c1f0543f0400f5902c53
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/Login/loginContext.js
+SPDXID: SPDXRef-item7783666
+FileChecksum: SHA1: a4d550bc38caf630fd9279167e0dd796d353a81b
+FileChecksum: MD5: 51780e8c7d4b3b67c63d5942909aec9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/Login/LoginTab.js
+SPDXID: SPDXRef-item7783667
+FileChecksum: SHA1: 4f7b495c98b185ef96c441739a9234122a434985
+FileChecksum: MD5: 1c1c4abfa8ea78e9f8b0710b7b47b9eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/Login/index.js
+SPDXID: SPDXRef-item7783668
+FileChecksum: SHA1: 20718993eb47141ecae1137b9fc7aee4fbd83753
+FileChecksum: MD5: 1ce43099433041b8a452944f00d1bd5b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/Login/index.less
+SPDXID: SPDXRef-item7783669
+FileChecksum: SHA1: b0dc084d14912fbdc42e0e7dc94f845a117b6da9
+FileChecksum: MD5: d0316b545dfc6ac28d5d035a6ea24144
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/Login/LoginSubmit.js
+SPDXID: SPDXRef-item7783670
+FileChecksum: SHA1: 08006f357521e39a053aaeff056f8218ecfcb766
+FileChecksum: MD5: 1f614a58bc0f950e6d9155777bff374a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/HeaderDropdown/index.js
+SPDXID: SPDXRef-item7783672
+FileChecksum: SHA1: 93420f02caa21327e088d75fddac5c0ce9613c66
+FileChecksum: MD5: 25e9a452901e4865567d8de4583feb8c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/HeaderDropdown/index.less
+SPDXID: SPDXRef-item7783673
+FileChecksum: SHA1: 2bbe0a13a33f2909aa07129f72fb1517d9a29e6b
+FileChecksum: MD5: 2865099921e240659ed2ef2feb56291e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/PageHeaderWrapper/GridContent.js
+SPDXID: SPDXRef-item7783675
+FileChecksum: SHA1: c2afcd03aa6921dbf82f46294a65e03db1151693
+FileChecksum: MD5: 1db93b6f3c4ae50c8e3b5884ab924649
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/PageHeaderWrapper/index.js
+SPDXID: SPDXRef-item7783676
+FileChecksum: SHA1: 351f032e2ea6e7dd4d8345ca47009a97eb827adb
+FileChecksum: MD5: 13248a0ddbd1829716a22356f7bad7b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/PageHeaderWrapper/index.less
+SPDXID: SPDXRef-item7783677
+FileChecksum: SHA1: 92ed3f28705a91e361a6766a3a0701e9e2fd2651
+FileChecksum: MD5: dd07aa4296194eaad594a6ca12253976
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/PageHeaderWrapper/GridContent.less
+SPDXID: SPDXRef-item7783678
+FileChecksum: SHA1: 69a489881cd4a85cbc503321ea5b0f741f1d4bab
+FileChecksum: MD5: 472741a704db58bc12b09dd1c272bcf3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/PageHeaderWrapper/breadcrumb.js
+SPDXID: SPDXRef-item7783679
+FileChecksum: SHA1: a2eb1a3652a5109cd8cea4000393d50a69875a20
+FileChecksum: MD5: 6a4ed93050e51d0ef6b14f022a1caa33
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/StandardTable/index.js
+SPDXID: SPDXRef-item7783681
+FileChecksum: SHA1: e443e1abb0122cfaec05e10b24b83f1ffcd2e720
+FileChecksum: MD5: 835c15c76896e2c1666255d59c2d6c82
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/StandardTable/index.less
+SPDXID: SPDXRef-item7783682
+FileChecksum: SHA1: 862f736b94faf7e84b1ca586a3ee87f41004d378
+FileChecksum: MD5: f1dddbcf2e533eab45989fbc966ba0df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/FooterToolbar/index.js
+SPDXID: SPDXRef-item7783684
+FileChecksum: SHA1: 7d66684364f851179876907a9877916763ae98c1
+FileChecksum: MD5: f17327d7f47d5200abaceb1b9dfa4e85
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/FooterToolbar/index.less
+SPDXID: SPDXRef-item7783685
+FileChecksum: SHA1: d416031df5a564d473135238b5bdea0464af2f5a
+FileChecksum: MD5: 667aaceecfcbd81bb987a7ba5b52b1e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/PageLoading/index.js
+SPDXID: SPDXRef-item7783687
+FileChecksum: SHA1: ebbdc9956ebd57a61917364986d7e386a686027b
+FileChecksum: MD5: 56257be415f1cd99c58482c3db95016e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/IconFont/index.js
+SPDXID: SPDXRef-item7783689
+FileChecksum: SHA1: 264ef41e1e813666fbe0e2fb5a4c9dd3257e3206
+FileChecksum: MD5: 85a57122181712819b57e8e8867b50b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/Authorized/AuthorizedRoute.js
+SPDXID: SPDXRef-item7783691
+FileChecksum: SHA1: 52186485e9165edecfd182c1da51b024752b4bd8
+FileChecksum: MD5: c8d4f5d915b7cade852b1c57c12f217d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/Authorized/Authorized.js
+SPDXID: SPDXRef-item7783692
+FileChecksum: SHA1: c1c292d12c7b1c395a55290b531ccf2474883dc1
+FileChecksum: MD5: ccd8f7d62df77c15adec5b5bea72f650
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/Authorized/PromiseRender.js
+SPDXID: SPDXRef-item7783693
+FileChecksum: SHA1: 1d9dda012050ec6ffc9562da2644b24101143041
+FileChecksum: MD5: 527595ec61ff7df5f02801ed622f3447
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/Authorized/Secured.js
+SPDXID: SPDXRef-item7783694
+FileChecksum: SHA1: f972eace50f535678692f5e9c257f37c18be685f
+FileChecksum: MD5: 0f2ce4aea479cd02d222c18c99fe0822
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/Authorized/renderAuthorize.js
+SPDXID: SPDXRef-item7783695
+FileChecksum: SHA1: afac525316c14c0539d20e24ee6c9ef547985b2f
+FileChecksum: MD5: 649b65b0125a3a7a5df9571c78cd7e04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/Authorized/index.js
+SPDXID: SPDXRef-item7783696
+FileChecksum: SHA1: 81a780eeb858005d3b875f9ce602619457193293
+FileChecksum: MD5: ea5779f965002fdecd72ae366fcb8ab6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/Authorized/CheckPermissions.js
+SPDXID: SPDXRef-item7783697
+FileChecksum: SHA1: d3d8aaf77fd91eadd47835aeda7ed90420167ef7
+FileChecksum: MD5: ea7c8eafe5fe4be9365ab451f784ef7f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/Authorized/CheckPermissions.test.js
+SPDXID: SPDXRef-item7783698
+FileChecksum: SHA1: a4d308f8c016366a8d08d054f76b30b0324b8d9e
+FileChecksum: MD5: 4c32b73f0dd5ea62f6c30871beef7e49
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/GlobalHeader/RightContent.js
+SPDXID: SPDXRef-item7783700
+FileChecksum: SHA1: cad917d5655cfd2a9cfbfa4e5a2e9e5827ddc835
+FileChecksum: MD5: d7cb8799f2523af600e292bc5480d1d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/GlobalHeader/index.js
+SPDXID: SPDXRef-item7783701
+FileChecksum: SHA1: 4d873762c691f00961b4adf8062ef985d0ceaebd
+FileChecksum: MD5: 020590071f59916d578da62e3774b021
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/GlobalHeader/index.less
+SPDXID: SPDXRef-item7783702
+FileChecksum: SHA1: 91a2f51f68165b53cbdaf9f065a3c9df3c2247e8
+FileChecksum: MD5: 3eebd4656dc7265eb8e08bd2020343e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/_utils/pathTools.js
+SPDXID: SPDXRef-item7783704
+FileChecksum: SHA1: dad3a0e9db685c12a89223bc08d52af080ac435a
+FileChecksum: MD5: 3a645b02560cd07b86bcbae9fb818642
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/_utils/pathTools.test.js
+SPDXID: SPDXRef-item7783705
+FileChecksum: SHA1: cdf3b6282806b2c698122ebe650931ab85e8703d
+FileChecksum: MD5: a1c687b9c79ef5da541e39b2445fa0de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/SettingDrawer/ThemeColor.js
+SPDXID: SPDXRef-item7783707
+FileChecksum: SHA1: 6a6d69644439426b77295596be1384b5b5395211
+FileChecksum: MD5: 2e793820b351212b1438e595c6fe5a1e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/SettingDrawer/ThemeColor.less
+SPDXID: SPDXRef-item7783708
+FileChecksum: SHA1: f66a324d3aef39ac07b30b98af523a24a6045a46
+FileChecksum: MD5: f394de0b0b400852243fd982ca76ec1b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/SettingDrawer/BlockCheckbox.js
+SPDXID: SPDXRef-item7783709
+FileChecksum: SHA1: 409fd3b184e3879580466fcc858a7453b6dd28f6
+FileChecksum: MD5: b0a72a8224b4b0199530f486f2752386
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/SettingDrawer/index.js
+SPDXID: SPDXRef-item7783710
+FileChecksum: SHA1: 36cf70e7af707148c2357cdf76596ce20c7701a7
+FileChecksum: MD5: 0713562629324a541d83e032af9796ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/SettingDrawer/index.less
+SPDXID: SPDXRef-item7783711
+FileChecksum: SHA1: 3e1c271f9a50e6f949cda4e18a060dcad665d8e6
+FileChecksum: MD5: 1174f94645d4549f455dd78dc121a628
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/GlobalFooter/index.js
+SPDXID: SPDXRef-item7783713
+FileChecksum: SHA1: 07b5c7f50f0eb7d474d559bc51b8923730cbc601
+FileChecksum: MD5: ecf098a83122eafb23af5cbe42105e78
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/GlobalFooter/index.less
+SPDXID: SPDXRef-item7783714
+FileChecksum: SHA1: 1a88286c4cc47d38965fe851822fff2c580dffa4
+FileChecksum: MD5: d8ff91d2d93421a5a0ad22bf40b0b330
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/TopNavHeader/index.js
+SPDXID: SPDXRef-item7783716
+FileChecksum: SHA1: 42dbaec994be3558d1ff4bded523e6314c14edd7
+FileChecksum: MD5: 74b87e200179276f4fbe73608c6144a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/TopNavHeader/index.less
+SPDXID: SPDXRef-item7783717
+FileChecksum: SHA1: e4da6c266375fb857209f9565b575d3531f362e5
+FileChecksum: MD5: 0b532bd27626588d0ace719ba794bc8e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/SelectLang/index.js
+SPDXID: SPDXRef-item7783719
+FileChecksum: SHA1: 60ac937aebeb7536d7407741f7cf59367469cd7c
+FileChecksum: MD5: f7b6f734618ce60904e039a912005c92
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/SelectLang/index.less
+SPDXID: SPDXRef-item7783720
+FileChecksum: SHA1: 555a3d9b17f3a8b986d4864c35cff914a6be7bf3
+FileChecksum: MD5: cdc6db4df08e714088a124ea252894d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/SiderMenu/SiderMenu.test.js
+SPDXID: SPDXRef-item7783722
+FileChecksum: SHA1: 374da3d586a323f4c7f33cb34b5cf4ad42dd1270
+FileChecksum: MD5: 3158d68aa4031167bee9486a9b8141c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/SiderMenu/SiderMenu.js
+SPDXID: SPDXRef-item7783723
+FileChecksum: SHA1: 4ab4c23e598cc728976c3f3fff76bf2a9ccca8dc
+FileChecksum: MD5: 01188837965993fa0b8f34fe227ee778
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/SiderMenu/BaseMenu.js
+SPDXID: SPDXRef-item7783724
+FileChecksum: SHA1: 20781e0cb92784e5d6ef277d01d5017b67448d67
+FileChecksum: MD5: 589c15a2f2b5ba932f92fea28627db75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/SiderMenu/SiderMenuUtils.js
+SPDXID: SPDXRef-item7783725
+FileChecksum: SHA1: 39feb4c9e660e369ce50d4bc681805f404581d11
+FileChecksum: MD5: 60eff212334bc89d5ec5ff6e353beebb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/SiderMenu/index.js
+SPDXID: SPDXRef-item7783726
+FileChecksum: SHA1: dcdf0a9c5611107ec83e666ea2bfb34a45f265f0
+FileChecksum: MD5: 95344e75d03efc90b50dfc88f86a77bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/SiderMenu/index.less
+SPDXID: SPDXRef-item7783727
+FileChecksum: SHA1: 3824e21be91a30799dbdc46f6349c1d19e20c1f4
+FileChecksum: MD5: 2263cd9c11d8fc299588b798e8fe0d02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/Exception/typeConfig.js
+SPDXID: SPDXRef-item7783729
+FileChecksum: SHA1: 235a5283556be59a67ddf6a6ca78204d052b5005
+FileChecksum: MD5: d2f7c887614c9c49e0dbba5f6eb76b32
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/Exception/index.js
+SPDXID: SPDXRef-item7783730
+FileChecksum: SHA1: ab80242ffcee2793a4f038248c4a2e72205ee76d
+FileChecksum: MD5: a585dade86a03486f7fa8977104577a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/components/Exception/index.less
+SPDXID: SPDXRef-item7783731
+FileChecksum: SHA1: 87019b425e2db78e4c3a85fa79f55f7018aaa433
+FileChecksum: MD5: b5210755c9d650e79919687d7d1ae2f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/utils/getPageTitle.js
+SPDXID: SPDXRef-item7783733
+FileChecksum: SHA1: b4b0c052afd79e5af2df4959937ead0e0a7abaac
+FileChecksum: MD5: 6e52cde5a35799e8fa596a1a01005097
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/utils/utils.test.js
+SPDXID: SPDXRef-item7783734
+FileChecksum: SHA1: 18588523f80deffc641e2b03405976002f1548f1
+FileChecksum: MD5: 2c0e72129d38399a9c030854e4ba24cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/utils/networks.js
+SPDXID: SPDXRef-item7783735
+FileChecksum: SHA1: cae53db6523af3e2be8fb4f94c9dc3f60c9354f0
+FileChecksum: MD5: 31821889db8f563c0547224b1be07eab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/utils/Authorized.js
+SPDXID: SPDXRef-item7783736
+FileChecksum: SHA1: 0bfe7e67d3248ef126467c83c544945fa69ffd5d
+FileChecksum: MD5: 0d0e66adea0db15295ae13c21aec89da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/utils/authority.test.js
+SPDXID: SPDXRef-item7783737
+FileChecksum: SHA1: 886f8d3f705dc483a2c8e508cc41373950e3f474
+FileChecksum: MD5: 1b315b7a71ec2bf5aa28cd62463cd3c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/utils/authority.js
+SPDXID: SPDXRef-item7783738
+FileChecksum: SHA1: 1ec925b71373116e03d378e90d16acb7a9b68048
+FileChecksum: MD5: 3ab86f99c48b14711dd572ae342c069b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/utils/utils.js
+SPDXID: SPDXRef-item7783739
+FileChecksum: SHA1: 9f88a4b2537342ceb70fbc4ead5c1029a0f4ef99
+FileChecksum: MD5: f75a76e2b2d435c018b84da7a0be9627
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/utils/utils.less
+SPDXID: SPDXRef-item7783740
+FileChecksum: SHA1: c9e1a853a35aa7f77352d8e644a64e6edeb58de9
+FileChecksum: MD5: 009f768e6a6fc8fe60612c163538e682
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/utils/request.js
+SPDXID: SPDXRef-item7783741
+FileChecksum: SHA1: 8fc7e06aed730997df1e4e91c50a701244faf8eb
+FileChecksum: MD5: b9a09346a52706a713ca220002b8e8e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/pages/Authorized.js
+SPDXID: SPDXRef-item7783743
+FileChecksum: SHA1: 7311e356c2be08b8a5b4c3e8de076abd9e6db13f
+FileChecksum: MD5: 7f41f4280cf14f2718aba6fbf026ac93
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/pages/User/Login.less
+SPDXID: SPDXRef-item7783745
+FileChecksum: SHA1: d90884ebaea7c71ce81289f96d88e25ad9cf7c86
+FileChecksum: MD5: 72b3484a54f5cf188707966027bc181a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/pages/document.ejs
+SPDXID: SPDXRef-item7783747
+FileChecksum: SHA1: 0323edce2448b36b73e9fa3ab41c0ed35393b827
+FileChecksum: MD5: fe2c4d876bb4aa087bbcfe5b9967c68b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/pages/Overview/Overview.js
+SPDXID: SPDXRef-item7783749
+FileChecksum: SHA1: 042f41ce2467bbfb219ac32c572158b6bcf6be86
+FileChecksum: MD5: 900d4db830b69d01c07a34fbfca3b316
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/pages/Operator/models/organization.js
+SPDXID: SPDXRef-item7783752
+FileChecksum: SHA1: f271ccf0d50e55fc2573a574d9a07f3771b36d23
+FileChecksum: MD5: 44b767c16409ca680d4ff5764b592f8f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/pages/Operator/models/agent.js
+SPDXID: SPDXRef-item7783753
+FileChecksum: SHA1: f40b913945da0116dcd3b275a7151ebab3ccabfc
+FileChecksum: MD5: 390c0fbde57ac36e5da3c4b03432691f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/pages/Operator/Overview.js
+SPDXID: SPDXRef-item7783755
+FileChecksum: SHA1: 63742db2be0a71ee6badb6216190d2967c6d88b9
+FileChecksum: MD5: 7727511ebab4b3b7644454bb8c33d440
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/pages/Operator/Agent/newAgent.js
+SPDXID: SPDXRef-item7783757
+FileChecksum: SHA1: 67db81d99e8684598ef28cad0ab57284462e6304
+FileChecksum: MD5: 142095e5ac9c68b024cef1e4662cd431
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/pages/Operator/Agent/Agent.js
+SPDXID: SPDXRef-item7783758
+FileChecksum: SHA1: abce5022da88aaf8530a492dbb6882675e69da62
+FileChecksum: MD5: 1c1c2738c4724893910ea66610b3648b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/pages/Operator/Agent.js
+SPDXID: SPDXRef-item7783759
+FileChecksum: SHA1: 3fff51d7f9c218d7fce2ddf69ee851111b0001f8
+FileChecksum: MD5: 867dc4c51e094c8f24e1b85574a3fa3e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/pages/Operator/styles.less
+SPDXID: SPDXRef-item7783760
+FileChecksum: SHA1: 792a567b99e8bfbeb545fcbc183aa71b6fb1b02e
+FileChecksum: MD5: beccdeaea5f2a9b7ad9f896e1201ad4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/pages/Operator/Node/New/basicInfo.js
+SPDXID: SPDXRef-item7783763
+FileChecksum: SHA1: 8f51860d50fd3e4fa2d1190cbc5ee7f1171987b3
+FileChecksum: MD5: 5240297e8ca3d3d4472fbe3ec7529eda
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/pages/Operator/Node/New/styles.less
+SPDXID: SPDXRef-item7783764
+FileChecksum: SHA1: ca61a5340ba8d4adae0293385d8d93ef860edac4
+FileChecksum: MD5: 0d902b862adf9760b36a8ad9ebb5c95c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/pages/Operator/Node/New/Fabric/orderer.js
+SPDXID: SPDXRef-item7783766
+FileChecksum: SHA1: 64252dcc4e32bba8117deb0e354c208ec03569eb
+FileChecksum: MD5: 3f1dc0dd71fe40dc9111f32250207ba3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/pages/Operator/Node/New/Fabric/ca.js
+SPDXID: SPDXRef-item7783767
+FileChecksum: SHA1: 7ff422ec01b87ec24a4aee907aa25cdc4bb4fdce
+FileChecksum: MD5: 0917d14374ba529b8f378c3a8df68761
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/pages/Operator/Node/New/Fabric/peer.js
+SPDXID: SPDXRef-item7783768
+FileChecksum: SHA1: eb2fa0b4594de55d92dfe26ca461e43349b3d4dc
+FileChecksum: MD5: d3401b61d9739b801b40325582c5de4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/pages/Operator/Node/New/index.js
+SPDXID: SPDXRef-item7783769
+FileChecksum: SHA1: 0c714a3aa7a2a20d5cfb9f4d414dc0ffc61d95f6
+FileChecksum: MD5: 96565b0d5945b1119569658a2228e104
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/pages/Operator/Node/New/nodeInfo.js
+SPDXID: SPDXRef-item7783770
+FileChecksum: SHA1: e5427521bec479c9f3d94566f3d2450bc4881d89
+FileChecksum: MD5: 27382b76b3f7118e6153fba5e0bb6d22
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/pages/404.js
+SPDXID: SPDXRef-item7783773
+FileChecksum: SHA1: 4f1a6dbd4ff99adb6a3510763c3a9de8ca1ebecd
+FileChecksum: MD5: df9e90cba17530463b02aef8aa3a838c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/pages/Exception/models/error.js
+SPDXID: SPDXRef-item7783776
+FileChecksum: SHA1: ec500b9c3323eb93b215e2313e4b9b9aabe3f342
+FileChecksum: MD5: 4c6a864e8f60812f34ad5a5efb1ef07d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/pages/Exception/403.js
+SPDXID: SPDXRef-item7783777
+FileChecksum: SHA1: c7543e5fc37147b174e9f13193d8a016905df1d9
+FileChecksum: MD5: 27546914c43e594421d7d80e75bec18c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/pages/Exception/500.js
+SPDXID: SPDXRef-item7783778
+FileChecksum: SHA1: 401a21fc9bdf471f203f66d4abcaae6ae7355c3a
+FileChecksum: MD5: d3f482684b592c0c0a4f6e9b1eb6b3e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/pages/Exception/TriggerException.js
+SPDXID: SPDXRef-item7783779
+FileChecksum: SHA1: b062f6e3ff22f75213c827447a285f6fff11b454
+FileChecksum: MD5: 25b1a2070ed09742f318bb36a49c67e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/pages/Exception/style.less
+SPDXID: SPDXRef-item7783780
+FileChecksum: SHA1: ac649a871b0e63aeabac7e0a8235652fe134f84c
+FileChecksum: MD5: 5a3296b3bc2ecb490cbafd8e84ae96d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/pages/Exception/404.js
+SPDXID: SPDXRef-item7783781
+FileChecksum: SHA1: 83856164eeaf1fae7bae8deae918ae565e2472fe
+FileChecksum: MD5: c1029ef99fa8c96668b93d6b0d2f9152
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/manifest.json
+SPDXID: SPDXRef-item7783782
+FileChecksum: SHA1: 34252729bff8fa2803e1fd1b7434a61705f1a004
+FileChecksum: MD5: d2c164869050e5cfed1e42f2429b97ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/e2e/userLayout.e2e.js
+SPDXID: SPDXRef-item7783784
+FileChecksum: SHA1: db011473e3d9a77d7620de9d2efe20817de58b82
+FileChecksum: MD5: b8074c3067e96eff82744e076d50311d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/e2e/topMenu.e2e.js
+SPDXID: SPDXRef-item7783785
+FileChecksum: SHA1: e1469d668be76a732aa6c537c1abcf1f4429a056
+FileChecksum: MD5: 9855131383f94f2e60384f6dbb534935
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/e2e/login.e2e.js
+SPDXID: SPDXRef-item7783786
+FileChecksum: SHA1: 07592979cb16cba2ab53062dffa55ea760e8f46f
+FileChecksum: MD5: d8566992a70b31ed27e4978e7c6d9527
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/e2e/baseLayout.e2e.js
+SPDXID: SPDXRef-item7783787
+FileChecksum: SHA1: fdc34c355968b3082b64e2026ac5b75dbe623ef0
+FileChecksum: MD5: 0611c46b62f1d7b7b4c7955217b39faf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/e2e/home.e2e.js
+SPDXID: SPDXRef-item7783788
+FileChecksum: SHA1: 4d866cf54b72a6744fae3007116a7525b6bb48ba
+FileChecksum: MD5: 453948382f9ff06f5d35847de5a1d028
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/services/node.js
+SPDXID: SPDXRef-item7783790
+FileChecksum: SHA1: 4e0c66c001866c9ec41b09ff62303262be9b6bc2
+FileChecksum: MD5: ca16400dd57bae3e0d94d28fd6db679a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/services/error.js
+SPDXID: SPDXRef-item7783791
+FileChecksum: SHA1: b6ac0731b481c8a5f6057f2cd4fd0410b0539976
+FileChecksum: MD5: e582d8a2c2764a1811743874c82cc694
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/services/api.js
+SPDXID: SPDXRef-item7783792
+FileChecksum: SHA1: 1f8bed5a5a6cc5c45ed4eb5a27bf83b081df15a3
+FileChecksum: MD5: 4b42cf54f859744925b7715938dadcf4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/services/organization.js
+SPDXID: SPDXRef-item7783793
+FileChecksum: SHA1: fc2d003383a82e44c3f26ec865a08148164283c5
+FileChecksum: MD5: 4dcf50cabdb8c9ba22b87818be265b6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/services/agent.js
+SPDXID: SPDXRef-item7783794
+FileChecksum: SHA1: 43ead41738a1a087c3c5209cbf3092774d405f7f
+FileChecksum: MD5: 8c5d67965b18ef8d6ac7c1d662cff51c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/defaultSettings.js
+SPDXID: SPDXRef-item7783796
+FileChecksum: SHA1: a5687fc055baf2960903b670de1ada92916aea7a
+FileChecksum: MD5: 5ba6f1ddcc3040eca74ec0d635dd43ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/src/service-worker.js
+SPDXID: SPDXRef-item7783797
+FileChecksum: SHA1: 9dafe25bd6a47674070cdfccba01913f03dbae92
+FileChecksum: MD5: b166c20b7346e1c3e6c70deffc8b397c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/netlify.toml
+SPDXID: SPDXRef-item7783798
+FileChecksum: SHA1: b2b253f44cf0c73b2c9348edbba5bf714afd6613
+FileChecksum: MD5: 677c8012e597605b544c80c2429a1217
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/config/plugin.config.js
+SPDXID: SPDXRef-item7783801
+FileChecksum: SHA1: 340bb65b0c9b350a07f8c8dd50cb4c1eb627bfa0
+FileChecksum: MD5: 368df91e591826e8d867b38d14b7cc58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/config/theme.js
+SPDXID: SPDXRef-item7783803
+FileChecksum: SHA1: 111b9dad8f6c521b3146c1b540a1db7a3b2232a2
+FileChecksum: MD5: d03db351713e770e4389d66e63422e60
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/config/config.js
+SPDXID: SPDXRef-item7783804
+FileChecksum: SHA1: a7ad2a4fec0a0f0d2b427af0afdf2c2ca24fd853
+FileChecksum: MD5: 1295d2d47cb9e9c2439639cc0025f5e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/.prettierrc
+SPDXID: SPDXRef-item7783805
+FileChecksum: SHA1: 5662a0eec54c1cc9e61dab5294e52672b17c8491
+FileChecksum: MD5: 5d12181a849ffbeeacbf5650b708b3b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/public/avatar.png
+SPDXID: SPDXRef-item7783807
+FileChecksum: SHA1: a9a547cf897872c07e0e400aeb571d18fc8591e1
+FileChecksum: MD5: 38a1659deec28114b6f242a9bbd92c25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/public/icons/icon-192x192.png
+SPDXID: SPDXRef-item7783809
+FileChecksum: SHA1: bc4006c4fe650231dfa5d7c0d095cd90c5e563f8
+FileChecksum: MD5: c23aa881b8d0e959f6c0aeb5ae7e4baa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/public/icons/icon-512x512.png
+SPDXID: SPDXRef-item7783810
+FileChecksum: SHA1: e5b2a1d170f1338f7430743b81e7e35fcbfa84cf
+FileChecksum: MD5: 5661ce8e2472d2727e8fd0390b22ba37
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/public/icons/icon-128x128.png
+SPDXID: SPDXRef-item7783811
+FileChecksum: SHA1: cd91f647c0694c1b2cf6a9b6debde5e04a0314b5
+FileChecksum: MD5: 347329d0982682b42d40c8162817a940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/public/favicon.png
+SPDXID: SPDXRef-item7783812
+FileChecksum: SHA1: 1c0196097ce13c331bbfb27edd5b045617a2061b
+FileChecksum: MD5: 78457fe19a0b5a849a4b28c26a2727c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/.stylelintrc.json
+SPDXID: SPDXRef-item7783813
+FileChecksum: SHA1: ae925f495b51f310e0a71086c3c7bbe0231ec7a8
+FileChecksum: MD5: 3c6384b5fc8d97f52c9ec23d68d20d1e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/package.json
+SPDXID: SPDXRef-item7783814
+FileChecksum: SHA1: c56bffbd789ca72e801aed7c1d2b87595b9b0bf6
+FileChecksum: MD5: 3f2d6120ff35d37e2e5679d691cf2cd2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/tests/run-tests.js
+SPDXID: SPDXRef-item7783816
+FileChecksum: SHA1: 98687a54b36bb82bc3213e480286949f183c569f
+FileChecksum: MD5: ff70a7d8cf3eac3157476c226d02130b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/tests/setupTests.js
+SPDXID: SPDXRef-item7783817
+FileChecksum: SHA1: 80eae0fc4799d4af1ed0269f3e9b7b810d94d0bd
+FileChecksum: MD5: 3f463ecc60e1dd2be2976ffb8de1f44b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/dist/icons/icon-192x192.png
+SPDXID: SPDXRef-item7783820
+FileChecksum: SHA1: bc4006c4fe650231dfa5d7c0d095cd90c5e563f8
+FileChecksum: MD5: c23aa881b8d0e959f6c0aeb5ae7e4baa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/dist/icons/icon-512x512.png
+SPDXID: SPDXRef-item7783821
+FileChecksum: SHA1: e5b2a1d170f1338f7430743b81e7e35fcbfa84cf
+FileChecksum: MD5: 5661ce8e2472d2727e8fd0390b22ba37
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/dist/icons/icon-128x128.png
+SPDXID: SPDXRef-item7783822
+FileChecksum: SHA1: cd91f647c0694c1b2cf6a9b6debde5e04a0314b5
+FileChecksum: MD5: 347329d0982682b42d40c8162817a940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/dist/favicon.png
+SPDXID: SPDXRef-item7783823
+FileChecksum: SHA1: 1c0196097ce13c331bbfb27edd5b045617a2061b
+FileChecksum: MD5: 78457fe19a0b5a849a4b28c26a2727c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/scripts/prettier.js
+SPDXID: SPDXRef-item7783825
+FileChecksum: SHA1: a22f6dc0b0cd32e2f9456fb6358aeda0262c144d
+FileChecksum: MD5: acf38f82d2a9de8153a7090c9761f1e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/scripts/getPrettierFiles.js
+SPDXID: SPDXRef-item7783826
+FileChecksum: SHA1: 29a31621d9daf74e928b5339321849349ff19bf4
+FileChecksum: MD5: a14bde5eaba04363a36c1fd1eab63981
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/scripts/lint-prettier.js
+SPDXID: SPDXRef-item7783827
+FileChecksum: SHA1: d0ce18313818c06eb6d6c35a6305b44800672b3b
+FileChecksum: MD5: 0da3f22b04e072d516c31b7faa963b8a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/scripts/generateMock.js
+SPDXID: SPDXRef-item7783828
+FileChecksum: SHA1: 795b5e13a11df27d9569b3ef254ba152c21644f0
+FileChecksum: MD5: 60e59475909468a7bfd2b23c52037709
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/.eslintignore
+SPDXID: SPDXRef-item7783829
+FileChecksum: SHA1: 1362e23c18260b5f4c6b2461ffc8326c1f726297
+FileChecksum: MD5: 873181d3c95cad5237d7f6a0f6624695
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/lambda/api.js
+SPDXID: SPDXRef-item7783831
+FileChecksum: SHA1: 2a16676ffa4b186f8754cb540eb4087175358e0e
+FileChecksum: MD5: 1aa41990965b4a28c3293f1acb0e831c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/lambda/mock/matchMock.js
+SPDXID: SPDXRef-item7783833
+FileChecksum: SHA1: 44b076d6906431dc6b56b1067a75a10679746b67
+FileChecksum: MD5: ae860966bc37653ff0dafd76dac6c5bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/mock/node.js
+SPDXID: SPDXRef-item7783835
+FileChecksum: SHA1: 99939d6c77de89413279696803550b8dcca8b5b1
+FileChecksum: MD5: a584a2d938ee220c0fd6b961c51ac21a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/mock/organization.js
+SPDXID: SPDXRef-item7783836
+FileChecksum: SHA1: fb31cf1cb071e5a10695799911d0d3c088a03165
+FileChecksum: MD5: 0d2713919e7516733503ca57a0f853b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/mock/agent.js
+SPDXID: SPDXRef-item7783837
+FileChecksum: SHA1: 14b458f445bbb458b235d56e5f7bf82e56d19045
+FileChecksum: MD5: d832d18a96e591c2199f30743ede0ace
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/src/dashboard/mock/user.js
+SPDXID: SPDXRef-item7783838
+FileChecksum: SHA1: a0083f8f2d2e593e1e54e83d50363a179e8f32d4
+FileChecksum: MD5: b823b14130db2ba77bf5847f268ec054
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/.gitreview
+SPDXID: SPDXRef-item7783839
+FileChecksum: SHA1: 47c2208926a0f7752f7eb2c31f34ee36651610a3
+FileChecksum: MD5: 911ec5786f60f83c2bc26b07e4f42ac7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/netlify.toml
+SPDXID: SPDXRef-item7783840
+FileChecksum: SHA1: 84e156ff706dcf51ddb147ea29f174ed8493ae50
+FileChecksum: MD5: c65d10297a5f265ab0336191f09a78b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/.readthedocs.yml
+SPDXID: SPDXRef-item7783842
+FileChecksum: SHA1: 7a5c94c85cb30de40781d2c3ffb9f5de4b1552eb
+FileChecksum: MD5: 5b307e47201c64dfeb141e5b6f895770
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/release_notes/v0.7.txt
+SPDXID: SPDXRef-item7783844
+FileChecksum: SHA1: 3cb008ff42a172d3925263c2b923916a290a0b67
+FileChecksum: MD5: 6449d34ea2006e03e5c93c6005d5de7c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/release_notes/v0.9.0-alpha.txt
+SPDXID: SPDXRef-item7783845
+FileChecksum: SHA1: c2c1d475e81c53276b50638627d8942bbf211281
+FileChecksum: MD5: ab117f213d71827bcc89383b987dafbc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/release_notes/v0.9.0-beta.txt
+SPDXID: SPDXRef-item7783846
+FileChecksum: SHA1: 434e3f3ff87a695aa8905c1eba9e7f40b330f6e0
+FileChecksum: MD5: 66d1cd7e2e387f993b43aa017ab06ef2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/release_notes/v0.8.0-alpha.txt
+SPDXID: SPDXRef-item7783847
+FileChecksum: SHA1: 9e925536c2bfc8157880650050d4202282f57fb2
+FileChecksum: MD5: 18e159333c5a49441bf899e681a6f1c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/release_notes/v0.6.txt
+SPDXID: SPDXRef-item7783848
+FileChecksum: SHA1: 42c25975ac86989a63f01df51485ddedbedd9d7c
+FileChecksum: MD5: 689410aa003a566869a1dd60b6e0b454
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/release_notes/v0.9.0.txt
+SPDXID: SPDXRef-item7783849
+FileChecksum: SHA1: 6accddde3d72db5b785ee03168f4815c7bf4a514
+FileChecksum: MD5: eeab29c98032be251fb362ad72593f6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/release_notes/v0.8.0-beta.txt
+SPDXID: SPDXRef-item7783850
+FileChecksum: SHA1: 1c909cc8acdaf5c487d84e9667a9af2ffefbe5ce
+FileChecksum: MD5: bfebd5bd8aa4976ddbf808a9510d0dc0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/release_notes/v0.8.0.txt
+SPDXID: SPDXRef-item7783851
+FileChecksum: SHA1: 1c2ff7d42b64fc235ebf6454c4bd5466a81b9ee8
+FileChecksum: MD5: f3532f35140cb8ae73a58a35d4ed2bab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/azure-pipelines.yml
+SPDXID: SPDXRef-item7783852
+FileChecksum: SHA1: 0aa4122a8fcb75725bab32075b17eebb1030ea0c
+FileChecksum: MD5: f777acb80bf29aa336dca96b13b9900e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/build_image/docker/agent/ansible/Dockerfile.in
+SPDXID: SPDXRef-item7783857
+FileChecksum: SHA1: 7798d78534665c37e152f61b3dec38c04b35f461
+FileChecksum: MD5: 6bc354097c3dfb372a36e7c2507500ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/build_image/docker/agent/kubernetes/Dockerfile.in
+SPDXID: SPDXRef-item7783859
+FileChecksum: SHA1: 858dbca13ad4c00fd85840e91360ba946ecc3d24
+FileChecksum: MD5: e7e2621435007462bead54f8748bb59f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/build_image/docker/agent/fabric-operator/Dockerfile.in
+SPDXID: SPDXRef-item7783861
+FileChecksum: SHA1: d5d2965e8826e40472064d06d53b73e41a8c1bab
+FileChecksum: MD5: a916413756e59beba18333eddf85bdeb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/build_image/docker/common/api-engine/entrypoint.sh
+SPDXID: SPDXRef-item7783864
+FileChecksum: SHA1: 4d0b888eb19832b9c87edccf6fc8ead182b0d4f6
+FileChecksum: MD5: 88fafc1d9d5146e4648f1b049a7d8ad3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/build_image/docker/common/api-engine/Dockerfile.in
+SPDXID: SPDXRef-item7783865
+FileChecksum: SHA1: 863d3b88c97bd93c052cba455a568010a7f5bf4f
+FileChecksum: MD5: 1b0a775e11b24e3fc5362c94680c9c8c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/build_image/docker/common/nginx/nginx.conf.default
+SPDXID: SPDXRef-item7783867
+FileChecksum: SHA1: 319d1de3960ad53dae5225c8d5d9e9f06785b1fe
+FileChecksum: MD5: 8001a52e031bde70796f6a414a3c4acd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/build_image/docker/common/nginx/config-nginx.sh
+SPDXID: SPDXRef-item7783868
+FileChecksum: SHA1: c18c356bfe24504b429b953e7193ccb3bb6e3699
+FileChecksum: MD5: 37cf2afc1c7c3ef7be31366fff17b61d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/build_image/docker/common/nginx/Dockerfile.in
+SPDXID: SPDXRef-item7783869
+FileChecksum: SHA1: 7e06b98f8384d8077b46db9768f347733ee0acc6
+FileChecksum: MD5: 9cfb4e6081af2c3f5415d6e4eaf0df45
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/build_image/docker/common/dashboard/default.conf.tmpl
+SPDXID: SPDXRef-item7783871
+FileChecksum: SHA1: 8620a3e55a239a718e198f5db79502d7f63c2a65
+FileChecksum: MD5: 63628f2e2cbdf0187cf033e237b5fcba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/build_image/docker/common/dashboard/config-nginx.sh
+SPDXID: SPDXRef-item7783872
+FileChecksum: SHA1: 09d9b8b139e3bef4780298b4ab9950c775f729cd
+FileChecksum: MD5: e45ea42d6ef22c9558a152c439ac43b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/build_image/docker/common/dashboard/Dockerfile.in
+SPDXID: SPDXRef-item7783873
+FileChecksum: SHA1: b600d0e8c757c86c9bbfb119cb097dfb176320d5
+FileChecksum: MD5: 2fe61871c5c633165d380bc16e822797
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/build_image/dockerhub/latest/agent/ansible/Dockerfile
+SPDXID: SPDXRef-item7783878
+FileChecksum: SHA1: 9605c2193e675770b3a1a57019bc0e664cadae26
+FileChecksum: MD5: 6bdb6680fdda67c14866ff045746852c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/build_image/dockerhub/latest/agent/kubernetes/Dockerfile
+SPDXID: SPDXRef-item7783880
+FileChecksum: SHA1: 1a8e282f0ccd0a13d35b9aa16c0726b8d84cae36
+FileChecksum: MD5: 54c977d7c19fc9fe7dabecbeaccd2347
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/build_image/dockerhub/latest/agent/fabric-operator/Dockerfile
+SPDXID: SPDXRef-item7783882
+FileChecksum: SHA1: c9082809a11a8e8d22fb3ff1f821042baadf41c1
+FileChecksum: MD5: c1911d706ee28a5ac629607478140d40
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/build_image/dockerhub/latest/common/api-engine/Dockerfile
+SPDXID: SPDXRef-item7783885
+FileChecksum: SHA1: 54b2b0e0dfab5cdccac270e2ea8defee66ae3a0b
+FileChecksum: MD5: 6300bc8dfc330998b2ff3c61d91747fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/build_image/dockerhub/latest/common/nginx/Dockerfile
+SPDXID: SPDXRef-item7783887
+FileChecksum: SHA1: 89859eb08bcb1b40a1921002c72c9719658a27e7
+FileChecksum: MD5: 7d0b30f7bab2742ba91f5921fc62b87e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/build_image/dockerhub/latest/common/dashboard/Dockerfile
+SPDXID: SPDXRef-item7783889
+FileChecksum: SHA1: 08e9c20928cd386965231d667ec4c0f1b4552c46
+FileChecksum: MD5: da0a0b77844f55d6bd4515b3e07cbbe2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/build_image/dockerhub/v0.9.0-beta/user-dashboard/yarn.lock
+SPDXID: SPDXRef-item7783892
+FileChecksum: SHA1: b22f9263aca822ecba141e4eb1b27fad3f1fc171
+FileChecksum: MD5: f08bca4e26f87c22c27e07f49278efd4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/build_image/dockerhub/v0.9.0-beta/baseimage/Dockerfile
+SPDXID: SPDXRef-item7783897
+FileChecksum: SHA1: f22f42e2f98bb2d6f9bb7e9af5f5ae63286b72d7
+FileChecksum: MD5: ac31e0680947e68bcf80c0ded68f6eaf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/build_image/dockerhub/v0.9.0/user-dashboard/yarn.lock
+SPDXID: SPDXRef-item7783906
+FileChecksum: SHA1: 24c5ea5ec794a186452a8fcaffbe414ba72c6e59
+FileChecksum: MD5: 8b34930a61e857af88cc6ee689aec2b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/build_image/dockerhub/v0.9.0/baseimage/Dockerfile
+SPDXID: SPDXRef-item7783914
+FileChecksum: SHA1: 48c397428f5e2fcca8e2c4ece0e5b83d41fb6ce4
+FileChecksum: MD5: 81613da6c3864c7eed45749f9ccbcf5b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/build_image/dockerhub/v0.9.0/operator-dashboard/Fix-operator-user-dashboard-build-image-failed.patch
+SPDXID: SPDXRef-item7783920
+FileChecksum: SHA1: 6eaeb267d5df2706c64c45c98d5b59134dde151d
+FileChecksum: MD5: d5c6f6b6a5cc0406de981893bcbf2741
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/.dockerignore
+SPDXID: SPDXRef-item7783922
+FileChecksum: SHA1: efd32b0ff237703a5e4d2ca54e70b1456a9fdffe
+FileChecksum: MD5: 685cea96c1d46f1601df068d5dcd65e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/go.sum
+SPDXID: SPDXRef-item7783923
+FileChecksum: SHA1: adada816c2d0e8d0cad8db251c0ff0821e510a58
+FileChecksum: MD5: 3150f96c0c18c5e654af2c76d8ea1d38
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/.gitattributes
+SPDXID: SPDXRef-item7783925
+FileChecksum: SHA1: e872cc431633fcbf6ce7e3ec4145d48e5d547c56
+FileChecksum: MD5: fdb6bc86ffafc1942a3ce5e155eac712
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/tests/postman/Makefile
+SPDXID: SPDXRef-item7783928
+FileChecksum: SHA1: b45f223b7f63aa8ac1079f0d7e9feef8dc660fa4
+FileChecksum: MD5: 59c2a1e991ed9f3ad7fbfced1db5f505
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/tests/postman/test/test.json
+SPDXID: SPDXRef-item7783930
+FileChecksum: SHA1: 4fbfb57d4e448488d428fec8271626e591b5359b
+FileChecksum: MD5: e48679a13dc9fb72b4db7affad8147b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/tests/postman/test.sh
+SPDXID: SPDXRef-item7783931
+FileChecksum: SHA1: b9b3041f7e97226646ce586a0fd6ddfdd2db1279
+FileChecksum: MD5: 9319b2e1fbdceb11fd4835d34607a37a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/tests/postman/docker-compose.yml
+SPDXID: SPDXRef-item7783932
+FileChecksum: SHA1: c1a8e6d5a4417103a8cdfa88d1399b410f57ed8e
+FileChecksum: MD5: e05ff33145ce1a7f961da7d33dbf7b32
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/tests/postman/env.json.tmpl
+SPDXID: SPDXRef-item7783933
+FileChecksum: SHA1: 64704e9022595a57f6fcab6bcf9911a0703ea57e
+FileChecksum: MD5: 5a7ebb29f5540bf75bc0b0625067c5f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/tests/dashboard/docker-compose.yml
+SPDXID: SPDXRef-item7783935
+FileChecksum: SHA1: 3c507d86f04149c9ff40dc82e8d099eef648fe1b
+FileChecksum: MD5: 4dc1e40c80d96ecd59df05491c7d6aae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/.gitignore
+SPDXID: SPDXRef-item7783936
+FileChecksum: SHA1: 9ef89112de43fc6e084d085ac10e4e7b4100ad5d
+FileChecksum: MD5: c21ddc77ef78bcae7ff61857797e4227
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/scripts/exclude-patterns
+SPDXID: SPDXRef-item7783952
+FileChecksum: SHA1: 88712aab1ce44b4ba7d1225867aa436a05ec2a82
+FileChecksum: MD5: cf2611f57900cfb2233f31e02cf078b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/docs/reference/configuration/server.md
+SPDXID: SPDXRef-item7783959
+FileChecksum: SHA1: d0b739ce8c61e1019f798be9f8f89d62d21465ff
+FileChecksum: MD5: c8f463f601be01ff4b2c52e6424a47fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/docs/operations/dashboard/operator.md
+SPDXID: SPDXRef-item7783965
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/docs/operations/dashboard/admin.md
+SPDXID: SPDXRef-item7783966
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/docs/operations/dashboard/user.md
+SPDXID: SPDXRef-item7783967
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/docs/images/scenario.png
+SPDXID: SPDXRef-item7783969
+FileChecksum: SHA1: 9e9e63cca8c733631e89a46c4f617a0eeace0167
+FileChecksum: MD5: ae2a07f5025741d18caf616594dc8707
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/docs/images/favicon.png
+SPDXID: SPDXRef-item7783970
+FileChecksum: SHA1: 1c0196097ce13c331bbfb27edd5b045617a2061b
+FileChecksum: MD5: 78457fe19a0b5a849a4b28c26a2727c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/docs/images/architecture.png
+SPDXID: SPDXRef-item7783971
+FileChecksum: SHA1: 169f84cd82bea67cf18cdd9c46dfe8fb3b7193fe
+FileChecksum: MD5: cb232bf96f96e9d29565da61191c97b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/docs/requirements.txt
+SPDXID: SPDXRef-item7783975
+FileChecksum: SHA1: 54d04af62061d8df00315f5191251eeb37273431
+FileChecksum: MD5: 5d32f3057774765d0d2b57fb760b6611
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/docs/faq.md
+SPDXID: SPDXRef-item7783978
+FileChecksum: SHA1: 9bb10e92f6436a7719842a8a4ecfb14797264f1d
+FileChecksum: MD5: 6af6bd5d194a538d969ff805f0e41fe7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/docs/release_note.md
+SPDXID: SPDXRef-item7783983
+FileChecksum: SHA1: 0359a083d6c9c73dea895d4c318420c60fdfb04d
+FileChecksum: MD5: a9f8b5594094fb7c4bbcf0d6b0f5582d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/thirdparty/helm/fabric-chart/README.md
+SPDXID: SPDXRef-item7783989
+FileChecksum: SHA1: 2f087fd5be575dbf4ec029faf65595de33c3ac82
+FileChecksum: MD5: 272a4110326ebd10f2a4d763a4c5640f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/thirdparty/helm/fabric-chart/values.yaml
+SPDXID: SPDXRef-item7783990
+FileChecksum: SHA1: 044d30ed8f0df5494b1e0602d18bf116dd46d96e
+FileChecksum: MD5: cfbd0371d9be30d225640e6090329e5e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/thirdparty/helm/fabric-chart/templates/cli/_cli_dpy.tpl
+SPDXID: SPDXRef-item7783993
+FileChecksum: SHA1: 62949647247e802939c300391a5f5a0d862da0fe
+FileChecksum: MD5: 848b235cf28643e84dec33ef7bbaca55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/thirdparty/helm/fabric-chart/templates/ca/_ca_dpy.tpl
+SPDXID: SPDXRef-item7783995
+FileChecksum: SHA1: 03cd9e52104bc6b94abbe00bae70eb6d56e2df9c
+FileChecksum: MD5: a25fa30ff0e645a0888caa5ba70aa4f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/thirdparty/helm/fabric-chart/templates/ca/_ca_svc.tpl
+SPDXID: SPDXRef-item7783996
+FileChecksum: SHA1: f2b556882db64c1e83b6b1f820fb772752d469d4
+FileChecksum: MD5: 6c481f827ceac7eefb2a4aa76c807236
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/thirdparty/helm/fabric-chart/templates/orderer/_orderer_svc.tpl
+SPDXID: SPDXRef-item7783998
+FileChecksum: SHA1: 3a6f0c2bd353c78e53c7f8493e0c872ad622203e
+FileChecksum: MD5: 502bd961ced531375989e3450fe596b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/thirdparty/helm/fabric-chart/templates/orderer/_orderer_kafka_dpy.tpl
+SPDXID: SPDXRef-item7783999
+FileChecksum: SHA1: 18edd7054a78310c60b7e8ebad3bd155f06b5179
+FileChecksum: MD5: 513c17200c7d5c3564d7021a9384b03b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/thirdparty/helm/fabric-chart/templates/orderer/_orderer_default_dpy.tpl
+SPDXID: SPDXRef-item7784000
+FileChecksum: SHA1: a7958c03ab3e3c11ff2574c1df7014e908b7d06a
+FileChecksum: MD5: cb1a2ac81d2e163b348a4e88f6b2ee0c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/thirdparty/helm/fabric-chart/templates/kafka/_kafka_dpy.tpl
+SPDXID: SPDXRef-item7784002
+FileChecksum: SHA1: 40dd4a14ea1d98cb2f35489ab6564ef451fcfc34
+FileChecksum: MD5: 0bde0d922f277cfaaf886d2282600196
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/thirdparty/helm/fabric-chart/templates/kafka/_kafka_svc.tpl
+SPDXID: SPDXRef-item7784003
+FileChecksum: SHA1: 17e3748907bd6ad2e2ec937469e76552d5d104d5
+FileChecksum: MD5: 92abc1007e97797461389392cb8cfdd8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/thirdparty/helm/fabric-chart/templates/common/_helpers.tpl
+SPDXID: SPDXRef-item7784005
+FileChecksum: SHA1: b679893993afac171ad0ca65c9073624da0107ba
+FileChecksum: MD5: 58b24d66addeaa5ee21fbe1fa7adbeb1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/thirdparty/helm/fabric-chart/templates/common/_pv.tpl
+SPDXID: SPDXRef-item7784006
+FileChecksum: SHA1: ad63b1090230334673c50bdc51929d10210e797c
+FileChecksum: MD5: 635dfce11d89fc2fdeda88c240bba3e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/thirdparty/helm/fabric-chart/templates/common/_ingress.tpl
+SPDXID: SPDXRef-item7784007
+FileChecksum: SHA1: 11a25d37eeac8047a03aacf94f03dc994c68ffe4
+FileChecksum: MD5: 07ee13f9f2f5b86b22204eadd64c2f8c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/thirdparty/helm/fabric-chart/templates/common/_namespace.tpl
+SPDXID: SPDXRef-item7784008
+FileChecksum: SHA1: 60b9421757ae154a38de2236a1439d17a775f786
+FileChecksum: MD5: f517bda2710dd0b0e20c16b4feb7067a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/thirdparty/helm/fabric-chart/templates/common/_pvc.tpl
+SPDXID: SPDXRef-item7784009
+FileChecksum: SHA1: 8cad0cebd0296798805f795d1f26aa1759249065
+FileChecksum: MD5: cb3f5a41d98e7d12ee54aada3858c327
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/thirdparty/helm/fabric-chart/templates/zookeeper/_zookeeper_svc.tpl
+SPDXID: SPDXRef-item7784011
+FileChecksum: SHA1: f2d545abef6af404735ef211b1acd88fb8bb07e8
+FileChecksum: MD5: 271f292d751f05859ddf4c636319c5af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/thirdparty/helm/fabric-chart/templates/zookeeper/_zookeeper_dpy.tpl
+SPDXID: SPDXRef-item7784012
+FileChecksum: SHA1: 9beb086a7ad04cd6237f4f0ccd609ab520f6c296
+FileChecksum: MD5: aab3610eb15cf2894d5baedf57883afa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/thirdparty/helm/fabric-chart/templates/peer/_peer_svc.tpl
+SPDXID: SPDXRef-item7784014
+FileChecksum: SHA1: ca8b5da03a98ee3b790c6c0f07674902440fd6d5
+FileChecksum: MD5: 23d378916840704f4998d14992d0dee0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/thirdparty/helm/fabric-chart/templates/peer/_peer_dpy.tpl
+SPDXID: SPDXRef-item7784015
+FileChecksum: SHA1: da4295a06e047b0a2cdac2f8be4b262ceb38fc30
+FileChecksum: MD5: 8644ac9fdfcf17d6ab6860f7ceefb843
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/thirdparty/helm/fabric-chart/templates/orderer.yaml
+SPDXID: SPDXRef-item7784016
+FileChecksum: SHA1: 8af8ac3f00122987d4b897e549a28a2dae9ecc51
+FileChecksum: MD5: 4380b23cb7b43181f2003b246eaee2f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/thirdparty/helm/fabric-chart/templates/peer.yaml
+SPDXID: SPDXRef-item7784017
+FileChecksum: SHA1: bfe2340d94ca88067d0bfc306eefe36ba13f5204
+FileChecksum: MD5: 031ead74574c6beb8d2f4275107703d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/thirdparty/helm/fabric-chart/Chart.yaml
+SPDXID: SPDXRef-item7784018
+FileChecksum: SHA1: 7720f52d37affa5ff9d79126b854319310bba725
+FileChecksum: MD5: 431f43172b007597b784f3162a1edee6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/thirdparty/helm/cello-master/requirements.yaml
+SPDXID: SPDXRef-item7784020
+FileChecksum: SHA1: 19e6d69706980baf1dcad5f88692238d73b1882b
+FileChecksum: MD5: 71dbd8e92dba3b36b72dfb0863086cc4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/thirdparty/helm/cello-master/values.yaml
+SPDXID: SPDXRef-item7784021
+FileChecksum: SHA1: 5f952b2ad0d140537e0941eba99e1a73d3da8ce9
+FileChecksum: MD5: f8bfae00980dd890f5c8a9fee873e434
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/thirdparty/helm/cello-master/templates/user-dashboard-pv.yaml
+SPDXID: SPDXRef-item7784023
+FileChecksum: SHA1: 2c79a7f912c87240159681d35396979f6a9a72fe
+FileChecksum: MD5: 5263f2007c8059bfb3a2f0e26974c251
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/thirdparty/helm/cello-master/templates/mongo-pv.yaml
+SPDXID: SPDXRef-item7784024
+FileChecksum: SHA1: 6a385133622bdc5fdd5f931f3371a1dc6c51cd3f
+FileChecksum: MD5: 5233b679eec3fe485c4d73fdc153f606
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/thirdparty/helm/cello-master/templates/_helpers.tpl
+SPDXID: SPDXRef-item7784025
+FileChecksum: SHA1: 6c79396fc195a78222e6cfe7d172523d3976ea97
+FileChecksum: MD5: 5bb4917d16f52098ba3b9deed360cd74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/thirdparty/helm/cello-master/templates/user-dashboard-pvc.yaml
+SPDXID: SPDXRef-item7784026
+FileChecksum: SHA1: c42d607918b9ce4a62cdeace4b6ea57c8f5b5c6f
+FileChecksum: MD5: 3dfe8db38c404a1c80c58d0a7346e3ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/thirdparty/helm/cello-master/templates/nfs-pvc.yaml
+SPDXID: SPDXRef-item7784027
+FileChecksum: SHA1: bc4a710b01a07210fbcfe8c39caf90390d8d04a5
+FileChecksum: MD5: e0137b049ac127a793797629809c733c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/thirdparty/helm/cello-master/templates/NOTES.txt
+SPDXID: SPDXRef-item7784028
+FileChecksum: SHA1: 60afc59c0e8c5313fad29e389c1efb9057238931
+FileChecksum: MD5: 16db9413c56023054cf7c4a773ff1368
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/thirdparty/helm/cello-master/templates/nfs-pv.yaml
+SPDXID: SPDXRef-item7784029
+FileChecksum: SHA1: ad546a4d43082308180464398add9f2fa6ffcb60
+FileChecksum: MD5: 08c3af2e187ab4b7143c9e278aee2b50
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/thirdparty/helm/cello-master/templates/ingress.yaml
+SPDXID: SPDXRef-item7784030
+FileChecksum: SHA1: 4fde0f46794b1d1a7572ffd8b467b02f5ac556b8
+FileChecksum: MD5: 5aaf908aaf02cc028ab94b1101d06def
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/thirdparty/helm/cello-master/templates/deployment.yaml
+SPDXID: SPDXRef-item7784031
+FileChecksum: SHA1: 6dbbde0743d7535e2208acc8fe204b003cb4093d
+FileChecksum: MD5: 3b658f3ec14d7db4f17f654df926bd22
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/thirdparty/helm/cello-master/templates/minio-pv.yaml
+SPDXID: SPDXRef-item7784032
+FileChecksum: SHA1: db27b0b8ddfc589112425299ce377a8ab6aa750d
+FileChecksum: MD5: d1e1a5fcf7710fd137de39fb01c899c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/thirdparty/helm/cello-master/templates/mongo-pvc.yaml
+SPDXID: SPDXRef-item7784033
+FileChecksum: SHA1: a879bf56a19400b5f0fbf01c3a48b8424d65fcb1
+FileChecksum: MD5: f89f03569eefbd5fcfea8b85e2dd1899
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/thirdparty/helm/cello-master/templates/service.yaml
+SPDXID: SPDXRef-item7784034
+FileChecksum: SHA1: 39f87dd348cff1db61e81c8aa7b094722f4cac91
+FileChecksum: MD5: 856d1ceeb6e425ed2201c22b95ed0c4f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/thirdparty/helm/cello-master/Chart.yaml
+SPDXID: SPDXRef-item7784035
+FileChecksum: SHA1: cc6bb294d37f1faa9af69e9e5bf37188c40f3266
+FileChecksum: MD5: 17258c142c21c4606fb1f08a66339f8f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/thirdparty/helm/cello-master/requirements.lock
+SPDXID: SPDXRef-item7784036
+FileChecksum: SHA1: f27e1654ff0d4d1c733f436186841290f2d42755
+FileChecksum: MD5: 2403f5b9d5c24105ec63a9ecf155df89
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/.makerc/api-engine
+SPDXID: SPDXRef-item7784038
+FileChecksum: SHA1: 28e103dc1c19473b1fdd2364bcc10b02ab85db77
+FileChecksum: MD5: 95b4ac81d54b4a629cb6e33a80cf0b15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/.makerc/kubernetes
+SPDXID: SPDXRef-item7784039
+FileChecksum: SHA1: 63995e892a8b7851f0be5cf60dc8132102776922
+FileChecksum: MD5: bbc206dd016e0201cbd65c570d6ef1e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/.makerc/functions
+SPDXID: SPDXRef-item7784040
+FileChecksum: SHA1: 0c22fa683d4bf4d6ab44c02daf7e9f6bf84d7155
+FileChecksum: MD5: 0b00f34c5e6f1d2d2f61a73f662d02e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/.github/PULL_REQUEST_TEMPLATE/pull_request_template.md
+SPDXID: SPDXRef-item7784045
+FileChecksum: SHA1: a9c9111892aa2e364efd090e828a837fa0043c49
+FileChecksum: MD5: 04a8b402eac594726a6ebebde7f1bb33
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/.github/ISSUE_TEMPLATE/custom.md
+SPDXID: SPDXRef-item7784047
+FileChecksum: SHA1: 84208538d48505ee8e49812cb336eb9882e08dc7
+FileChecksum: MD5: 73b81d391445186c7a22c42708ff1832
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/.github/ISSUE_TEMPLATE/bug_report.md
+SPDXID: SPDXRef-item7784048
+FileChecksum: SHA1: 8a390f203ec7a01f5de2d1ba3fcc8a718b521489
+FileChecksum: MD5: 74c3bfac1e8ef382305adf20e2575def
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/.github/ISSUE_TEMPLATE/feature_request.md
+SPDXID: SPDXRef-item7784049
+FileChecksum: SHA1: f6867a2f0417fe89a0f2008730ee19dd38422021
+FileChecksum: MD5: 174545e1d9daff8020525fdd1e020411
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/go.mod
+SPDXID: SPDXRef-item7784050
+FileChecksum: SHA1: 613a5e87460e522bb3ec501f6a5b7d0ecaa28a3d
+FileChecksum: MD5: a97a0734f4227f71bede9fba03bd7f63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/SECURITY.md
+SPDXID: SPDXRef-item7784051
+FileChecksum: SHA1: 0397010efc31a3508d0eb8151dbae32e9433b031
+FileChecksum: MD5: ae35bef17d8b512c07bade9bc1c39226
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello/CHANGELOG.md
+SPDXID: SPDXRef-item7784053
+FileChecksum: SHA1: 101ea50f8c590782527ecd61a03dedae8c1dc463
+FileChecksum: MD5: d017361ecfa1277b791bb825c3e2d0cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello-analytics/.gitreview
+SPDXID: SPDXRef-item7784068
+FileChecksum: SHA1: 17caef2c6efebe9d77a1b632cd8b6434cbf323e6
+FileChecksum: MD5: 0e939e10aeba5d4db079799646e423e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello-analytics/.dockerignore
+SPDXID: SPDXRef-item7784070
+FileChecksum: SHA1: efd32b0ff237703a5e4d2ca54e70b1456a9fdffe
+FileChecksum: MD5: 685cea96c1d46f1601df068d5dcd65e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello-analytics/monitor/README.md
+SPDXID: SPDXRef-item7784072
+FileChecksum: SHA1: 03d11d5a8d03b1a7791f8f5557f38dcb78b34145
+FileChecksum: MD5: b13f685cf10c980cfb93dceb8fc7fc7d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello-analytics/monitor/setup_es.sh
+SPDXID: SPDXRef-item7784073
+FileChecksum: SHA1: f8c00374bbe23832011ad5342fbe83577a4640ea
+FileChecksum: MD5: 3d31e7f73ffa4a77114a7deaeb320b74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello-analytics/monitor/kibana_export.json
+SPDXID: SPDXRef-item7784074
+FileChecksum: SHA1: 4b015838a74aa7a51d4272277b6c3f5992159ae6
+FileChecksum: MD5: 2bed2817847760f6e3ce832d7ef6ef67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello-analytics/monitor/index_hyperledger_monitor.json
+SPDXID: SPDXRef-item7784075
+FileChecksum: SHA1: d664791f43e0ed98810946f629aa78a327e9928a
+FileChecksum: MD5: 77062fa85ae397a3d9891e30f17fbbb3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello-analytics/monitor/start_cmonit.sh
+SPDXID: SPDXRef-item7784076
+FileChecksum: SHA1: 0cdd61e66e8c7556db79b3d0f778f1f2d87f32dc
+FileChecksum: MD5: 7d73d512f8c96599a5baa1c1e372c8aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello-analytics/.gitattributes
+SPDXID: SPDXRef-item7784078
+FileChecksum: SHA1: e872cc431633fcbf6ce7e3ec4145d48e5d547c56
+FileChecksum: MD5: fdb6bc86ffafc1942a3ce5e155eac712
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello-analytics/.gitignore
+SPDXID: SPDXRef-item7784079
+FileChecksum: SHA1: e1b058408640b95a4a670a7a4c68b87f2bf6081a
+FileChecksum: MD5: cc281f4a441d24c1987483a7413970e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cello-analytics/SECURITY.md
+SPDXID: SPDXRef-item7784080
+FileChecksum: SHA1: 3c1e9d34253f7c866cd08d9e1e976ca8ecd44197
+FileChecksum: MD5: fd5082d9c35456a3a6327fcc8a93e25d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-Meta-Wrong-License-Statement
+LicenseName: Meta-Wrong-License-Statement
+ExtractedText: <text> Meta flag: Indicates an incorrect license statement, typically in package metadata where it differs from the stated license in the source code headers or documentation. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-Apache-possibility
+LicenseName: Apache-possibility
+ExtractedText: <text> License by Nomos. </text>
+
