@@ -1,0 +1,5559 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_quilt-2020-01-03.zip_1578081284.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2020-01-03T19:54:45Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: quilt-2020-01-03.zip
+PackageFileName: quilt-2020-01-03.zip
+SPDXID: SPDXRef-upload2006
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: cd5b6cde38a5f4de317ef3a66ae8e7c08207062d
+PackageChecksum: SHA1: 86e5c4393b8272c04093968820167cbe6dec6d9d
+PackageChecksum: MD5: 1a1c908cef2d69af224eb83402220e91
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2006
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: quilt/LICENSE
+SPDXID: SPDXRef-item7833743
+FileChecksum: SHA1: 92170cdc034b2ff819323ff670d3b7266c8bffcd
+FileChecksum: MD5: e3fc50a88d0a364313df4b21ef20c29e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/main/java/org/interledger/encoding/asn/codecs/AsnOctetStringCodec.java
+SPDXID: SPDXRef-item7833558
+FileChecksum: SHA1: dfb4747bce669f2b3abdbcd6f38e29248d2c65d9
+FileChecksum: MD5: 846baec65a7a08807b14b9aff7d046fa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/test/java/org/interledger/encoding/asn/serializers/oer/OerLengthPrefixCodecTestBadLength.java
+SPDXID: SPDXRef-item7833540
+FileChecksum: SHA1: d49d290db27c90cefd346e46852091735a7cef4d
+FileChecksum: MD5: 410f20ea82713225929bf6e62ef7d79d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/main/java/org/interledger/encoding/asn/codecs/AsnIA5StringBasedObjectCodec.java
+SPDXID: SPDXRef-item7833556
+FileChecksum: SHA1: 6409006fb53d1269550b0218a23fd4a25f2c09f4
+FileChecksum: MD5: 84ebbe429417bcaddb4962518dcee468
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/main/java/org/interledger/encoding/asn/codecs/AsnSequenceOfSequenceCodec.java
+SPDXID: SPDXRef-item7833560
+FileChecksum: SHA1: 95d2c14f6dc2ae4a6e6450afd913a71036d81e44
+FileChecksum: MD5: 4ba8716ebd0b2f409501aac08ae8df99
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/main/java/org/interledger/encoding/asn/codecs/AsnPrintableStringBasedObjectCodec.java
+SPDXID: SPDXRef-item7833559
+FileChecksum: SHA1: 5db1bbe7ec9435e36d094088de386fe6939687b8
+FileChecksum: MD5: b0e349b7bbe3afe6c24dfe483434d15a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/main/java/org/interledger/encoding/asn/codecs/AsnPrintableStringCodec.java
+SPDXID: SPDXRef-item7833561
+FileChecksum: SHA1: 113138c01345ce072b28fd6565e981eccf9e7381
+FileChecksum: MD5: a82388d2ef62276a0df841fb53a54554
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/main/java/org/interledger/encoding/asn/codecs/AsnUtf8StringCodec.java
+SPDXID: SPDXRef-item7833563
+FileChecksum: SHA1: 7aeff9be2f209e34c3e121e8813488d0e08dbdcf
+FileChecksum: MD5: 97a9f8098e0232aac48127c38c509c76
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/main/java/org/interledger/encoding/asn/codecs/AsnOpenTypeCodec.java
+SPDXID: SPDXRef-item7833565
+FileChecksum: SHA1: 73543fb5f92d95faefcfe358976efce3b2b586ee
+FileChecksum: MD5: 1fabbc7fee85e681d4e2f926999899c3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/main/java/org/interledger/encoding/asn/codecs/AsnIA5StringCodec.java
+SPDXID: SPDXRef-item7833567
+FileChecksum: SHA1: 653102de61db101cc24aa0f4206a9a5c420146f5
+FileChecksum: MD5: 225cdcee0f48dc8aedf1b32c3071c9ba
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/main/java/org/interledger/encoding/asn/codecs/AsnUtf8StringBasedObjectCodec.java
+SPDXID: SPDXRef-item7833572
+FileChecksum: SHA1: aa666c4f244b17a9411b7697360ff41acc69dff2
+FileChecksum: MD5: 1cd222af3f54819c6dafb620f22ffd8c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/main/java/org/interledger/encoding/asn/codecs/AsnCharStringBasedObjectCodec.java
+SPDXID: SPDXRef-item7833569
+FileChecksum: SHA1: 78d6a1a32aa7acf39d639bd53e855fc6444cebc5
+FileChecksum: MD5: 4b7916de27567a52d52879d6b7ec7d84
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/main/java/org/interledger/encoding/asn/serializers/oer/AsnCharStringOerSerializer.java
+SPDXID: SPDXRef-item7833579
+FileChecksum: SHA1: 9719820d5d5219f8fffef6c2a2bae8355f981703
+FileChecksum: MD5: 9df5c0aa88118fc0582c77c554cbbb16
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/main/java/org/interledger/encoding/asn/codecs/AsnSequenceCodec.java
+SPDXID: SPDXRef-item7833575
+FileChecksum: SHA1: d3a0d20a0522e73571a745d036ad33f8dcabc81e
+FileChecksum: MD5: f1ce187ee0fb4fdbe3b15cc8711c6553
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/main/java/org/interledger/encoding/asn/framework/CodecException.java
+SPDXID: SPDXRef-item7833592
+FileChecksum: SHA1: 140fae95f7429dba18d36de32658d2178508db00
+FileChecksum: MD5: eea11a82f363782c07168060a96c0a5e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/main/java/org/interledger/encoding/asn/serializers/oer/AsnOctetStringOerSerializer.java
+SPDXID: SPDXRef-item7833580
+FileChecksum: SHA1: d230d08954b9f8d42d09a6f6a2ec94cd0bb458d3
+FileChecksum: MD5: 07d2b5458d4c63740489594f4fcfce0f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/main/java/org/interledger/encoding/asn/serializers/oer/AsnSequenceOerSerializer.java
+SPDXID: SPDXRef-item7833581
+FileChecksum: SHA1: 9aae70f87d8dbd6b73bae42be0055d62c58fc56f
+FileChecksum: MD5: cb68fedc675d8162277e703c033d9bfb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/jackson-datatypes/src/main/java/org/interledger/quilt/jackson/address/InterledgerAddressDeserializer.java
+SPDXID: SPDXRef-item7833837
+FileChecksum: SHA1: 1b814b960ffebbde3f2126c7807c625cfc6fad04
+FileChecksum: MD5: 7ce9800678313f3afa725b48f37da799
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/jackson-datatypes/src/main/java/org/interledger/quilt/jackson/conditions/SerializerUtils.java
+SPDXID: SPDXRef-item7833856
+FileChecksum: SHA1: 170bb624d867ab2e7753cc4a55f53ed322a2dce7
+FileChecksum: MD5: c3dab8d17c6c3a851ebf493e678134e4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/jackson-datatypes/src/main/java/org/interledger/quilt/jackson/conditions/Encoding.java
+SPDXID: SPDXRef-item7833857
+FileChecksum: SHA1: 775b7bd45ba07b196e8eb15d3388a406b173da4c
+FileChecksum: MD5: f21c9a8a9553eedafdc5abf8b7233f0b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/jackson-datatypes/src/main/java/org/interledger/quilt/jackson/conditions/ConditionSerializer.java
+SPDXID: SPDXRef-item7833855
+FileChecksum: SHA1: be251299775c6b924fcd138d8abe9c4e923087f0
+FileChecksum: MD5: d60b6087bd5559c557f2fbb8d7d4afae
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/jackson-datatypes/src/main/java/org/interledger/quilt/jackson/conditions/ConditionDeserializer.java
+SPDXID: SPDXRef-item7833861
+FileChecksum: SHA1: e10c88dfd3f1989e5cdc7b8305194fc34e34242e
+FileChecksum: MD5: 5f56eed5ee9a568d3d00cc7cdf0fe602
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/jackson-datatypes/src/main/java/org/interledger/quilt/jackson/conditions/FulfillmentDeserializer.java
+SPDXID: SPDXRef-item7833858
+FileChecksum: SHA1: 58300740ca5d315d46f83612bd69fd4c28c367b8
+FileChecksum: MD5: abf59371b3b6225b0f803b0fca081ae9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/jackson-datatypes/src/main/java/org/interledger/quilt/jackson/conditions/FulfillmentSerializer.java
+SPDXID: SPDXRef-item7833859
+FileChecksum: SHA1: 6b8e8b1b34b4812e2c998c2e9a22bbdc307cb65c
+FileChecksum: MD5: 9b40f05524fe986cbc6c82b440e4a6c7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/btp-core/src/test/java/org/interledger/btp/BtpMessageTypeTest.java
+SPDXID: SPDXRef-item7833437
+FileChecksum: SHA1: 3e5240b352ab312e3c58d29bd1f930b82649ab69
+FileChecksum: MD5: fbef247787abc6839cd1d624397a7846
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/btp-core/src/main/java/org/interledger/btp/BtpPacket.java
+SPDXID: SPDXRef-item7833453
+FileChecksum: SHA1: 35fa444d797ac4a2cc4d07bf162617824c8e2e53
+FileChecksum: MD5: e0dbea2bbb2fcdacec2fb81f2c34748e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/btp-core/src/main/java/org/interledger/btp/BtpMessageType.java
+SPDXID: SPDXRef-item7833460
+FileChecksum: SHA1: 065f47fc47eeac5d41ff08088b756b2019577fa8
+FileChecksum: MD5: 073b36075d667425ee02c0cb40c960ed
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/test/java/org/interledger/encoding/asn/serializers/oer/IA5StringOerSerializerTest.java
+SPDXID: SPDXRef-item7833536
+FileChecksum: SHA1: d3ba19abdfdced5bd5b8fe93f2900e87cc0f776a
+FileChecksum: MD5: 15786e62e1c13e43d23083a228530c6e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/main/java/org/interledger/encoding/asn/codecs/AsnUint32Codec.java
+SPDXID: SPDXRef-item7833555
+FileChecksum: SHA1: 0672c94c71cc444d3ad59f4c9f935a6e74c7a693
+FileChecksum: MD5: 84c14ccf9122a85fdd06126cf2badca1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/test/java/org/interledger/encoding/asn/AsnMyCustomObjectCodec.java
+SPDXID: SPDXRef-item7833527
+FileChecksum: SHA1: db89de0cbccc1ec45cd01a33a5388be55aa2d02f
+FileChecksum: MD5: d098f10c16cc4d02c46c25d6cc516af5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/main/java/org/interledger/encoding/asn/framework/AsnObjectSerializer.java
+SPDXID: SPDXRef-item7833587
+FileChecksum: SHA1: fd840360232c89ab80cf31d1b4dbfd40bd6f77b1
+FileChecksum: MD5: 1f0f35a784c4c63ce557b5f759dae085
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/main/java/org/interledger/encoding/asn/codecs/AsnUint16Codec.java
+SPDXID: SPDXRef-item7833571
+FileChecksum: SHA1: d382d54fd299ac64f336569e0d1c33e4df1183e7
+FileChecksum: MD5: 3a191d4273ef7ee0133e0f9f314a30f8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/btp-core/src/test/java/org/interledger/btp/BtpResponseTest.java
+SPDXID: SPDXRef-item7833439
+FileChecksum: SHA1: 27e4280e8b1bda842d48b23566e17920a9fc44c8
+FileChecksum: MD5: 4bdc4fd3974407ff6061ac0e2d4f1a3b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/btp-core/src/test/java/org/interledger/btp/ContentTypeTest.java
+SPDXID: SPDXRef-item7833447
+FileChecksum: SHA1: 3839a7c1586883092b7b73be24037a46786c50bb
+FileChecksum: MD5: f15305ce5c7d12b36e3e9e66cf676de0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/btp-core/src/main/java/org/interledger/btp/BtpRequestPacket.java
+SPDXID: SPDXRef-item7833455
+FileChecksum: SHA1: 20840e9543c2f906fbaf6fdef29acadf68a1183c
+FileChecksum: MD5: 40c23040745630edb9ffbf4aa1d9ef66
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/btp-core/src/main/java/org/interledger/btp/package-info.java
+SPDXID: SPDXRef-item7833464
+FileChecksum: SHA1: 5f834424c386ea407520be4b299786f5347ec6c7
+FileChecksum: MD5: 3de99ef152d12c60317291eb8d19085b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2019 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/jackson-datatypes/src/main/java/org/interledger/quilt/jackson/address/InterledgerAddressSerializer.java
+SPDXID: SPDXRef-item7833836
+FileChecksum: SHA1: 302aea0697c2ab41e6319918e2e8213e41d59390
+FileChecksum: MD5: 2ce081699efa2f091df7e9ceaf5ead69
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/main/java/org/interledger/encoding/asn/codecs/AsnPrimitiveCodec.java
+SPDXID: SPDXRef-item7833562
+FileChecksum: SHA1: fd35e20764d55378272685a83f1be520f419bdd1
+FileChecksum: MD5: 2b02a84447d23570d3e794ee9fde6d34
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/ildcp-core/src/main/java/org/interledger/ildcp/IldcpFetcher.java
+SPDXID: SPDXRef-item7833792
+FileChecksum: SHA1: 07308b3d356f305d573f0d86be00433439658553
+FileChecksum: MD5: ffdad0f5ad8c7036324f675a4138f946
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2019 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/main/java/org/interledger/encoding/asn/codecs/AsnSizeConstraint.java
+SPDXID: SPDXRef-item7833573
+FileChecksum: SHA1: b0da551f18169c89afaab535635d5d28315e8a12
+FileChecksum: MD5: 1bce1c98629dad9674c064169db31b94
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/ildcp-core/src/main/java/org/interledger/ildcp/IldcpResponsePacketHandler.java
+SPDXID: SPDXRef-item7833797
+FileChecksum: SHA1: 94710053eb3689d6dcc47975a59a6a01f70b8789
+FileChecksum: MD5: 2feabc893aab60341777c892f719bc86
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2019 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/ildcp-core/src/main/java/org/interledger/ildcp/package-info.java
+SPDXID: SPDXRef-item7833798
+FileChecksum: SHA1: bd3bd75fd3f7536a24741c3ab5d028bb48224334
+FileChecksum: MD5: 29e2da6b73c7b248a088e2bb2b5766b9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2019 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/ilp-core/src/main/java/org/interledger/core/InterledgerFulfillment.java
+SPDXID: SPDXRef-item7833900
+FileChecksum: SHA1: fafdef8c31ae9e6122ed162e7abc68c587308e86
+FileChecksum: MD5: 32b95e0cf3599aa93614269ab4665c42
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/ilp-core/src/main/java/org/interledger/core/InterledgerCondition.java
+SPDXID: SPDXRef-item7833906
+FileChecksum: SHA1: a57219dc03b13b9cdf887593ef3913637ce420da
+FileChecksum: MD5: da98ce1ec94d2350e07507ea152bef27
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/jackson-datatypes/src/test/java/org/interledger/quilt/jackson/conditions/AbstractConditionModuleTest.java
+SPDXID: SPDXRef-item7833826
+FileChecksum: SHA1: f2dca816daf2484e81e5ff148b3c465f89ba4ae1
+FileChecksum: MD5: 8be43b3eaeb8063d86279ff55d20997a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/ilp-core/src/main/java/org/interledger/core/InterledgerPacket.java
+SPDXID: SPDXRef-item7833897
+FileChecksum: SHA1: 3cae654718b0b5a13cae278e28f3c3d087a91cd5
+FileChecksum: MD5: b2ca344b76dc2f10cd8103cdf30cfcca
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/ilp-core/src/main/java/org/interledger/core/package-info.java
+SPDXID: SPDXRef-item7833912
+FileChecksum: SHA1: cd1380f75521d04911efcf2979ff571238a1ed4a
+FileChecksum: MD5: d497ea917aa57631f3bc7f81e7a1ba77
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/test/java/org/interledger/encoding/asn/serializers/oer/IA5StringOerSerializerTestBadLength.java
+SPDXID: SPDXRef-item7833532
+FileChecksum: SHA1: 75f40f580aa99bf056d5027081a5ef504d1fcf9b
+FileChecksum: MD5: bc206c168cdf07cf70eaeb7b4cb4c8df
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/jackson-datatypes/src/main/java/org/interledger/quilt/jackson/address/InterledgerAddressModule.java
+SPDXID: SPDXRef-item7833835
+FileChecksum: SHA1: a84a44297f5442b12a2a2476c46bcbc5653b6904
+FileChecksum: MD5: 409a8ec1619c0aa9ef7285c63cda230e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/btp-core/src/main/java/org/interledger/btp/BtpMessage.java
+SPDXID: SPDXRef-item7833458
+FileChecksum: SHA1: 139c3e368f06518f38f34e24f9a5e4a6b762c66e
+FileChecksum: MD5: 33d86a9d4e93daac787914d8ab8bb551
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/btp-core/src/main/java/org/interledger/btp/BtpResponse.java
+SPDXID: SPDXRef-item7833457
+FileChecksum: SHA1: decf6770f9f33515682539408a792f7a87f7670a
+FileChecksum: MD5: a7e40bee9d46916f7dd5025225006ecc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/jackson-datatypes/src/main/java/org/interledger/quilt/jackson/conditions/ConditionModule.java
+SPDXID: SPDXRef-item7833860
+FileChecksum: SHA1: 28de6dfe709fe53e4c7361eae36f99023e0f0277
+FileChecksum: MD5: f920c3081c9965a3b942b17f413da10d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/ilp-core/src/main/java/org/interledger/core/Immutable.java
+SPDXID: SPDXRef-item7833908
+FileChecksum: SHA1: 702802b7aaa541838fe16e8b098a8ff4fa0432d9
+FileChecksum: MD5: 08d8867773fa1aa1aeb6aae56633fee4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/ilp-core/src/main/java/org/interledger/core/InterledgerRejectPacket.java
+SPDXID: SPDXRef-item7833910
+FileChecksum: SHA1: 80344ccd648bf9db0304f3e3b774decad16edadb
+FileChecksum: MD5: c982565ee311eabf5f79f959a81c74bc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/ilp-core/src/main/java/org/interledger/core/InterledgerFulfillPacket.java
+SPDXID: SPDXRef-item7833915
+FileChecksum: SHA1: da26831d0d1be54279e8f2cdaab5a74307764d86
+FileChecksum: MD5: 60e6ebbb994a2b6b69180dcf90a7cc4b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/btp-core/src/main/java/org/interledger/btp/BtpErrorCode.java
+SPDXID: SPDXRef-item7833462
+FileChecksum: SHA1: 7aba64fc7aff3c64dc18344b0cf75c1e634d4ece
+FileChecksum: MD5: 38a64b7a5a6d18d781afdd9af35c3762
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/btp-core/src/main/java/org/interledger/btp/BtpSubProtocols.java
+SPDXID: SPDXRef-item7833461
+FileChecksum: SHA1: adc3f4d002820e5679a54ae211e0ffda90c9132a
+FileChecksum: MD5: e2b2da5197fc346fc259a0597290499c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-ilp/src/test/java/org/interledger/codecs/ilp/InstantOerSerializerTestBadFormat.java
+SPDXID: SPDXRef-item7833487
+FileChecksum: SHA1: 72ad5e548536451a74d89d7a39b6fad39d35d3d5
+FileChecksum: MD5: 80a267a0693bce6522bf4d89ab62837f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-ilp/src/main/java/org/interledger/codecs/ilp/InterledgerCodecContextFactory.java
+SPDXID: SPDXRef-item7833499
+FileChecksum: SHA1: 9d55badd4ba174f1bb33defb8dac673aa44cc0d4
+FileChecksum: MD5: 5610d88314b582c8f0fcb889efe1bee4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-ilp/src/main/java/org/interledger/codecs/ilp/AsnFulfillmentCodec.java
+SPDXID: SPDXRef-item7833498
+FileChecksum: SHA1: 6fe7a4a5f422c67818925fee73fc285b5f21f245
+FileChecksum: MD5: 350927b3213b8ad459d90b6852c81c76
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-ilp/src/main/java/org/interledger/codecs/ilp/AsnInterledgerRejectPacketCodec.java
+SPDXID: SPDXRef-item7833501
+FileChecksum: SHA1: 535dbdadec5a0125e6ae78a89ababb02f8fb7632
+FileChecksum: MD5: 43cae08843a7192d414fec9068b39998
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-ilp/src/main/java/org/interledger/codecs/ilp/AsnConditionCodec.java
+SPDXID: SPDXRef-item7833500
+FileChecksum: SHA1: e3fedd4b879bd006794681e686ee4639df7d72b7
+FileChecksum: MD5: 68886cb5be2b72a5fcee87db8de29dbd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-ilp/src/main/java/org/interledger/codecs/ilp/AsnInterledgerAddressPrefixCodec.java
+SPDXID: SPDXRef-item7833502
+FileChecksum: SHA1: 7f27db7b4d14ef167e4403a5481b492c9a3eaa30
+FileChecksum: MD5: 0968879884d4ef03452829ccd64e0c00
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-ilp/src/main/java/org/interledger/codecs/ilp/AsnInterledgerPacketCodec.java
+SPDXID: SPDXRef-item7833503
+FileChecksum: SHA1: a054cfe165118703054b1a8578814960f0aa3820
+FileChecksum: MD5: c4ada0003c04d8ef29516339ed97593b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-ilp/src/main/java/org/interledger/codecs/ilp/AsnInterledgerFulfillPacketCodec.java
+SPDXID: SPDXRef-item7833504
+FileChecksum: SHA1: ca9ce18766125f406ef7ca955e32a9cf6c21e1c4
+FileChecksum: MD5: 62cd4cda79ac4cfd32134312708b93e9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-ilp/src/main/java/org/interledger/codecs/ilp/AsnInterledgerFulfillPacketDataCodec.java
+SPDXID: SPDXRef-item7833505
+FileChecksum: SHA1: 292d19e38eb1f8aeaae278605a9969262d94e35b
+FileChecksum: MD5: 6b222a764478b123f91819e4942cab15
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-ilp/src/main/java/org/interledger/codecs/ilp/AsnInterledgerRejectPacketDataCodec.java
+SPDXID: SPDXRef-item7833506
+FileChecksum: SHA1: ad1ad70a5e1efcdc147e289ba8d121b67c74b4a3
+FileChecksum: MD5: ae8bd8afa358bf73184049a15cacb90e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-ilp/src/main/java/org/interledger/codecs/ilp/AsnInterledgerPreparePacketCodec.java
+SPDXID: SPDXRef-item7833507
+FileChecksum: SHA1: f3a46af571c8b6aa00f89b4ac2228c5817af7002
+FileChecksum: MD5: 76a2693e7c99ba712a58c7a3685f1eb7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-ilp/src/main/java/org/interledger/codecs/ilp/package-info.java
+SPDXID: SPDXRef-item7833509
+FileChecksum: SHA1: 4d41097ac10ed51d3220fc2f17606bc2a29f16c0
+FileChecksum: MD5: 28e5246960fb0cdb1dd55f33d07e3532
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-ilp/src/main/java/org/interledger/codecs/ilp/AsnInterledgerPreparePacketDataCodec.java
+SPDXID: SPDXRef-item7833508
+FileChecksum: SHA1: 0ba1fcaebc0ec1c00f028fc452ea692a3c3431eb
+FileChecksum: MD5: 9f2f1eb22ed621e380f33ffa51e35a69
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-ilp/src/main/java/org/interledger/codecs/ilp/AsnInterledgerErrorCodeCodec.java
+SPDXID: SPDXRef-item7833510
+FileChecksum: SHA1: e47f80021d02fbc30f27c961ec98077403a0cf19
+FileChecksum: MD5: 858e537b98af7edd4d2a928f8f08724f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-btp/src/main/java/org/interledger/codecs/btp/AsnBtpTransferCodec.java
+SPDXID: SPDXRef-item7833617
+FileChecksum: SHA1: 9afa3208695ebe3e0a38be7bdd5b2c55ee944b55
+FileChecksum: MD5: 8cc7bacfedb1c200fcf5dad038296609
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-btp/src/main/java/org/interledger/codecs/btp/AsnBtpPacketDataCodec.java
+SPDXID: SPDXRef-item7833622
+FileChecksum: SHA1: b24e9b2f7752db923fd8eb499a769dc22db36cc8
+FileChecksum: MD5: 3e9a2056225774c911bbeb3fbf5e775f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-btp/src/main/java/org/interledger/codecs/btp/AsnBtpSubProtocolsCodec.java
+SPDXID: SPDXRef-item7833623
+FileChecksum: SHA1: d865ad137942b86dbf649f4371699788ab73fd16
+FileChecksum: MD5: f9fdd458c100850a33fe5e8a8f09a8b6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-ilp/src/main/java/org/interledger/codecs/ilp/AsnInterledgerAddressCodec.java
+SPDXID: SPDXRef-item7833511
+FileChecksum: SHA1: bcb0498785452f982d48e1077e537f703b39985b
+FileChecksum: MD5: ee1a101c9b97b35edba6b8555d6ef1de
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-btp/src/main/java/org/interledger/codecs/btp/AsnBtpResponseDataCodec.java
+SPDXID: SPDXRef-item7833618
+FileChecksum: SHA1: b1dd02f025e852c8e483ca4bc15d811fae42f23e
+FileChecksum: MD5: 332db9b15288bbdf21eef473696236fe
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-btp/src/main/java/org/interledger/codecs/btp/AsnBtpTransferDataCodec.java
+SPDXID: SPDXRef-item7833624
+FileChecksum: SHA1: 4567cefacb8ae408c0da20a973df53a64b253d18
+FileChecksum: MD5: e8a23148698175c29ace192905968177
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-btp/src/main/java/org/interledger/codecs/btp/AsnBtpSubProtocolCodec.java
+SPDXID: SPDXRef-item7833625
+FileChecksum: SHA1: 4debc258a713f771c9e5f9f304aa3747a080d1d5
+FileChecksum: MD5: b252e2c5763e32b4d3fb79755406f03c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-btp/src/main/java/org/interledger/codecs/btp/AsnBtpMessageDataCodec.java
+SPDXID: SPDXRef-item7833627
+FileChecksum: SHA1: f1fd1d98640ec631cb95c965845b047e54b04888
+FileChecksum: MD5: 81691a0549aeeaefd18ac66474b835a8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-btp/src/main/java/org/interledger/codecs/btp/AsnBtpMessageCodec.java
+SPDXID: SPDXRef-item7833626
+FileChecksum: SHA1: b1e4325c9b3b6d357512bf4ff0f27f231b83fb73
+FileChecksum: MD5: f4f4740a9d08fd65360dccccb04d71aa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-btp/src/main/java/org/interledger/codecs/btp/AsnBtpResponseCodec.java
+SPDXID: SPDXRef-item7833628
+FileChecksum: SHA1: 27d4c81be83793c341ddd24704dc03a614689762
+FileChecksum: MD5: 6c9917a15cbd087384c2f481913aa331
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-btp/src/main/java/org/interledger/codecs/btp/AsnBtpErrorCodec.java
+SPDXID: SPDXRef-item7833629
+FileChecksum: SHA1: 245b0b1e725a3777b2dffa9ca68c67e6da458735
+FileChecksum: MD5: 2d44e987014c569efa2ff4f7eb5cafd6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-ildcp/src/main/java/org/interledger/codecs/ildcp/AsnIldcpPacketCodec.java
+SPDXID: SPDXRef-item7833656
+FileChecksum: SHA1: 8c8ecba9018055f078e60ab7a7197e246b06f12e
+FileChecksum: MD5: 5b1cc6264d69f7a2baa398205ad39632
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-ildcp/src/main/java/org/interledger/codecs/ildcp/IldcpCodecException.java
+SPDXID: SPDXRef-item7833654
+FileChecksum: SHA1: 23b4c9f20e818a5ec9b6a580c0515906c89c0bb3
+FileChecksum: MD5: 16cec46a20dec7e1afdab3bc79073548
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2019 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-ildcp/src/main/java/org/interledger/codecs/ildcp/AsnIldcpRequestPacketDataCodec.java
+SPDXID: SPDXRef-item7833655
+FileChecksum: SHA1: 30e442c890568547771d1b0eeff7d2f7bfbb672d
+FileChecksum: MD5: 8f5900815a4ad2078da3633fdada1579
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-ildcp/src/main/java/org/interledger/codecs/ildcp/AsnIldcpResponsePacketDataCodec.java
+SPDXID: SPDXRef-item7833657
+FileChecksum: SHA1: 72bf897a273f56ab32b9922381055bc505c7b892
+FileChecksum: MD5: 39286faf78d427c22d4a22f70d36e7ce
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-ildcp/src/main/java/org/interledger/codecs/ildcp/IldcpCodecContextFactory.java
+SPDXID: SPDXRef-item7833658
+FileChecksum: SHA1: 2035d04679aa756ef5e311e92a850390ce8c4f31
+FileChecksum: MD5: 8ae0e910c774f778245def94bcc85d15
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-ildcp/src/main/java/org/interledger/codecs/ildcp/AsnIldcpRequestPacketCodec.java
+SPDXID: SPDXRef-item7833659
+FileChecksum: SHA1: a66ecee353d285a2941dc2cd1bbddec16265d4a2
+FileChecksum: MD5: 739acd096617e0e49e58ca360514e767
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-ildcp/src/main/java/org/interledger/codecs/ildcp/IldcpUtils.java
+SPDXID: SPDXRef-item7833661
+FileChecksum: SHA1: 1a18e87623f9214ad4047f787992bb95651149eb
+FileChecksum: MD5: 7e950709bed771b598de9d8e16c8c502
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2019 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/main/java/org/interledger/encoding/asn/serializers/oer/OerLengthSerializer.java
+SPDXID: SPDXRef-item7833583
+FileChecksum: SHA1: f9dcfdeb688ba5fe0c503a6e1911fff6dd2350d1
+FileChecksum: MD5: 03562cc786befd3645565311a2a75fa3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-ildcp/src/main/java/org/interledger/codecs/ildcp/AsnIldcpResponseCodec.java
+SPDXID: SPDXRef-item7833660
+FileChecksum: SHA1: 5c90241c28f64d36c34dbed820b72a6c01e4f005
+FileChecksum: MD5: 23941050a1385158a843706028a0b957
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/jackson-datatypes/src/main/java/org/interledger/quilt/jackson/InterledgerModule.java
+SPDXID: SPDXRef-item7833863
+FileChecksum: SHA1: 3388b058773cac872e127d8c8410935305e901c4
+FileChecksum: MD5: f7aa2159b99c194ec54980f7fdda1a79
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/btp-core/src/test/java/org/interledger/btp/BtpRuntimeExceptionTest.java
+SPDXID: SPDXRef-item7833440
+FileChecksum: SHA1: f02bdd87c80778344c954a6abaf3d401e42a059d
+FileChecksum: MD5: ef269ffa31e049ed1adbfc9d777364c5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/btp-core/src/test/java/org/interledger/btp/BtpPacketTest.java
+SPDXID: SPDXRef-item7833443
+FileChecksum: SHA1: b19a62246378b21997cb1e33d1f9554b8325e738
+FileChecksum: MD5: e329b58cb48f40b8548332f19981b614
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/btp-core/src/test/java/org/interledger/btp/BtpMessageTest.java
+SPDXID: SPDXRef-item7833445
+FileChecksum: SHA1: 111f81b7fb0f7639b0fb57e81cd30c592dd8a620
+FileChecksum: MD5: 278c907b76af8454d0bbe1adad61ea63
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/btp-core/src/test/java/org/interledger/btp/BtpErrorCodeTest.java
+SPDXID: SPDXRef-item7833444
+FileChecksum: SHA1: 86c7befc6ca5275f4952bc9fb03380c8f453bd02
+FileChecksum: MD5: 4c07f4ccb3119f43092347cb4d1e5826
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/btp-core/src/test/java/org/interledger/btp/BtpTransferTest.java
+SPDXID: SPDXRef-item7833446
+FileChecksum: SHA1: f58bb478ff97f976dba341030ceeb07500318108
+FileChecksum: MD5: a6b8946329080e72b7e50f55f339cb48
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-ilp/src/test/java/org/interledger/codecs/ilp/AsnInterledgerAddressCodecTest.java
+SPDXID: SPDXRef-item7833484
+FileChecksum: SHA1: eba08fe7d019f38e2e957564e45df2941ff8290b
+FileChecksum: MD5: 4810ccc6ee39e2555ad786bce933ea79
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2019 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/btp-core/src/main/java/org/interledger/btp/BtpTransfer.java
+SPDXID: SPDXRef-item7833454
+FileChecksum: SHA1: 90dc01904a1967e52d224764e6b398c12db82403
+FileChecksum: MD5: c8a2061cd894f715ee2f9bfac1537d96
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-ilp/src/test/java/org/interledger/codecs/ilp/ConditionOerSerializerTests.java
+SPDXID: SPDXRef-item7833485
+FileChecksum: SHA1: b644baa7634e1a87a398a208c5c30634db7f4166
+FileChecksum: MD5: 2dbecd0fe1a06779b642619fddede92f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-ilp/src/test/java/org/interledger/codecs/ilp/InterledgerRejectPacketOerSerializerTests.java
+SPDXID: SPDXRef-item7833482
+FileChecksum: SHA1: fe50e13a19614cd281de1dc00ddaaf62039224b5
+FileChecksum: MD5: 29bb29b56504dfb39f8e56d9e063e5b6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-ilp/src/test/java/org/interledger/codecs/ilp/InstantOerSerializerTest.java
+SPDXID: SPDXRef-item7833486
+FileChecksum: SHA1: 10691f1a7c8a7307037de3936f1d59edeb196006
+FileChecksum: MD5: 467977b689d86211e5bb75cff091278d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-ilp/src/test/java/org/interledger/codecs/ilp/AsnInterledgerAddressPrefixCodecTest.java
+SPDXID: SPDXRef-item7833488
+FileChecksum: SHA1: 455f1450d187d194bcd5122162ec4fdf33ada169
+FileChecksum: MD5: 80b76f0f9f00216485d5c0033135bc1c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2019 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/test/java/org/interledger/encoding/asn/codecs/AsnSizeConstraintTest.java
+SPDXID: SPDXRef-item7833524
+FileChecksum: SHA1: 7900c8f7fe4f146f6869c42d6ee558876dbd3311
+FileChecksum: MD5: 6b9d7acb2a6e30e566e6667ea19ec11f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2019 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/test/java/org/interledger/encoding/asn/codecs/AsnOctetStringBasedObjectCodecTest.java
+SPDXID: SPDXRef-item7833525
+FileChecksum: SHA1: 8b777c533b48664e9f8f1f1cce90d315a9b3aad6
+FileChecksum: MD5: 106317ee0138010c1cd197f7dada6dd2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2019 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-ilp/src/test/java/org/interledger/codecs/ilp/InterledgerFulfillPacketOerSerializerTests.java
+SPDXID: SPDXRef-item7833490
+FileChecksum: SHA1: 65a8b260386ade6e7dcd9fcc46e910e8a23e13c5
+FileChecksum: MD5: 3fd1fd182208b45739703b05e7b9754b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-ilp/src/test/java/org/interledger/codecs/ilp/InterledgerAddressOerSerializerTests.java
+SPDXID: SPDXRef-item7833489
+FileChecksum: SHA1: 9def9dbe2251fe0639af2185c2490dd269e179a4
+FileChecksum: MD5: 6a3c803769422119b104ac0bbea18c04
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/test/java/org/interledger/encoding/asn/serializers/oer/IntegerOerSerializerTest.java
+SPDXID: SPDXRef-item7833530
+FileChecksum: SHA1: 4b148d8faab4e15c41c757a8b3dea5dc211f0b44
+FileChecksum: MD5: 605407044c323d2515c95dfebcaf91b9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/test/java/org/interledger/encoding/asn/serializers/oer/OpenTypeOerSerializerTest.java
+SPDXID: SPDXRef-item7833533
+FileChecksum: SHA1: 7d83fcaae0f491173b14b72531061900c6a98531
+FileChecksum: MD5: 67f0780dc7a45dd9dab67b27e6f6da38
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/test/java/org/interledger/encoding/asn/serializers/oer/ShortOerSerializerTest.java
+SPDXID: SPDXRef-item7833534
+FileChecksum: SHA1: ffc0b64ddc1c63048f52a1bc7b85943583a972db
+FileChecksum: MD5: 3e03d7f197db530a41cc0392bb69a1c1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/test/java/org/interledger/encoding/asn/codecs/AsnUintCodecTest.java
+SPDXID: SPDXRef-item7833526
+FileChecksum: SHA1: 9623e9698a5b968bbf9f11d240ba9b98d052540c
+FileChecksum: MD5: f2e39ead280a734f63fd02c832d500ae
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2019 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/test/java/org/interledger/encoding/asn/serializers/oer/BigIntegerOerSerializerTest.java
+SPDXID: SPDXRef-item7833535
+FileChecksum: SHA1: 73054e0da735aa5b8a6e1556112f67f8ff578b10
+FileChecksum: MD5: 4c68f7855a488e4a721d05397222d80b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/test/java/org/interledger/encoding/asn/serializers/oer/SequenceOfSequenceIntOerSerializerTest.java
+SPDXID: SPDXRef-item7833537
+FileChecksum: SHA1: 735669b8fcece19d9f008116a4b01ca60c32610f
+FileChecksum: MD5: a929d7221233f1d996fc0a38974706f6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/test/java/org/interledger/encoding/asn/serializers/oer/SequenceOfSequenceShortOerSerializerTest.java
+SPDXID: SPDXRef-item7833539
+FileChecksum: SHA1: b7708f88d1564d7e94b21bffb4b10c31263da599
+FileChecksum: MD5: 7726350b5daa132bcb38e7094efe1d35
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/test/java/org/interledger/encoding/asn/serializers/oer/UnsignedLongOerSerializerTest.java
+SPDXID: SPDXRef-item7833542
+FileChecksum: SHA1: 9c86c8dfc0d5ed15f751bc043f16ad20bb45d759
+FileChecksum: MD5: 170ba11ae68fe80f380183b6efaaf967
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/test/java/org/interledger/encoding/asn/serializers/oer/ByteArrayOerSerializerTest.java
+SPDXID: SPDXRef-item7833543
+FileChecksum: SHA1: 7e60ddb5355908c183a77891ad9f78e55a6c83ab
+FileChecksum: MD5: b7d1f81b4d5da297e8898aed58af5a53
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/test/java/org/interledger/encoding/asn/serializers/oer/OerLengthPrefixCodecTest.java
+SPDXID: SPDXRef-item7833541
+FileChecksum: SHA1: 17f9a3329db1f49531d3f537647eabbaca24e780
+FileChecksum: MD5: 96940579b5a94d398c32ee76dab2bf27
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/test/java/org/interledger/encoding/asn/framework/EncodingTests.java
+SPDXID: SPDXRef-item7833545
+FileChecksum: SHA1: e4f9356e3e39f604f7cf35dbbce537c334c05bfc
+FileChecksum: MD5: 821cd51e6f163426d3fdd5bbd3f3f158
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/test/java/org/interledger/encoding/asn/framework/OnValueChangedTest.java
+SPDXID: SPDXRef-item7833546
+FileChecksum: SHA1: 28e40c45b01c37cb5e182b0359fd550f3c9e7709
+FileChecksum: MD5: bfcb5077e822ad9cf3be3621796eff0b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/test/java/org/interledger/encoding/MyCustomObject.java
+SPDXID: SPDXRef-item7833547
+FileChecksum: SHA1: d03a6a13a83d07505d05c18356be8259ef37bd0b
+FileChecksum: MD5: 312607fb7a631d33526dbe3a06051b88
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/main/java/org/interledger/encoding/asn/codecs/AsnOctetStringBasedObjectCodec.java
+SPDXID: SPDXRef-item7833564
+FileChecksum: SHA1: 208f4fcaf782662df10d81f8673ee87c939a1852
+FileChecksum: MD5: 9fdc4311443ca2dd0b752bc1a09c7153
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/main/java/org/interledger/encoding/asn/codecs/AsnUint64Codec.java
+SPDXID: SPDXRef-item7833557
+FileChecksum: SHA1: 244cf29288abb8dfc63fe408f6898c1a972dcb9c
+FileChecksum: MD5: 512ecdf33be941342ae367084b6a688a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/main/java/org/interledger/encoding/asn/codecs/AsnUintCodec.java
+SPDXID: SPDXRef-item7833570
+FileChecksum: SHA1: dd4df038a5fd5fbf1190930415ffbfcac53b8469
+FileChecksum: MD5: bee25526703366249a1f19277140c189
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/main/java/org/interledger/encoding/asn/codecs/AsnUint8Codec.java
+SPDXID: SPDXRef-item7833574
+FileChecksum: SHA1: 9e049ef28388875f9db0bd6bce8d959a53b93eab
+FileChecksum: MD5: 1ee1c90aea2520dd22e07762f200d750
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/main/java/org/interledger/encoding/asn/framework/CodecContextFactory.java
+SPDXID: SPDXRef-item7833586
+FileChecksum: SHA1: 8b1ac2c56c690958f4deafeb1027b58d63ace858
+FileChecksum: MD5: 0aaf0861bc74d4c0ab58442e2096f96f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/main/java/org/interledger/encoding/asn/serializers/oer/AsnSequenceOfSequenceOerSerializer.java
+SPDXID: SPDXRef-item7833582
+FileChecksum: SHA1: 432c8f068be1df9055f280e0dda36f7d1c9b4048
+FileChecksum: MD5: a780f1fcdc4c570ac2f0c18b918ec1de
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/main/java/org/interledger/encoding/asn/serializers/oer/AsnOpenTypeOerSerializer.java
+SPDXID: SPDXRef-item7833578
+FileChecksum: SHA1: 086ce19fe97314d353ba3fdabaa276bf53f6be54
+FileChecksum: MD5: d3acaf5a665d5bd3b45ed56fee3f099e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-btp/src/test/java/org/interledger/codecs/btp/AsnBtpErrorDataSerializationTest.java
+SPDXID: SPDXRef-item7833602
+FileChecksum: SHA1: 3fb19ad1c8adda1ecd772b10dd6bac8c2bdfddaf
+FileChecksum: MD5: 3674f64acb6d9a0df3f91aa946ed9d24
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2019 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-btp/src/test/java/org/interledger/codecs/btp/AsnBtpGeneralizedTimeCodecTest.java
+SPDXID: SPDXRef-item7833607
+FileChecksum: SHA1: f4a5cab51e6ebe42839b4c29e47b46b424555da3
+FileChecksum: MD5: 506aa87afb05e8d938b034ffb8093379
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2019 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-btp/src/main/java/org/interledger/codecs/btp/BtpCodecContextFactory.java
+SPDXID: SPDXRef-item7833619
+FileChecksum: SHA1: 9f2b789dc41c42b96cbbef7db7d9880ca95a00fe
+FileChecksum: MD5: 9662cac9611af4c797f8d378c9f9dcc1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-btp/src/main/java/org/interledger/codecs/btp/AsnBtpPacketCodec.java
+SPDXID: SPDXRef-item7833621
+FileChecksum: SHA1: ce7e366e58562d312d70db9f2189e6749d55aefe
+FileChecksum: MD5: 5e10f0f8478a29f9880c006417e74e38
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-ildcp/src/test/java/org/interledger/codecs/ildcp/AsnIldcpResponseCodecTest.java
+SPDXID: SPDXRef-item7833641
+FileChecksum: SHA1: 35cbb4c077f0de67b87690fc7fe9b26a589b3f53
+FileChecksum: MD5: cad1a3a3f342b8a14fafeadc93fe2635
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2019 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-ildcp/src/test/java/org/interledger/codecs/ildcp/AsnIldcpPacketCodecTest.java
+SPDXID: SPDXRef-item7833640
+FileChecksum: SHA1: 3ba50d4edcca9d34e141955572709ef22990246b
+FileChecksum: MD5: 27ea4c0db2e815ec17e0d4d6e7f90da0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2019 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-btp/src/main/java/org/interledger/codecs/btp/AsnBtpErrorDataCodec.java
+SPDXID: SPDXRef-item7833630
+FileChecksum: SHA1: b661e8c6c68760969ea506e5252b0d2c900d9aad
+FileChecksum: MD5: 7bb67eb9be5983878618534805b45ec0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-ildcp/src/test/java/org/interledger/codecs/ildcp/utils/IldcpUtilsTest.java
+SPDXID: SPDXRef-item7833643
+FileChecksum: SHA1: 0d1b336c325629903ee1bb507692c0e70d4c31b8
+FileChecksum: MD5: e4aa055d38a6659c41ecafb51446a550
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2019 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-ildcp/src/test/java/org/interledger/codecs/ildcp/AsnIldcpResponsePacketDataCodecTest.java
+SPDXID: SPDXRef-item7833645
+FileChecksum: SHA1: c35caa5f35f568570281deb229dc7a7d1fec9684
+FileChecksum: MD5: 19c5c21d209306f3bba5797cf4ea8271
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2019 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-ildcp/src/test/java/org/interledger/codecs/ildcp/AsnIldcpRequestPacketDataCodecTest.java
+SPDXID: SPDXRef-item7833644
+FileChecksum: SHA1: 74cf518289c31cb347599ec87a3f53892a4f83f4
+FileChecksum: MD5: c075e88bc2f13977b9941a5d1e7f85a1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2019 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-ildcp/src/test/java/org/interledger/codecs/ildcp/framework/IldcpCodecContextFactoryTest.java
+SPDXID: SPDXRef-item7833647
+FileChecksum: SHA1: db8d31c0bb84e24a85cae83412f23beadd6fe260
+FileChecksum: MD5: af1e5ded8fe95fb94cd2a0db8da425e3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2019 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/test/java/org/interledger/codecs/stream/AsnAmountTooLargeDataCodecTest.java
+SPDXID: SPDXRef-item7833674
+FileChecksum: SHA1: 9fac76877edbdecd3ded47b8326f7a55dadfa9dc
+FileChecksum: MD5: 2acc180782fdcf462f1f936a9ede150c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/test/java/org/interledger/codecs/stream/AsnStreamPacketCodecTest.java
+SPDXID: SPDXRef-item7833675
+FileChecksum: SHA1: 1f4cdf32b07de609e03622f9e4bac2e13c9fbeca
+FileChecksum: MD5: d2112d55ed9a94c3c1c9bd8a438b7437
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/test/java/org/interledger/codecs/stream/frame/AsnConnectionNewAddressFrameCodecTest.java
+SPDXID: SPDXRef-item7833678
+FileChecksum: SHA1: c903a589ac1283effddc0d04f548346d306630c4
+FileChecksum: MD5: 270c888fb5e2f201c6a156a2639def80
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/test/java/org/interledger/codecs/stream/frame/AsnConnectionDataBlockedFrameCodecTest.java
+SPDXID: SPDXRef-item7833681
+FileChecksum: SHA1: 6aa7672cc3a99720fd315cfdcd11327f94d0dcd5
+FileChecksum: MD5: 2f1dab2c8cbee749c70e5f89d893027f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/test/java/org/interledger/codecs/stream/frame/AsnStreamDataBlockedFrameCodecTest.java
+SPDXID: SPDXRef-item7833679
+FileChecksum: SHA1: 6c60ce42beb21aeabbdc6007ee19ba3be83fdb8f
+FileChecksum: MD5: 2c93761f9cf7d06e78d736c3923c04f3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/test/java/org/interledger/codecs/stream/frame/AbstractAsnFrameCodecTest.java
+SPDXID: SPDXRef-item7833682
+FileChecksum: SHA1: 65c215fba270fea52a93d2d94df8548607215f53
+FileChecksum: MD5: 572ef757e44628b1440bb7046cd5f659
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/test/java/org/interledger/codecs/stream/frame/AsnStreamMoneyBlockedFrameCodecTest.java
+SPDXID: SPDXRef-item7833683
+FileChecksum: SHA1: 1188b5ac5fa0b72779d1842926fb85bb7d267e36
+FileChecksum: MD5: 9d22ebc363b361767722d7664f31f8e0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/test/java/org/interledger/codecs/stream/frame/FrameCodecPerfTest.java
+SPDXID: SPDXRef-item7833685
+FileChecksum: SHA1: 923d2757bf7ac40c100050370cdf6941ffd94037
+FileChecksum: MD5: 6f7f97f02019971eba298d1508a35d82
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/test/java/org/interledger/codecs/stream/frame/AsnStreamDataFrameCodecTest.java
+SPDXID: SPDXRef-item7833684
+FileChecksum: SHA1: 1464b3b26491eecc5ed1df81b25682441f4c6c19
+FileChecksum: MD5: a85ad27b7a11ae20306dd926ccd21121
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/test/java/org/interledger/codecs/stream/frame/AsnStreamMoneyFrameCodecTest.java
+SPDXID: SPDXRef-item7833687
+FileChecksum: SHA1: 41bc6e3c3b1933f30d2a1a9137691f800c1f1ff2
+FileChecksum: MD5: f836356961c948c3871ae9b37c2bfbb8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/test/java/org/interledger/codecs/stream/frame/AsnConnectionStreamIdBlockedFrameCodecTest.java
+SPDXID: SPDXRef-item7833688
+FileChecksum: SHA1: ef787ca2d63a35021882552b71e0b9e0b05c623f
+FileChecksum: MD5: 46b0a0127ffe01ad8bbea1f230203d51
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/test/java/org/interledger/codecs/stream/frame/AsnConnectionAssetDetailsFrameCodecTest.java
+SPDXID: SPDXRef-item7833686
+FileChecksum: SHA1: 88b83259861d6e049ddfcfab80229d8aac023e52
+FileChecksum: MD5: bb87e692e3d34dadad147b4cc1873f9b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/test/java/org/interledger/codecs/stream/frame/AsnConnectionDataMaxFrameCodecTest.java
+SPDXID: SPDXRef-item7833698
+FileChecksum: SHA1: 0a35e49c5102a1e98e55dad91468d81b4b9d6d9a
+FileChecksum: MD5: 8e798a6e70fa505ae2c7c9d75ebe51da
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/test/java/org/interledger/codecs/stream/frame/AsnConnectionMaxStreamIdFrameCodecTest.java
+SPDXID: SPDXRef-item7833697
+FileChecksum: SHA1: 2bfddc132aaada29ba42edf8ad3ecebbe1d65c5b
+FileChecksum: MD5: 76e8bb6ef1432de9d2493edd6ec72c70
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/main/java/org/interledger/codecs/stream/AsnStreamPacketCodec.java
+SPDXID: SPDXRef-item7833706
+FileChecksum: SHA1: 613338f443ad5ca4694060cfc1d8954520e57d52
+FileChecksum: MD5: 10ac00139b9248fe502d504a898cf149
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/main/java/org/interledger/codecs/stream/frame/AsnStreamMoneyMaxFrameCodec.java
+SPDXID: SPDXRef-item7833709
+FileChecksum: SHA1: 04bfb9bf78c433885f9084f73efb2a56f8f37743
+FileChecksum: MD5: 5d22531bb1df55738a7f4694460570b8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/main/java/org/interledger/codecs/stream/frame/AsnStreamDataFrameDataCodec.java
+SPDXID: SPDXRef-item7833708
+FileChecksum: SHA1: 1b66a1a684f9124685346dfbe7c2aab1fa8c5d2b
+FileChecksum: MD5: c3f18ce6bce91a5d9126c2a78534cfdf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/test/java/org/interledger/codecs/stream/frame/AsnStreamDataMaxFrameCodecTest.java
+SPDXID: SPDXRef-item7833699
+FileChecksum: SHA1: fb4d1a2946a7710d9296b938f04381a21963d1d9
+FileChecksum: MD5: c508822d8419c6b7dc53d607985abd7a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/main/java/org/interledger/codecs/stream/frame/AsnStreamDataBlockedFrameCodec.java
+SPDXID: SPDXRef-item7833711
+FileChecksum: SHA1: fd0340a750aa048b5af7a0d162020552eb0d16fe
+FileChecksum: MD5: 29a5afa7eecd5a0f46c9e4971fc657e9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/main/java/org/interledger/codecs/stream/frame/AsnStreamMoneyFrameCodec.java
+SPDXID: SPDXRef-item7833712
+FileChecksum: SHA1: b4dab98ea6fe348f606c7e68b28df275edba12fb
+FileChecksum: MD5: c03a190b49769be00fbfd551c55be32b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/main/java/org/interledger/codecs/stream/frame/AsnStreamDataBlockedFrameDataCodec.java
+SPDXID: SPDXRef-item7833715
+FileChecksum: SHA1: 3753552e7f8cd6b48a8d74eebc66392bf42ee4a7
+FileChecksum: MD5: f75993b744f07ef20833c13afad96a03
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/main/java/org/interledger/codecs/stream/frame/AsnConnectionNewAddressFrameDataCodec.java
+SPDXID: SPDXRef-item7833714
+FileChecksum: SHA1: ae3972cb74d6eff1245c435e6ca8be101628a928
+FileChecksum: MD5: 6798d4b8cdac22b28afdee06f007163f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/main/java/org/interledger/codecs/stream/frame/AsnStreamMoneyBlockedFrameCodec.java
+SPDXID: SPDXRef-item7833710
+FileChecksum: SHA1: 815ddaf659009417b55f58f600193782812a671c
+FileChecksum: MD5: 3b2fa0d76cc3a11dc2eee8e7be846605
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/main/java/org/interledger/codecs/stream/frame/AsnConnectionDataBlockedFrameCodec.java
+SPDXID: SPDXRef-item7833716
+FileChecksum: SHA1: 79fb18aea22211fdc9d5c62008129eb1da9b33ed
+FileChecksum: MD5: 9458216d9d4a7ea8a71c7862437d7cb0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/main/java/org/interledger/codecs/stream/frame/AsnConnectionNewAddressFrameCodec.java
+SPDXID: SPDXRef-item7833717
+FileChecksum: SHA1: 27e0aa041adc6710f5194e14aec3b2085c52c972
+FileChecksum: MD5: 1a173bd3da3a9d71c6c2e9b4db084b2d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/main/java/org/interledger/codecs/stream/frame/AsnConnectionDataMaxFrameDataCodec.java
+SPDXID: SPDXRef-item7833718
+FileChecksum: SHA1: e2762dbd0e0430ebed35c18c2b0ee3b99d314315
+FileChecksum: MD5: a618a6be4d8a114e9fa0fdfb184c41c8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/main/java/org/interledger/codecs/stream/frame/AsnStreamDataFrameCodec.java
+SPDXID: SPDXRef-item7833719
+FileChecksum: SHA1: 816649fd2c1bbb79792b6955709b8db30fb7ec95
+FileChecksum: MD5: bcdaab923097f11a50c0a4c279c16793
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/main/java/org/interledger/codecs/stream/frame/AsnConnectionMaxStreamIdFrameDataCodec.java
+SPDXID: SPDXRef-item7833721
+FileChecksum: SHA1: 75c77a9866da7c37f81a24d4216bef2e24f54f62
+FileChecksum: MD5: dec0aef69ad1b6cd6d65159e3626fd81
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/main/java/org/interledger/codecs/stream/frame/AsnConnectionAssetDetailsFrameCodec.java
+SPDXID: SPDXRef-item7833722
+FileChecksum: SHA1: f4dbae6533959ca9f2af61b5e5a12c46f2d2e939
+FileChecksum: MD5: 35f5935a6ffc62a0431b77b5d953a962
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/main/java/org/interledger/codecs/stream/frame/AsnStreamCloseFrameCodec.java
+SPDXID: SPDXRef-item7833725
+FileChecksum: SHA1: c1772642f8bfaa244c502f83e01e9b7c990c32c2
+FileChecksum: MD5: 57550f2f0791c5359ae1df06a709afcc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/main/java/org/interledger/codecs/stream/frame/AsnStreamDataMaxFrameCodec.java
+SPDXID: SPDXRef-item7833726
+FileChecksum: SHA1: f3609eaf42f245529d30176fdd6bb0bf1f16cae2
+FileChecksum: MD5: 8c24732bb0d1148697d2440d5543c2cb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/main/java/org/interledger/codecs/stream/frame/AsnConnectionDataBlockedFrameDataCodec.java
+SPDXID: SPDXRef-item7833724
+FileChecksum: SHA1: c75a9133c1edab61088a58c8329349c12b35779a
+FileChecksum: MD5: b194d1e31307a38e35ae9d542dc7d62f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/main/java/org/interledger/codecs/stream/frame/AsnConnectionStreamIdBlockedFrameDataCodec.java
+SPDXID: SPDXRef-item7833727
+FileChecksum: SHA1: f81ab41f5530438e5916c8931d05b1fb0808db69
+FileChecksum: MD5: d4256a62b2ac7a99b4699ca31d61e466
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/main/java/org/interledger/codecs/stream/frame/AsnStreamFramesCodec.java
+SPDXID: SPDXRef-item7833728
+FileChecksum: SHA1: 48689abe2553192e60a43e1f0ad98d80dc42ee26
+FileChecksum: MD5: daf018ba3ce0781255213f6f8ab7db35
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/main/java/org/interledger/codecs/stream/frame/AsnConnectionStreamIdBlockedFrameCodec.java
+SPDXID: SPDXRef-item7833730
+FileChecksum: SHA1: 950545c830a6e97ba077f025ef9680c5ed25bc99
+FileChecksum: MD5: f1ca239134912b554ed4f2a08b2a3170
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/main/java/org/interledger/codecs/stream/frame/AsnConnectionMaxStreamIdFrameCodec.java
+SPDXID: SPDXRef-item7833729
+FileChecksum: SHA1: d8ade0f642a530bbb96cd6772d29ddd9b598ea52
+FileChecksum: MD5: 999f0a62c57c86a57f6d21d53a5d8271
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/main/java/org/interledger/codecs/stream/frame/AsnStreamMoneyFrameDataCodec.java
+SPDXID: SPDXRef-item7833731
+FileChecksum: SHA1: 1e810a7465a421dc73fab52c879e944fec1fdf8a
+FileChecksum: MD5: 75a9f65bfe4dbb27ba24b56c0d771186
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/main/java/org/interledger/codecs/stream/frame/AsnConnectionCloseFrameCodec.java
+SPDXID: SPDXRef-item7833732
+FileChecksum: SHA1: a83d719739e1ebc4c0fa8ff8e6b634d2fc33b8aa
+FileChecksum: MD5: 19251d7081b00e319608af562cef8fa7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/main/java/org/interledger/codecs/stream/frame/AsnStreamDataMaxFrameDataCodec.java
+SPDXID: SPDXRef-item7833734
+FileChecksum: SHA1: 9191171c5d87e89bf056e23fc3a0d7db97a9ca35
+FileChecksum: MD5: 1e0c18681f3bf3da0f8cf0d95b7b35b1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/main/java/org/interledger/codecs/stream/frame/AsnConnectionAssetDetailsFrameDataCodec.java
+SPDXID: SPDXRef-item7833735
+FileChecksum: SHA1: 9dc31317f5491e406747fb3110abe6c600bebaa4
+FileChecksum: MD5: a15fa17b3963569ceecf20d269da2c64
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/main/java/org/interledger/codecs/stream/frame/AsnConnectionDataMaxFrameCodec.java
+SPDXID: SPDXRef-item7833736
+FileChecksum: SHA1: 311b8af0f14cb75348f21459635b1a2897ade1ce
+FileChecksum: MD5: 28e81140011301d17dc2fa2424a5171f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/checkstyle.xml
+SPDXID: SPDXRef-item7833770
+FileChecksum: SHA1: 19e3c1f6881c4d59c43d531e51a266ceeeaf4c84
+FileChecksum: MD5: 06d8aa813b2d2d33e24ffa894147e7a2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/main/java/org/interledger/codecs/stream/package-info.java
+SPDXID: SPDXRef-item7833740
+FileChecksum: SHA1: 5f4174ed8ca2080e6e94461f9900a62f4031bfe2
+FileChecksum: MD5: 3ae25ac9d4e712871c670d460d777075
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/main/java/org/interledger/codecs/stream/StreamCodecContextFactory.java
+SPDXID: SPDXRef-item7833739
+FileChecksum: SHA1: 43d83aa0d0e5d8dbc57b2cd234745789a3231c4c
+FileChecksum: MD5: 3df007728d10a52c6152f6129ee8e0a6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/ildcp-core/src/test/java/org/interledger/ildcp/IldcpResponseTest.java
+SPDXID: SPDXRef-item7833784
+FileChecksum: SHA1: 405414b2012b46fbd6406c8715c71670c8cfcb46
+FileChecksum: MD5: 070deb801d9c3e13b6699d327c82b363
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2019 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/jackson-datatypes/src/test/java/org/interledger/quilt/jackson/address/InterledgerAddressModuleTest.java
+SPDXID: SPDXRef-item7833812
+FileChecksum: SHA1: 087232bd6713d73222553dda85d314b212534e41
+FileChecksum: MD5: 0ba16604c68c44a01bbc5fed198b4db7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/jackson-datatypes/src/test/java/org/interledger/quilt/jackson/conditions/FulfillmentModuleTest.java
+SPDXID: SPDXRef-item7833825
+FileChecksum: SHA1: d9ecefd5c5df406fe8b6b4f5f2911c0f632eac7c
+FileChecksum: MD5: 1a56c41d216480b65a006bab6a3360c1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/jackson-datatypes/src/main/java/org/interledger/quilt/jackson/sharedsecret/SharedSecretSerializer.java
+SPDXID: SPDXRef-item7833846
+FileChecksum: SHA1: 09361b0933b8d1fe0fdf4aa0a587b632cbf668a6
+FileChecksum: MD5: cd9122e54cd16dd2ab57d8447f106690
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/jackson-datatypes/src/test/java/org/interledger/quilt/jackson/conditions/ConditionModuleTest.java
+SPDXID: SPDXRef-item7833827
+FileChecksum: SHA1: 007a2be1357bdd90ff1fcc574d8a54ca25f0f2c4
+FileChecksum: MD5: c4886d19c2c54d11e94b93863e610e9c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/jackson-datatypes/src/main/java/org/interledger/quilt/jackson/sharedsecret/SharedSecretModule.java
+SPDXID: SPDXRef-item7833847
+FileChecksum: SHA1: 40705de3568ebbbde643762fb6a9f62057309bdd
+FileChecksum: MD5: fe49691fc9b5d07a3b9c52bffbe8ac33
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/jackson-datatypes/src/main/java/org/interledger/quilt/jackson/sharedsecret/SharedSecretDeserializer.java
+SPDXID: SPDXRef-item7833848
+FileChecksum: SHA1: f7fef566cc47ca80087e63d0339e6d4363417098
+FileChecksum: MD5: d599efe13c47358b19162feba3786a95
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/ilp-core/src/test/java/org/interledger/core/InterledgerFulfillmentTest.java
+SPDXID: SPDXRef-item7833873
+FileChecksum: SHA1: 1293d586c69985d1f7e9d5ea65a9079dc8098207
+FileChecksum: MD5: b60d9ecb67dd5edfa42a61eb42a30959
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/ilp-core/src/test/java/org/interledger/core/InterledgerConditionTest.java
+SPDXID: SPDXRef-item7833881
+FileChecksum: SHA1: 90525f2c2bb5857a7a2700213a0a23fec64fcbcd
+FileChecksum: MD5: 02de7f788164a886a3528b2db7e9945c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/ilp-core/src/test/java/org/interledger/core/InterledgerRejectPacketTest.java
+SPDXID: SPDXRef-item7833880
+FileChecksum: SHA1: 96ede8868073da4d616d195ebe0dfe80a3613fa9
+FileChecksum: MD5: c0d4103b0541d7ab6c769f5904d64005
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/ilp-core/src/test/java/org/interledger/core/InterledgerErrorCodeTest.java
+SPDXID: SPDXRef-item7833883
+FileChecksum: SHA1: ee0588c425cf09828e1ef5b764575c817d28894b
+FileChecksum: MD5: c3d234bc8e3dc958fd74bf42dcabbc51
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2019 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/ilp-core/src/main/java/org/interledger/core/InterledgerErrorCode.java
+SPDXID: SPDXRef-item7833899
+FileChecksum: SHA1: ca2cf8e4180b376913d2acd5d13ab9478aec9cb4
+FileChecksum: MD5: 9102253e5fc724455fe7dc2dcd4c2b74
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/ilp-core/src/main/java/org/interledger/core/InterledgerPreparePacket.java
+SPDXID: SPDXRef-item7833913
+FileChecksum: SHA1: 535f447be8bd3252547230a57915fd6c771501b6
+FileChecksum: MD5: 6adac9b682d652402c427d17be43b101
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/main/java/org/interledger/stream/frames/ConnectionAssetDetailsFrame.java
+SPDXID: SPDXRef-item7833959
+FileChecksum: SHA1: b7c908b89b189d9c01450cd4d82637499933b8b8
+FileChecksum: MD5: edd68f04642466cf2087cd8b8211b99a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/main/java/org/interledger/stream/frames/StreamFrameType.java
+SPDXID: SPDXRef-item7833957
+FileChecksum: SHA1: 209f4452454c2cf814f49fa4fb666bd8c8f98911
+FileChecksum: MD5: 5e61bae5732042aa14030263e9f2f939
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2019 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/main/java/org/interledger/stream/frames/StreamMoneyFrame.java
+SPDXID: SPDXRef-item7833960
+FileChecksum: SHA1: 7962772ce12abcc83bb21f25fc889fcccb1872d2
+FileChecksum: MD5: 5c8adc14316b54777e94c9295c74aad2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/main/java/org/interledger/stream/frames/StreamDataFrame.java
+SPDXID: SPDXRef-item7833962
+FileChecksum: SHA1: c223db50001bb2b8801751ce26ac52747ba4ebab
+FileChecksum: MD5: 3141f5916e638eef9fb149a5ce431af5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/main/java/org/interledger/stream/frames/StreamMoneyMaxFrame.java
+SPDXID: SPDXRef-item7833961
+FileChecksum: SHA1: a1b17d0599ac9d9a9879cd8384d49c17e8297213
+FileChecksum: MD5: a3323d6b2b0c894ddee154fcfc4c7c73
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/main/java/org/interledger/stream/frames/ConnectionMaxStreamIdFrame.java
+SPDXID: SPDXRef-item7833963
+FileChecksum: SHA1: 81ff1cc7643449252cb187ba7c264646eeb89594
+FileChecksum: MD5: fcad1c7612c99826d7f07e921aa983a5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/main/java/org/interledger/stream/frames/ConnectionCloseFrame.java
+SPDXID: SPDXRef-item7833964
+FileChecksum: SHA1: 401e95971e6191044978e5a566a21f379b0a576b
+FileChecksum: MD5: f3b51ca10874bd366b9b84775900d470
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/main/java/org/interledger/stream/frames/StreamMoneyBlockedFrame.java
+SPDXID: SPDXRef-item7833965
+FileChecksum: SHA1: 5200b52d18f9709c637dc1d4071e2abcaa7eeed7
+FileChecksum: MD5: 9d9f2cd71cd23bb2d69f5506548d384a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/main/java/org/interledger/stream/frames/StreamFrame.java
+SPDXID: SPDXRef-item7833966
+FileChecksum: SHA1: 5e24847e98a13f18a4c42a833a4b2fe31f3cfae4
+FileChecksum: MD5: 69b9aa1ca8320b1b5080c8cc077b6366
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/main/java/org/interledger/stream/frames/StreamDataBlockedFrame.java
+SPDXID: SPDXRef-item7833968
+FileChecksum: SHA1: 8d40b89568a0764297ea638800b113584f30c61e
+FileChecksum: MD5: c026d1fecc7ae69ff516ba1a2949e27b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/main/java/org/interledger/stream/frames/ConnectionNewAddressFrame.java
+SPDXID: SPDXRef-item7833969
+FileChecksum: SHA1: f029afb4e0e54a53be435743003935932bfbd8d9
+FileChecksum: MD5: 8fb252266d8554296a9d6c3b1ae381f4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/main/java/org/interledger/stream/frames/ConnectionStreamIdBlockedFrame.java
+SPDXID: SPDXRef-item7833970
+FileChecksum: SHA1: 71737a56287cef2b5a4aa141ff2676ee317ebd6e
+FileChecksum: MD5: c67e5a4c927c09a4feca4a7a0265cf74
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/main/java/org/interledger/stream/frames/ConnectionDataMaxFrame.java
+SPDXID: SPDXRef-item7833974
+FileChecksum: SHA1: 85b1cf0346b5dc94e747e9658316e5f90c20ce00
+FileChecksum: MD5: 85bdb1f28f6d66cd2a1554f83b95eab8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/main/java/org/interledger/stream/frames/StreamDataMaxFrame.java
+SPDXID: SPDXRef-item7833972
+FileChecksum: SHA1: c748e84f75a54a6cc73026ea49c94935b72b9e95
+FileChecksum: MD5: 31715a89c3239c81615d8f5262f1c844
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/main/java/org/interledger/stream/frames/ConnectionDataBlockedFrame.java
+SPDXID: SPDXRef-item7833973
+FileChecksum: SHA1: 0245c3640ae97596aa0c785800cdb81058ebdb6d
+FileChecksum: MD5: 888a395c93624a0be7d63cedb021e2a8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/main/java/org/interledger/stream/StreamPacket.java
+SPDXID: SPDXRef-item7833980
+FileChecksum: SHA1: 51018e2e74c05374846a1145bf62fbfe8aa9b0cf
+FileChecksum: MD5: e52cf81f5752c9198fc4779e33dbddd6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/btp-core/src/test/java/org/interledger/btp/BtpErrorTest.java
+SPDXID: SPDXRef-item7833441
+FileChecksum: SHA1: dfd70586febc64a7541c3cef992d9f8e0501fcac
+FileChecksum: MD5: bb7d9646fbee1cb28b67b4454e863a49
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/btp-core/src/main/java/org/interledger/btp/BtpRuntimeException.java
+SPDXID: SPDXRef-item7833456
+FileChecksum: SHA1: 9a52dd9f55d4bb479bdafbad01fccff5e75b163b
+FileChecksum: MD5: edbc19bd0ffc2d7a0db2b0bd9c2de1f9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/btp-core/src/main/java/org/interledger/btp/BtpResponsePacket.java
+SPDXID: SPDXRef-item7833459
+FileChecksum: SHA1: ee9f1af79d95f54a6a0429ab6e4e66f366295918
+FileChecksum: MD5: b5dac7b916738bb62e8cb6d80e14d813
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/btp-core/src/main/java/org/interledger/btp/BtpSessionCredentials.java
+SPDXID: SPDXRef-item7833463
+FileChecksum: SHA1: 782a00dc991e9c62ac1b89876b46e82e60f1cfd0
+FileChecksum: MD5: cfca2eaf88c84156d22020eba8f9838c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2019 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/btp-core/src/main/java/org/interledger/btp/BtpSubProtocol.java
+SPDXID: SPDXRef-item7833465
+FileChecksum: SHA1: 06ccb2015934d9a27bd251d6b9149930bb92a66d
+FileChecksum: MD5: e79e32c80a0058348206704bfbf37bed
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/btp-core/src/main/java/org/interledger/btp/BtpSession.java
+SPDXID: SPDXRef-item7833466
+FileChecksum: SHA1: eeff86d73488e2361d51de528a961607b7a2bd56
+FileChecksum: MD5: 024b49d0a494494a13baa0999b1f5862
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2019 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-ilp/src/main/java/org/interledger/codecs/ilp/AsnTimestampCodec.java
+SPDXID: SPDXRef-item7833497
+FileChecksum: SHA1: 6097079d8125b178bef7f5c317bae2c8265b9101
+FileChecksum: MD5: be43457c77310bf7abb220d880b8ef24
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/btp-core/src/main/java/org/interledger/btp/BtpError.java
+SPDXID: SPDXRef-item7833467
+FileChecksum: SHA1: 5c72ee7e5f2884932cd8733e3fd5596d004b5b40
+FileChecksum: MD5: 0266227a21101da864c6a26381374e9f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/main/java/org/interledger/encoding/asn/codecs/AsnObjectCodecBase.java
+SPDXID: SPDXRef-item7833566
+FileChecksum: SHA1: d7d8f16e592bae9cab6f4788d7c0f555dcf678d9
+FileChecksum: MD5: 75cc2b2ec3de309a22fe85e56b237a28
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/test/java/org/interledger/encoding/asn/serializers/oer/AbstractSerializerTest.java
+SPDXID: SPDXRef-item7833538
+FileChecksum: SHA1: f5d2e9fb41b345648722c989b95bfe41ffd962a2
+FileChecksum: MD5: d84aa8371f6bfa09197674b5fcc678e5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2019 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/test/java/org/interledger/encoding/asn/serializers/oer/LongOerSerializerTest.java
+SPDXID: SPDXRef-item7833531
+FileChecksum: SHA1: f1785f1cdc630f8ea3c8309c6e8005593c25cc9c
+FileChecksum: MD5: 989f32ecbfa3b9418474c1c62b875854
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/main/java/org/interledger/encoding/asn/framework/AsnObjectSerializationContext.java
+SPDXID: SPDXRef-item7833585
+FileChecksum: SHA1: 3935dff211270f43e6340c44fcfde7db032ded3e
+FileChecksum: MD5: f050524954b41b20fe2c32fcaec3bbc2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/main/java/org/interledger/encoding/asn/framework/AsnObjectCodecRegistry.java
+SPDXID: SPDXRef-item7833588
+FileChecksum: SHA1: 3b7f8fb46fcb3495611202f8314bca00d296c1f4
+FileChecksum: MD5: 4b4802ecb94ab46a7ab2c2294f57d9c2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/main/java/org/interledger/encoding/asn/codecs/AsnUintCodecUL.java
+SPDXID: SPDXRef-item7833568
+FileChecksum: SHA1: 442434ec31d069c42e1ded8cf0e6cc3968f48109
+FileChecksum: MD5: 354859d0dab792f5c626972e8aa8b876
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/main/java/org/interledger/encoding/asn/framework/AsnObjectCodecSupplier.java
+SPDXID: SPDXRef-item7833589
+FileChecksum: SHA1: aa732f538c496f8514716de9a39e39d3eb687771
+FileChecksum: MD5: 65125a278ee2b3fc2948325a02de84ea
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-btp/src/test/java/org/interledger/codecs/btp/AsnBtpErrorDataCodecTest.java
+SPDXID: SPDXRef-item7833603
+FileChecksum: SHA1: af9a4b3ffbe8f7dcb9afef022b59788836f1381e
+FileChecksum: MD5: 3063e243a840a4e300ea688e4c0777bb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2019 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/main/java/org/interledger/encoding/asn/framework/AsnObjectCodec.java
+SPDXID: SPDXRef-item7833590
+FileChecksum: SHA1: b83a06e13b814aa75931dcab0f886204bb08587f
+FileChecksum: MD5: 55c5053af92c43cab01d4e59df957ef7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/main/java/org/interledger/encoding/asn/framework/CodecContext.java
+SPDXID: SPDXRef-item7833591
+FileChecksum: SHA1: 20e3abf23f46bbff3d0ca814a50cbe7f67f4a115
+FileChecksum: MD5: 36cf8f5088f4eb594a1bcc5566d82a51
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-btp/src/test/java/org/interledger/codecs/btp/AsnBtpInstantSerializationBytesTest.java
+SPDXID: SPDXRef-item7833604
+FileChecksum: SHA1: ae9e68b7afd4cef316c19cd6ecf625478678af94
+FileChecksum: MD5: 19eaf467d59ea9102fdbe24b3e2b0971
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2019 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-btp/src/test/java/org/interledger/codecs/btp/AsnBtpInstantBadValuesDecodingTest.java
+SPDXID: SPDXRef-item7833606
+FileChecksum: SHA1: 75fb20d20ee3e2f82622bb54bcc32c1d02633e50
+FileChecksum: MD5: eb3e887e7253d5e70ff10cd454ddd8ca
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2019 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-btp/src/main/java/org/interledger/codecs/btp/AsnBtpGeneralizedTimeCodec.java
+SPDXID: SPDXRef-item7833620
+FileChecksum: SHA1: d953ff0d21079e9d785cb13442333de0f7a993e7
+FileChecksum: MD5: 13f4582076860f29d97debc1cf596e14
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-btp/src/test/java/org/interledger/codecs/btp/AsnBtpInstantSerializationTest.java
+SPDXID: SPDXRef-item7833609
+FileChecksum: SHA1: 1b74d32643ae77ef05164268997ab63fc6559ca2
+FileChecksum: MD5: dcf67ac9cfbccc5133d090618353b917
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2019 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/test/java/org/interledger/codecs/stream/frame/AsnConnectionCloseFrameCodecTest.java
+SPDXID: SPDXRef-item7833680
+FileChecksum: SHA1: fcc98e9fe5ef81c3cff11b1aa3668b76727e012d
+FileChecksum: MD5: 4025a1d282bdd2e590da85c12c631b32
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/test/java/org/interledger/codecs/stream/frame/AsnStreamMoneyMaxFrameCodecTest.java
+SPDXID: SPDXRef-item7833689
+FileChecksum: SHA1: e580b77173c674936cbdd6ce553297cc820aec9a
+FileChecksum: MD5: 6071795679f0d3a32f5ca04b407e66cc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/test/java/org/interledger/codecs/stream/frame/AsnStreamCloseFrameCodecTest.java
+SPDXID: SPDXRef-item7833690
+FileChecksum: SHA1: 69076f9861929217b5620a52dd6de24f842304b3
+FileChecksum: MD5: 7525c90e8b8c6b260ea0fcfe3f85f609
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/main/java/org/interledger/codecs/stream/frame/AsnConnectionCloseFrameDataCodec.java
+SPDXID: SPDXRef-item7833723
+FileChecksum: SHA1: 6f91dd1b964a0179265eddd42ecca1e81ce08a71
+FileChecksum: MD5: a1d39398684254753bd4ea01a0df1752
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/main/java/org/interledger/codecs/stream/frame/AsnStreamCloseFrameDataCodec.java
+SPDXID: SPDXRef-item7833713
+FileChecksum: SHA1: f49d3fdf18e83c5df65e0b49835bc90682fdd2a6
+FileChecksum: MD5: 8e576522a684b7897e0c627e243f9426
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/main/java/org/interledger/codecs/stream/frame/AsnStreamMoneyMaxFrameDataCodec.java
+SPDXID: SPDXRef-item7833733
+FileChecksum: SHA1: fdff3384a97e41f3be0f58fd95d56d7d3d3bf497
+FileChecksum: MD5: a3174c938a7f3f667a34316aac48c556
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/main/java/org/interledger/codecs/stream/frame/AsnStreamMoneyBlockedFrameDataCodec.java
+SPDXID: SPDXRef-item7833737
+FileChecksum: SHA1: e263809012c816c8fc5f418d7ee5d18fd72ed756
+FileChecksum: MD5: 08e88de0c928b82f54ba9f637f3ebdc6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/ildcp-core/src/test/java/org/interledger/ildcp/IldcpResponsePacketHandlerTest.java
+SPDXID: SPDXRef-item7833781
+FileChecksum: SHA1: 33479488d2b7580e5466b072a74f89a233dc5487
+FileChecksum: MD5: c3b832c0506d2be1fc4cf3f82182f886
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2019 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/ildcp-core/src/main/java/org/interledger/ildcp/IldcpResponse.java
+SPDXID: SPDXRef-item7833794
+FileChecksum: SHA1: 4a3fab81151cf255f49e9f64118ba5c6f0240622
+FileChecksum: MD5: 53db13e73d2d406c26754c491a80754c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/ildcp-core/src/test/java/org/interledger/ildcp/IldcpRequestPacketTest.java
+SPDXID: SPDXRef-item7833785
+FileChecksum: SHA1: 740f64627de00c31fd667e8ed4966203e2202495
+FileChecksum: MD5: ce74180ec994bc87d4365edbca3f37df
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2019 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/ildcp-core/src/main/java/org/interledger/ildcp/IldcpResponsePacket.java
+SPDXID: SPDXRef-item7833793
+FileChecksum: SHA1: 52a06631d0f0b18b72ec34da09eae87c6244e601
+FileChecksum: MD5: 6f799dd31c369175aca4bfaa50eab3f2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2019 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/ildcp-core/src/main/java/org/interledger/ildcp/IldcpRequest.java
+SPDXID: SPDXRef-item7833795
+FileChecksum: SHA1: 8dbcddbbbe4a30a034b7a44144be748d56498416
+FileChecksum: MD5: 0fdd613cc144eba24b9714d4944ed19f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2019 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/ildcp-core/src/main/java/org/interledger/ildcp/IldcpResponsePacketMapper.java
+SPDXID: SPDXRef-item7833796
+FileChecksum: SHA1: 731ad39aba04f45a01307088ad58108762c0495d
+FileChecksum: MD5: e0debd9e443bb770adb9e3733cd7c14a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2019 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/ildcp-core/src/main/java/org/interledger/ildcp/IldcpRequestPacket.java
+SPDXID: SPDXRef-item7833799
+FileChecksum: SHA1: 85124dd4232559e7d54336c76ba2c328c29098c1
+FileChecksum: MD5: 49b0f1e8891cfa8727e0530fd5cbb63d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2019 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/ilp-core/src/test/java/org/interledger/core/InterledgerPreparePacketTest.java
+SPDXID: SPDXRef-item7833874
+FileChecksum: SHA1: 19e56a4ec396bbef99a64e20a6ae533326f18102
+FileChecksum: MD5: 1f256fb7fb0fff00d30337bc1d52c5bb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/ilp-core/src/test/java/org/interledger/core/InterledgerAddressPrefixTest.java
+SPDXID: SPDXRef-item7833875
+FileChecksum: SHA1: 892c29d8bef2e6532b9144692f6711b8096d7159
+FileChecksum: MD5: f94b2a55debee13e7d7b9d8703feb475
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2019 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/ilp-core/src/test/java/org/interledger/core/InterledgerAddressSchemeTest.java
+SPDXID: SPDXRef-item7833877
+FileChecksum: SHA1: 421da4f2e4b94f0a03bcb5fa846e757b9422406f
+FileChecksum: MD5: a38647adc76f78273dc99cf8ba968234
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/ilp-core/src/test/java/org/interledger/core/InterledgerAddressTest.java
+SPDXID: SPDXRef-item7833879
+FileChecksum: SHA1: c4eabd163e54597d55e9da7ac3df67e4e365db53
+FileChecksum: MD5: 400c5e20acf2d98ca59f82c3ee9ba0c6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/ilp-core/src/main/java/org/interledger/core/InterledgerAddressPrefix.java
+SPDXID: SPDXRef-item7833901
+FileChecksum: SHA1: dff339789c423fcebad18783430f6081c580c5d2
+FileChecksum: MD5: 669c3cbc902095e1a977fc7674d4a1e6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2019 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/ilp-core/src/main/java/org/interledger/core/InterledgerRuntimeException.java
+SPDXID: SPDXRef-item7833896
+FileChecksum: SHA1: 61cc95b0fa73da663e507b225fe91e478ddd257f
+FileChecksum: MD5: e7b88c71e678dae8f9e07a66438f9576
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/ilp-core/src/main/java/org/interledger/core/InterledgerResponsePacket.java
+SPDXID: SPDXRef-item7833911
+FileChecksum: SHA1: 398959b033fc72fb44061b14863dd30a4c2c1206
+FileChecksum: MD5: 3c1f33218ecbeacf3972198a0392344e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/ilp-core/src/main/java/org/interledger/core/InterledgerAddress.java
+SPDXID: SPDXRef-item7833907
+FileChecksum: SHA1: 3d07ec7882aae1158f6165a52b7e5af5c58ff4b7
+FileChecksum: MD5: d135bc544526e60c25b8cc6723a36118
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/ilp-core/src/main/java/org/interledger/core/InterledgerProtocolException.java
+SPDXID: SPDXRef-item7833914
+FileChecksum: SHA1: 7ee4a3ceb384a5406d4113be87958f55203c20af
+FileChecksum: MD5: ca8ad9032b8934b77e7078184c8ab71b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/main/java/org/interledger/stream/frames/StreamCloseFrame.java
+SPDXID: SPDXRef-item7833975
+FileChecksum: SHA1: f1e0a8aa703ee1b9c82e3597290e4b967603f149
+FileChecksum: MD5: 36813c347839fa700991217814b642f4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-ilp/src/test/java/org/interledger/codecs/ilp/InterledgerPreparePacketOerSerializerTests.java
+SPDXID: SPDXRef-item7833483
+FileChecksum: SHA1: 79711a5ff102beb57150e97408d96ee0ea578f43
+FileChecksum: MD5: fe15c1138e706d4cc75da89249ab58c5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/test/java/org/interledger/codecs/stream/StreamPacketFixturesTest.java
+SPDXID: SPDXRef-item7833676
+FileChecksum: SHA1: 4b6e740852be1e2f208d60809d7acea08663f2ce
+FileChecksum: MD5: 8f314efd528b329acae96610363e7ab6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2016 - 2018 Ripple Labs </text>
+ 
+
+##File
+
+FileName: quilt/ildcp-core/src/test/java/org/interledger/ildcp/IldcpResponsePacketTest.java
+SPDXID: SPDXRef-item7833786
+FileChecksum: SHA1: cb295c2cdfa7291656dab30a27571e34851f7a48
+FileChecksum: MD5: 43d920c11aa108c9a12bf4ffd5d57b11
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2019 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/jackson-datatypes/src/test/java/org/interledger/quilt/jackson/InterledgerModuleTest.java
+SPDXID: SPDXRef-item7833810
+FileChecksum: SHA1: 8b392e4456bb7325ade4e092eed0e867fa6a152a
+FileChecksum: MD5: b2455b2d6f50a2d741453c9eb698fe9f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/jackson-datatypes/src/test/java/org/interledger/quilt/jackson/addressprefix/InterledgerAddressPrefixModuleTest.java
+SPDXID: SPDXRef-item7833823
+FileChecksum: SHA1: ee4924b64fafcc12c5037b239c52a1faa7780170
+FileChecksum: MD5: e9fc147025147773ad0200962a90e427
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/jackson-datatypes/src/main/java/org/interledger/quilt/jackson/InterledgerSerializers.java
+SPDXID: SPDXRef-item7833849
+FileChecksum: SHA1: e6e982158caf5f5546bf1ba2cabd72c0fef4ec34
+FileChecksum: MD5: d14a5421275c3db6a0ff269d3d325574
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/jackson-datatypes/src/main/java/org/interledger/quilt/jackson/addressprefix/InterledgerAddressPrefixSerializer.java
+SPDXID: SPDXRef-item7833851
+FileChecksum: SHA1: 0c04953de06486245d570aa1f9d9724d70eed801
+FileChecksum: MD5: ea31c5cef46d22b709855f42bd1785c5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/jackson-datatypes/src/main/java/org/interledger/quilt/jackson/addressprefix/InterledgerAddressPrefixModule.java
+SPDXID: SPDXRef-item7833852
+FileChecksum: SHA1: 9aaaaa6eafa2af780ecd1bcd4560d0a579c28a8b
+FileChecksum: MD5: 5a933070930f1f6a9db68e71658d4b60
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/jackson-datatypes/src/main/java/org/interledger/quilt/jackson/addressprefix/InterledgerAddressPrefixDeserializer.java
+SPDXID: SPDXRef-item7833853
+FileChecksum: SHA1: df1be53ffa8b538aa98f41ad843b1b9a8316d64c
+FileChecksum: MD5: 24d5897813b8e2323a06218caacf0937
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/jackson-datatypes/src/main/java/org/interledger/quilt/jackson/InterledgerDeserializers.java
+SPDXID: SPDXRef-item7833862
+FileChecksum: SHA1: 3698cceb1498e928722fc8f1ba62604e99768a99
+FileChecksum: MD5: 61cf242e4e280d6eac523cc7c40bef2e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 - 2018 Hyperledger and its contributors </text>
+ 
+
+##File
+
+FileName: quilt/pom.xml
+SPDXID: SPDXRef-item7833772
+FileChecksum: SHA1: 945b5dc3f61374c7300ff6bb53b02045ce0760dc
+FileChecksum: MD5: 57ddbf0de92bcf78170ea920abee7293
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/CONTRIBUTING.md
+SPDXID: SPDXRef-item7833429
+FileChecksum: SHA1: ae4046c5846bca49cd1ea7d9d503a35cbe7cea6c
+FileChecksum: MD5: 00332a41042a5a8d71e9308f24376f05
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/btp-core/src/test/java/org/interledger/btp/BtpResponsePacketTest.java
+SPDXID: SPDXRef-item7833438
+FileChecksum: SHA1: 517420d950b2643445b1d1b135b52638ba7b3e5f
+FileChecksum: MD5: 8f68a693832c6e248283fc45b08de2a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/btp-core/src/test/java/org/interledger/btp/BtpSubProtocolTest.java
+SPDXID: SPDXRef-item7833442
+FileChecksum: SHA1: 803dd818e2f3a37f5b1e7f66b3372052301c983e
+FileChecksum: MD5: c6976e8754202c3fb9328ce8dfabe06d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/btp-core/pom.xml
+SPDXID: SPDXRef-item7833468
+FileChecksum: SHA1: ffc84ef2284363b354f0c545175d29c58792f3a6
+FileChecksum: MD5: bbf41473e69de59edba2bf693fe06def
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/.circleci/config.yml
+SPDXID: SPDXRef-item7833470
+FileChecksum: SHA1: 9856594c6bf37f360a61509f4d69eaba8386c907
+FileChecksum: MD5: b2d5d4f57d79a847ef95064e7e8601fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/README.md
+SPDXID: SPDXRef-item7833471
+FileChecksum: SHA1: c09032fca67fb999a13fb3602b372e13cc16a5fd
+FileChecksum: MD5: eff662df3f2eece2743dd2af9ec0f75e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-ilp/README.md
+SPDXID: SPDXRef-item7833474
+FileChecksum: SHA1: 7ed16a7956a3de81a98e95f9c1b9260300896319
+FileChecksum: MD5: f264e7ecff62a4d42c4184621c2d64b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-ilp/pom.xml
+SPDXID: SPDXRef-item7833512
+FileChecksum: SHA1: 66866c7433f7338749fae9b21042e404a3521cc7
+FileChecksum: MD5: b6f7d5276e5764eaeb45f90614a8d224
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/README.md
+SPDXID: SPDXRef-item7833514
+FileChecksum: SHA1: 82261e27abc75fa2ae517b2b1f08c53a415b9948
+FileChecksum: MD5: 6aa5e78c29381c11e1f12d9e4273fa0c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/src/test/java/org/interledger/encoding/asn/codecs/AsnUintCodecULTest.java
+SPDXID: SPDXRef-item7833523
+FileChecksum: SHA1: fe4c03e3519ffe435f44e6ae3fd2984b1b817362
+FileChecksum: MD5: 921a1ad60b4760a07edd37862a40f72d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-framework/pom.xml
+SPDXID: SPDXRef-item7833593
+FileChecksum: SHA1: 9dc122b93a40d3114c0b6e3982b0edb91d115f38
+FileChecksum: MD5: 6d28c7aa4dc591ce60a886b92d076b28
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-btp/src/test/java/org/interledger/codecs/btp/AsnBtpMessageDataCodecTest.java
+SPDXID: SPDXRef-item7833605
+FileChecksum: SHA1: 8b79e7f462c8a86116e7996433f1b785cef80540
+FileChecksum: MD5: 8f8bf687f66e836a210d2e8fe5bb51b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-btp/src/test/java/org/interledger/codecs/btp/AsnBtpResponseDataCodecTest.java
+SPDXID: SPDXRef-item7833608
+FileChecksum: SHA1: caf5a6d453fde549fdab8ef8b41c381cb779d5e9
+FileChecksum: MD5: 5de7f821b6c4fdf652ec5123b25f3184
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-btp/src/test/java/org/interledger/codecs/btp/AsnBtpTransferDataCodecTest.java
+SPDXID: SPDXRef-item7833610
+FileChecksum: SHA1: 47d510735636c300a37ae206b9c44249958d7039
+FileChecksum: MD5: daa10361be55e7e60f2d8949063e237f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-btp/pom.xml
+SPDXID: SPDXRef-item7833631
+FileChecksum: SHA1: a2a7b3bbb655214ad6b3fce6322612b12048dfc2
+FileChecksum: MD5: 202b38d1afe0bb5bbafd573c8c4790f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-ildcp/pom.xml
+SPDXID: SPDXRef-item7833662
+FileChecksum: SHA1: 9cf30e5a96178cde57c59dfa6bba699f5724290b
+FileChecksum: MD5: 28e4a647d886bf84bf8b269713783b53
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/test/resources/fixtures.properties
+SPDXID: SPDXRef-item7833667
+FileChecksum: SHA1: 3cf8d482b6052efce4d98446294ff61442816156
+FileChecksum: MD5: 3b5920fc2ba98cfb9eb1d4bf3f12498d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/test/resources/StreamPacketFixtures.json
+SPDXID: SPDXRef-item7833668
+FileChecksum: SHA1: 2111a6bd304ba3f3e1cc2335ba91677fc572525b
+FileChecksum: MD5: 5c5f07e0dd25e7cc052b9d885571d6ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/test/java/org/interledger/codecs/stream/frame/helpers/StreamFrameTestVector.java
+SPDXID: SPDXRef-item7833692
+FileChecksum: SHA1: 08584b8faa4c8e2da460bc4a2660d4992a44400b
+FileChecksum: MD5: 21af890f87288729799b13fa169b9415
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/test/java/org/interledger/codecs/stream/frame/helpers/FixtureManager.java
+SPDXID: SPDXRef-item7833693
+FileChecksum: SHA1: 55c47d2b0aaa57197404bbe341eaf859213efa36
+FileChecksum: MD5: fd5f1013c3262610fa9aa25cafc326b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/test/java/org/interledger/codecs/stream/frame/helpers/StreamFrameFixture.java
+SPDXID: SPDXRef-item7833694
+FileChecksum: SHA1: 79710dee09ad4f97a4b2ffd39bfe2f92895aec05
+FileChecksum: MD5: 90784326f33485a78d698695e350ad61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/test/java/org/interledger/codecs/stream/frame/helpers/StreamPacketFixture.java
+SPDXID: SPDXRef-item7833695
+FileChecksum: SHA1: 85d44bd33a7b2b75882f65eb9a2dd60e4213c996
+FileChecksum: MD5: 79afe6415017c6f63ea4dbd56751299d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/test/java/org/interledger/codecs/stream/frame/helpers/StreamTestFixture.java
+SPDXID: SPDXRef-item7833696
+FileChecksum: SHA1: 7198be1833d33b8628d00a2fd3a3940ea2ed41b9
+FileChecksum: MD5: f55852836ee5ade65dd6b0adb892caae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/main/java/org/interledger/codecs/stream/frame/AsnStreamFrameCodec.java
+SPDXID: SPDXRef-item7833720
+FileChecksum: SHA1: 21bad3ff59392c2c9377ff04b5c34f13cb5e5b51
+FileChecksum: MD5: 06e5c54255e8c4ae08c7d0b4aa68d74a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/src/main/java/org/interledger/codecs/stream/AsnAmountTooLargeDataCodec.java
+SPDXID: SPDXRef-item7833738
+FileChecksum: SHA1: f24d3a65e11558182c6fb7580bf6e6be29bdbb0f
+FileChecksum: MD5: e7e21a9f59e48155da7da3f20760e7ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/codecs-parent/codecs-stream/pom.xml
+SPDXID: SPDXRef-item7833741
+FileChecksum: SHA1: 03e4285370460a3408240d52734f0223ecba85b4
+FileChecksum: MD5: d8de62766b1059ff1aedc8ef2e454345
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/codecs-parent/pom.xml
+SPDXID: SPDXRef-item7833742
+FileChecksum: SHA1: b3d95672a36761a845dcc9f063ebe3ac837cb0cc
+FileChecksum: MD5: 03710229d06e3feb4e072071237b2878
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/examples-parent/README.md
+SPDXID: SPDXRef-item7833745
+FileChecksum: SHA1: 56b678abe84ad5d6002738c16e2193c331069724
+FileChecksum: MD5: d6862822fb334a348539fecb9bf88fd5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/examples-parent/ilp-emitters/src/main/java/org/interledger/examples/packets/IlpOverHttpJwtEmitter.java
+SPDXID: SPDXRef-item7833754
+FileChecksum: SHA1: 792285fa316bcc82b03457d77f2ab7555ecca2c4
+FileChecksum: MD5: dba84927edae7c853ac7918a048eee02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/examples-parent/ilp-emitters/src/main/java/org/interledger/examples/packets/IlpPacketEmitter.java
+SPDXID: SPDXRef-item7833755
+FileChecksum: SHA1: 9f4919c924ddf9e7ed2d0ec88be7ca83c641587c
+FileChecksum: MD5: 77dd575d2b4c45808c75209423b26481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/examples-parent/ilp-emitters/pom.xml
+SPDXID: SPDXRef-item7833756
+FileChecksum: SHA1: 3c878a49a4d0d5af0ea28a07b58d16624bf99841
+FileChecksum: MD5: 20dd9b0c8ca0779086cedf95d931ad77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/examples-parent/pom.xml
+SPDXID: SPDXRef-item7833757
+FileChecksum: SHA1: 6c8cb540369c12e20dea8e7fd55812473be0b6d8
+FileChecksum: MD5: d42779c94b89aa94ed40eca53b37f18c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/examples-parent/send-money/README.md
+SPDXID: SPDXRef-item7833759
+FileChecksum: SHA1: cfb0fca094b1761382b7c653d23d89484bedd3e8
+FileChecksum: MD5: 3eed0c4b784a247d10a50332a6145e8a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/examples-parent/send-money/src/main/java/org/interledger/examples/SendMoneyExample.java
+SPDXID: SPDXRef-item7833766
+FileChecksum: SHA1: a702ba4dd83e6ec9cfd380ff14c06ba247d2b7c8
+FileChecksum: MD5: 2af5582e644cda091374d59346151458
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/examples-parent/send-money/pom.xml
+SPDXID: SPDXRef-item7833767
+FileChecksum: SHA1: 97abdd967353980ea4ff8cd4e9c2f7d990130c9d
+FileChecksum: MD5: 7907e8f22b341283bfd6d0031ac445a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/quilt-bom/pom.xml
+SPDXID: SPDXRef-item7833769
+FileChecksum: SHA1: f78e2dcab2cbd72d88790e6c0a91493dd93387aa
+FileChecksum: MD5: 5fcdfd6d99f4a79a6495cd6c83c0d3c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/.gitignore
+SPDXID: SPDXRef-item7833771
+FileChecksum: SHA1: 3b882cdb88aa135c2cfbe24af2decc7e291de984
+FileChecksum: MD5: a95cf2713344d23c49697bb4dd9b5ddc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/ildcp-core/src/test/java/org/interledger/ildcp/IldcpResponsePacketMapperTest.java
+SPDXID: SPDXRef-item7833780
+FileChecksum: SHA1: e4a6b79dfd5c20a26aca9cea22d36cb37ab4b6d5
+FileChecksum: MD5: 36641f759f046ec5394593f39895fc7d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/ildcp-core/src/test/java/org/interledger/ildcp/InterledgerShampooPacket.java
+SPDXID: SPDXRef-item7833782
+FileChecksum: SHA1: 0f99e217aee2ee8a7b1dddcf8c280e0560850620
+FileChecksum: MD5: 19417b4750161d504f3a12ac2fae8794
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/ildcp-core/src/test/java/org/interledger/ildcp/IldcpRequestTest.java
+SPDXID: SPDXRef-item7833783
+FileChecksum: SHA1: a2a6aaa416cabc7653aa64c08fae88ad53351e1c
+FileChecksum: MD5: 0acc0005b96c9fd9cf0d5c9638417b9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/ildcp-core/pom.xml
+SPDXID: SPDXRef-item7833800
+FileChecksum: SHA1: 7a63e0890f35a3926e60b6078a3869520e3ca31c
+FileChecksum: MD5: f2fec8acc9b20bf3be98cb0efc2bf249
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/jackson-datatypes/README.md
+SPDXID: SPDXRef-item7833802
+FileChecksum: SHA1: 591f467a9289dd142e92f3fd00f44ca89b8f4d6b
+FileChecksum: MD5: feadc9cad93928ada248e41bfeba4095
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/jackson-datatypes/src/test/java/org/interledger/quilt/jackson/link/LinkTypeModuleTest.java
+SPDXID: SPDXRef-item7833814
+FileChecksum: SHA1: 2edfc742bd8155c74b3ec9d45ae8b06dadb80ec7
+FileChecksum: MD5: 8a94aa17ae9057f52b730ab25990724b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/jackson-datatypes/src/test/java/org/interledger/quilt/jackson/link/LinkTypeSerializerTest.java
+SPDXID: SPDXRef-item7833815
+FileChecksum: SHA1: cd53b13c0579716faf1e15edc1faf949f50a6982
+FileChecksum: MD5: f2198c20d22805ab3030edf618957fca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/jackson-datatypes/src/test/java/org/interledger/quilt/jackson/link/LinkIdContainer.java
+SPDXID: SPDXRef-item7833816
+FileChecksum: SHA1: 1370784d6df25fbd21979407107698b9bbd83cb3
+FileChecksum: MD5: 5f447e0e854a71f452a402a16a2a234e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/jackson-datatypes/src/test/java/org/interledger/quilt/jackson/link/LinkModuleTest.java
+SPDXID: SPDXRef-item7833817
+FileChecksum: SHA1: 54dbbe80106c00b10a9ddd15d6756c5a171fa1c7
+FileChecksum: MD5: d242a1f70eb49743be739b3af0e27c77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/jackson-datatypes/src/test/java/org/interledger/quilt/jackson/link/LinkIdDeserializerTest.java
+SPDXID: SPDXRef-item7833818
+FileChecksum: SHA1: 41cef3c12ef6d781209cb9e2a503b56f04930214
+FileChecksum: MD5: 18a02c61953143db1e94484a068b8c7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/jackson-datatypes/src/test/java/org/interledger/quilt/jackson/link/LinkIdSerializerTest.java
+SPDXID: SPDXRef-item7833819
+FileChecksum: SHA1: 49062e3ba45831bf350f45eb6168ecb344ccd9c5
+FileChecksum: MD5: 4b21b78348b1e8d8c5bbddb80ec4d38a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/jackson-datatypes/src/test/java/org/interledger/quilt/jackson/link/LinkTypeIdDeserializerTest.java
+SPDXID: SPDXRef-item7833820
+FileChecksum: SHA1: 025e6684ce077baccea9c031f6354350b464c772
+FileChecksum: MD5: 7b82ce4693f8d74892c2203d39a5ebae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/jackson-datatypes/src/test/java/org/interledger/quilt/jackson/link/LinkTypeContainer.java
+SPDXID: SPDXRef-item7833821
+FileChecksum: SHA1: 6af6f0efb009c50906cb533aa4d0575acf810c89
+FileChecksum: MD5: 34aba17bd855d503b3cfdcc29845d3b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/jackson-datatypes/src/main/java/org/interledger/quilt/jackson/link/LinkIdSerializer.java
+SPDXID: SPDXRef-item7833839
+FileChecksum: SHA1: 033fab94a027be65de3653304bb9f56dd39c2015
+FileChecksum: MD5: c2dcf5abdfe726c664f96bad87b02ee3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/jackson-datatypes/src/main/java/org/interledger/quilt/jackson/link/LinkTypeDeserializer.java
+SPDXID: SPDXRef-item7833840
+FileChecksum: SHA1: 4f0efc7f0d23d196901f12b234ce93bc5671dc84
+FileChecksum: MD5: 63577086e06cf15cf31ece61d127a549
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/jackson-datatypes/src/main/java/org/interledger/quilt/jackson/link/LinkTypeModule.java
+SPDXID: SPDXRef-item7833841
+FileChecksum: SHA1: 17440926084318b09d94d80680ffadfc28680a88
+FileChecksum: MD5: c110e37f49b966ff1c49cb4862d27c4e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/jackson-datatypes/src/main/java/org/interledger/quilt/jackson/link/LinkIdModule.java
+SPDXID: SPDXRef-item7833842
+FileChecksum: SHA1: 949ba4892915038bfe83655a19723e030db7f46c
+FileChecksum: MD5: 07447f2050a87249d434a58541412968
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/jackson-datatypes/src/main/java/org/interledger/quilt/jackson/link/LinkTypeSerializer.java
+SPDXID: SPDXRef-item7833843
+FileChecksum: SHA1: 575a47967c0681ed9b010f2de07f2c0beb47532d
+FileChecksum: MD5: 73a8fb6c3f3557cea0a2143d78aa17b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/jackson-datatypes/src/main/java/org/interledger/quilt/jackson/link/LinkIdDeserializer.java
+SPDXID: SPDXRef-item7833844
+FileChecksum: SHA1: 4acfc93b52810a21d0d13e1d56aa592fbe44d20b
+FileChecksum: MD5: 291c59958dc32fcf09d63787ad3650b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/jackson-datatypes/pom.xml
+SPDXID: SPDXRef-item7833864
+FileChecksum: SHA1: 264220ccfdbd460614f3fd0be877f3a3b1fe3b7a
+FileChecksum: MD5: f98c13bee4ce158bb89e67db0bcbfe4a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/ilp-core/README.md
+SPDXID: SPDXRef-item7833866
+FileChecksum: SHA1: 6d725431026f30c61d3ae28972118fb694ab6af5
+FileChecksum: MD5: 435323be0f26f2c7d3d4ab578800e321
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/ilp-core/src/test/java/org/interledger/core/InterledgerPacketTypeTest.java
+SPDXID: SPDXRef-item7833876
+FileChecksum: SHA1: d2932a3743892958ed4df6c6f022db9747ba837b
+FileChecksum: MD5: bac623472e45518ac949c49894ad484c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/ilp-core/src/test/java/org/interledger/core/AllocationSchemeTest.java
+SPDXID: SPDXRef-item7833878
+FileChecksum: SHA1: 68730bdfe1df2a08de5fa485b630245ab842cb53
+FileChecksum: MD5: 7728d07373f0a0909e74be3e2de04702
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/ilp-core/src/test/java/org/interledger/core/DateUtilsTest.java
+SPDXID: SPDXRef-item7833882
+FileChecksum: SHA1: f2e1b1225d57815a0e965f83dc0d256153af03fd
+FileChecksum: MD5: 98f335210397a3154e44d04c279f4eed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/ilp-core/src/test/java/org/interledger/core/InterledgerResponsePacketTest.java
+SPDXID: SPDXRef-item7833884
+FileChecksum: SHA1: 0cf9561d8e3918817bc32a447d12a90935b04238
+FileChecksum: MD5: 8b000d3e43ad7102fc93698b94dbc26a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/ilp-core/src/test/java/org/interledger/core/InterledgerConstantsTest.java
+SPDXID: SPDXRef-item7833885
+FileChecksum: SHA1: 7aefe55efb4c4bd1ce3cae4b894c029e23bd6164
+FileChecksum: MD5: 98d555185076d702c2df83d6925ae39d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/ilp-core/src/test/java/org/interledger/core/WrapperTest.java
+SPDXID: SPDXRef-item7833886
+FileChecksum: SHA1: 6c87c2ff8b62463eee548baaedcd350176d3a18d
+FileChecksum: MD5: 9dfaa77985471529a56a1d9568228198
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/ilp-core/src/main/resources/META-INF/annotations/org.immutables.value.immutable
+SPDXID: SPDXRef-item7833891
+FileChecksum: SHA1: 928b13272622c94d563b90ba8f8560151d01ca72
+FileChecksum: MD5: f46f1271b01fb3f5985dcd717164c149
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/ilp-core/src/main/java/org/interledger/core/SharedSecret.java
+SPDXID: SPDXRef-item7833898
+FileChecksum: SHA1: bc653b85110316e4e61723265a0130234e0b1a9a
+FileChecksum: MD5: 850f37f301a6caf6b16536ae72aa7cb1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/ilp-core/src/main/java/org/interledger/core/Wrapped.java
+SPDXID: SPDXRef-item7833902
+FileChecksum: SHA1: 4862e6b68365e991c0edd7a93b2b3f30e4e58ff3
+FileChecksum: MD5: f81c795584f54ddfd8455333d2e7627f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/ilp-core/src/main/java/org/interledger/core/InterledgerConstants.java
+SPDXID: SPDXRef-item7833903
+FileChecksum: SHA1: 2b65724f178273f56cb511df0f8157d7bd1cb324
+FileChecksum: MD5: 2dc671fde16b37564a45689d62abe50c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/ilp-core/src/main/java/org/interledger/core/Wrapper.java
+SPDXID: SPDXRef-item7833904
+FileChecksum: SHA1: 6d3dfc2afee891280b718895546d8aa1c88e8a8e
+FileChecksum: MD5: 2f70875b5bf46b831bf2aa298535e548
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/ilp-core/src/main/java/org/interledger/core/InterledgerPacketType.java
+SPDXID: SPDXRef-item7833905
+FileChecksum: SHA1: 70db685303d1a0747b8e3dba8125ca1b8121dc66
+FileChecksum: MD5: 3e222af20c7b39f463d9c2fabed54b19
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/ilp-core/src/main/java/org/interledger/core/DateUtils.java
+SPDXID: SPDXRef-item7833909
+FileChecksum: SHA1: f41ccf433bdae8acd38a9570478963e61858b16a
+FileChecksum: MD5: 8d76ad33376cca01fc4db882dbafd10c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/ilp-core/pom.xml
+SPDXID: SPDXRef-item7833916
+FileChecksum: SHA1: c27a831435affa47b1debc8167acddb559cd6817
+FileChecksum: MD5: 9d3040283d71f6aa1abc802c86436ac5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/SECURITY.md
+SPDXID: SPDXRef-item7833917
+FileChecksum: SHA1: 0397010efc31a3508d0eb8151dbae32e9433b031
+FileChecksum: MD5: ae35bef17d8b512c07bade9bc1c39226
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/test/java/org/interledger/stream/StreamConnectionTest.java
+SPDXID: SPDXRef-item7833926
+FileChecksum: SHA1: b34c3b6d4abd286fa48c890b4d2cd596245cd052
+FileChecksum: MD5: 4497e4ae8cd2301fa31f5ee56ab18ce1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/test/java/org/interledger/stream/frames/StreamDataFrameTest.java
+SPDXID: SPDXRef-item7833928
+FileChecksum: SHA1: 39396eb214f907afa3b54426fda6ad6b62eb33ed
+FileChecksum: MD5: bc031686db62bbb2486342eae022ca55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/test/java/org/interledger/stream/frames/StreamFrameTest.java
+SPDXID: SPDXRef-item7833929
+FileChecksum: SHA1: 2365858d9ccbb3732aa48e7f33927c14cf11b24d
+FileChecksum: MD5: 0967e8b26583d8a7f48beedf309b0329
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/test/java/org/interledger/stream/frames/ErrorCodesTest.java
+SPDXID: SPDXRef-item7833930
+FileChecksum: SHA1: 5fd13ad2812e379c1a259edf07646732a04bc692
+FileChecksum: MD5: 0e8dfc88503e9d53a213d4ac7210f884
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/test/java/org/interledger/stream/frames/StreamMoneyMaxFrameTest.java
+SPDXID: SPDXRef-item7833931
+FileChecksum: SHA1: 16cba9c220dd42533b0bd3c1c6acd872315fc129
+FileChecksum: MD5: b32c4a55de06b7e1991d4a265c1c5ebb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/test/java/org/interledger/stream/frames/StreamCloseFrameTest.java
+SPDXID: SPDXRef-item7833932
+FileChecksum: SHA1: 4ce2e80a2f1ba451be9f71e54488d308e7189792
+FileChecksum: MD5: dcb03174316e9d123083d4efc229197e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/test/java/org/interledger/stream/frames/StreamFrameTypeTest.java
+SPDXID: SPDXRef-item7833933
+FileChecksum: SHA1: 435aafdcf0036c760351edf8fef2268ead060928
+FileChecksum: MD5: ff495eb37093cf056424549b30566d5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/test/java/org/interledger/stream/frames/StreamMoneyBlockedFrameTest.java
+SPDXID: SPDXRef-item7833934
+FileChecksum: SHA1: c37afc788cf48cd11ec52309a45a234f47979d1d
+FileChecksum: MD5: 8fc27d7d2c8ee1ec52b766ec801b6a6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/test/java/org/interledger/stream/StreamConnectionIdTest.java
+SPDXID: SPDXRef-item7833935
+FileChecksum: SHA1: 2b2e86afb9ac07440cdb021f0a32cf001b131691
+FileChecksum: MD5: 170525ff3db698354a8a16c7f9496597
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/test/java/org/interledger/stream/StreamUtilsTest.java
+SPDXID: SPDXRef-item7833936
+FileChecksum: SHA1: f6049ed17b207bdbce3f5ee7b2bd1dc1bdab713e
+FileChecksum: MD5: b5337ab3a0286a2dc1362c8c61ae7adb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/test/java/org/interledger/stream/PrepareAmountsTest.java
+SPDXID: SPDXRef-item7833937
+FileChecksum: SHA1: 263eaf9049172ca99cb3907576fb44ab10b01231
+FileChecksum: MD5: d67410da8796c7e36c33564c9580c333
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/test/java/org/interledger/stream/DenominationsTest.java
+SPDXID: SPDXRef-item7833938
+FileChecksum: SHA1: f67e506920fe6c3a9f523547e82a82ade4146cc4
+FileChecksum: MD5: 329a6fd71b1ce5947c5a96aad16b8a96
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/test/java/org/interledger/stream/crypto/SharedSecretTest.java
+SPDXID: SPDXRef-item7833940
+FileChecksum: SHA1: e0497e5d0ed2a43d26a507dbf0b7bd298124035a
+FileChecksum: MD5: cf80b93513d97cae7ba89d1752a95c99
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/test/java/org/interledger/stream/crypto/JavaxStreamEncryptionServiceTest.java
+SPDXID: SPDXRef-item7833941
+FileChecksum: SHA1: 99857577f4d1aee40a3ba806f31bd8fd06871b4d
+FileChecksum: MD5: cbe2a907a7a765664543a442e3d36915
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/test/java/org/interledger/stream/calculators/ExchangeRateCalculatorTest.java
+SPDXID: SPDXRef-item7833943
+FileChecksum: SHA1: db5dd8cf347bc7430f4b406a8d2a0237d56ef4e9
+FileChecksum: MD5: 646062e79b41efc913a578dfee750561
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/test/java/org/interledger/stream/calculators/NoOpExchangeRateCalculatorTest.java
+SPDXID: SPDXRef-item7833944
+FileChecksum: SHA1: d40bdb85c506db7f449c5d0dab55d3f8e34e5b8a
+FileChecksum: MD5: 65654f8dd041bd3f8875a11f5326b4f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/test/java/org/interledger/stream/StreamPacketTest.java
+SPDXID: SPDXRef-item7833945
+FileChecksum: SHA1: 73035802acf41f51f54c9b9161847146b7d0370a
+FileChecksum: MD5: c8a4066a9fd5a937f1256ca4bdc8f6e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/test/java/org/interledger/stream/FluentCompareToTest.java
+SPDXID: SPDXRef-item7833946
+FileChecksum: SHA1: 6595bdc05a5515fe8a69541d3a9ca348d4814335
+FileChecksum: MD5: a5b1a6eefd493f798625b874069529c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/test/java/org/interledger/stream/SendMoneyResultTest.java
+SPDXID: SPDXRef-item7833947
+FileChecksum: SHA1: 719963b48eb1bea1959f2b64e79e543db99dce6a
+FileChecksum: MD5: 9cacc9679215ab3f30dbf55093c1b6f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/main/java/org/interledger/stream/PrepareAmounts.java
+SPDXID: SPDXRef-item7833953
+FileChecksum: SHA1: 57303780abb80e4d22d5f26dd16094ef8635fd43
+FileChecksum: MD5: 918ddb3bada340604989310e390abb27
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/main/java/org/interledger/stream/StreamConnection.java
+SPDXID: SPDXRef-item7833954
+FileChecksum: SHA1: 2a2c52795034e694df62e379e550baa72d19273e
+FileChecksum: MD5: 29ecdbb5200c14a4dd1e6dc6b6c9ea63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/main/java/org/interledger/stream/frames/ErrorCodes.java
+SPDXID: SPDXRef-item7833956
+FileChecksum: SHA1: b829a2d296f8efed457a76b72e72aa8d1c739155
+FileChecksum: MD5: 52f5ca0007a5892bb9370cc31aaeda73
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/main/java/org/interledger/stream/frames/ErrorCode.java
+SPDXID: SPDXRef-item7833958
+FileChecksum: SHA1: 260e7014f33e6e7f199b227411cf413d6708f967
+FileChecksum: MD5: 6a358e68297801de392805fa02b48104
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/main/java/org/interledger/stream/frames/StreamFrameConstants.java
+SPDXID: SPDXRef-item7833967
+FileChecksum: SHA1: a616df243f3cfdddaeb05c858d5e28d3c2c879dc
+FileChecksum: MD5: 5cdec10f68174c075a28479f494bb058
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/main/java/org/interledger/stream/frames/ErrorCodeConstants.java
+SPDXID: SPDXRef-item7833971
+FileChecksum: SHA1: 6d0de436257c00f6f81091d685c2fdccdad6d3e1
+FileChecksum: MD5: e5f3456e56f12302f1c2f8656049836d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/main/java/org/interledger/stream/Ids.java
+SPDXID: SPDXRef-item7833976
+FileChecksum: SHA1: 2072fad0d94129cbcbd84ba374c0203eaadf6edd
+FileChecksum: MD5: b17c3a73ad6e997993a4121f2232398d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/main/java/org/interledger/stream/StreamConnectionClosedException.java
+SPDXID: SPDXRef-item7833977
+FileChecksum: SHA1: da19c5a365e688ab49017c3b90f3755c8f614cc1
+FileChecksum: MD5: f8f8b81ff3a3ee4d79a4521ae9437a82
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/main/java/org/interledger/stream/SendMoneyRequest.java
+SPDXID: SPDXRef-item7833978
+FileChecksum: SHA1: 67e5d59dcc44a6c1b56ba6b1a7ab1b466aa385ff
+FileChecksum: MD5: 7a9cc93447e0a53badbb1ae0eccf17d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/main/java/org/interledger/stream/SenderAmountPaymentTracker.java
+SPDXID: SPDXRef-item7833979
+FileChecksum: SHA1: 6a749f7cebb1973c0bdda3b53663bf1d215c887c
+FileChecksum: MD5: d221b60cc7acd2128a21290d50e49b45
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/main/java/org/interledger/stream/FluentCompareTo.java
+SPDXID: SPDXRef-item7833981
+FileChecksum: SHA1: 08733a66a44c4cd517b1ee710feaf9806dd86019
+FileChecksum: MD5: a96790c723a4c19bd62154e03b035ee7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/main/java/org/interledger/stream/SendMoneyResult.java
+SPDXID: SPDXRef-item7833982
+FileChecksum: SHA1: 3c1dc3ba1a1bf660f40f35f1483be362f1532044
+FileChecksum: MD5: f71403182a240167631162634d1834f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/main/java/org/interledger/stream/AmountTooLargeErrorData.java
+SPDXID: SPDXRef-item7833983
+FileChecksum: SHA1: d2fa6d5dfb3d3ae483e034c07f93a28678529026
+FileChecksum: MD5: d56ddaf1edce4e2c38bb7f06a7d49908
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/main/java/org/interledger/stream/Denominations.java
+SPDXID: SPDXRef-item7833984
+FileChecksum: SHA1: 07d74f17992970da6488891ca24403ac7470700b
+FileChecksum: MD5: 6ddfa89542df63a8b79b179214b8845f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/main/java/org/interledger/stream/StreamUtils.java
+SPDXID: SPDXRef-item7833985
+FileChecksum: SHA1: 7795f01374d9ca60c7467f99b5abfc2a07cba282
+FileChecksum: MD5: 1455e2e036c37ba6dd24fe6e0f818503
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/main/java/org/interledger/stream/crypto/StreamEncryptionService.java
+SPDXID: SPDXRef-item7833987
+FileChecksum: SHA1: 7d234f6e5d0b7b6d8c6f61eeed385d14f4f3b64b
+FileChecksum: MD5: ad8c1afc119fdb6d0023458770e4bc94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/main/java/org/interledger/stream/crypto/EncryptionException.java
+SPDXID: SPDXRef-item7833988
+FileChecksum: SHA1: e7a6784d6a35a6eb7b948ddc9baba22ce1b389cf
+FileChecksum: MD5: a80e0aaaa4f0e18a6c8c06105202bd1e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/main/java/org/interledger/stream/crypto/Random.java
+SPDXID: SPDXRef-item7833989
+FileChecksum: SHA1: 24cc80d49fe4d8b2d12fc6d475e9ede36713cca2
+FileChecksum: MD5: 8cae2831817cdab81133504fae8847b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/main/java/org/interledger/stream/crypto/JavaxStreamEncryptionService.java
+SPDXID: SPDXRef-item7833990
+FileChecksum: SHA1: 1ca4ca966015578e7d01a1639a73248c58c22ff2
+FileChecksum: MD5: 5cd90cda12987a687a0777eaa63705b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/main/java/org/interledger/stream/StreamException.java
+SPDXID: SPDXRef-item7833991
+FileChecksum: SHA1: 2ec1d52a4af1b2dc91ab9ad4dce9b0e4bfd15ba7
+FileChecksum: MD5: 02f6dea7d83230a7bc17dfef9072e185
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/main/java/org/interledger/stream/calculators/ExchangeRateCalculator.java
+SPDXID: SPDXRef-item7833993
+FileChecksum: SHA1: 37f080d5a3194ea4610202150f5364c511b60169
+FileChecksum: MD5: ac8eebf6a48dbd39680c00d297088347
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/main/java/org/interledger/stream/calculators/NoExchangeRateException.java
+SPDXID: SPDXRef-item7833994
+FileChecksum: SHA1: 7e89af6b6041d94acf31fa99091830285daceb8c
+FileChecksum: MD5: b31b37593ce8131d3fa67ead51a7650c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/main/java/org/interledger/stream/calculators/NoOpExchangeRateCalculator.java
+SPDXID: SPDXRef-item7833995
+FileChecksum: SHA1: c86cc82b5d3f9a5a6cad0aabc966bbe4ef381690
+FileChecksum: MD5: 8bf2600bbad6c771e636d4b2bd5fe52d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/main/java/org/interledger/stream/SenderAmountMode.java
+SPDXID: SPDXRef-item7833996
+FileChecksum: SHA1: a028769b8183848b93a05f6093b811e6c18d0384
+FileChecksum: MD5: b7dd0649868cca8edf6434e32004f02e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/main/java/org/interledger/stream/ReceiverAmountPaymentTracker.java
+SPDXID: SPDXRef-item7833997
+FileChecksum: SHA1: 41a10b9a4118696decfb2a370fe1c5e52dadc4fa
+FileChecksum: MD5: 8aa8a63eb8c12bbaf1a6058e348dd969
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/main/java/org/interledger/stream/Denomination.java
+SPDXID: SPDXRef-item7833998
+FileChecksum: SHA1: e27bc9f8dfdca80a7f209a3e48878964ae980fb0
+FileChecksum: MD5: a79f0b98998d9d9ff692fc09f86497c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/src/main/java/org/interledger/stream/PaymentTracker.java
+SPDXID: SPDXRef-item7833999
+FileChecksum: SHA1: 3ad47652ff054c008434b8362967563d5b9d41da
+FileChecksum: MD5: 8c9858aa4b3f0f41868ee79310120f47
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-core/pom.xml
+SPDXID: SPDXRef-item7834000
+FileChecksum: SHA1: ff1a069973c1b16d6aea06eca77f78dfe443b968
+FileChecksum: MD5: 615d79a736c4f61ca4c9d3536204832e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-receiver/src/test/java/org/interledger/stream/receiver/StatelessStreamReceiverTest.java
+SPDXID: SPDXRef-item7834009
+FileChecksum: SHA1: 1cc46e5f360ef022b780e66d22db6dd66c51705b
+FileChecksum: MD5: 2450b5f0cd26801bfce8062ef8f06cc3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-receiver/src/test/java/org/interledger/stream/receiver/testutils/SimulatedIlpv4Network.java
+SPDXID: SPDXRef-item7834011
+FileChecksum: SHA1: b33ac85f1811bbb4539b6ff0da8be820efa6c192
+FileChecksum: MD5: a4350d79cf6df0069e779ef5f8d5c01c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-receiver/src/test/java/org/interledger/stream/receiver/testutils/SimulatedPathConditions.java
+SPDXID: SPDXRef-item7834012
+FileChecksum: SHA1: 0c663e57a42658d09d9c012e01413a3c02c15595
+FileChecksum: MD5: 65adad19c0eba400dde4668ae20dd679
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-receiver/src/test/java/org/interledger/stream/receiver/SpspStreamStreamConnectionGeneratorTest.java
+SPDXID: SPDXRef-item7834013
+FileChecksum: SHA1: 29406a8c97bd14fcdc1b97356f939282a0d65679
+FileChecksum: MD5: 26ac054c55bf156d2bfe9a32ced12ef7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-receiver/src/test/java/org/interledger/stream/receiver/SenderReceiverTest.java
+SPDXID: SPDXRef-item7834014
+FileChecksum: SHA1: 0ecae5f32d3e3f7cc123bb0751065774832b46ca
+FileChecksum: MD5: 48f8b6e9ada4407bf39fdd19250d1990
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-receiver/src/main/java/org/interledger/stream/receiver/StreamReceiver.java
+SPDXID: SPDXRef-item7834021
+FileChecksum: SHA1: 74a3aaebbce8c5e63a708dc44bbe3501a58529da
+FileChecksum: MD5: e46a11adbeb572435fa2c90898c4c559
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-receiver/src/main/java/org/interledger/stream/receiver/ServerSecretSupplier.java
+SPDXID: SPDXRef-item7834022
+FileChecksum: SHA1: cc53211d990a4f88a05a8e1cd9c4eba7ddae0ac4
+FileChecksum: MD5: 019bf0c321a91600a45252b6def80fd3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-receiver/src/main/java/org/interledger/stream/receiver/SpspStreamConnectionGenerator.java
+SPDXID: SPDXRef-item7834023
+FileChecksum: SHA1: 271d98306cbfc1ffe51ebf2c4a41c3811c75d1f9
+FileChecksum: MD5: 7f1538bab52f3848d55f2d771de3f662
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-receiver/src/main/java/org/interledger/stream/receiver/InvalidReceiverProblem.java
+SPDXID: SPDXRef-item7834024
+FileChecksum: SHA1: 154c3dfdf3705b03169a08cfda39c4fb574c94b6
+FileChecksum: MD5: ad892f196138bcfda291e94b91cf37e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-receiver/src/main/java/org/interledger/stream/receiver/StreamConnectionGenerator.java
+SPDXID: SPDXRef-item7834025
+FileChecksum: SHA1: a70185dfa6b15a4c7d423994dcf77df55db24248
+FileChecksum: MD5: 5e7afde067b9fda81262e9615fac5d85
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-receiver/src/main/java/org/interledger/stream/receiver/StatelessStreamReceiver.java
+SPDXID: SPDXRef-item7834026
+FileChecksum: SHA1: 985614350a4b7e2a8f4b8f837a69b46fee1600b7
+FileChecksum: MD5: 30db6fadc8bd69896adc8f3211601e3f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-receiver/pom.xml
+SPDXID: SPDXRef-item7834027
+FileChecksum: SHA1: 93548e3d1bb6972c323adae57ede5d84d87266b1
+FileChecksum: MD5: d83ca568d4143470a23e2c18d22fe1eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-client/src/test/java/org/interledger/stream/sender/AimdCongestionControllerTest.java
+SPDXID: SPDXRef-item7834036
+FileChecksum: SHA1: 06e2361c652e04df4c1fc130af1ae3ab6a0a233b
+FileChecksum: MD5: 9aaefad8c46b520713ab359fc254a522
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-client/src/test/java/org/interledger/stream/sender/FixedReceiverAmountPaymentTrackerTest.java
+SPDXID: SPDXRef-item7834037
+FileChecksum: SHA1: cd30b575a57a2acd421494758e5e29cbd74e52ef
+FileChecksum: MD5: 2cb210aa8f24dfb882b02e432bbdc59a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-client/src/test/java/org/interledger/stream/sender/FixedSenderAmountPaymentTrackerTest.java
+SPDXID: SPDXRef-item7834038
+FileChecksum: SHA1: 1c94b21474e8fd63f0bc066cdc82f4d5adb2a8bd
+FileChecksum: MD5: 5569e109d2d85832d998c7fba85f07ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-client/src/test/java/org/interledger/stream/sender/SimpleStreamSenderIT.java
+SPDXID: SPDXRef-item7834039
+FileChecksum: SHA1: 0593f1583cfbb71cd04104db06cdfc7fa6844174
+FileChecksum: MD5: 38cd048709d0364c8b40e44f5f737570
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-client/src/test/java/org/interledger/stream/sender/StreamConnectionManagerTest.java
+SPDXID: SPDXRef-item7834040
+FileChecksum: SHA1: 42832ca05d637cd80c879c65b1c8d090f6d33bdb
+FileChecksum: MD5: 39333c6d76182a63e2f1e4d870be1619
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-client/src/test/java/org/interledger/stream/sender/SimpleStreamSenderTests.java
+SPDXID: SPDXRef-item7834041
+FileChecksum: SHA1: a4efca03bd845b4391e976bf60408d0ab1e965da
+FileChecksum: MD5: eacdf3320e0341ebccd6d7980320d449
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-client/src/test/java/org/interledger/stream/sender/SendMoneyAggregatorTest.java
+SPDXID: SPDXRef-item7834042
+FileChecksum: SHA1: fd46c7ebe5409cd4e65c2bc6dc5a5760db352379
+FileChecksum: MD5: 86e89d16d1766b3debcdd3d0e98dc3b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-client/src/test/java/org/interledger/stream/sender/HalfsiesExchangeRateCalculator.java
+SPDXID: SPDXRef-item7834043
+FileChecksum: SHA1: 334a7d3daab228e948587e47e3de56b3170f750b
+FileChecksum: MD5: d3f69026036584855c193a6a41dcc6e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-client/src/main/java/org/interledger/stream/sender/FixedReceiverAmountPaymentTracker.java
+SPDXID: SPDXRef-item7834050
+FileChecksum: SHA1: 4305efa2a8d0f05f0234edc6366a64499a84ad5a
+FileChecksum: MD5: ec6e6e8eefa440220a0a202478406dd2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-client/src/main/java/org/interledger/stream/sender/StreamSender.java
+SPDXID: SPDXRef-item7834051
+FileChecksum: SHA1: d19696279db333f6427f596d1bd7df5ff86bc5a3
+FileChecksum: MD5: e0b5c01f0f24cccc466706a9f195e9c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-client/src/main/java/org/interledger/stream/sender/SimpleStreamSender.java
+SPDXID: SPDXRef-item7834052
+FileChecksum: SHA1: 0c0e7dff62870fe2a0ec5931b56f241e47a86d19
+FileChecksum: MD5: c72e3e4331342fb54425517aa307267d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-client/src/main/java/org/interledger/stream/sender/CongestionController.java
+SPDXID: SPDXRef-item7834053
+FileChecksum: SHA1: c2b45daa77bf9bf546febcc63b37d59c53a2696d
+FileChecksum: MD5: 7358aac9f900749a2040bb45a1857573
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-client/src/main/java/org/interledger/stream/sender/StreamConnectionManager.java
+SPDXID: SPDXRef-item7834054
+FileChecksum: SHA1: ce4e37ac87a26ccf8e11a1522005644749e8c72b
+FileChecksum: MD5: 92e6831230c74931e2d8e721ebf57a46
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-client/src/main/java/org/interledger/stream/sender/AimdCongestionController.java
+SPDXID: SPDXRef-item7834055
+FileChecksum: SHA1: c4a567952fccb845f744e8b544dfd61e32fdd353
+FileChecksum: MD5: bd00daa4574111619bd030a436f9a4ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-client/src/main/java/org/interledger/stream/sender/FixedSenderAmountPaymentTracker.java
+SPDXID: SPDXRef-item7834056
+FileChecksum: SHA1: ccf3b061dae0c2834b24dc55feca12fd596f4116
+FileChecksum: MD5: 9e9d6868aeba2cbfc7753ae7a7c86fe5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-client/src/main/java/org/interledger/stream/sender/StreamSenderException.java
+SPDXID: SPDXRef-item7834057
+FileChecksum: SHA1: 6eab2692041d71227113b7e36597b3e80b1b3787
+FileChecksum: MD5: 03f78dba1b6163b35d5233fca7782836
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/stream-client/pom.xml
+SPDXID: SPDXRef-item7834058
+FileChecksum: SHA1: fc926b606f2f480ebcc7f6927b1fe892251fb4c7
+FileChecksum: MD5: fd3d88b0c9d83440a2a4af110af17670
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/stream-parent/pom.xml
+SPDXID: SPDXRef-item7834059
+FileChecksum: SHA1: e30006230e41b885ebf3832d575a60bd13236323
+FileChecksum: MD5: fe6ca92d7b6f6bb9985efa4bd3ad9cfb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-ilp-over-http/src/test/java/org/interledger/link/http/IlpOverHttpLinkTest.java
+SPDXID: SPDXRef-item7834069
+FileChecksum: SHA1: ca49fe7775ccf4ef8e284c45d85c1db339d24024
+FileChecksum: MD5: 99a9fcc33a46fd1c1a62fba68279f41b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-ilp-over-http/src/test/java/org/interledger/link/http/LinkSettingsUtilsTest.java
+SPDXID: SPDXRef-item7834070
+FileChecksum: SHA1: bd54750f5bdf8290061256dcb2be8961ba1fce12
+FileChecksum: MD5: 52cb94b32ea94bfe2db27255cbcecbee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-ilp-over-http/src/test/java/org/interledger/link/http/IncomingIlpOverHttpLinkSettingsSettingsTest.java
+SPDXID: SPDXRef-item7834071
+FileChecksum: SHA1: a84296728a7b1ecc748294192f9ac2ab71523cc2
+FileChecksum: MD5: 786fd18c84f2e04f5c86097e83c9e208
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-ilp-over-http/src/test/java/org/interledger/link/http/IlpOverHttpLinkSettingsTest.java
+SPDXID: SPDXRef-item7834072
+FileChecksum: SHA1: 013be133b1d11c6532c40cc5ab024f80b17e4290
+FileChecksum: MD5: db1fabc74b92182fd910e45336babacd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-ilp-over-http/src/test/java/org/interledger/link/http/OutgoingIlpOverHttpLinkSettingsSettingsTest.java
+SPDXID: SPDXRef-item7834073
+FileChecksum: SHA1: 965ba6fe410e385ee82920de2135f7a36ddfff4f
+FileChecksum: MD5: f1fbc0ac86cad435a9607d5e26183b3b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-ilp-over-http/src/test/java/org/interledger/link/http/auth/JwtHs256BearerTokenSupplierTest.java
+SPDXID: SPDXRef-item7834075
+FileChecksum: SHA1: 5dfdfad9a6a8d8dab4288e04c489f8cedce98e51
+FileChecksum: MD5: 546fe935b2e3bacf94ef199937ed3bac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-ilp-over-http/src/test/java/org/interledger/link/http/OutgoingLinkSettingsTest.java
+SPDXID: SPDXRef-item7834076
+FileChecksum: SHA1: 095f1fe320e88c2d8806265768d61d46d9ddf41e
+FileChecksum: MD5: 9b343aa5556f1cd45f5f8cfbf9c0a5c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-ilp-over-http/src/test/java/org/interledger/link/http/AbstractHttpLinkSettingsTest.java
+SPDXID: SPDXRef-item7834077
+FileChecksum: SHA1: 94fae17d5a24fb01fcf5003f5d0ade801eca4e99
+FileChecksum: MD5: 0af5addf6feb63605906d27061826503
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-ilp-over-http/src/test/java/org/interledger/link/http/IncomingLinkSettingsTest.java
+SPDXID: SPDXRef-item7834078
+FileChecksum: SHA1: 60a9baf10141e3f7a7a044f2816f077afe183cea
+FileChecksum: MD5: ea32b4438af9ff8f16bed25bcb175e9c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-ilp-over-http/src/main/java/org/interledger/link/http/IlpOverHttpConstants.java
+SPDXID: SPDXRef-item7834085
+FileChecksum: SHA1: ac1862b6fa118dedd1aa1428a911d7853504ba48
+FileChecksum: MD5: 366a718ece9ac9d4b74bac868dc47f4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-ilp-over-http/src/main/java/org/interledger/link/http/IlpOverHttpLinkSettings.java
+SPDXID: SPDXRef-item7834086
+FileChecksum: SHA1: de75a5e50d7d958f9236f3f9e0fef01846b192a7
+FileChecksum: MD5: 573e3449e7c6e85316b5e09df2428579
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-ilp-over-http/src/main/java/org/interledger/link/http/auth/SharedSecretBytesSupplier.java
+SPDXID: SPDXRef-item7834088
+FileChecksum: SHA1: d2e0ef739bd99ced52725c6d636a264e0806e754
+FileChecksum: MD5: f118d390405b7cc7a849bfef10c80674
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-ilp-over-http/src/main/java/org/interledger/link/http/auth/BearerTokenSupplier.java
+SPDXID: SPDXRef-item7834089
+FileChecksum: SHA1: d7c5f6a19f8f0d10508c20b1f8d1b26f2b1d2098
+FileChecksum: MD5: 66ca0cb7275c283c5bfbc1792e794d0d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-ilp-over-http/src/main/java/org/interledger/link/http/auth/Decryptor.java
+SPDXID: SPDXRef-item7834090
+FileChecksum: SHA1: 8ffa8d27a6c37e276c2e1032c673adab3ab1bf77
+FileChecksum: MD5: 7b0313d1ba8bb5953bfd4d2eb509ee04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-ilp-over-http/src/main/java/org/interledger/link/http/auth/SimpleBearerTokenSupplier.java
+SPDXID: SPDXRef-item7834091
+FileChecksum: SHA1: 335dc87b6a07f487e54a73b5ac0c54f57e030a29
+FileChecksum: MD5: 0029813df6b7da947e73446dc7f31d25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-ilp-over-http/src/main/java/org/interledger/link/http/auth/JwtHs256BearerTokenSupplier.java
+SPDXID: SPDXRef-item7834092
+FileChecksum: SHA1: be13ef830a0c32ab97d1c92951525c5e5859b656
+FileChecksum: MD5: 9bb557fe836ba617a1a1850b703f6032
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-ilp-over-http/src/main/java/org/interledger/link/http/IlpOverHttpLinkFactory.java
+SPDXID: SPDXRef-item7834093
+FileChecksum: SHA1: cc746c1b0635d502864db4c86d1eae78ca67506a
+FileChecksum: MD5: 91706e7f4289be88ab1684f84cfb19ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-ilp-over-http/src/main/java/org/interledger/link/http/SimpleAuthSettings.java
+SPDXID: SPDXRef-item7834094
+FileChecksum: SHA1: 8c59fb15651e00f47445d74c9558299a74a3cb2d
+FileChecksum: MD5: 542c494e4b076111a64999b517c07155
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-ilp-over-http/src/main/java/org/interledger/link/http/IncomingLinkSettings.java
+SPDXID: SPDXRef-item7834095
+FileChecksum: SHA1: e075d8c82f526190731c0b545afa3baaa15dfc49
+FileChecksum: MD5: 766eac261e0674bf75fa3ec9717cdcdc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-ilp-over-http/src/main/java/org/interledger/link/http/AuthenticatedLinkSettings.java
+SPDXID: SPDXRef-item7834096
+FileChecksum: SHA1: 6dff1005a14bee4f14afb5358a97d05230be9dd6
+FileChecksum: MD5: 5bb3410f9003640319f8bb14845120f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-ilp-over-http/src/main/java/org/interledger/link/http/LinkSettingsUtils.java
+SPDXID: SPDXRef-item7834097
+FileChecksum: SHA1: 2118291b5c4afbd9d1130eb51b01e389034a3590
+FileChecksum: MD5: a205787d9601f0bfa645a0514ed9c72d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-ilp-over-http/src/main/java/org/interledger/link/http/JwtAuthSettings.java
+SPDXID: SPDXRef-item7834098
+FileChecksum: SHA1: 26eaf0512ac5b52d9342dab0f7181c9c81c04950
+FileChecksum: MD5: 3654a75968632c61d83c98755b1b871f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-ilp-over-http/src/main/java/org/interledger/link/http/OutgoingLinkSettings.java
+SPDXID: SPDXRef-item7834099
+FileChecksum: SHA1: a7ea1affb1a8320e0805d86d9e692f30ce521e16
+FileChecksum: MD5: 890c952d6fd0774c931572af1a3d3680
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-ilp-over-http/src/main/java/org/interledger/link/http/IlpOverHttpLink.java
+SPDXID: SPDXRef-item7834100
+FileChecksum: SHA1: 474b48056dbb7bc67bf1bd255b2388173a88cd62
+FileChecksum: MD5: 71d58c36c6b4e06cfba7e87e40c2dcdc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-ilp-over-http/pom.xml
+SPDXID: SPDXRef-item7834101
+FileChecksum: SHA1: a539b4e409033de11327d1dba97fb49b63d7d590
+FileChecksum: MD5: 8bba8a5daa3f980d4258d13333a15b04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-core/src/test/java/org/interledger/link/AbstractLinkTest.java
+SPDXID: SPDXRef-item7834109
+FileChecksum: SHA1: 4cc38a08ac409d1d44f5c6fa199bfd543c580a0c
+FileChecksum: MD5: 806fae7ec3af8ae29d1065ce7409704f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-core/src/test/java/org/interledger/link/LoopbackLinkFactoryTest.java
+SPDXID: SPDXRef-item7834110
+FileChecksum: SHA1: 912d8cb1eaf3859e544c0d938d1ada5b00021110
+FileChecksum: MD5: 918ba166693f22033818700ccc8a556c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-core/src/test/java/org/interledger/link/PacketRejectorTest.java
+SPDXID: SPDXRef-item7834111
+FileChecksum: SHA1: a409708f3ef35c45bfe4657e2bd7dce3021d89c3
+FileChecksum: MD5: 7f5f81bc3bfc0e4933030daaec20ea11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-core/src/test/java/org/interledger/link/AbstractStatefulLinkTest.java
+SPDXID: SPDXRef-item7834112
+FileChecksum: SHA1: 0880c151bbafe3687be3a9ba5a4d7d28f9d5d543
+FileChecksum: MD5: ca7094ea01dfa72336857e4d86dbff82
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-core/src/test/java/org/interledger/link/exceptions/LinkExceptionTest.java
+SPDXID: SPDXRef-item7834114
+FileChecksum: SHA1: 5788644e8532f171bb1cc49dcf9914884f2f8c66
+FileChecksum: MD5: baebc7735b2cb2fca8ef098e2beb1356
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-core/src/test/java/org/interledger/link/PingLoopbackLinkTest.java
+SPDXID: SPDXRef-item7834115
+FileChecksum: SHA1: b7084a20e53c0af4eb4f642694508eb08b12ddb1
+FileChecksum: MD5: 6bca21ea84d97c2f817b5dc7cec610e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-core/src/test/java/org/interledger/link/LoopbackLinkTest.java
+SPDXID: SPDXRef-item7834116
+FileChecksum: SHA1: 62221eab22b61afbcc946794a363d3f8a146c6d3
+FileChecksum: MD5: 7f9d724331a42c36074fc3e6e61a9a97
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-core/src/test/java/org/interledger/link/LinkSettingsTest.java
+SPDXID: SPDXRef-item7834117
+FileChecksum: SHA1: 15ec9210bb02f635b92b90df879a2d2d141ac08d
+FileChecksum: MD5: 00b12a2926aa46233bc316300229266c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-core/src/test/java/org/interledger/link/LinkTest.java
+SPDXID: SPDXRef-item7834118
+FileChecksum: SHA1: cae80161ca08bfbb0a047cf75d66da26cb3a0e3f
+FileChecksum: MD5: c022f0817f82a7c89e2f828d764b2a09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-core/src/test/java/org/interledger/link/LinkFactoryProviderTest.java
+SPDXID: SPDXRef-item7834119
+FileChecksum: SHA1: 7ff4d8dd7b76203d104a4500d1693bed2067d23c
+FileChecksum: MD5: 43fed7bc89a8b28238c3efbd8c9c7749
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-core/src/test/java/org/interledger/link/PingLoopbackLinkFactoryTest.java
+SPDXID: SPDXRef-item7834120
+FileChecksum: SHA1: 71140628fb98bd58846db89d489b16d2334a1942
+FileChecksum: MD5: 10ecc18fb39bc8194116fc3fb1168ec1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-core/src/main/java/org/interledger/link/PingLoopbackLinkFactory.java
+SPDXID: SPDXRef-item7834126
+FileChecksum: SHA1: 446eae27dec4ffcc0be18df0e36c0a97e19cb79a
+FileChecksum: MD5: 6de998c3389488e3958f36a9f916a4e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-core/src/main/java/org/interledger/link/LinkFactoryProvider.java
+SPDXID: SPDXRef-item7834127
+FileChecksum: SHA1: 7305222358d582a7ef76d585b36185f48d2b66dc
+FileChecksum: MD5: cbc88e0ba96f86f4422d7941bcfe7948
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-core/src/main/java/org/interledger/link/StatefulLink.java
+SPDXID: SPDXRef-item7834128
+FileChecksum: SHA1: 77aeeafb583b430d4bb4a46b33c6f482d95a43c4
+FileChecksum: MD5: d0ac265fb8c687e706b6907027d6a7f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-core/src/main/java/org/interledger/link/events/LinkConnectedEvent.java
+SPDXID: SPDXRef-item7834130
+FileChecksum: SHA1: 1a0c0d12ddc56bcb6d44273a8266658e5a022349
+FileChecksum: MD5: 160d1c09507c4d8d253c7564410ce7d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-core/src/main/java/org/interledger/link/events/LinkDisconnectedEvent.java
+SPDXID: SPDXRef-item7834131
+FileChecksum: SHA1: ca14f6d3b13f39a1e59a14758ae857c16094db8e
+FileChecksum: MD5: fc10bf3c80a970e62c66152239cafc76
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-core/src/main/java/org/interledger/link/events/LinkConnectionEventEmitter.java
+SPDXID: SPDXRef-item7834132
+FileChecksum: SHA1: 68553055a33021b6ff4f70cdb519ad2beecd68a0
+FileChecksum: MD5: 5c4f7c6a62fa7f526cb28ecebb8adffb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-core/src/main/java/org/interledger/link/events/LinkEvent.java
+SPDXID: SPDXRef-item7834133
+FileChecksum: SHA1: c045416688691b228de23a063e05f7a7cff9533e
+FileChecksum: MD5: 5020ea91e35aad1c6fc4ac70626e6d7c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-core/src/main/java/org/interledger/link/events/LinkConnectionEventListener.java
+SPDXID: SPDXRef-item7834134
+FileChecksum: SHA1: fdfc986143231aabab4e9839418ac5248804c47a
+FileChecksum: MD5: d66a0428654a79d97a52518ad02a5a12
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-core/src/main/java/org/interledger/link/events/LinkConnectionEvent.java
+SPDXID: SPDXRef-item7834135
+FileChecksum: SHA1: 6b61e5291ac6ebf87a434d3866c9293833b85db8
+FileChecksum: MD5: 16f173b668a7a31210c4ec2924b2a023
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-core/src/main/java/org/interledger/link/events/AbstractLinkConnectionEventListener.java
+SPDXID: SPDXRef-item7834136
+FileChecksum: SHA1: 1aacf9ad6ce680d1773d6e24b796703885dfab6f
+FileChecksum: MD5: f651f8a62328ddfa680afd2fc2536959
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-core/src/main/java/org/interledger/link/AbstractLink.java
+SPDXID: SPDXRef-item7834137
+FileChecksum: SHA1: cec0e5f0676adc00d88f6584308bf7eeedb6a8c9
+FileChecksum: MD5: 5c205f7fd28fadfa853d7319fec25a7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-core/src/main/java/org/interledger/link/AbstractStatefulLink.java
+SPDXID: SPDXRef-item7834138
+FileChecksum: SHA1: 37d796fbe61f517116e6d04bb8fce3f97c00d2e7
+FileChecksum: MD5: 853a07c94fcfa9ea5268c7647bf96cd2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-core/src/main/java/org/interledger/link/LoopbackLinkFactory.java
+SPDXID: SPDXRef-item7834139
+FileChecksum: SHA1: 875d962ff0c05f1aa9d24021fb883bd15f2d4356
+FileChecksum: MD5: e9e20a4756f7ceeda75a7d426f11bb59
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-core/src/main/java/org/interledger/link/Connectable.java
+SPDXID: SPDXRef-item7834140
+FileChecksum: SHA1: d0d1e312e7a8f200370967833d2240c843e62b7d
+FileChecksum: MD5: 735db1b9967f3e97f03384bc90224fbf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-core/src/main/java/org/interledger/link/Ids.java
+SPDXID: SPDXRef-item7834141
+FileChecksum: SHA1: 803fef90e3924e66e57f2109c357b8ff5db2ddc6
+FileChecksum: MD5: cb17d6867b8144100a29910a87e84d93
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-core/src/main/java/org/interledger/link/LinkHandler.java
+SPDXID: SPDXRef-item7834142
+FileChecksum: SHA1: 1290fb77f7bb65d74a0d3700d4dc9cd9d88b7392
+FileChecksum: MD5: 453c6dbc9cf634c78a6458a5c2efee56
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-core/src/main/java/org/interledger/link/PacketRejector.java
+SPDXID: SPDXRef-item7834143
+FileChecksum: SHA1: ef8ab3e6056402fff5400a0e9f856b9bc5017584
+FileChecksum: MD5: b6a5cde506d18ed2d4494664b46e385e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-core/src/main/java/org/interledger/link/LinkSender.java
+SPDXID: SPDXRef-item7834144
+FileChecksum: SHA1: c07626bc17ec31c6df0a8ebbfa6c72b6cf5d9eb8
+FileChecksum: MD5: b9074565497669793081a7b900cd59f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-core/src/main/java/org/interledger/link/Link.java
+SPDXID: SPDXRef-item7834145
+FileChecksum: SHA1: 6cec2cf5eeae2feae03f6de1650a4f687df42803
+FileChecksum: MD5: 72244a8c8bea7ee7c9e9eb3beeb48a42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-core/src/main/java/org/interledger/link/LinkFactory.java
+SPDXID: SPDXRef-item7834146
+FileChecksum: SHA1: bf3822971553f036a6477eaceb9a2ef8951a6bbb
+FileChecksum: MD5: f97812fce450cb26b2398f98b366feb8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-core/src/main/java/org/interledger/link/LinkSettings.java
+SPDXID: SPDXRef-item7834147
+FileChecksum: SHA1: d635cceb9a6d8a9ecd29af9fb7ca8fd03f086fa7
+FileChecksum: MD5: fd46bfe729644b3456a2d81be720d5b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-core/src/main/java/org/interledger/link/exceptions/LinkHandlerAlreadyRegisteredException.java
+SPDXID: SPDXRef-item7834149
+FileChecksum: SHA1: 5fde0cb2cd7a2b4f2de73fde5e2036bef284e33f
+FileChecksum: MD5: 46a50293011706da1854c7468e923786
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-core/src/main/java/org/interledger/link/exceptions/LinkNotFoundException.java
+SPDXID: SPDXRef-item7834150
+FileChecksum: SHA1: d68e81267717ac8d075b2bbd1cf6be6262d9e9be
+FileChecksum: MD5: eff98ca895fe4ee940b7631f81392eb6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-core/src/main/java/org/interledger/link/exceptions/LinkNotConnectedException.java
+SPDXID: SPDXRef-item7834151
+FileChecksum: SHA1: 78d1b1b44527952805324e9ff57cb3c8ad2b7daa
+FileChecksum: MD5: 0091fb878d6f48bd58d508aa6d30b820
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-core/src/main/java/org/interledger/link/exceptions/LinkException.java
+SPDXID: SPDXRef-item7834152
+FileChecksum: SHA1: a7ebbadac5df63aac32c7bb51dd29d6d535fccd5
+FileChecksum: MD5: 425d2927594662519f9017ecaf617920
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-core/src/main/java/org/interledger/link/PingLoopbackLink.java
+SPDXID: SPDXRef-item7834153
+FileChecksum: SHA1: 196125bfabe6e171f3d456483ed10ae811b47dbf
+FileChecksum: MD5: 0d2c0de1127a841184e521811e474e5b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-core/src/main/java/org/interledger/link/LoopbackLink.java
+SPDXID: SPDXRef-item7834154
+FileChecksum: SHA1: ea238eeaa65ee2bcd58a9422b6e302ab63831df4
+FileChecksum: MD5: 8b978a49e8bbf4560c10f7f64894f708
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/link-core/pom.xml
+SPDXID: SPDXRef-item7834155
+FileChecksum: SHA1: c4dd560b569e732a72dd2b2b73a3fc474edd0065
+FileChecksum: MD5: aaf0174e5a075d907262ba5340109282
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/link-parent/pom.xml
+SPDXID: SPDXRef-item7834156
+FileChecksum: SHA1: 9497b81e7b405e2636f22d1a07b6ba4b7a0a022f
+FileChecksum: MD5: 9b28b3f6a9ddf31a7ff9d23c6eb99160
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/spsp-parent/spsp-core/src/test/java/org/interledger/spsp/PaymentPointerTest.java
+SPDXID: SPDXRef-item7834165
+FileChecksum: SHA1: 8fba955709deea7049a149c1b8502cda0a45547a
+FileChecksum: MD5: 342a67de58be9e61b7e87b2c4f59264c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/spsp-parent/spsp-core/src/test/java/org/interledger/spsp/PaymentPointerResolverTest.java
+SPDXID: SPDXRef-item7834166
+FileChecksum: SHA1: 9f44c70f6f5f1c6fd368297c700f01f428ed47d6
+FileChecksum: MD5: 7a079543972fb8e84f4653871d9ab400
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/spsp-parent/spsp-core/src/main/java/org/interledger/spsp/StreamConnectionDetails.java
+SPDXID: SPDXRef-item7834172
+FileChecksum: SHA1: 7373e7923793f0242f49cbb3ea215aafec1c8383
+FileChecksum: MD5: 9cffb0805a5d4cd90a6585927a880fea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/spsp-parent/spsp-core/src/main/java/org/interledger/spsp/PaymentPointerResolver.java
+SPDXID: SPDXRef-item7834173
+FileChecksum: SHA1: 89ba778959a20def31b37f63f4c59669cf45044b
+FileChecksum: MD5: 4349065aa1302f329dbd29ac96aac458
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/spsp-parent/spsp-core/src/main/java/org/interledger/spsp/PaymentPointer.java
+SPDXID: SPDXRef-item7834174
+FileChecksum: SHA1: a9b19b3a11d8aff3932fbdede24e2ce1cdc58bfa
+FileChecksum: MD5: ac9de9c764f837bc525b7a0a9b133629
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/spsp-parent/spsp-core/pom.xml
+SPDXID: SPDXRef-item7834175
+FileChecksum: SHA1: efc3d8d38efe15ef74b8d3badb461722c237322c
+FileChecksum: MD5: 7c1279c432c2044ed8415d4049e5e89c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/spsp-parent/spsp-client/src/test/java/org/interledger/spsp/client/SimpleSpspClientTest.java
+SPDXID: SPDXRef-item7834184
+FileChecksum: SHA1: 2e70988ab5414f35d434cc9afefa0a14cfa3e9c6
+FileChecksum: MD5: f0b833574a35eadabe4c4952329f4a6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/spsp-parent/spsp-client/src/test/java/org/interledger/spsp/client/rust/InterledgerRustNodeClientTest.java
+SPDXID: SPDXRef-item7834186
+FileChecksum: SHA1: fecd422a85b0343790b6a781fdba49c4d5804c43
+FileChecksum: MD5: 4d2c59814dca97bb1c178376bcb27891
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/spsp-parent/spsp-client/src/main/java/org/interledger/spsp/client/SpspClientException.java
+SPDXID: SPDXRef-item7834193
+FileChecksum: SHA1: b7c4120725aa99b6c78a85b6787b4a3a0737e403
+FileChecksum: MD5: d922e160df33a154fd0a75611757c3a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/spsp-parent/spsp-client/src/main/java/org/interledger/spsp/client/InvalidReceiverClientException.java
+SPDXID: SPDXRef-item7834194
+FileChecksum: SHA1: 98f84c6ae46564cc498127613dc24cab321facaf
+FileChecksum: MD5: 8b6e2c400cc62fe87b0d752adf5fe6de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/spsp-parent/spsp-client/src/main/java/org/interledger/spsp/client/rust/InterledgerRustNodeClient.java
+SPDXID: SPDXRef-item7834196
+FileChecksum: SHA1: 9d001eacc07a63edb7bb88bf2aef27b3e41c7e7e
+FileChecksum: MD5: 69e0a23b35285cd729476e7def709140
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/spsp-parent/spsp-client/src/main/java/org/interledger/spsp/client/rust/RustNodeAccount.java
+SPDXID: SPDXRef-item7834197
+FileChecksum: SHA1: c219c193200f67a397c251227b1fd138f5b1f703
+FileChecksum: MD5: d6600721ff07e34cdc3c65e127197f2c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/spsp-parent/spsp-client/src/main/java/org/interledger/spsp/client/SpspClient.java
+SPDXID: SPDXRef-item7834198
+FileChecksum: SHA1: 068124c7c9e582358de5da1e2d127670b960859f
+FileChecksum: MD5: 1b5b0d2224effe28593de3f0c57b1a02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/spsp-parent/spsp-client/src/main/java/org/interledger/spsp/client/SimpleSpspClient.java
+SPDXID: SPDXRef-item7834199
+FileChecksum: SHA1: a00b5b4980ad1c6c00661c246c0297859c944a0b
+FileChecksum: MD5: 37c36447f453b7fdc2ebd66372c76a6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/spsp-parent/spsp-client/src/main/java/org/interledger/spsp/client/SpspClientDefaults.java
+SPDXID: SPDXRef-item7834200
+FileChecksum: SHA1: 2951485f93c9353c8b0c05371f440a367c9d0ec1
+FileChecksum: MD5: e7fc06ae6fe77d21f84b2cfb6e0a9f9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/spsp-parent/spsp-client/pom.xml
+SPDXID: SPDXRef-item7834201
+FileChecksum: SHA1: 73903daacda822f37c78aa51b4f3027f483ee905
+FileChecksum: MD5: 57622d359d469eccbe14b11f1f902831
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: quilt/spsp-parent/pom.xml
+SPDXID: SPDXRef-item7834202
+FileChecksum: SHA1: e3a40cfae706ca415588bd01c280ccf4e0ccad11
+FileChecksum: MD5: 6191ef4b4e44f1e7711ebd7b441fa059
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
