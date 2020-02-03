@@ -1,0 +1,5960 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_avalon-2020-02-03.zip_1580757027.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2020-02-03T19:10:28Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: avalon-2020-02-03.zip
+PackageFileName: avalon-2020-02-03.zip
+SPDXID: SPDXRef-upload2146
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 10f70470e1b1bdb8a054736aa3edaa8fd76a2834
+PackageChecksum: SHA1: 4b785c9216fb8285f430223e9826afdef99f5f13
+PackageChecksum: MD5: 10504af91c24314381f09e941772f6af
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2146
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: avalon/LICENSE
+SPDXID: SPDXRef-item8214509
+FileChecksum: SHA1: c7fc64d79c66ddcd1e66742df21be8757d7c4cfd
+FileChecksum: MD5: cf4815c938bb5ca363e062d3128ca3e3
+LicenseConcluded: Apache-2.0 AND LicenseRef-Elk AND LicenseRef-SLIB AND MIT AND Zlib
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: Zlib
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Elk
+FileCopyrightText: <text> Copyright 1987, 1988, 1989, Nixdorf Computer AG and TELES GmbH, Berlin (Elk 1.2 has been written by Oliver Laumann (me) for TELES Telematic Services, Berlin, in a joint project between TELES and Nixdorf Microprocessor Engineering, Berlin). Oliver Laumann, TELES GmbH, and Nixdorf
+Copyright 1990, 1991, 1992, 1993, 1994, 1995, Oliver Laumann, Berlin(except for the contents of the directory `doc / usenix').
+Copyright © 2004-2017 by René Nyffenegger
+Copyright (C) 1991, 1992, 1993, 1994, 1997 Aubrey Jaffer
+Copyright (c) 2012 - 2017 Krzysztof Gabis
+© Nyffenegger cpp-base64 </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/packages/base64/base64.cpp
+SPDXID: SPDXRef-item8214883
+FileChecksum: SHA1: 14f2728a04c6d1ba70383cdbbd7c33feac0ef0e7
+FileChecksum: MD5: c8f5837ebfe46ecf1711aec4c73c5256
+LicenseConcluded: Zlib
+LicenseInfoInFile: Zlib
+LicenseInfoInFile: LicenseRef-Freeware
+FileCopyrightText: <text> Copyright (C) 2004-2017 René Nyffenegger
+© Nyffenegger rene.nyffenegger@adp-gmbh.ch </text>
+ 
+
+##File
+
+FileName: avalon/CONTRIBUTING.md
+SPDXID: SPDXRef-item8214480
+FileChecksum: SHA1: ef858e121cd44bcff57c661c4248ceb47225d606
+FileChecksum: MD5: 31e8884bed3da601a50065092bcfbba9
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/README.md
+SPDXID: SPDXRef-item8214497
+FileChecksum: SHA1: 48db57b7e6fcd6489514b2372d70f56960ebb511
+FileChecksum: MD5: 021fdca10a8742d8c13c3be9da84a9c4
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> © Copyright 2019, Intel Corporation. </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/crypto/README.md
+SPDXID: SPDXRef-item8214917
+FileChecksum: SHA1: b4ff3bf8303d8fa6a65519b502af8a425ae21ccb
+FileChecksum: MD5: 5427279a0ca94099c45073559758110a
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/BUILD.md
+SPDXID: SPDXRef-item8214953
+FileChecksum: SHA1: 2b0d3ca51b28ee09802fe7a5cdb20b7b8b872a9a
+FileChecksum: MD5: ee5ac018651b2a654f28b09dfa5a7f55
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item8215024
+FileChecksum: SHA1: a5ac04f936aa7cba0b05865be3a9175662f3b0d3
+FileChecksum: MD5: bd304bd575319fb2b8765ff4e4698f68
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/MAINTAINERS.md
+SPDXID: SPDXRef-item8215176
+FileChecksum: SHA1: cf2aae0d925a7a6adc14ae1e1a3e5c727345fd6b
+FileChecksum: MD5: 731eeaa9a16df616a84ba4f607f5c76c
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/SECURITY.md
+SPDXID: SPDXRef-item8215175
+FileChecksum: SHA1: 670de8670b4e563213322bca35c13b81d90f460d
+FileChecksum: MD5: de8fa546e4d26dce0c15945dd8f686b9
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/apps/aml/standalone-cipher/README.md
+SPDXID: SPDXRef-item8214788
+FileChecksum: SHA1: 3dab1322aa88a326eb3ea5081d4b90b590d89d01
+FileChecksum: MD5: 3c3fe216b9a98f6b39006bec2073b072
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/README.md
+SPDXID: SPDXRef-item8214879
+FileChecksum: SHA1: 4d34b6401c035fb1d1248cf8bec30c25fef34abb
+FileChecksum: MD5: a1029a46fb542eeafcbb8dba0fd7f376
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/common/sgx/README.md
+SPDXID: SPDXRef-item8214969
+FileChecksum: SHA1: 410d13f2de79f92bdfa15240d08b5ab523a3d8bb
+FileChecksum: MD5: 4369d6313be32be4761c23fcde9144d6
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/PREREQUISITES.md
+SPDXID: SPDXRef-item8215022
+FileChecksum: SHA1: 766528fa7091c10900956a7f79739dd2e4c5be73
+FileChecksum: MD5: f4a026b5d030c45c3e6dd581e449a7f4
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/BUILD.md
+SPDXID: SPDXRef-item8215084
+FileChecksum: SHA1: 63e4f60f703fdf89e93ba510dd7bd2707f2007e9
+FileChecksum: MD5: cc2954a88f3c8bede60bf8c01a9bf1f8
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/client_sdk/avalon_client_sdk/ethereum/__init__.py
+SPDXID: SPDXRef-item8215152
+FileChecksum: SHA1: 44cf57a09e7f6738ad7ecf5e0c2e19dfd36dce07
+FileChecksum: MD5: f4efb560d7090d3c85ec0ffffc16ce05
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/client_sdk/avalon_client_sdk/utility/__init__.py
+SPDXID: SPDXRef-item8215118
+FileChecksum: SHA1: 44cf57a09e7f6738ad7ecf5e0c2e19dfd36dce07
+FileChecksum: MD5: f4efb560d7090d3c85ec0ffffc16ce05
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/client_sdk/avalon_client_sdk/work_order/__init__.py
+SPDXID: SPDXRef-item8215160
+FileChecksum: SHA1: 44cf57a09e7f6738ad7ecf5e0c2e19dfd36dce07
+FileChecksum: MD5: f4efb560d7090d3c85ec0ffffc16ce05
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/common/python/connectors/direct/__init__.py
+SPDXID: SPDXRef-item8214986
+FileChecksum: SHA1: 44cf57a09e7f6738ad7ecf5e0c2e19dfd36dce07
+FileChecksum: MD5: f4efb560d7090d3c85ec0ffffc16ce05
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/common/python/connectors/__init__.py
+SPDXID: SPDXRef-item8214994
+FileChecksum: SHA1: 44cf57a09e7f6738ad7ecf5e0c2e19dfd36dce07
+FileChecksum: MD5: f4efb560d7090d3c85ec0ffffc16ce05
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/common/python/database/__init__.py
+SPDXID: SPDXRef-item8215016
+FileChecksum: SHA1: 44cf57a09e7f6738ad7ecf5e0c2e19dfd36dce07
+FileChecksum: MD5: f4efb560d7090d3c85ec0ffffc16ce05
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/shared_kv_storage/kv_storage/__init__.py
+SPDXID: SPDXRef-item8214731
+FileChecksum: SHA1: 44cf57a09e7f6738ad7ecf5e0c2e19dfd36dce07
+FileChecksum: MD5: f4efb560d7090d3c85ec0ffffc16ce05
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/client_sdk/avalon_client_sdk/ethereum/contracts/proxy-model/WorkOrderRegistry.sol
+SPDXID: SPDXRef-item8215148
+FileChecksum: SHA1: 87bc650fbd8288287f4187f517c5b0767c31521a
+FileChecksum: MD5: 85e3cd291770e6fdcb4bad34520612b0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 iExec Blockchain Tech </text>
+ 
+
+##File
+
+FileName: avalon/client_sdk/avalon_client_sdk/ethereum/contracts/WorkerRegistryList.sol
+SPDXID: SPDXRef-item8215145
+FileChecksum: SHA1: 8dd248f6c94110963c4eab140a0b6c9c296451ac
+FileChecksum: MD5: e83ce96b4de2a38b6f12763c079a56fe
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/client_sdk/avalon_client_sdk/ethereum/contracts/proxy-model/WorkerRegistry.sol
+SPDXID: SPDXRef-item8215149
+FileChecksum: SHA1: ca218f8438c235773dc9812bcdf760dc0795b597
+FileChecksum: MD5: 0552aa64c2fb1eca986f3362aa3122ca
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 iExec Blockchain Tech </text>
+ 
+
+##File
+
+FileName: avalon/client_sdk/avalon_client_sdk/ethereum/contracts/WorkerRegistry.sol
+SPDXID: SPDXRef-item8215146
+FileChecksum: SHA1: f3cdfb066194ac1db94e7fecfa962bb5a1a6e07d
+FileChecksum: MD5: 7815e2253b97b6cdafeb7e2d4a5dc7d2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/truffle_generate.sh
+SPDXID: SPDXRef-item8214535
+FileChecksum: SHA1: c50206015c5a1bfbff90d7b01e464543c64fe166
+FileChecksum: MD5: 17505376910a0a1309e0ed78be5c7b63
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 iExec Blockchain Tech </text>
+ 
+
+##File
+
+FileName: avalon/client_sdk/avalon_client_sdk/http_client/__init__.py
+SPDXID: SPDXRef-item8215142
+FileChecksum: SHA1: 0c671febc4b08ac086cd50210f88267ba4692012
+FileChecksum: MD5: 6d1e2c194ce05bc8b2804b591119e14a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/main/resources/entrypoint.sh
+SPDXID: SPDXRef-item8214576
+FileChecksum: SHA1: 77e690838d3e63d29d2359c6fe5c5be620eff30e
+FileChecksum: MD5: 29da5a5796000e6df17db40afb503b9f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 iExec Blockchain Tech </text>
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/main/java/org/eea/tcf/worker/chain/events/WorkOrderSubmittedEvent.java
+SPDXID: SPDXRef-item8214587
+FileChecksum: SHA1: 856e690dfad84264c639151ec0a524afbde3ca8b
+FileChecksum: MD5: de68c563d0e9bbbf0ff02f2b5873c4a6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 iExec Blockchain Tech </text>
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/main/java/org/eea/tcf/worker/chain/ChainUtils.java
+SPDXID: SPDXRef-item8214588
+FileChecksum: SHA1: 9f9673deca2cbe18ba3f7f0adf92b95b10b2690c
+FileChecksum: MD5: a4bbd7fc85b8ab101e805501275ec28a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 iExec Blockchain Tech </text>
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/main/java/org/eea/tcf/worker/chain/services/Web3jService.java
+SPDXID: SPDXRef-item8214590
+FileChecksum: SHA1: e274d8d47d216ecfcf55b4e7d6ab02c42fec2e03
+FileChecksum: MD5: 498b83d9d313abfc1f8d1164d9b3acbb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 iExec Blockchain Tech </text>
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/main/java/org/eea/tcf/worker/chain/services/CredentialsService.java
+SPDXID: SPDXRef-item8214592
+FileChecksum: SHA1: 418517c66b413763f8dc1362fbdbe7be492102b6
+FileChecksum: MD5: 7efa6f3e3b12c28aafb8dc8941256c19
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 iExec Blockchain Tech </text>
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/main/java/org/eea/tcf/worker/chain/services/ComputationService.java
+SPDXID: SPDXRef-item8214591
+FileChecksum: SHA1: 01e7687e51fbbd612e33a88c670de2ef5a356fbe
+FileChecksum: MD5: 07420598e6b4d0f355f3a30f9b6b69c5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 iExec Blockchain Tech </text>
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/main/java/org/eea/tcf/worker/chain/services/WalletDetails.java
+SPDXID: SPDXRef-item8214594
+FileChecksum: SHA1: 7926e1d1c432bdb8184e4a32674e434ce89d8ffe
+FileChecksum: MD5: daa8e558fc82ae88c9c27133736f828e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 iExec Blockchain Tech </text>
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/main/java/org/eea/tcf/worker/chain/services/WorkOrderRegistryService.java
+SPDXID: SPDXRef-item8214593
+FileChecksum: SHA1: f94ee7355668b5df902a1dea745c2a982a40b6ea
+FileChecksum: MD5: e0a208bf7e85a41f6b925f87113fbc87
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 iExec Blockchain Tech </text>
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/main/java/org/eea/tcf/worker/chain/model/ChainWorker.java
+SPDXID: SPDXRef-item8214598
+FileChecksum: SHA1: d504b74c2a6c1814c8f08f68876370f859385f8c
+FileChecksum: MD5: dc3def9c9f41f8c90f1dd91e82e91b51
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 iExec Blockchain Tech </text>
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/main/java/org/eea/tcf/worker/chain/model/ChainWorkOrder.java
+SPDXID: SPDXRef-item8214597
+FileChecksum: SHA1: cff0ec256aedf33e9531d0530854ef74c7e66e0e
+FileChecksum: MD5: cdc74954a7bc57ff4b09bc78f9de16a8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 iExec Blockchain Tech </text>
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/main/java/org/eea/tcf/worker/chain/model/ChainRegistry.java
+SPDXID: SPDXRef-item8214599
+FileChecksum: SHA1: 79b32aaa069c9d08d709c5af13430de1420b4ef8
+FileChecksum: MD5: 598f3f7fc34a323f1481453a3087cec2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 iExec Blockchain Tech </text>
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/main/java/org/eea/tcf/worker/docker/CustomDockerClient.java
+SPDXID: SPDXRef-item8214601
+FileChecksum: SHA1: 6e74f445fd0823d02a5e2e04b91363d4e8ea2111
+FileChecksum: MD5: a62411932bd7b0288ebb6f5b3a893a42
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 iExec Blockchain Tech </text>
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/main/java/org/eea/tcf/worker/dapp/DappType.java
+SPDXID: SPDXRef-item8214603
+FileChecksum: SHA1: 6354e3213289072d4567aee4d81b0eb21385198d
+FileChecksum: MD5: acce49c5f6f3c9cc4eefd298cab9d123
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 iExec Blockchain Tech </text>
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/main/java/org/eea/tcf/worker/Application.java
+SPDXID: SPDXRef-item8214604
+FileChecksum: SHA1: 7556c5f82b915012c026a7f1d98f254fb60ed8d4
+FileChecksum: MD5: 4194d1758e6081f005e69f8a526e08a0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 iExec Blockchain Tech </text>
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/main/java/org/eea/tcf/worker/contract/generated/Set.java
+SPDXID: SPDXRef-item8214607
+FileChecksum: SHA1: df0bf2c82a5591ba511304fb5f4e2bdcab1d52d2
+FileChecksum: MD5: 5e078d0098a1649c4633a617f033df4a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 iExec Blockchain Tech </text>
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/main/java/org/eea/tcf/worker/contract/generated/IWorkerRegistry.java
+SPDXID: SPDXRef-item8214608
+FileChecksum: SHA1: cbd20840e05bfa711292f73f9d5e0956332f9326
+FileChecksum: MD5: 2b375c1306250fe75092c48972fb7a76
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 iExec Blockchain Tech </text>
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/main/java/org/eea/tcf/worker/chain/services/WorkerRegistryService.java
+SPDXID: SPDXRef-item8214595
+FileChecksum: SHA1: efeb9717013a16c3237729b7773794eeceb36178
+FileChecksum: MD5: 5d35df3868ec58395e96835ffc6999d9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 iExec Blockchain Tech </text>
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/main/java/org/eea/tcf/worker/contract/generated/WorkOrderRegistry.java
+SPDXID: SPDXRef-item8214610
+FileChecksum: SHA1: 30863aabb041d5db5f3d3d1fd75a9dbcd99c7b14
+FileChecksum: MD5: fd8a41d4dcb31b324ed639e4174a9651
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 iExec Blockchain Tech </text>
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/main/java/org/eea/tcf/worker/contract/generated/Migrations.java
+SPDXID: SPDXRef-item8214612
+FileChecksum: SHA1: 64042e55bf72c387294b58c5d2e425f9602c9002
+FileChecksum: MD5: 5e77854b53669033c0a6aabf7cf60fae
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 iExec Blockchain Tech </text>
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/main/java/org/eea/tcf/worker/contract/generated/SignatureVerifier.java
+SPDXID: SPDXRef-item8214611
+FileChecksum: SHA1: c19df9e986bf50b22bf97e931394c18ea557e341
+FileChecksum: MD5: 11f9ad5e1a830fa6fe786846e8bbcc93
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 iExec Blockchain Tech </text>
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/main/java/org/eea/tcf/worker/contract/generated/WorkerRegistry.java
+SPDXID: SPDXRef-item8214609
+FileChecksum: SHA1: 73e6ce6aefb71fd4433108771e1d2a63efedbaf0
+FileChecksum: MD5: caed5f8f14762b9db669f1f03427fa92
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 iExec Blockchain Tech </text>
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/main/java/org/eea/tcf/worker/contract/generated/Ownable.java
+SPDXID: SPDXRef-item8214613
+FileChecksum: SHA1: d39b10fa8317307fc292a1c862a75632197a4edd
+FileChecksum: MD5: b4df9ce733b11c979029e1d2c5bc3445
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 iExec Blockchain Tech </text>
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/main/java/org/eea/tcf/worker/utils/WaitUtils.java
+SPDXID: SPDXRef-item8214615
+FileChecksum: SHA1: 87f6b88807720a1861e49f90395219db4f57fc97
+FileChecksum: MD5: 1b0d23160b39991d99a85d02d6bbbd66
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 iExec Blockchain Tech </text>
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/main/java/org/eea/tcf/worker/utils/SignatureUtils.java
+SPDXID: SPDXRef-item8214617
+FileChecksum: SHA1: 0a79674ec84a956f585e0591c027ffbe86d0cfa1
+FileChecksum: MD5: 3034fba2a8445b2b05313788ecc9d354
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 iExec Blockchain Tech </text>
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/main/java/org/eea/tcf/worker/utils/BytesUtils.java
+SPDXID: SPDXRef-item8214616
+FileChecksum: SHA1: c2d3ed060d279a04f1f71b99e289e7bdb06f0d77
+FileChecksum: MD5: 795fe92516098f1fcf120ea666a363e5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 iExec Blockchain Tech </text>
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/main/java/org/eea/tcf/worker/utils/HashUtils.java
+SPDXID: SPDXRef-item8214619
+FileChecksum: SHA1: 45418096fd6393cf1fb4b8110528044dcd940f4a
+FileChecksum: MD5: 9af315a5405d11292b01dcc6042df72e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 iExec Blockchain Tech </text>
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/main/java/org/eea/tcf/worker/utils/VersionUtils.java
+SPDXID: SPDXRef-item8214618
+FileChecksum: SHA1: fd3c334f4bed532abb1973a5a0748fb07eaffcde
+FileChecksum: MD5: d678bd7b21c3e678ec6ed17c9a6da54a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 iExec Blockchain Tech </text>
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/main/java/org/eea/tcf/worker/utils/MultiAddressHelper.java
+SPDXID: SPDXRef-item8214620
+FileChecksum: SHA1: ffe6faed14636b71fad408d404ddf89f2521ccce
+FileChecksum: MD5: 29a239450043b41f591daa20ee72ff0c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 iExec Blockchain Tech </text>
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/main/java/org/eea/tcf/worker/executor/TaskExecutorHelperService.java
+SPDXID: SPDXRef-item8214623
+FileChecksum: SHA1: e93b01414f19379fd70cadfee1753f0c6b11fc63
+FileChecksum: MD5: 1ae572e608905ee973d2b273b45d4079
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 iExec Blockchain Tech </text>
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/main/java/org/eea/tcf/worker/executor/TaskExecutionService.java
+SPDXID: SPDXRef-item8214625
+FileChecksum: SHA1: 614d500318ff6b8d8a803ffcdec39a6ab0287d09
+FileChecksum: MD5: de25c015fdde358e281002351d40b981
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 iExec Blockchain Tech </text>
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/main/java/org/eea/tcf/worker/executor/TaskExecutionException.java
+SPDXID: SPDXRef-item8214624
+FileChecksum: SHA1: 2bb767a6400c3db88f441f209c2ec14be6d3a1db
+FileChecksum: MD5: 662db69949d70a19f553841326a2953b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 iExec Blockchain Tech </text>
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/main/java/org/eea/tcf/worker/utils/FileHelper.java
+SPDXID: SPDXRef-item8214621
+FileChecksum: SHA1: ece6d510565744a54e9fc52cdf9ddfd57192e7a9
+FileChecksum: MD5: 653251253ca217b9f3a3ac6c0693608c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 iExec Blockchain Tech </text>
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/main/java/org/eea/tcf/worker/config/WorkerConfigurationModel.java
+SPDXID: SPDXRef-item8214627
+FileChecksum: SHA1: 5122764ed53bc3cf6336a451cf6d8dbc5c491e72
+FileChecksum: MD5: fa6a3f6077100c3cbb5ad427875562ea
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 iExec Blockchain Tech </text>
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/main/java/org/eea/tcf/worker/config/WorkerConfigurationService.java
+SPDXID: SPDXRef-item8214628
+FileChecksum: SHA1: 6fb85ef5d899d3a5d05d73c74a307e159d89b8bc
+FileChecksum: MD5: 0e5e8d3cd484e10b3af829d915b53f4b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 iExec Blockchain Tech </text>
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/main/java/org/eea/tcf/worker/security/Signature.java
+SPDXID: SPDXRef-item8214630
+FileChecksum: SHA1: 129d876fdece8760db244b91603efbf2e5728653
+FileChecksum: MD5: 625da61913bafad368920888b1e03bb8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 iExec Blockchain Tech </text>
+ 
+
+##File
+
+FileName: avalon/examples/apps/echo/workload/echo_plug-in.cpp
+SPDXID: SPDXRef-item8214743
+FileChecksum: SHA1: 0a6a2d2657d54965495cb997dbb29a85ed8cddcd
+FileChecksum: MD5: c90417229568b1f86eaa678bf51b3715
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/enclave_manager/tcf_enclave_manager/__init__.py
+SPDXID: SPDXRef-item8214704
+FileChecksum: SHA1: e8ae0417df45da2077baa251caa7b8a789d4d71c
+FileChecksum: MD5: 727ce738b70ca17d51c26d1eb1a6bced
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/apps/echo/workload/echo_logic.h
+SPDXID: SPDXRef-item8214745
+FileChecksum: SHA1: dc2ee9208e3ac65f3cc44821a171ecd4981dcb45
+FileChecksum: MD5: 7868e70edac8852b547fa79a7247092e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/apps/echo/workload/echo_logic.cpp
+SPDXID: SPDXRef-item8214746
+FileChecksum: SHA1: 461a4fe5f817a32ba70d97e91a8a70880ed11dd2
+FileChecksum: MD5: 03e174a1a8a254e80fa656627c97af11
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/apps/echo/workload/echo_plug-in.h
+SPDXID: SPDXRef-item8214747
+FileChecksum: SHA1: 22f6d48c177892b5f7ec74a2a8bd43a67c885aa5
+FileChecksum: MD5: 7dbf1a02a7531da6cd4166ea9d58016b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/apps/echo/workload/CMakeLists.txt
+SPDXID: SPDXRef-item8214744
+FileChecksum: SHA1: 5d2e65eb12f7a6d5f385b67e719c1de64e8c2748
+FileChecksum: MD5: 8e2d441a6f7da33cfe8e9d32d4881163
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/apps/eea_token/token_validation.cpp
+SPDXID: SPDXRef-item8214753
+FileChecksum: SHA1: 44936648637dc9a88b3d2dda169c7bfc4811a839
+FileChecksum: MD5: bc0a100e0422b393e74a17326ad5218e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 iExec Blockchain Tech </text>
+ 
+
+##File
+
+FileName: avalon/examples/apps/eea_token/Makefile
+SPDXID: SPDXRef-item8214750
+FileChecksum: SHA1: f7df7a4058df61bf2f3c784f946dc5fc7e778a78
+FileChecksum: MD5: 2a0f827832c04abaeb64cbcf795427c0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 iExec Blockchain Tech </text>
+ 
+
+##File
+
+FileName: avalon/examples/apps/eea_token/execution_logic.cpp
+SPDXID: SPDXRef-item8214751
+FileChecksum: SHA1: b1785a68f0856e43bdf6538b074185d075c6352d
+FileChecksum: MD5: 918569e01653dfad7de2a4b1f55433c7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 iExec Blockchain Tech </text>
+ 
+
+##File
+
+FileName: avalon/examples/apps/eea_token/execution_logic.h
+SPDXID: SPDXRef-item8214756
+FileChecksum: SHA1: 1096feee54f39eeee3d82eb5771c2b673159837a
+FileChecksum: MD5: beeab53a960c315e76e029ac131f0990
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 iExec Blockchain Tech </text>
+ 
+
+##File
+
+FileName: avalon/examples/apps/heart_disease_eval/workload/heart_disease_evaluation_plug-in.cpp
+SPDXID: SPDXRef-item8214772
+FileChecksum: SHA1: 58d6f6b4925081d970a4cd5022c372b530d4db16
+FileChecksum: MD5: 9b46f6ac03ab6cc0121fd67600779dca
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/apps/heart_disease_eval/workload/heart_disease_evaluation_plug-in.h
+SPDXID: SPDXRef-item8214775
+FileChecksum: SHA1: bf1d762a470d2a7b3d967f4816aff64c4981f462
+FileChecksum: MD5: cd57664586bed969c45ff9f62515034e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/apps/heart_disease_eval/workload/heart_disease_evaluation_logic.cpp
+SPDXID: SPDXRef-item8214776
+FileChecksum: SHA1: 9f77cba68fed203e6920e6da0fbbcb0040a17834
+FileChecksum: MD5: 7bf6f4d45add2ae0661b39b147a4e2fd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/apps/heart_disease_eval/workload/heart_disease_evaluation_logic.h
+SPDXID: SPDXRef-item8214774
+FileChecksum: SHA1: 2cb02b5a0adad1e1aedb2cf56183454daed5a8ea
+FileChecksum: MD5: 6e17ddc276f006e35f7f651831d7331a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave/work_order_data_handler.h
+SPDXID: SPDXRef-item8214852
+FileChecksum: SHA1: ec04165679cfb734d8d5ee697f9f0d22d820dd2c
+FileChecksum: MD5: a2504789b370cd7c3dc780cb4b498f26
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/apps/heart_disease_eval/workload/CMakeLists.txt
+SPDXID: SPDXRef-item8214773
+FileChecksum: SHA1: e5bb448112dc76e8e1df4395e893bb25f074c747
+FileChecksum: MD5: e5f4e5fb5c718edaf163eaaf73a52aa2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/apps/CMakeVariables.txt
+SPDXID: SPDXRef-item8214782
+FileChecksum: SHA1: 70224045d5a42f70571f1cfb53b019834b430427
+FileChecksum: MD5: c178dd62fd9a261cb045edc3dfc7a369
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave/base_enclave.h
+SPDXID: SPDXRef-item8214854
+FileChecksum: SHA1: dfa8cce4b7d4cfbc7bb7f09c24946b7575c4c29f
+FileChecksum: MD5: 4be8711d1bf4f65ac446d2c8732aa3fe
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave/work_order_enclave.cpp
+SPDXID: SPDXRef-item8214856
+FileChecksum: SHA1: 1a9a56223ba6b710991b10b6d5758c95eaceee70
+FileChecksum: MD5: eb2c254bedfffc5d232459b2554a848f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave/work_order_enclave.h
+SPDXID: SPDXRef-item8214860
+FileChecksum: SHA1: 5484e19fc033505b8b6c787e83ccdcb007fc097f
+FileChecksum: MD5: ab769c5e3138347b7653b06e7bdffbba
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave/tcf_enclave.config.xml
+SPDXID: SPDXRef-item8214853
+FileChecksum: SHA1: 52991f7898a229e7c251f7e1501afea0e2666303
+FileChecksum: MD5: 62feb053695259046fe85f608fcbe2f0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave/base.edl
+SPDXID: SPDXRef-item8214858
+FileChecksum: SHA1: 5a47445de5bd4f62548d1cd406e9b4b5af75a56b
+FileChecksum: MD5: adee0f39ccbf0e9e6d058ab891acaac0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave/enclave_utils.h
+SPDXID: SPDXRef-item8214861
+FileChecksum: SHA1: 482b46e17e0dae492087f3ffd00fd9e3d434e5ab
+FileChecksum: MD5: 96c95c51a7b6a1899059ee0be55d787f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave/auto_handle_sgx.h
+SPDXID: SPDXRef-item8214867
+FileChecksum: SHA1: 02c464d7a19239ae47dc08c9e6ab3e675f555b13
+FileChecksum: MD5: 7070e3f625cf6a81c9338cd0fcdc906b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave/enclave_utils.cpp
+SPDXID: SPDXRef-item8214869
+FileChecksum: SHA1: 9921866a7eb70fb592b6b390085706b851901004
+FileChecksum: MD5: d71c23f122aa4911da07b6568d75aab1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave/work_order_processor.h
+SPDXID: SPDXRef-item8214870
+FileChecksum: SHA1: 255c5f8fc476e0e78bc090fbc688d71ce1f55dce
+FileChecksum: MD5: 749862c396d9c2023be8669ea2420378
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave/workload.edl
+SPDXID: SPDXRef-item8214863
+FileChecksum: SHA1: a1156460f2a8e55aa239fa4151abdaecf987a05c
+FileChecksum: MD5: f871de95003e5c4cc8f8f5f8bcab8d70
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave/work_order_data_handler.cpp
+SPDXID: SPDXRef-item8214871
+FileChecksum: SHA1: 6c72e4d97ac5113e0ab38fc7a278e0ecf617f709
+FileChecksum: MD5: 4ed04928c1c18fa9638397924ed690f3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave/auto_handle.h
+SPDXID: SPDXRef-item8214872
+FileChecksum: SHA1: 6b945fc9649945745ae48a454d6886c5aafb7d63
+FileChecksum: MD5: 7463351bdcc93d0a4ca8b181ae40e1c3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave/tcf_enclave.lds
+SPDXID: SPDXRef-item8214866
+FileChecksum: SHA1: 8719986c6662eea9aef1f94c989a938e2b779cf9
+FileChecksum: MD5: 340f54226075c8dfd612b3d8929eece9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave/enclave_data.h
+SPDXID: SPDXRef-item8214875
+FileChecksum: SHA1: d8536d30479b24b5c0cb9c9674c39eefe7341944
+FileChecksum: MD5: b11e1ad2f84657d434afbfabfd23a4ba
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave/signup_enclave.h
+SPDXID: SPDXRef-item8214876
+FileChecksum: SHA1: 606d9da1dda6394d13003ae00333e5afca4aaeba
+FileChecksum: MD5: d7fd5bbb23024b7952bbf6f1d733cd0e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave_untrusted/enclave_bridge_wrapper/work_order_wrap.cpp
+SPDXID: SPDXRef-item8214842
+FileChecksum: SHA1: 99c25fd02b09d84b20b56d21a327af906f1f6ec3
+FileChecksum: MD5: 7d9c581d70d551d75782e79fb13a9ad6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave_untrusted/enclave_bridge_wrapper/signup_info.cpp
+SPDXID: SPDXRef-item8214841
+FileChecksum: SHA1: 8bbf710128e37856d77786e2ce872b4815e5d69e
+FileChecksum: MD5: e263ac32fd37b3d4cb501d4871afd4ed
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave_untrusted/enclave_bridge/work_order.h
+SPDXID: SPDXRef-item8214820
+FileChecksum: SHA1: 3b57de3ec8218dcf4683341becb28c80277e4449
+FileChecksum: MD5: f9b066cd4cd7157c6d756b922fcc4f8a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave_untrusted/enclave_bridge_wrapper/work_order_wrap.h
+SPDXID: SPDXRef-item8214843
+FileChecksum: SHA1: a8f2dd39eea08b8ff8972932284d9a464bda104a
+FileChecksum: MD5: b3a5005b72bba7fcf652325778c266b6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave_untrusted/enclave_bridge/log.h
+SPDXID: SPDXRef-item8214824
+FileChecksum: SHA1: c00d82f813a85a1f7d5515e8c7ddbcd63ee10fb6
+FileChecksum: MD5: d94e1af48d5a86c4d44bbd0d83a3de8c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave_untrusted/enclave_bridge/enclave.h
+SPDXID: SPDXRef-item8214825
+FileChecksum: SHA1: cf82d7eae09db82262095231371fe66ff7357a94
+FileChecksum: MD5: 4602870e6923596df5ad98d835eb3733
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave_untrusted/enclave_bridge/enclave_queue.cpp
+SPDXID: SPDXRef-item8214827
+FileChecksum: SHA1: a65ca2de8d9fc0112e98ca92ce451a7679bb6cef
+FileChecksum: MD5: 936e9eeb4ee268abf7ca795b7feb4534
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave_untrusted/enclave_bridge/log.cpp
+SPDXID: SPDXRef-item8214826
+FileChecksum: SHA1: a0130dafffd9f32dc51a77a5023b55344c5a43ec
+FileChecksum: MD5: ecb31d9253b4a10ab0d0495fdc7e63a2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave_untrusted/enclave_bridge/base.cpp
+SPDXID: SPDXRef-item8214830
+FileChecksum: SHA1: c58501dfc6b595b0c9f458a4174a6877cf2c276c
+FileChecksum: MD5: dc94e7d5d974c878ac0772155a040643
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave_untrusted/enclave_bridge_wrapper/signup_info.h
+SPDXID: SPDXRef-item8214844
+FileChecksum: SHA1: 737ea8c6ecf9a9b282d34670054a60a984bbb787
+FileChecksum: MD5: 918aceab3cde9fcee676fdd47074a5ee
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave_untrusted/enclave_bridge/base.h
+SPDXID: SPDXRef-item8214831
+FileChecksum: SHA1: 669778f3c00fcfdbff8492a9eb61be08dda66e7b
+FileChecksum: MD5: 93241755eb876971dd7db06a49e4b541
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave_untrusted/enclave_bridge_wrapper/enclave_info.h
+SPDXID: SPDXRef-item8214847
+FileChecksum: SHA1: 9722b7abaa9b80ef7dc62e84f89ddb0fa593225c
+FileChecksum: MD5: 068419ab078b021b82959177fae00d0f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave/signup.edl
+SPDXID: SPDXRef-item8214873
+FileChecksum: SHA1: 7b4532900f3a22b6d7e83995c8c4c46c8d880c79
+FileChecksum: MD5: 9ba2fd14acb7d99293198c9153045f45
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave_untrusted/enclave_bridge_wrapper/swig_utils.cpp
+SPDXID: SPDXRef-item8214848
+FileChecksum: SHA1: 50c5a8be2da3dc4da7f78b2d82ec6cdfcbe6728a
+FileChecksum: MD5: 8a3c8f86674199cb23ef2a71c232ff65
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave_untrusted/enclave_bridge_wrapper/enclave_info.cpp
+SPDXID: SPDXRef-item8214849
+FileChecksum: SHA1: 3b59735e4ee594518e794738f9547f956cd901c0
+FileChecksum: MD5: b91f1ae4315e5949ff8181b74add7d33
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave_untrusted/enclave_bridge/signup.h
+SPDXID: SPDXRef-item8214837
+FileChecksum: SHA1: d8a1ddced05b01d3dc62b7e4905b9016c7326edf
+FileChecksum: MD5: 63eff1d27db31640c906df3b8a1e6dc7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave_untrusted/enclave_bridge/enclave_queue.h
+SPDXID: SPDXRef-item8214839
+FileChecksum: SHA1: 66b6d3e06660900693706fb1367c58db2782977f
+FileChecksum: MD5: 99db52325d5beba28cab62c213631538
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/types.h
+SPDXID: SPDXRef-item8214891
+FileChecksum: SHA1: 59baefa7c39d1f1dd4be33f643a740abd337b549
+FileChecksum: MD5: bd23b770e586e5562884e018f1f91646
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/c11_support.cpp
+SPDXID: SPDXRef-item8214889
+FileChecksum: SHA1: d8be19ff3a95c757af25b77bcd3a1e6604c2e505
+FileChecksum: MD5: 12c15eb4eeceb91c28da40e0071eb7b2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/c11_support.h
+SPDXID: SPDXRef-item8214892
+FileChecksum: SHA1: 86450ecf0b65ebbc577278eeaef75bddc12235a0
+FileChecksum: MD5: 5739d850f6946ef51809417b3266104a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/hex_string.cpp
+SPDXID: SPDXRef-item8214893
+FileChecksum: SHA1: 5c3b3b8700cc5a7ef32d2ef83f4040a816533cd7
+FileChecksum: MD5: f4130cb52b0d9f2ddf2d7263b81c1a25
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/hex_string.h
+SPDXID: SPDXRef-item8214896
+FileChecksum: SHA1: 86cd6678e0dce0f5e12591630af5aa600551cd37
+FileChecksum: MD5: b5f1625334d8b82f0e64d632ac6afd22
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/json_utils.cpp
+SPDXID: SPDXRef-item8214878
+FileChecksum: SHA1: 0de212b2af411641d6c03e55b49e99eacd7460a7
+FileChecksum: MD5: 17bb366e36e3f67ba697d41fc7bc42be
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/timer.h
+SPDXID: SPDXRef-item8214897
+FileChecksum: SHA1: cb2e0c791388e0efca6bf526e340d37cf7dda213
+FileChecksum: MD5: 237fb8b426d9065b035f5117502703fd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/zero.h
+SPDXID: SPDXRef-item8214895
+FileChecksum: SHA1: 7fc267e2fd6cc2bf61998173be3aef3e85a3a9ba
+FileChecksum: MD5: a3e9c4e8242a5f901f6acc87a955f466
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/sgx_support.h
+SPDXID: SPDXRef-item8214898
+FileChecksum: SHA1: d3f21777ccec8d6f71ded178b321ec5835a34018
+FileChecksum: MD5: e901966db048d6ee862ab3377287db05
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/verify_ias_report/ias_attestation_util.h
+SPDXID: SPDXRef-item8214907
+FileChecksum: SHA1: e32905dee2e4d6bcc30a581b04ce0927988dfd10
+FileChecksum: MD5: 92682eaae32dd01c3bd641e546b8147e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/verify_ias_report/build_ias_certificates_cpp.sh
+SPDXID: SPDXRef-item8214901
+FileChecksum: SHA1: 847630e74c9e3449b3a924bba6567f1e7d2a1595
+FileChecksum: MD5: f33e83925afc68d68c0da70dda17204b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/verify_ias_report/ias_attestation_util.cpp
+SPDXID: SPDXRef-item8214908
+FileChecksum: SHA1: 131b2ffb8cbff4aa2004e438f6149afda8d286b2
+FileChecksum: MD5: 074e271416407215b9f5e2a6f73c442f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/crypto/pkenc.h
+SPDXID: SPDXRef-item8214911
+FileChecksum: SHA1: 43cbd981c33f26ea925566f731c691fb6a547ab9
+FileChecksum: MD5: ba44030e04bb9ba771cec48008b94710
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/crypto/skenc.h
+SPDXID: SPDXRef-item8214912
+FileChecksum: SHA1: 7549a7165b2fe09c2064d5151b7a39d79fb162b9
+FileChecksum: MD5: 6b52ed6bdd89e6ce93ef981a20c9737f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/verify_ias_report/ias-certificates.h
+SPDXID: SPDXRef-item8214902
+FileChecksum: SHA1: bb6cf8e348975aa8672c2a585e83017f05708956
+FileChecksum: MD5: dd5f708f73719ca59510cc5788008861
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/crypto/sig_public_key.h
+SPDXID: SPDXRef-item8214914
+FileChecksum: SHA1: 012fe5cd0e9f59a9d53a0d6caec1c7b81482d087
+FileChecksum: MD5: 75830f08037c217dd609a40ee6abe696
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/verify_ias_report/ias-certificates.template
+SPDXID: SPDXRef-item8214905
+FileChecksum: SHA1: 80c45e87e2822ffab397fdd9f4f3cf2163299c6f
+FileChecksum: MD5: 470a042031b667c86090bcbf354825e3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/crypto/pkenc_public_key.cpp
+SPDXID: SPDXRef-item8214915
+FileChecksum: SHA1: ffc28c3a0a91b23fc7ad0c6ce20888e8f71eda3d
+FileChecksum: MD5: 55c9ccea48d8992f88504f94c09c0d0c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/crypto/sig_private_key.h
+SPDXID: SPDXRef-item8214916
+FileChecksum: SHA1: f1869a31989bf4355c053c3d5bb47d7b39a9a9ad
+FileChecksum: MD5: 0124cae19117d4f9bbc118808141b061
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/crypto/pkenc_private_key.h
+SPDXID: SPDXRef-item8214918
+FileChecksum: SHA1: a21c2f0442caea96097c787df0a5415a16c027a6
+FileChecksum: MD5: 0f6d86df673b02858cf042dd4201a75b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/crypto/crypto_shared.h
+SPDXID: SPDXRef-item8214910
+FileChecksum: SHA1: c4620381f3883f106763919a2e70e98a89bd9d41
+FileChecksum: MD5: c9d7e5ec1dc0ffce7e9a3a020ea8a767
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/crypto/crypto.h
+SPDXID: SPDXRef-item8214920
+FileChecksum: SHA1: 2e3350f0b19b656323dac23b25d12f67d354b20d
+FileChecksum: MD5: 38b5a8015caebd58add86599963dac48
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/crypto/verify_certificate.cpp
+SPDXID: SPDXRef-item8214921
+FileChecksum: SHA1: 07bb24d0aa5c2724e12d389f1eaa4f3e67bff0e2
+FileChecksum: MD5: 2fa5aae156a73e1e9e561a6ea42aa2c2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/crypto/sig_public_key.cpp
+SPDXID: SPDXRef-item8214922
+FileChecksum: SHA1: f7cb7e3da9459cdead9f199c232f756d395e19b0
+FileChecksum: MD5: c3251324d7d069b77525ab9cd9f0e575
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/crypto/verify_certificate.h
+SPDXID: SPDXRef-item8214919
+FileChecksum: SHA1: 992e4354df2e5d7816f9069613355c559b2bed72
+FileChecksum: MD5: 302d85dd63e711d7a139d7f21ee7438e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/crypto/verify_signature.cpp
+SPDXID: SPDXRef-item8214926
+FileChecksum: SHA1: c2afc68bf1a248b30927b5e35ce65b65cc0389d1
+FileChecksum: MD5: bb9df8a9c8f81669e9fd91b436bc7744
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/crypto/skenc.cpp
+SPDXID: SPDXRef-item8214925
+FileChecksum: SHA1: da86db23e1903d488f97a0207d20666c71086950
+FileChecksum: MD5: f52c84608ba5609cd9b6a643cd0c76ef
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/crypto/pkenc_private_key.cpp
+SPDXID: SPDXRef-item8214927
+FileChecksum: SHA1: 8e89be5194cc6583c8c29b23d60f2caf1bbfad06
+FileChecksum: MD5: e873aa3d5216b6c44ef67e0a2eb80ac3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/crypto/sig_private_key.cpp
+SPDXID: SPDXRef-item8214928
+FileChecksum: SHA1: 089db403dcf604d12f61c7984431e490daffb1d9
+FileChecksum: MD5: 158f94dc7e6ea47778608ff9c78ead15
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/crypto/sig.h
+SPDXID: SPDXRef-item8214931
+FileChecksum: SHA1: b9fe51b1aa1364a6128db8d3deae8e7838dfd9cb
+FileChecksum: MD5: 40a7cf8873d85a40c55bccaa029e442f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/crypto/verify_signature.h
+SPDXID: SPDXRef-item8214924
+FileChecksum: SHA1: 3a1b23496e5bc717fbd4ecdbfa6f2d0f73b9f0b4
+FileChecksum: MD5: 2a5e5cb80bb5e5b36bcb1deedbab2ff7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/utils.h
+SPDXID: SPDXRef-item8214933
+FileChecksum: SHA1: d77bcca048908884495e1630bf1ada78c68be1e7
+FileChecksum: MD5: 2d4ccb85b709a0f413997c85c7791ada
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/crypto/pkenc_public_key.h
+SPDXID: SPDXRef-item8214929
+FileChecksum: SHA1: cab0a51032cf3434c688d9cde27c8b8ff72c6172
+FileChecksum: MD5: 129495d15959b7254067616a1e5e2bd8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/tests/trusted/enclave/TestEnclave.config.xml
+SPDXID: SPDXRef-item8214939
+FileChecksum: SHA1: d3d3ffa48fdd002d98a75a0d4680b0bbfa1d11f8
+FileChecksum: MD5: ff0d219c49ed74d99ce35f69422dce3d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/tests/trusted/enclave/TestEnclave.edl
+SPDXID: SPDXRef-item8214938
+FileChecksum: SHA1: 597c948709ef4002dd660d6ff32e0a67499f7243
+FileChecksum: MD5: 3ea39290d57206d59fe0aab40fd065cd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/tests/trusted/enclave/TestEnclave.cpp
+SPDXID: SPDXRef-item8214943
+FileChecksum: SHA1: 842a6ec136e06d6e034bcfa0cac29ffcb12bee91
+FileChecksum: MD5: be02206d3ceb8df42b82516d9e169614
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/tests/trusted/enclave/CMakeLists.txt
+SPDXID: SPDXRef-item8214940
+FileChecksum: SHA1: 835d8f237d3399661e1e27ade45c5bfda9038f5d
+FileChecksum: MD5: 1bf84a195ed58fa7afc3f6f546746f10
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/tests/trusted/enclave/TestEnclave.h
+SPDXID: SPDXRef-item8214941
+FileChecksum: SHA1: cc8c0b660942e04f2b4075e3e5ace47781cbf2db
+FileChecksum: MD5: 0dc1c10d43528a56b1a196cdc8a565c8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/tests/trusted/app/TestApp.h
+SPDXID: SPDXRef-item8214946
+FileChecksum: SHA1: 7d8a85d38bff5f22e387973349f5f5cd2b45f2f4
+FileChecksum: MD5: b59ff6bc36d562926cba4c3c10b152a7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/tests/untrusted/TestUntrusted.cpp
+SPDXID: SPDXRef-item8214948
+FileChecksum: SHA1: 5805eec443fe079b7d27717feae818dd1d326cbc
+FileChecksum: MD5: d4d75bf43df687e288175e430c0d902d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/tests/testCrypto.cpp
+SPDXID: SPDXRef-item8214952
+FileChecksum: SHA1: bfe6cca57c4a292f77979f61f6f99b6931964020
+FileChecksum: MD5: ecb3daec718318c7c7bc4c33e1ce098b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/tests/trusted/enclave/TestEnclave.lds
+SPDXID: SPDXRef-item8214942
+FileChecksum: SHA1: 415377d211f13be34a6f424ddd26e063c63a9341
+FileChecksum: MD5: e0ab3694c50faefcb00decd4b211e46a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/tests/testCrypto.h
+SPDXID: SPDXRef-item8214950
+FileChecksum: SHA1: 0d3a3ec951ef00278f29d819c2ce08496ade23e2
+FileChecksum: MD5: 0810ca18e420d6d71c329073a81caf91
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/tests/CMakeLists.txt
+SPDXID: SPDXRef-item8214951
+FileChecksum: SHA1: 8574cee2302e66e674503871c066386b7a6ed866
+FileChecksum: MD5: 4a0ac7f826a4810ac44853f8c486e965
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/types.cpp
+SPDXID: SPDXRef-item8214956
+FileChecksum: SHA1: a0120f9b68b0c8be9d4d12f3d5dc0128e3be2222
+FileChecksum: MD5: 6aa2a6134bb11643079cd01856bbdba4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/jsonvalue.h
+SPDXID: SPDXRef-item8214954
+FileChecksum: SHA1: 5ba264b4dfc800c2e3e7e7255c036e92dcbaf4ba
+FileChecksum: MD5: da8e9e3327a8515b666f7141473488f5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/common/sgx/workload/work_order_data.h
+SPDXID: SPDXRef-item8214964
+FileChecksum: SHA1: 454f3697b727b1567fd0374031a886e224d53a8b
+FileChecksum: MD5: ea1580f28e19e79f64d9fcfd73e0de5e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/tcf_error.h
+SPDXID: SPDXRef-item8214955
+FileChecksum: SHA1: d86edce0c045c4d528f4aea48ec7108798c7e3da
+FileChecksum: MD5: bfcd8cea18851fadeaf0738f43f8ae20
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/common/sgx/workload/work_order_data.cpp
+SPDXID: SPDXRef-item8214968
+FileChecksum: SHA1: 1a792455c9e8a061a13154d233098f6cfeef2725
+FileChecksum: MD5: 216b30548849b60f037f8952bd369f8c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/utils.cpp
+SPDXID: SPDXRef-item8214959
+FileChecksum: SHA1: ed75333b90598c1d7e37e2c322cfa20f04b9fefc
+FileChecksum: MD5: 9567d1da78d88158f876079c22d2faec
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/common/sgx/workload/workload_processor.cpp
+SPDXID: SPDXRef-item8214965
+FileChecksum: SHA1: 062afb416f8e1e98bf7e68f00df894b5041629f8
+FileChecksum: MD5: 27c023ad793f602c9ed6a26ce6223168
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/json_utils.h
+SPDXID: SPDXRef-item8214958
+FileChecksum: SHA1: ce81b350871fe63d2973ac895167ad8d7ce5d988
+FileChecksum: MD5: 3a0173b88c69bc145ec9d8f6160f738d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/common/sgx/workload/workload_processor.h
+SPDXID: SPDXRef-item8214967
+FileChecksum: SHA1: 8869cb484d5067effbe4ab5ae43713dd0118406a
+FileChecksum: MD5: 5426b340808b2c4fa28b19d5931fe9e5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/CMakeVariables.txt
+SPDXID: SPDXRef-item8214957
+FileChecksum: SHA1: 564bcfb6df9ecabdd09d11f0e8426e121cf0fb1e
+FileChecksum: MD5: c92752eaa9a8839fc0c5ed52c707aeee
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tests/__init__.py
+SPDXID: SPDXRef-item8215044
+FileChecksum: SHA1: 13e5df49b0a4f13f6e79f8c07d60f68bac67c941
+FileChecksum: MD5: 0ad9531c7ae9b329ade08f5eb6722deb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/scripts/propose_requests.sh
+SPDXID: SPDXRef-item8215092
+FileChecksum: SHA1: ea0c2c1033903f611806fdad05c829d862ba5719
+FileChecksum: MD5: b4c2cedd6a10cb55882c25d5845331d1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/docs/workload-tutorial/hello_world/stage_1/logic.h
+SPDXID: SPDXRef-item8215109
+FileChecksum: SHA1: 78bba6d9a06752eb70183dc98c6acf8d9e1ab0ae
+FileChecksum: MD5: 35f15a04cbe4da005a3daba16df4f837
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/docs/workload-tutorial/templates/logic.h
+SPDXID: SPDXRef-item8215098
+FileChecksum: SHA1: 78bba6d9a06752eb70183dc98c6acf8d9e1ab0ae
+FileChecksum: MD5: 35f15a04cbe4da005a3daba16df4f837
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/docs/workload-tutorial/templates/plug-in.h
+SPDXID: SPDXRef-item8215099
+FileChecksum: SHA1: 47bbccc4458f88b45d93c6018462e180b4fbbd16
+FileChecksum: MD5: 13ad7d3b23d4a1b67c7c3258ac1af6f2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/docs/workload-tutorial/hello_world/stage_1/plug-in.cpp
+SPDXID: SPDXRef-item8215111
+FileChecksum: SHA1: 9308fb6233d4bc90ee72bbcfb2803aa7db0ad5d6
+FileChecksum: MD5: 3066a163e8e1845876243efc61f2de89
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/docs/workload-tutorial/templates/plug-in.cpp
+SPDXID: SPDXRef-item8215100
+FileChecksum: SHA1: 9308fb6233d4bc90ee72bbcfb2803aa7db0ad5d6
+FileChecksum: MD5: 3066a163e8e1845876243efc61f2de89
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/docs/workload-tutorial/hello_world/stage_1/logic.cpp
+SPDXID: SPDXRef-item8215113
+FileChecksum: SHA1: 7471122cba4d9ca8d79f1a2bf01151132dd20861
+FileChecksum: MD5: d59176dd246f138cdcfdad8d111bb2a0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/docs/workload-tutorial/templates/logic.cpp
+SPDXID: SPDXRef-item8215102
+FileChecksum: SHA1: 7471122cba4d9ca8d79f1a2bf01151132dd20861
+FileChecksum: MD5: d59176dd246f138cdcfdad8d111bb2a0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/docs/workload-tutorial/hello_world/stage_2/logic.h
+SPDXID: SPDXRef-item8215105
+FileChecksum: SHA1: d686e3caaf778d719a90338dcc237e46a21aee97
+FileChecksum: MD5: 33949d257076103a29f84b003a0fb4b5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/docs/workload-tutorial/hello_world/stage_2/plug-in.cpp
+SPDXID: SPDXRef-item8215106
+FileChecksum: SHA1: 72826e68353e4f8245569d29b36ea408b02d3b3a
+FileChecksum: MD5: 65698446ee4445701c61bb17a89fca03
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/docs/workload-tutorial/hello_world/stage_2/logic.cpp
+SPDXID: SPDXRef-item8215107
+FileChecksum: SHA1: 8ac804c70e8e5d79d188af745f0edf356d55bfa7
+FileChecksum: MD5: 5096071bce6ee2d7c9fdf4c3a69ca3f6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/docs/workload-tutorial/hello_world/stage_1/plug-in.h
+SPDXID: SPDXRef-item8215110
+FileChecksum: SHA1: 71d431e75872fc53f903cc98e8040e7c3fd8b2ff
+FileChecksum: MD5: d8f2472451f052965fbebe98638f1099
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/bin/get_version
+SPDXID: SPDXRef-item8215173
+FileChecksum: SHA1: 9987aba3d9697e8e3e7a05067811cdd0d4cf8c7b
+FileChecksum: MD5: e11e662722577c02e75137f441c63918
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/docs/workload-tutorial/templates/CMakeLists.txt
+SPDXID: SPDXRef-item8215101
+FileChecksum: SHA1: a780f6010fe484e3e5cb102d9ca1c050bf37842b
+FileChecksum: MD5: bc5dd6dada13e99729459aad90d3b033
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/docs/workload-tutorial/hello_world/stage_1/CMakeLists.txt
+SPDXID: SPDXRef-item8215112
+FileChecksum: SHA1: 5d1738bd167351675a5d827c1fbbc27ae3bfb375
+FileChecksum: MD5: 91c6e1f5b32981e85eba36eabcc2bec9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/client_sdk/avalon_client_sdk/work_order_receipt/__init__.py
+SPDXID: SPDXRef-item8215124
+FileChecksum: SHA1: 0afaf435d35a193017aab63d473ce0634b894140
+FileChecksum: MD5: ef78d822e0e20d906c1503d73061059c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/common/python/error_code/__init__.py
+SPDXID: SPDXRef-item8215013
+FileChecksum: SHA1: 0afaf435d35a193017aab63d473ce0634b894140
+FileChecksum: MD5: ef78d822e0e20d906c1503d73061059c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tools/build/Makefile
+SPDXID: SPDXRef-item8214502
+FileChecksum: SHA1: 1a4dd0dcdb1d3ee59d3fab749f773007ab135c51
+FileChecksum: MD5: f47e0348131fd20aafee2c958ab7f9b3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/.pycodestyle
+SPDXID: SPDXRef-item8214504
+FileChecksum: SHA1: d4039901029a1c258c6df6c13963bb7dfc1543d2
+FileChecksum: MD5: 72226ace5174612d7867e60e6df93464
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/.env
+SPDXID: SPDXRef-item8214510
+FileChecksum: SHA1: dacd3b972d829c947c7c00dad280c267a11300c6
+FileChecksum: MD5: dc8bbe946c5e57435a27092b045c618e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/enclave_manager/tcf_enclave_manager/ias_client.py
+SPDXID: SPDXRef-item8214700
+FileChecksum: SHA1: a7a0332b5c8f2a6ef97265917903da87670b69da
+FileChecksum: MD5: 1723fd53b2c4574aed3aa4402bdcc0fe
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/common/python/utility/logger.py
+SPDXID: SPDXRef-item8214980
+FileChecksum: SHA1: 43112aad1132f70373512e5fcc8b572ce736131f
+FileChecksum: MD5: 47f898f899bb0b15f3b0f18be037f9a1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/client_sdk/avalon_client_sdk/utility/tcf_types.py
+SPDXID: SPDXRef-item8215117
+FileChecksum: SHA1: 2c9f534de001d87d1379fb2d0434ae38d325d6a2
+FileChecksum: MD5: 08ad491666f27336200b11ae3bfa66ff
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/client_sdk/avalon_client_sdk/direct/jrpc/unit_tests/test_work_order_encryption_key_jrpc_impl.py
+SPDXID: SPDXRef-item8215133
+FileChecksum: SHA1: ef2e3775dce60bff1e3cff499532f3ff1fe5c9ed
+FileChecksum: MD5: cdfbac1b41030a8fee3afd92ec37a962
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/client_sdk/avalon_client_sdk/direct/jrpc/unit_tests/test_work_order_jrpc_impl.py
+SPDXID: SPDXRef-item8215135
+FileChecksum: SHA1: 203f96a73fea6b1a6fcfd61918e0b6326ed4ec47
+FileChecksum: MD5: 37d415358bc6bb3133b1e30dda3a2a11
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/client_sdk/avalon_client_sdk/worker/__init__.py
+SPDXID: SPDXRef-item8215122
+FileChecksum: SHA1: 0ded657fca7a7e1d93f63be797206f1a7272aada
+FileChecksum: MD5: 4b5df5038c78896a778caf3507505860
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/common/python/config/__init__.py
+SPDXID: SPDXRef-item8215009
+FileChecksum: SHA1: 0ded657fca7a7e1d93f63be797206f1a7272aada
+FileChecksum: MD5: 4b5df5038c78896a778caf3507505860
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/common/python/connectors/direct/tcs_listener/__init__.py
+SPDXID: SPDXRef-item8214990
+FileChecksum: SHA1: 0ded657fca7a7e1d93f63be797206f1a7272aada
+FileChecksum: MD5: 4b5df5038c78896a778caf3507505860
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/common/python/crypto_utils/crypto/__init__.py
+SPDXID: SPDXRef-item8215004
+FileChecksum: SHA1: 0ded657fca7a7e1d93f63be797206f1a7272aada
+FileChecksum: MD5: 4b5df5038c78896a778caf3507505860
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/common/python/crypto_utils/verify_report/__init__.py
+SPDXID: SPDXRef-item8214999
+FileChecksum: SHA1: 0ded657fca7a7e1d93f63be797206f1a7272aada
+FileChecksum: MD5: 4b5df5038c78896a778caf3507505860
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/common/python/utility/__init__.py
+SPDXID: SPDXRef-item8214981
+FileChecksum: SHA1: 0ded657fca7a7e1d93f63be797206f1a7272aada
+FileChecksum: MD5: 4b5df5038c78896a778caf3507505860
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/shared_kv_storage/kv_storage/interface/__init__.py
+SPDXID: SPDXRef-item8214729
+FileChecksum: SHA1: 0ded657fca7a7e1d93f63be797206f1a7272aada
+FileChecksum: MD5: 4b5df5038c78896a778caf3507505860
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/common/python/connectors/direct/tcs_listener/tcs_worker_registry_handler.py
+SPDXID: SPDXRef-item8214991
+FileChecksum: SHA1: 038413b53da7c9a6d9a675ebb70c2d380d5de9c6
+FileChecksum: MD5: 5c2d54ab7e8f509aef9e3660417b0820
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/common/python/utility/file_utils.py
+SPDXID: SPDXRef-item8214979
+FileChecksum: SHA1: 844a3adfa017d534d0d3e44d9d46337b2c6b7f9e
+FileChecksum: MD5: 3ffb481911cfc766ca533d813706c1c4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/client_sdk/avalon_client_sdk/ethereum/eth_cli.py
+SPDXID: SPDXRef-item8215151
+FileChecksum: SHA1: abcc2b0a731fd1f236960944e342997535074956
+FileChecksum: MD5: e503729d0c4d2edeb625bb7608668f49
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/common/python/crypto_utils/verify_report/verify_attestation_report.py
+SPDXID: SPDXRef-item8215000
+FileChecksum: SHA1: 362dc3213a0ccba20e25d3fdfbe5d33a9ded32d7
+FileChecksum: MD5: 9a9f3e28cd767312d3158701e6bf2bda
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/common/python/config/config.py
+SPDXID: SPDXRef-item8215008
+FileChecksum: SHA1: 8457f75c4be6a80ca5340d762b7cc57e92e16bbb
+FileChecksum: MD5: c915efa73b3e2dbf56b28f59661b4dc5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/common/python/utility/hex_utils.py
+SPDXID: SPDXRef-item8214983
+FileChecksum: SHA1: 2e25a68899becfb8848efb63a347eadf53535fa3
+FileChecksum: MD5: f3f4726d902bc4a4c0222bb8c8d4bbfe
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/common/python/error_code/error_status.py
+SPDXID: SPDXRef-item8215014
+FileChecksum: SHA1: c10fe1651810b3bba88ea6f0c4e3bb572ecf2b54
+FileChecksum: MD5: fcfb3df8e753a38ece6ebb972177da1e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/common/python/error_code/enclave_error.py
+SPDXID: SPDXRef-item8215012
+FileChecksum: SHA1: 612f2d5542c31bd395cab71efaf1c86eba0bb2c4
+FileChecksum: MD5: 1507157894e628a74e8ba2687af4132c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/client_sdk/avalon_client_sdk/work_order/work_order_request_validator.py
+SPDXID: SPDXRef-item8215161
+FileChecksum: SHA1: e692bc963ebaac0fac2febe81849a687d11d3518
+FileChecksum: MD5: 6b1cb0f81d1b5ebb0c420244b1e3c9a6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/apps/aml/standalone-cipher/signingAlgorithm.py
+SPDXID: SPDXRef-item8214785
+FileChecksum: SHA1: 41ed69345da60713e2db2fe8d8c7af9029cf6ce5
+FileChecksum: MD5: 924def225e0983e69c73cdbc0be819d1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Banco Santander S.A. </text>
+ 
+
+##File
+
+FileName: avalon/examples/apps/aml/standalone-cipher/main.py
+SPDXID: SPDXRef-item8214787
+FileChecksum: SHA1: fe51e51b314d50c1e552e7826fb8194746bd29fb
+FileChecksum: MD5: 775f05dff75e3ba1cb842c88058262a3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Banco Santander S.A. </text>
+ 
+
+##File
+
+FileName: avalon/examples/apps/aml/standalone-cipher/signature.py
+SPDXID: SPDXRef-item8214786
+FileChecksum: SHA1: 0cf15c8fac08fc1cbbc119ce22a3d45e2da70a01
+FileChecksum: MD5: 6b7a0c5202cc6dde250124a90627cc4f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Banco Santander S.A. </text>
+ 
+
+##File
+
+FileName: avalon/examples/shared_kv_storage/kv_storage/remote_lmdb/string_escape.py
+SPDXID: SPDXRef-item8214725
+FileChecksum: SHA1: 40ce9402b9cd76995572962eece511e0bae950d4
+FileChecksum: MD5: c058f7e52a7c849802adf046deee1528
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/apps/aml/standalone-cipher/worker.py
+SPDXID: SPDXRef-item8214804
+FileChecksum: SHA1: bac43f8074a39fad057b131ecdd2ad52796ae164
+FileChecksum: MD5: 8fcb7a7b513303e481d013cb1383585c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Banco Santander S.A. </text>
+ 
+
+##File
+
+FileName: avalon/examples/apps/inside_out_demo/workload/inside_out_eval_plug-in.h
+SPDXID: SPDXRef-item8214809
+FileChecksum: SHA1: 82f4518c5fcb374f10345b8d33f209e5ab2023b0
+FileChecksum: MD5: 9434bba578a205316780331e09916c26
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave/iohandler_enclave.cpp
+SPDXID: SPDXRef-item8214857
+FileChecksum: SHA1: bc311e026bcd91210fcade1f61bf51b1d4f179f6
+FileChecksum: MD5: 9fa6ca062f07c6b6329cfb5906131a34
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/apps/aml/standalone-cipher/environment.sh
+SPDXID: SPDXRef-item8214805
+FileChecksum: SHA1: a178edf91beb4c941e6726a595f17a7360c0d4fb
+FileChecksum: MD5: 8bc220ae8aff071695941da49f483717
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Banco Santander S.A. </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave_untrusted/enclave_bridge/file_io_handler.cpp
+SPDXID: SPDXRef-item8214821
+FileChecksum: SHA1: 198a9b4bb77080201072a2bcf124481492c106d2
+FileChecksum: MD5: 089d9294bdf6dfda4a4a492c957194a4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave_untrusted/enclave_bridge/file_io_handler.h
+SPDXID: SPDXRef-item8214822
+FileChecksum: SHA1: 0ae3de8492966d0789bc70e38bc2859794d08d76
+FileChecksum: MD5: 13e6dc593da45aa3ade34694bc47de9d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave_untrusted/enclave_bridge/file_io_processor.cpp
+SPDXID: SPDXRef-item8214823
+FileChecksum: SHA1: 8ee25bea99e1ad0dbe9355a6de5494c4033fa7d3
+FileChecksum: MD5: ab7ca03238508cd6bf42e3845481510b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave/iohandler.edl
+SPDXID: SPDXRef-item8214851
+FileChecksum: SHA1: 407eff30548a83f81c8cf3a208cec5f218d4600f
+FileChecksum: MD5: a8d46e4139323181fb069b2c3af50794
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave_untrusted/enclave_bridge/io_handler.h
+SPDXID: SPDXRef-item8214828
+FileChecksum: SHA1: ce2d667def07fa7a1aa8f7c9a3d9d1de0f0749c3
+FileChecksum: MD5: 39849f62fba33f78615eada07f243f89
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave_untrusted/enclave_bridge/io_handler_if.h
+SPDXID: SPDXRef-item8214829
+FileChecksum: SHA1: b229beed446ba90cc7d3b8114accf6d6adf577cc
+FileChecksum: MD5: db79098106a4557c52fc4158a07753d7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave/iohandler_enclave.h
+SPDXID: SPDXRef-item8214862
+FileChecksum: SHA1: 2022514beb09000f0f4bbea789f65ab2ec52d971
+FileChecksum: MD5: cc9dc3f37c88d6cf29da3aff807f3d8a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave_untrusted/enclave_bridge/io_handler.cpp
+SPDXID: SPDXRef-item8214838
+FileChecksum: SHA1: 9841b881754af1150258ba058496ea7df4e60710
+FileChecksum: MD5: 84904778678a314ec24de82c735a0770
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave_untrusted/enclave_bridge/file_io_processor.h
+SPDXID: SPDXRef-item8214834
+FileChecksum: SHA1: 2c2945d86e28846889dff0a6dc52f2b03f87f8bd
+FileChecksum: MD5: 0795f9cad737ef45dd4d7fff8cded054
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/common/sgx/CMakeLists.txt
+SPDXID: SPDXRef-item8214970
+FileChecksum: SHA1: b3e9194e0135a42f096f4f27cb7381cbeb7dc5e3
+FileChecksum: MD5: 78ae38397f6c8dc4141b9d32f1d61832
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/common/sgx/CMakeVariables.txt
+SPDXID: SPDXRef-item8214971
+FileChecksum: SHA1: 2f41152f8a7a9077bd1c5ded8caae9d3025c95c3
+FileChecksum: MD5: 4aa2eee13dcc6fc09d8c677dc394192a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tests/test_utility/test_hex_utils.py
+SPDXID: SPDXRef-item8215042
+FileChecksum: SHA1: 287e739eaa1cde4771cc4ab686a21bccf9acbce9
+FileChecksum: MD5: caf431c58382e28687cb28d853bf7703
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/bin/run_tests
+SPDXID: SPDXRef-item8215172
+FileChecksum: SHA1: 14b15e48c7c94c8eb4f78b82832e5f46704b26b5
+FileChecksum: MD5: 34b4abf5a4340350a88459acb16594a3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/bin/run_docker_test
+SPDXID: SPDXRef-item8215174
+FileChecksum: SHA1: 5db2619ff896b8d8bf1b2710def42eb148633148
+FileChecksum: MD5: f251178206e03283283d3424559d266c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/common/python/database/connector.py
+SPDXID: SPDXRef-item8215017
+FileChecksum: SHA1: 7c605be76ec94506004099d3228322552d0f74ca
+FileChecksum: MD5: 5b1174285c95f0f86cfe179891a23ab1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/common/python/database/test_lmdb_app.py
+SPDXID: SPDXRef-item8215018
+FileChecksum: SHA1: 989fb06e0a1ca731a0e519881f07b0ab99849363
+FileChecksum: MD5: 6f95a3a4faa0aabd76a6f32ca157aee1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/ci/docker-compose-build.yaml
+SPDXID: SPDXRef-item8214483
+FileChecksum: SHA1: 7bc5a4af35b5a739d7ee2f93e0bc77206934c200
+FileChecksum: MD5: 003377f85961d0532cb2064e1136494e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/enclave_manager/tcf_enclave_manager/tcf_enclave.i
+SPDXID: SPDXRef-item8214703
+FileChecksum: SHA1: d723cda1976e0dfc834130a67ca333a4e1834620
+FileChecksum: MD5: f5f48b4b4ce2ab0a95ed428f05e11578
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/shared_kv_storage/db_store/db_store.h
+SPDXID: SPDXRef-item8214708
+FileChecksum: SHA1: 4f3561393b27048ce7e63fe5d5b88b4a14b0ad07
+FileChecksum: MD5: c1ee0a3b6ebfa5629c853089e9d7f723
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/shared_kv_storage/db_store/db_store_error.h
+SPDXID: SPDXRef-item8214709
+FileChecksum: SHA1: c0528f57064418e5d84a752aa0798eac5ae2087f
+FileChecksum: MD5: 5d9fd1819c17c006399fdd4f3877da37
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/config/tcs_config.toml
+SPDXID: SPDXRef-item8214529
+FileChecksum: SHA1: dfc0b52dca4f1aaeb0a5881036d433e5749b55d6
+FileChecksum: MD5: 5f28c77fbb18a2731f874ca631172a39
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/shared_kv_storage/db_store/packages/lmdb_store.h
+SPDXID: SPDXRef-item8214712
+FileChecksum: SHA1: 781d63483ffae0f1cc5f881d582082daa12c5131
+FileChecksum: MD5: f3325898d9f57e50741325b78e8e40dd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/shared_kv_storage/db_store/packages/lmdb_store.cpp
+SPDXID: SPDXRef-item8214714
+FileChecksum: SHA1: 994a860b755f6fa485586349a4e604e47f08e5e6
+FileChecksum: MD5: 27f5f08082945575cec068d47f127d70
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/shared_kv_storage/db_store/packages/db_store_wrapper.h
+SPDXID: SPDXRef-item8214713
+FileChecksum: SHA1: 667603ee58d8c87a990ad7a2b57d3d838ef5870a
+FileChecksum: MD5: eba949392c619b59173a4608644e956a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/shared_kv_storage/Makefile
+SPDXID: SPDXRef-item8214706
+FileChecksum: SHA1: f5eaac81f0417f07fcc68eb5a2c0bdd960338977
+FileChecksum: MD5: e56f2a93985000b376a4a9b9615f0691
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/shared_kv_storage/db_store/db_store.cpp
+SPDXID: SPDXRef-item8214715
+FileChecksum: SHA1: d3bb0234f9e6cea8e9cce7976505fb36a05328d4
+FileChecksum: MD5: 5ac6c8c1524e4cd5931057cf9cc583fa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/shared_kv_storage/db_store/packages/CMakeLists.txt
+SPDXID: SPDXRef-item8214711
+FileChecksum: SHA1: 354daf6a367c52e24871d25a3abb1efc91e29dc2
+FileChecksum: MD5: cd30680c69bb14879e454e0a30a3a0b9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/shared_kv_storage/kv_storage/remote_lmdb/db_store.i
+SPDXID: SPDXRef-item8214722
+FileChecksum: SHA1: fc2d17adf5b448a8e07877fa4bbf2acaa985c3d1
+FileChecksum: MD5: 87aec60e766a3f76046ceb7422d7f556
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/shared_kv_storage/kv_storage/remote_lmdb/lmdb_request_handler.py
+SPDXID: SPDXRef-item8214723
+FileChecksum: SHA1: 2a7216f71d991131fa62b58529b49785f2ed2a16
+FileChecksum: MD5: 9dcc43c3126c36200b42f0812f7de0bf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/shared_kv_storage/packaging/systemd/shared_kv_storage.service
+SPDXID: SPDXRef-item8214718
+FileChecksum: SHA1: 7f3038111c93faabe9625fe109f07e892ae04d4e
+FileChecksum: MD5: a19002adec1d762e834b5feb935673bd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/shared_kv_storage/kv_storage/remote_lmdb/lmdb_listener.py
+SPDXID: SPDXRef-item8214724
+FileChecksum: SHA1: 257c851b781a72e8c1f08a40b5461b19f8a60fae
+FileChecksum: MD5: f73b9190f463ebd8ce483d88c6d206f9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/shared_kv_storage/kv_storage/remote_lmdb/shared_kv_dbstore.py
+SPDXID: SPDXRef-item8214727
+FileChecksum: SHA1: b66dbe260aab23db5b540e098611bbccaeb04d4a
+FileChecksum: MD5: 3f1a363ca4c1ca1b6cca386503b43536
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/shared_kv_storage/kv_storage/interface/shared_kv_interface.py
+SPDXID: SPDXRef-item8214730
+FileChecksum: SHA1: b4062422eeff3cb03c3e8e8dd383e09fdf6b6496
+FileChecksum: MD5: dbad98e65aa591d1a91a5c24208f5a20
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/shared_kv_storage/packaging/lmdb_config.toml.example
+SPDXID: SPDXRef-item8214719
+FileChecksum: SHA1: 479832456cb2762c5e3986d3fdfbc7b0b4b7ca86
+FileChecksum: MD5: 1bfb8231884bd55ec9e1f61ce73b2ab7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/shared_kv_storage/kv_storage/remote_lmdb/__init__.py
+SPDXID: SPDXRef-item8214726
+FileChecksum: SHA1: bdbd10c81a93f5704df33c2dab4bd8f83af95a2a
+FileChecksum: MD5: df9b64b6e46877b325ebb613155fdb10
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/apps/aml/standalone-cipher/encryptionAlg.py
+SPDXID: SPDXRef-item8214791
+FileChecksum: SHA1: 2a4c77270657aae93bde35676d8861b6cd7b2eea
+FileChecksum: MD5: a5ba432584bf45e33960881f641e275f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Banco Santander S.A. </text>
+ 
+
+##File
+
+FileName: avalon/examples/shared_kv_storage/lmdb_config.toml
+SPDXID: SPDXRef-item8214733
+FileChecksum: SHA1: 061b7d299527f0182bb32df87e5444e27ab8373b
+FileChecksum: MD5: cc335065bff2fea3fcf830e32511d239
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave/work_order_processor.cpp
+SPDXID: SPDXRef-item8214855
+FileChecksum: SHA1: aeb14e633a6503b8c9a0c0877252bba0bd9ea5ca
+FileChecksum: MD5: 3496294f4cf3691cda385edb54c4f51a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/shared_kv_storage/Dockerfile
+SPDXID: SPDXRef-item8214734
+FileChecksum: SHA1: 7fca2bc89147f2a5371662bd2bded086b3f249d2
+FileChecksum: MD5: d33ae055663729f2fea82c11b2af7bf9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave_untrusted/enclave_bridge_wrapper/swig_utils.h
+SPDXID: SPDXRef-item8214845
+FileChecksum: SHA1: 8707f13dd1ce99686c8e6c149ec115f540a79256
+FileChecksum: MD5: 24ca73be9932e6d067ccbfb97cfbef8c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave_untrusted/enclave_bridge_wrapper/tcf_enclave.h
+SPDXID: SPDXRef-item8214846
+FileChecksum: SHA1: 4228798bd00e0323a14d90b5bd220e202c11c1fe
+FileChecksum: MD5: 2ce18252f7656646baff86d031479fb4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave_untrusted/enclave_bridge/ocall.cpp
+SPDXID: SPDXRef-item8214833
+FileChecksum: SHA1: a2804650d335181b0e6fd1e53a11e768c10ae7c4
+FileChecksum: MD5: 951002e95b8f6beaa3f9d6c29bcf5b85
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/tests/trusted/app/TestApp.cpp
+SPDXID: SPDXRef-item8214945
+FileChecksum: SHA1: 22f9b4551d188127ab0c7a03bcb6870c2fbaf909
+FileChecksum: MD5: 1931c5777bf0bc1ecf97ec3617e08e07
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tests/test_utility/test_file_utils/test.py
+SPDXID: SPDXRef-item8215038
+FileChecksum: SHA1: 1ca06318157c6c575033d46d829da62a2ad17667
+FileChecksum: MD5: 3696291fed25eec45ee4106ac8ccb99f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/scripts/lmdb.sh
+SPDXID: SPDXRef-item8215090
+FileChecksum: SHA1: 1350e1a6ecbab1c7289da8b962aa53b609b89a91
+FileChecksum: MD5: ce5bb1cc89ec62adcb177d0bf9e43db6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/scripts/enclave_manager.sh
+SPDXID: SPDXRef-item8215091
+FileChecksum: SHA1: 27a4361cb67da7ba7909a33ed0b0bb8d9ab690ac
+FileChecksum: MD5: 3e3cc8c15d84de799c93be681988858c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave/enclave.edl
+SPDXID: SPDXRef-item8214865
+FileChecksum: SHA1: d41affd6a7d79fdbe86af33d6327a0715a46c8b5
+FileChecksum: MD5: 671a02e659d38a47d3bef4c7eff6f48f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/tests/test_cryptoWrapper.py
+SPDXID: SPDXRef-item8214949
+FileChecksum: SHA1: b508aa9e45cfc483f05aa4d1c53c526d4f0efbc6
+FileChecksum: MD5: 7527ee247c68649d737707b062273110
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/ci/tcf-tests.yaml
+SPDXID: SPDXRef-item8214482
+FileChecksum: SHA1: a2107ed86de2a37abecb2dff9475e5e0e6f8ca64
+FileChecksum: MD5: 4816882918c3b1fe45e0a8ddb28e1ad9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/Jenkinsfile
+SPDXID: SPDXRef-item8214484
+FileChecksum: SHA1: c8301bceaaf0f4c6da7a9499e43fb3cdc40c239f
+FileChecksum: MD5: 4e73b2b66212ae2b70bf58125a5c6b5d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tools/rebuild.sh
+SPDXID: SPDXRef-item8214500
+FileChecksum: SHA1: 194ca8bae2ff84c8a7b59e105ac1376b9def1b05
+FileChecksum: MD5: 1f4efdcda148f66deced9cd9aa127602
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tools/run_tests.sh
+SPDXID: SPDXRef-item8214499
+FileChecksum: SHA1: 45e98901cab0c46ba6681a65468036be4ccc8545
+FileChecksum: MD5: 3921a89a3ebbf8b05038dbb82d641c25
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tools/clean.sh
+SPDXID: SPDXRef-item8214503
+FileChecksum: SHA1: c6461d6e2643552c1140d392ce3bec931e26ee44
+FileChecksum: MD5: d4e4c420b7ff33e6a4b8cde9e3721929
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/connector_sdk/setup.py
+SPDXID: SPDXRef-item8214512
+FileChecksum: SHA1: a9fc96706dbdb33584602e7eb86fc199f4870d48
+FileChecksum: MD5: fdc383cd2a95a3b70d43b04120157793
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/docker-compose-sgx.yaml
+SPDXID: SPDXRef-item8214508
+FileChecksum: SHA1: c528afaa610af453200d7dbd3a518edde9821233
+FileChecksum: MD5: 8a9ba86ee458049231f1043fedf9d0e7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/client_sdk/avalon_client_sdk/direct/jrpc/__init__.py
+SPDXID: SPDXRef-item8215131
+FileChecksum: SHA1: a4e36cd58230175f281f7ca085eef52a7e2acd43
+FileChecksum: MD5: a149a78258c37406ceb3b6377ca51ffc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/client_sdk/avalon_client_sdk/direct/__init__.py
+SPDXID: SPDXRef-item8215136
+FileChecksum: SHA1: a4e36cd58230175f281f7ca085eef52a7e2acd43
+FileChecksum: MD5: a149a78258c37406ceb3b6377ca51ffc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/client_sdk/avalon_client_sdk/interfaces/__init__.py
+SPDXID: SPDXRef-item8215166
+FileChecksum: SHA1: a4e36cd58230175f281f7ca085eef52a7e2acd43
+FileChecksum: MD5: a149a78258c37406ceb3b6377ca51ffc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/client_sdk/avalon_client_sdk/__init__.py
+SPDXID: SPDXRef-item8215138
+FileChecksum: SHA1: a4e36cd58230175f281f7ca085eef52a7e2acd43
+FileChecksum: MD5: a149a78258c37406ceb3b6377ca51ffc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/connector_sdk/avalon_connector_sdk/ethereum/__init__.py
+SPDXID: SPDXRef-item8214517
+FileChecksum: SHA1: a4e36cd58230175f281f7ca085eef52a7e2acd43
+FileChecksum: MD5: a149a78258c37406ceb3b6377ca51ffc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/connector_sdk/avalon_connector_sdk/interfaces/__init__.py
+SPDXID: SPDXRef-item8214526
+FileChecksum: SHA1: a4e36cd58230175f281f7ca085eef52a7e2acd43
+FileChecksum: MD5: a149a78258c37406ceb3b6377ca51ffc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/connector_sdk/avalon_connector_sdk/__init__.py
+SPDXID: SPDXRef-item8214514
+FileChecksum: SHA1: a4e36cd58230175f281f7ca085eef52a7e2acd43
+FileChecksum: MD5: a149a78258c37406ceb3b6377ca51ffc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/docker/Dockerfile.tcf-dev
+SPDXID: SPDXRef-item8214486
+FileChecksum: SHA1: d33a65abff01c02c08f7dfe0077363d39a694a1e
+FileChecksum: MD5: 151d1d02c7813b3a38dabae2144dafd4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/connector_sdk/avalon_connector_sdk/ethereum/ethereum_worker_registry_list_connector.py
+SPDXID: SPDXRef-item8214516
+FileChecksum: SHA1: 55bd4018a4d96ed0cf80432bc19932b948b7674d
+FileChecksum: MD5: ceef50b20d7e03b8e2068f2c967b4daa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/connector_sdk/avalon_connector_sdk/ethereum/unit_tests/test_ethereum_worker_registry_list_connector.py
+SPDXID: SPDXRef-item8214520
+FileChecksum: SHA1: 8afbd575f157ac5e27a62172a5008012b9933260
+FileChecksum: MD5: 2a6d0ea951ff0c2c2a3420186a7c34ec
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/connector_sdk/avalon_connector_sdk/ethereum/ethereum_worker_registry_connector.py
+SPDXID: SPDXRef-item8214518
+FileChecksum: SHA1: 1241748f3839905cee6b97453989009f6f790115
+FileChecksum: MD5: c35f884beeced2956a0e1008ff31b54e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/connector_sdk/avalon_connector_sdk/ethereum/unit_tests/test_ethereum_worker_registry_connector.py
+SPDXID: SPDXRef-item8214521
+FileChecksum: SHA1: 3678501952a94399090e42a273ef9c05000ee40f
+FileChecksum: MD5: 5baa354d70f9504caed08ba1a750d935
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/connector_sdk/avalon_connector_sdk/interfaces/worker_registry_list_connector.py
+SPDXID: SPDXRef-item8214524
+FileChecksum: SHA1: aced4919db71265dcbfcd7697a45ac0ea6f10dd9
+FileChecksum: MD5: d6c382b10f29d3a4cf3f12d93666515a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/connector_sdk/avalon_connector_sdk/interfaces/work_order_receipt_connector.py
+SPDXID: SPDXRef-item8214523
+FileChecksum: SHA1: 5002f9acec44f11386475ce3080608bdebce2d87
+FileChecksum: MD5: a2a3a09b9f1f12aad473d3c20862785e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/connector_sdk/avalon_connector_sdk/interfaces/work_order_connector.py
+SPDXID: SPDXRef-item8214525
+FileChecksum: SHA1: 34e058d490bfd26f634975afeaa668ad082a8a9c
+FileChecksum: MD5: 9c96b8de15664c5bead0b05697800609
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/connector_sdk/avalon_connector_sdk/interfaces/worker_registry_connector.py
+SPDXID: SPDXRef-item8214527
+FileChecksum: SHA1: c05b68c2735d57be6ebc4e973874ed339be70860
+FileChecksum: MD5: ec65d72509ba5b76f54885ffbb0a0623
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/enclave_manager/tcf_enclave_manager/sgx_work_order_request.py
+SPDXID: SPDXRef-item8214698
+FileChecksum: SHA1: f1d5881ff5844c55e403755bae08e7e6e312dac0
+FileChecksum: MD5: 8609d6c0e22bad5ed5764e6b3fac060d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/enclave_manager/setup.py
+SPDXID: SPDXRef-item8214696
+FileChecksum: SHA1: cfa2133107e905684edf6ff670a4f60e67c8200a
+FileChecksum: MD5: 552eddcace43161b0ffa3eaf11ddc924
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/enclave_manager/tcf_enclave_manager/enclave_manager.py
+SPDXID: SPDXRef-item8214699
+FileChecksum: SHA1: 8384c95a1e38329601cbce0d90aeea8b7dc1840a
+FileChecksum: MD5: c2732162d5570e3334a7728bc605af36
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/enclave_manager/tcf_enclave_manager/tcf_enclave_helper.py
+SPDXID: SPDXRef-item8214701
+FileChecksum: SHA1: e1bced272f15681c04e5b2c19e60ebb284b3125a
+FileChecksum: MD5: 76092ff6598a311707a9034330b9dabe
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/enclave_manager/Makefile
+SPDXID: SPDXRef-item8214695
+FileChecksum: SHA1: 0da11307b23669f46aea08c63c8a209197cd39fa
+FileChecksum: MD5: 41709134dcd53be24a42b121940cbda4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/shared_kv_storage/setup.py
+SPDXID: SPDXRef-item8214732
+FileChecksum: SHA1: c073003f90009633c52b5c583dcd57376be9b872
+FileChecksum: MD5: fe638c9aedd84265327ba51bbcfb1b24
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/enclave_manager/tcf_enclave_manager/tcf_enclave_bridge.py
+SPDXID: SPDXRef-item8214702
+FileChecksum: SHA1: 2eecb5b3202421beb9d63fd820237659d8801c7a
+FileChecksum: MD5: a4eade0c8de1003ce4f931a294bce537
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/apps/generic_client/generic_client.py
+SPDXID: SPDXRef-item8214737
+FileChecksum: SHA1: 36fc3ac96cd7cca673e5d2fbee7a6d4713adba69
+FileChecksum: MD5: 7281ece9431de8577c5852903771552c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/apps/echo/client/echo_client.py
+SPDXID: SPDXRef-item8214741
+FileChecksum: SHA1: 8c335237fdab665f3b46996023357d21b721790c
+FileChecksum: MD5: 7acfffb75bdc366f02369b211152be26
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/apps/simple_wallet/workload/simple_wallet_logic.h
+SPDXID: SPDXRef-item8214762
+FileChecksum: SHA1: 43c54a5ba3f071719cf5c847992d2d8854d31ec5
+FileChecksum: MD5: 6b470b77ad77b267455b02e416c2bdbc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/apps/simple_wallet/workload/simple_wallet_plug-in.h
+SPDXID: SPDXRef-item8214760
+FileChecksum: SHA1: fdfe4bae0c821a43301f2c93194daf4226bf9c5b
+FileChecksum: MD5: d33666393500bb07d2890da56d0b1f00
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/apps/simple_wallet/workload/simple_wallet_logic.cpp
+SPDXID: SPDXRef-item8214761
+FileChecksum: SHA1: fa93f810631a9dffc5da46da86a3395bd88d0105
+FileChecksum: MD5: 18e5fb3987716cc4d5f8353eb1064872
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/apps/simple_wallet/workload/simple_wallet_execute_io.h
+SPDXID: SPDXRef-item8214764
+FileChecksum: SHA1: e5182f3e6eec050cdd5d6aafbadaf43a861fc6ee
+FileChecksum: MD5: b8c4beddfe074544079a09587356173d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/apps/simple_wallet/workload/simple_wallet_plug-in.cpp
+SPDXID: SPDXRef-item8214766
+FileChecksum: SHA1: 9cdf8dfa910794f0ff6120b614f9643201110b5f
+FileChecksum: MD5: 443da17c4bf582e2f06701c82cff0b1d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/apps/simple_wallet/workload/simple_wallet_execute_io.cpp
+SPDXID: SPDXRef-item8214765
+FileChecksum: SHA1: 7d888295d10c1ff362b23ad84eb570ef905d2e07
+FileChecksum: MD5: 87653eb10aa95940ebd0fbf9653c9d4e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/apps/simple_wallet/workload/CMakeLists.txt
+SPDXID: SPDXRef-item8214763
+FileChecksum: SHA1: 5c6911560edb181e5488a6adc12b38a5e426891c
+FileChecksum: MD5: f21d7e77f97d4d995b5cd124a6498ed5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/apps/heart_disease_eval/client/heart_gui.py
+SPDXID: SPDXRef-item8214770
+FileChecksum: SHA1: c228169e7a9eea7b07869503ae3e2ced6fa55c11
+FileChecksum: MD5: 1b261d79ae67dc5a2e9d96f08feb7015
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/apps/inside_out_demo/workload/inside_out_eval_logic.h
+SPDXID: SPDXRef-item8214808
+FileChecksum: SHA1: 0d33dc820a202db1a68e12fd2ffc9621fc5da7d6
+FileChecksum: MD5: 9c5b0858b4affc2b138ba6d65b7408d9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/apps/CMakeLists.txt
+SPDXID: SPDXRef-item8214781
+FileChecksum: SHA1: e5d87d380fb440027853038f69ac6f2a527426ee
+FileChecksum: MD5: a52828023535a513f55cf760494a0828
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/apps/inside_out_demo/workload/inside_out_eval_logic.cpp
+SPDXID: SPDXRef-item8214810
+FileChecksum: SHA1: f63b765e4cbe8dabdd0dd8b18c9df3cf27b29711
+FileChecksum: MD5: 2ab8e2c89c03ac701a1e8ddd35d7fe15
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/apps/inside_out_demo/workload/inside_out_eval_plug-in.cpp
+SPDXID: SPDXRef-item8214812
+FileChecksum: SHA1: 9018112f27dc5d62a7e97cba2aa3ea48de0e28f6
+FileChecksum: MD5: 8b726fcd07089f8479a1993a3f0dd097
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave_untrusted/enclave_bridge/work_order.cpp
+SPDXID: SPDXRef-item8214819
+FileChecksum: SHA1: 641927044dfc20d96deee0e403d6f8991f5a4758
+FileChecksum: MD5: 61ec4464557bcb6caec86ae0e445e182
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave_untrusted/enclave_bridge/enclave.cpp
+SPDXID: SPDXRef-item8214832
+FileChecksum: SHA1: 91deee05a32324a83f8fde68992ca5d3dc94aa13
+FileChecksum: MD5: 8dc00896b7d4a133e27f877a68ddd29a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave_untrusted/enclave_bridge/signup.cpp
+SPDXID: SPDXRef-item8214836
+FileChecksum: SHA1: 8792aee482a800de2fd8bfe406af8c557535b425
+FileChecksum: MD5: 5d7f68bd3316987fda59776e70cbab88
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave/enclave_data.cpp
+SPDXID: SPDXRef-item8214859
+FileChecksum: SHA1: 03819ead7a4b8c99d27a297b3ffc280506876e33
+FileChecksum: MD5: 79480f14c57d1e3a590aff14450710f4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/examples/apps/inside_out_demo/workload/CMakeLists.txt
+SPDXID: SPDXRef-item8214811
+FileChecksum: SHA1: e1ae85c565f709dbba0705c42f2b2d5a8e2a0341
+FileChecksum: MD5: 6fd59e8ea9ffb5c370c254592169b804
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave/base_enclave.cpp
+SPDXID: SPDXRef-item8214864
+FileChecksum: SHA1: 143aab5a08683cb7215b667faaf8234228df677a
+FileChecksum: MD5: ec3ac7fdc3547bb26d01174ffbdb4c0c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave/signup_enclave.cpp
+SPDXID: SPDXRef-item8214874
+FileChecksum: SHA1: 58333a71f0afddbb6f435ac604ef2d7313a3a255
+FileChecksum: MD5: ad201e2710a5f4d3e9e2887dd441c88f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave_untrusted/enclave_bridge/CMakeLists.txt
+SPDXID: SPDXRef-item8214835
+FileChecksum: SHA1: 3961a1f077b51d24f44c1ccda51036c60dead979
+FileChecksum: MD5: dfee10708901d17a0422db2b805c6801
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/error.h
+SPDXID: SPDXRef-item8214890
+FileChecksum: SHA1: 506439b4299dbc438d3831cd72b4fcf61fa2ce05
+FileChecksum: MD5: 241ec15490f083a5d1808e884b92988a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/avalon_sgx_error.cpp
+SPDXID: SPDXRef-item8214894
+FileChecksum: SHA1: 97166f9052c958554d577c979925cd68c9731ef9
+FileChecksum: MD5: 0cac26dd5c9224a47104931e390b51ca
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/trusted_worker_manager/enclave/CMakeLists.txt
+SPDXID: SPDXRef-item8214868
+FileChecksum: SHA1: 5686057df63b220b75c19a702a5f735f318102a3
+FileChecksum: MD5: 9c6be495273a10bed4a3d79086cd1a33
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/avalon_sgx_error.h
+SPDXID: SPDXRef-item8214899
+FileChecksum: SHA1: c88b5651caf332d0edc3fed5a3826bb0c728a14a
+FileChecksum: MD5: 7c2c41788586cc634c068a375ba6ea7f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/verify_ias_report/verify-report.cpp
+SPDXID: SPDXRef-item8214904
+FileChecksum: SHA1: 6e59d3bdfa3b691deaf5b8914e9422dc9eee3c5b
+FileChecksum: MD5: ec9702c8542c4d60913650f3f6287866
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/packages/parson/CMakeLists.txt
+SPDXID: SPDXRef-item8214887
+FileChecksum: SHA1: 13b98949639b7d98a804dfb1a3e3c3300f8606ed
+FileChecksum: MD5: aa65e82505b6fed53e218b29da8514bf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/crypto/crypto_utils.h
+SPDXID: SPDXRef-item8214913
+FileChecksum: SHA1: 02bae4848f693850dd14d553903ec7f3f5f692a6
+FileChecksum: MD5: f47a3ccb3a2df87c8eb344c5889dd221
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/packages/base64/CMakeLists.txt
+SPDXID: SPDXRef-item8214884
+FileChecksum: SHA1: 140e101f66ee93e71b44404b660203da288dd5d6
+FileChecksum: MD5: cc8ac87e1f909da2c179271c362228e5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/verify_ias_report/CMakeLists.txt
+SPDXID: SPDXRef-item8214903
+FileChecksum: SHA1: 0b01a5eb4408cd98ec9c2b8f945f4bf2ee27026a
+FileChecksum: MD5: 08eef7591bffb778751ef11e6091bd1c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/crypto/crypto_utils.cpp
+SPDXID: SPDXRef-item8214930
+FileChecksum: SHA1: 12906eae8eb48de37f3b5d315eac2dfc35815546
+FileChecksum: MD5: 1a776321822ff0344dac1f32ef657260
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/verify_ias_report/verify-report.h
+SPDXID: SPDXRef-item8214906
+FileChecksum: SHA1: 68c23f5c590d83c55f2eb46e01f43d80f86db308
+FileChecksum: MD5: 6d9fdfbf396453b9f266fc29f455283f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/crypto/CMakeLists.txt
+SPDXID: SPDXRef-item8214923
+FileChecksum: SHA1: 7ee16f98636a7259d0b3d9b573b7572da5872b7a
+FileChecksum: MD5: a389c475e29ea1d62cbdc2099fde6d0a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/common/sgx/iohandler/file_io.h
+SPDXID: SPDXRef-item8214973
+FileChecksum: SHA1: 4abb7ae0ac782e900a8d548b65924ee97dfd752a
+FileChecksum: MD5: 6f3bb39d32f56d69aa7806d2790d9247
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/common/sgx/iohandler/file_io.cpp
+SPDXID: SPDXRef-item8214975
+FileChecksum: SHA1: fb72d9c8c4bba2e29f106eb85d28144166ba6a99
+FileChecksum: MD5: 506ecbecc89c4515232616a05441a8b2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/CMakeLists.txt
+SPDXID: SPDXRef-item8214932
+FileChecksum: SHA1: 7feb1321c0894ae83cce6e3678bf87f1448b049a
+FileChecksum: MD5: e4ad790859620181843aa8b83131b193
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/common/sgx/workload/CMakeLists.txt
+SPDXID: SPDXRef-item8214966
+FileChecksum: SHA1: 71d5104f732f5a62562fe272ea286b3c375d0086
+FileChecksum: MD5: e8e1753c2d6c6105dd0a533992b94d86
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/common/python/connectors/direct/tcs_listener/tcs_workorder_receipt_handler.py
+SPDXID: SPDXRef-item8214988
+FileChecksum: SHA1: 434f836847036a29cea43018b5707b791aea2582
+FileChecksum: MD5: df237ab2c11ee0ab1272686dd606e78d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/common/sgx/iohandler/CMakeLists.txt
+SPDXID: SPDXRef-item8214974
+FileChecksum: SHA1: e3802044d2342e89e4b829d8cbe3820c09f8ce3d
+FileChecksum: MD5: 6debff4af22bea85680c9a8a9a03145b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/common/python/connectors/direct/tcs_listener/tcs_listener.py
+SPDXID: SPDXRef-item8214989
+FileChecksum: SHA1: 31a4f09b71d19d7022afee0cd3b9375b349f138c
+FileChecksum: MD5: 1e7b861b5a5b9c1896fbc9e8f5efe493
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/common/python/connectors/direct/tcs_listener/tcs_work_order_handler.py
+SPDXID: SPDXRef-item8214992
+FileChecksum: SHA1: 4e988b0dd596c6ef5422d83affd5d08b695bcbe1
+FileChecksum: MD5: 6f9d022b37f3535731bcd99ad6850754
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/common/python/Makefile
+SPDXID: SPDXRef-item8214977
+FileChecksum: SHA1: cc5c538ff42dba6cd88ecbca4b983d62f08ee9e3
+FileChecksum: MD5: e7bd7f70d0c417774ce0c80ee3c4036d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/common/python/connectors/direct/tcs_listener/tcs_worker_encryption_key_handler.py
+SPDXID: SPDXRef-item8214993
+FileChecksum: SHA1: a459871f716a05e16df371f424a25a2e0a565bdd
+FileChecksum: MD5: 751e5c5262e2b455223169e09808a55a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/common/python/crypto_utils/keys.py
+SPDXID: SPDXRef-item8214997
+FileChecksum: SHA1: 58ae8f819cdcb90c8ce8a6db259f85831a640fe0
+FileChecksum: MD5: 8ec16c368ba18420102dd8a175118b22
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/common/python/crypto_utils/signature.py
+SPDXID: SPDXRef-item8214996
+FileChecksum: SHA1: 7f6a9cdb2e1da1bbba21f6b84dedd2505e349614
+FileChecksum: MD5: 3b1b83727ae78ea415ff5fc735b47a74
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/common/python/crypto_utils/verify_report/verify_report.i
+SPDXID: SPDXRef-item8215001
+FileChecksum: SHA1: cbe7af0d740f716320d1fa9d874ea7db87d17360
+FileChecksum: MD5: 546939c04cbf111f8bc7c7d7719cbe94
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/common/python/crypto_utils/crypto/crypto.i
+SPDXID: SPDXRef-item8215003
+FileChecksum: SHA1: da38c998e08e844fab1336bb27d0962e1ac70f65
+FileChecksum: MD5: d4b983eed74c1a3b02427b0774008dd4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/common/python/setup.py
+SPDXID: SPDXRef-item8215010
+FileChecksum: SHA1: 859688705d3b67ae8336bb0bd419a59130402f1c
+FileChecksum: MD5: d55308ab9d6fac2f6e1ac5e7d203f7fb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/common/python/crypto_utils/__init__.py
+SPDXID: SPDXRef-item8215005
+FileChecksum: SHA1: 7743245839af3ab381a94f0d54a803cb1499644f
+FileChecksum: MD5: 49b50cf45c5fe1b18aebfe218e8254a7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/common/python/utility/jrpc_utility.py
+SPDXID: SPDXRef-item8214982
+FileChecksum: SHA1: 17af1ff2fa346dbb4bd0185e43ce4fee8e6bb177
+FileChecksum: MD5: 52025f3fd9b6d347f581085da31d4fbe
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/common/python/database/lmdb_helper_proxy.py
+SPDXID: SPDXRef-item8215019
+FileChecksum: SHA1: e95ef019213944f4aeef1aed8be985fc7b11e74a
+FileChecksum: MD5: e7193e9beb0b75a9847b8d978df9315b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/docker-compose.yaml
+SPDXID: SPDXRef-item8215020
+FileChecksum: SHA1: ab4cadfca820ae6f732a97c68874f4b05289c720
+FileChecksum: MD5: 0d79c578b39dfcfec85591297b937320
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tests/test_utility/test_utility.py
+SPDXID: SPDXRef-item8215035
+FileChecksum: SHA1: 53e7b0d5a457e6f8f92b17cfe6691289a8fbb0e0
+FileChecksum: MD5: 45e8c1288dc93f498c783e075cbadeb8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tests/test_ias_attestation.py
+SPDXID: SPDXRef-item8215072
+FileChecksum: SHA1: 9bcb5ffa4082b804045f39c36c220b91f6bcf3b5
+FileChecksum: MD5: 6c86fd0f9ad95a96f0c033b9364bc3ed
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tests/test_encrypted_data_encryption.py
+SPDXID: SPDXRef-item8215043
+FileChecksum: SHA1: 699b9f8881b1c6552862a395b178807f4c202f70
+FileChecksum: MD5: 2164884cbfc4008277cf0adaec2567b0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tests/test_encryption.py
+SPDXID: SPDXRef-item8215033
+FileChecksum: SHA1: 5dd2343d2664e21f808b6f8eca7e1f908832530e
+FileChecksum: MD5: 8af25507e854259df284a414d553cd39
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/common/python/crypto_utils/crypto_utility.py
+SPDXID: SPDXRef-item8215006
+FileChecksum: SHA1: e66b0e570bbb8f1747fb95bdcb2a8397ebbf9cd7
+FileChecksum: MD5: b560464a2354fe8c7879694f88d85543
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tests/Demo.py
+SPDXID: SPDXRef-item8215083
+FileChecksum: SHA1: db593e7bd35827ce18eaa1808fc0b8f89f281e9c
+FileChecksum: MD5: 5dc0f3ff1cc07bf7964c615aae031e2d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/scripts/tcs_listener.sh
+SPDXID: SPDXRef-item8215087
+FileChecksum: SHA1: 49519fc00c3d84c4b2e81d5866b90b64036186c5
+FileChecksum: MD5: 816e0bdd488306fcb9bdfca48a4aa377
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/scripts/tcs_startup.sh
+SPDXID: SPDXRef-item8215088
+FileChecksum: SHA1: c85155f36f25d665e72513b56b454324c0b82293
+FileChecksum: MD5: 34953e90db830e69bc0b1a59238133e4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/scripts/eth_cli.py
+SPDXID: SPDXRef-item8215089
+FileChecksum: SHA1: 192852a4216be33fa4577474498cfd5005e92c78
+FileChecksum: MD5: a061bd5e4c4d96aa34bb1c2deea4bba7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/client_sdk/avalon_client_sdk/utility/utils.py
+SPDXID: SPDXRef-item8215119
+FileChecksum: SHA1: 797992f95d044f8ec6baa6406c43b78f0258ca3b
+FileChecksum: MD5: 1964d4bfc85f7ec0e72999af7e773994
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/client_sdk/avalon_client_sdk/work_order_receipt/work_order_receipt_request.py
+SPDXID: SPDXRef-item8215125
+FileChecksum: SHA1: d0bda2367f29fea3b3cd52e38cac8fcf5244e9eb
+FileChecksum: MD5: d153a99d55c110fd1ee9699122465877
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/client_sdk/avalon_client_sdk/worker/worker_details.py
+SPDXID: SPDXRef-item8215121
+FileChecksum: SHA1: 709bed0e658e493dc41b3cb6cf94dd61016faab7
+FileChecksum: MD5: d1a91b187997cfb7bf62e129f1191b55
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/client_sdk/avalon_client_sdk/direct/jrpc/worker_registry_jrpc_client.py
+SPDXID: SPDXRef-item8215128
+FileChecksum: SHA1: 764e454a01ca826fa3a331683415d6a0b9546a1c
+FileChecksum: MD5: c62ae2e95cc1792a6ed1abd8d28f12eb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/client_sdk/avalon_client_sdk/direct/jrpc/work_order_jrpc_client.py
+SPDXID: SPDXRef-item8215129
+FileChecksum: SHA1: e2adbe9ea7a07a3cbe8d79a17a1fdea5c54ddd95
+FileChecksum: MD5: aa1e6d8d9b8643b44aba92069f6eca09
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/client_sdk/avalon_client_sdk/direct/jrpc/work_order_receipt_jrpc_client.py
+SPDXID: SPDXRef-item8215130
+FileChecksum: SHA1: 655f6e59f2f9196d426a1288ecc487ab9d246310
+FileChecksum: MD5: d561e475bc07c5a0c832e18d2dc8c9eb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/client_sdk/avalon_client_sdk/direct/avalon_direct_client.py
+SPDXID: SPDXRef-item8215137
+FileChecksum: SHA1: 173b6f83da6dd7948a98d165f9993df75640fed3
+FileChecksum: MD5: 43760d11ec70a940da2ebce99a39b611
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/client_sdk/avalon_client_sdk/http_client/http_jrpc_client.py
+SPDXID: SPDXRef-item8215141
+FileChecksum: SHA1: 95501514f97fb0d70f44d51922e31bffa2b57f44
+FileChecksum: MD5: 7f6b4fdda60bad8f4ac5418b0c7fd71d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/client_sdk/avalon_client_sdk/direct/jrpc/unit_tests/test_worker_registry_jrpc_impl.py
+SPDXID: SPDXRef-item8215134
+FileChecksum: SHA1: fc286b4a79a3a5a8896854f9e06452efb902d91b
+FileChecksum: MD5: f036e82b331150276655d33c101ed872
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/client_sdk/avalon_client_sdk/ethereum/ethereum_worker_registry_list_client.py
+SPDXID: SPDXRef-item8215150
+FileChecksum: SHA1: 2ed2f04a74f32f70d8faee5922a2ce6440455635
+FileChecksum: MD5: 5e8dd91f95368de0c2edcf007b743f93
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/client_sdk/avalon_client_sdk/ethereum/ethereum_wrapper.py
+SPDXID: SPDXRef-item8215153
+FileChecksum: SHA1: 29fff6aacb0c1ef9937b8683f4b14601cd8bbc15
+FileChecksum: MD5: 64d2a6c48cfc53e140e4ce3679a2cbe7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/client_sdk/avalon_client_sdk/tcf_connector.toml
+SPDXID: SPDXRef-item8215139
+FileChecksum: SHA1: 4f6deba7b24e8728ae996dc96a8b2dc59b68195e
+FileChecksum: MD5: 2b6f61f9fca4d53eb1079f400349da3c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/client_sdk/avalon_client_sdk/ethereum/unit_tests/test_ethereum_worker_registry_impl.py
+SPDXID: SPDXRef-item8215156
+FileChecksum: SHA1: a05837535aa704729b5d11a61497775892d3163f
+FileChecksum: MD5: 4424e74da703ff3b3f8191005611a6ab
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/client_sdk/avalon_client_sdk/ethereum/ethereum_worker_registry_client.py
+SPDXID: SPDXRef-item8215157
+FileChecksum: SHA1: 66d5cef5b103e41b1ace1040040e9e1220f6e5af
+FileChecksum: MD5: cacdef9373992ff2f19760cf34074dac
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/client_sdk/avalon_client_sdk/ethereum/unit_tests/test_ethereum_worker_registry_list_impl.py
+SPDXID: SPDXRef-item8215155
+FileChecksum: SHA1: eaa3b44bccd2b643fb42732a1c72dc9da25ab1f6
+FileChecksum: MD5: 017557e3e788ce87a61545d510c11ad6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/client_sdk/avalon_client_sdk/work_order/work_order_params.py
+SPDXID: SPDXRef-item8215159
+FileChecksum: SHA1: 0893597e0f96a1e1bda78e6479246f4135b2f19e
+FileChecksum: MD5: 7723cad18ebf4b46eb17c560561b8d9f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/client_sdk/avalon_client_sdk/interfaces/work_order_receipt_client.py
+SPDXID: SPDXRef-item8215163
+FileChecksum: SHA1: 1d4acc0ee0dbfd7ab3387f6390fc260267e66110
+FileChecksum: MD5: ef0fee1174057b1107ac06f47ff8c547
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/client_sdk/avalon_client_sdk/interfaces/worker_registry_client.py
+SPDXID: SPDXRef-item8215164
+FileChecksum: SHA1: e7c5e0ccd46faf6bb8d2776890e9bea220173503
+FileChecksum: MD5: 7810c5f4483a3ce747e114ebb14fb2d9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/client_sdk/avalon_client_sdk/interfaces/worker_registry_list_client.py
+SPDXID: SPDXRef-item8215167
+FileChecksum: SHA1: 22f4210a7e5079471c1b5c5bc3902f6dcae01607
+FileChecksum: MD5: 02bc26827b6d4211c8cd6042c3729f3b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/client_sdk/setup.py
+SPDXID: SPDXRef-item8215168
+FileChecksum: SHA1: 075ab995e4a0ec536a0ab6f6f41e57165e89e82e
+FileChecksum: MD5: 462484ec460abcbbd0b8c34f242d3295
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/client_sdk/avalon_client_sdk/interfaces/work_order_client.py
+SPDXID: SPDXRef-item8215165
+FileChecksum: SHA1: 80458f2db8fe9ba88540936283b6675176bd254b
+FileChecksum: MD5: a53f0c6f2af8cc7ba95bc589bba686d3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/bin/run_lint
+SPDXID: SPDXRef-item8215171
+FileChecksum: SHA1: 0f1549b702c1f24167e858e8e62c12fad7d34636
+FileChecksum: MD5: 7ba3c0769d92e1d1aeeec1719194be3f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/packages/parson/parson.cpp
+SPDXID: SPDXRef-item8214886
+FileChecksum: SHA1: 256b574c03d26106e7c89381f83e88f7bf76331b
+FileChecksum: MD5: 2909bae75b8417e59b9a6afe5111842b
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) 2012 - 2016 Krzysztof Gabis </text>
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/packages/parson/parson.h
+SPDXID: SPDXRef-item8214888
+FileChecksum: SHA1: 2973866576bf4ef9d6793445c11e7a88af2452fa
+FileChecksum: MD5: b966dc7166d3a38f8c7cd1e818ef17fc
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) 2012 - 2016 Krzysztof Gabis </text>
+ 
+
+##File
+
+FileName: avalon/docker/k8s/tcf-config-map.yaml
+SPDXID: SPDXRef-item8214488
+FileChecksum: SHA1: dc3dc8d1ad32187113ec6745591832a9318238d0
+FileChecksum: MD5: 549bf07b6c8db49cae0908e6275197cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/docker/k8s/enclave-manager-deployment.yaml
+SPDXID: SPDXRef-item8214489
+FileChecksum: SHA1: 09232a271f8b3d7dedd2ec7ffd2acfeaf4972532
+FileChecksum: MD5: 675c177f508550e77521b2aadd2f3d94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/docker/k8s/docker/Dockerfile
+SPDXID: SPDXRef-item8214491
+FileChecksum: SHA1: 3afdc1e3749d769de91b0e58f1a831bb6b10b375
+FileChecksum: MD5: ce419dfcd5e3d966f19ceaedc879baef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/docker/k8s/README.md
+SPDXID: SPDXRef-item8214492
+FileChecksum: SHA1: ae3d19cf044114c1f909c517d753c754064bd979
+FileChecksum: MD5: 4db3f2c500337d2fc03f0cd78a23320c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/docker/k8s/tcs.yaml
+SPDXID: SPDXRef-item8214493
+FileChecksum: SHA1: e0401413eb457708ddfa5364632e4973c298e95a
+FileChecksum: MD5: f6b2362deeab18f2ae7c0bb875298388
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/docker/k8s/lmdb.yaml
+SPDXID: SPDXRef-item8214494
+FileChecksum: SHA1: b3848c5b653c19fcf57d1e96fa6d7182db3dcd0b
+FileChecksum: MD5: 2ad252b996811d2c15a210319fd3892d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/docker/k8s/propose-requests-job.yaml
+SPDXID: SPDXRef-item8214495
+FileChecksum: SHA1: 166e5bae7b92050710d7f86c5319be5facbd3e49
+FileChecksum: MD5: 4103758b960a92349600502a7667b50a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/docker/k8s/sgx-enclave-manager-deployment.yaml
+SPDXID: SPDXRef-item8214496
+FileChecksum: SHA1: bc8b2e23a407dc9528c0323895d937d683ecf81f
+FileChecksum: MD5: c65e9db5323631b5837e483921b5acb8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/images/HL_Avalon_Logo_Color.png
+SPDXID: SPDXRef-item8214506
+FileChecksum: SHA1: 4d8f55bdf6ddc9d8df60dda38869caf7c43186ad
+FileChecksum: MD5: d27c2ddb47483d33c84a638a7e460328
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/VERSION
+SPDXID: SPDXRef-item8214507
+FileChecksum: SHA1: 5066b1a3735bedaeaeff1016c90608d3b4c8b908
+FileChecksum: MD5: 81b7ee5ce7df955bad631aada4875d17
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/README.md
+SPDXID: SPDXRef-item8214536
+FileChecksum: SHA1: 7f5628a7b8d9cae0311adaff305892c94d7ae0f3
+FileChecksum: MD5: 88e482a94eb3487941f51bba7bc1a393
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/test/resources/tmp/test-worker/scone-tee-corrupted-file/output/iexec_out/enclaveSig.iexec
+SPDXID: SPDXRef-item8214545
+FileChecksum: SHA1: 47c2b78a00117b1e90a566cbeabee7dd339f38e7
+FileChecksum: MD5: 91624a77606e85b95e13c616eb36fd59
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/test/resources/tmp/test-worker/notBytes32/output/iexec_out/determinism.iexec
+SPDXID: SPDXRef-item8214549
+FileChecksum: SHA1: f0885c93dbedd0afff08381c69191ef3f8f5266e
+FileChecksum: MD5: c9c46cf25ceadd719202060ec2515a3c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/test/resources/tmp/test-worker/scone-tee/output/iexec_out/enclaveSig.iexec
+SPDXID: SPDXRef-item8214553
+FileChecksum: SHA1: dd0f76b0cea64b54dde87b478d563eba4655db38
+FileChecksum: MD5: a468d6ac9da0f91c17c454b10cf3835e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/test/resources/tmp/test-worker/callback-fake/output/iexec_out/callback.iexec
+SPDXID: SPDXRef-item8214557
+FileChecksum: SHA1: e1c0860b4c53670adecbb53aec0ec743ed769962
+FileChecksum: MD5: 8451a45701c008bd5fdcdac6c957028a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/test/resources/tmp/test-worker/bytes32/output/iexec_out/determinism.iexec
+SPDXID: SPDXRef-item8214561
+FileChecksum: SHA1: 4bcf1d95456ef6fce21e490c9a2457dc3203fc93
+FileChecksum: MD5: 45d3871ed489e83cd1a77f837759448d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/test/resources/tmp/test-worker/callback/output/iexec_out/callback.iexec
+SPDXID: SPDXRef-item8214565
+FileChecksum: SHA1: 501ae37db4177025251a2a73a15a287e60d648e4
+FileChecksum: MD5: dfeabe1331f03df9ab851905d99add51
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/main/resources/wallet/wallet2.json
+SPDXID: SPDXRef-item8214569
+FileChecksum: SHA1: 723404a826b4baed27db61900268993368b1e689
+FileChecksum: MD5: 80deec5c64db53c042c1574c9b3574c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/main/resources/wallet/wallet3.json
+SPDXID: SPDXRef-item8214570
+FileChecksum: SHA1: d9cb6bf77195e90939b3061d0e3fd6bcf4db0fd3
+FileChecksum: MD5: 6b268fb1aa5b4b8eafcdcab5515953e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/main/resources/wallet/wallet1.json
+SPDXID: SPDXRef-item8214571
+FileChecksum: SHA1: 4488f2583d1768e9697cdb21d8b5949835316e94
+FileChecksum: MD5: d5c5bd87c7d22effd2df3368a43a3e65
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/main/resources/wallet/wallet5.json
+SPDXID: SPDXRef-item8214572
+FileChecksum: SHA1: 00c6a586304b238e603fac59c6b20c81628639d1
+FileChecksum: MD5: 27ebd3ba58e32c92e543f4a80d9c4799
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/main/resources/wallet/wallet4.json
+SPDXID: SPDXRef-item8214573
+FileChecksum: SHA1: 2cd2806b53e16dd213311631183732ed61f8ee39
+FileChecksum: MD5: 0df5450d68d206e47b50c749361f1360
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/main/resources/worker-details.json
+SPDXID: SPDXRef-item8214574
+FileChecksum: SHA1: 0fef073ad5e7910ee11255435567ccd9da7881d8
+FileChecksum: MD5: 4da310174de4611e5b5955a034e34d20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/main/resources/banner.txt
+SPDXID: SPDXRef-item8214575
+FileChecksum: SHA1: a56b3054b0c497c8217f333151a0ceb9af09998d
+FileChecksum: MD5: efc16eb47ce2c0f8e7b087f1918a044f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/main/resources/application.yml
+SPDXID: SPDXRef-item8214577
+FileChecksum: SHA1: c65058444813a77cd8e9f2b5573c630a5aeebb10
+FileChecksum: MD5: 6716241ec2dc0aa2e569d6b54bf3d5a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/main/resources/Version.java.template
+SPDXID: SPDXRef-item8214578
+FileChecksum: SHA1: 5597cd02026d1f84c074003c8af92c8cf7d0e0cf
+FileChecksum: MD5: 372acefa4ca7e14853428c8c89786c34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/src/main/resources/logback.xml
+SPDXID: SPDXRef-item8214579
+FileChecksum: SHA1: fbb37ed460edbb54e67ef77d321b8bb43644fae9
+FileChecksum: MD5: eec5d846b8f958eba697920be333fd98
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/build.gradle
+SPDXID: SPDXRef-item8214631
+FileChecksum: SHA1: 54488781b32c7469a2961ab0f8ee84112ee30839
+FileChecksum: MD5: b964e2ac8fbda40c2e085bd4f2944c79
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradlew.bat
+SPDXID: SPDXRef-item8214632
+FileChecksum: SHA1: aa4db2bd59fb62a2a80830317f98be52b32c8951
+FileChecksum: MD5: 47172a181099e1864f44bff0e0a2825c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/settings.gradle
+SPDXID: SPDXRef-item8214633
+FileChecksum: SHA1: 655cb54933e2997f0850de4388d47fa06da884ae
+FileChecksum: MD5: bea61817211a59696aa921f4b706e63a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradlew
+SPDXID: SPDXRef-item8214634
+FileChecksum: SHA1: d13096edfb7f04038ff0d31913e87044b342c8e5
+FileChecksum: MD5: 5e19926ba09287966d7bd97cc5fb0ea5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradle.properties
+SPDXID: SPDXRef-item8214635
+FileChecksum: SHA1: 1ea81836d9822b699f04ff38dcda7a52b626c139
+FileChecksum: MD5: c2f6cb89e5add1cc67c4cbf23396de1e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradle/wrapper/gradle-wrapper.properties
+SPDXID: SPDXRef-item8214638
+FileChecksum: SHA1: 5c7344a2cf72a3116fdea446f1c54a86613b9f63
+FileChecksum: MD5: c4150a98432f6b3381153cd4bd3686a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$OptionParserState.class
+SPDXID: SPDXRef-item8214645
+FileChecksum: SHA1: 9c060f1d1f3b0f50c165941fa8edd76a8d33e99f
+FileChecksum: MD5: 2db0851759c0768b579efa3b7b1571b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/AbstractCommandLineConverter.class
+SPDXID: SPDXRef-item8214646
+FileChecksum: SHA1: 4b5690e4b73a127789dc83bbc8e1bc3e499030a8
+FileChecksum: MD5: 834adc5447f38f639031d436f3b06289
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineConverter.class
+SPDXID: SPDXRef-item8214647
+FileChecksum: SHA1: 2fc9039aef600c275a3d475880ae1375c1b123cf
+FileChecksum: MD5: f181213b3a8822e4667875ded438f64b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/ParsedCommandLineOption.class
+SPDXID: SPDXRef-item8214648
+FileChecksum: SHA1: eef7086a2a9b1b3cb706ec4a10cc99f106d7b503
+FileChecksum: MD5: 775df20b44e30b76a25d53958324e8b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$BeforeFirstSubCommand.class
+SPDXID: SPDXRef-item8214649
+FileChecksum: SHA1: 45487f361ab0110b37735e69284b2aeeeba607bc
+FileChecksum: MD5: 9be8fb4c6c6eac2ef91ecfff677ecaed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$AfterOptions.class
+SPDXID: SPDXRef-item8214650
+FileChecksum: SHA1: d8506a68a45dba9af8efc55da300a27c2c418236
+FileChecksum: MD5: 8a97f545c713dd4daac45f1e4a79118a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$AfterFirstSubCommand.class
+SPDXID: SPDXRef-item8214651
+FileChecksum: SHA1: 48aab8f051e59c88de5da04d5150e669fca1f59c
+FileChecksum: MD5: afdc5481bcf52e6c9ad0cfb57e862b51
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$ParserState.class
+SPDXID: SPDXRef-item8214652
+FileChecksum: SHA1: 1ea6a99b8c28a407394f169333e0b6cccc36088f
+FileChecksum: MD5: d747befd22991a2d8276805c83db1311
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$MissingOptionArgState.class
+SPDXID: SPDXRef-item8214653
+FileChecksum: SHA1: 2ca0219cde04346481cf07d0e2c422d2ac8bcc61
+FileChecksum: MD5: f66787a5e12f59cbee75076dd2db8f13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/ParsedCommandLine.class
+SPDXID: SPDXRef-item8214654
+FileChecksum: SHA1: 0db5902c567c07d61c0f78001e418f6a5f776929
+FileChecksum: MD5: 277fa532899a703d8b2ea74d55f00c43
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/SystemPropertiesCommandLineConverter.class
+SPDXID: SPDXRef-item8214655
+FileChecksum: SHA1: 1deec7e8fe37d85a00cc9f5f53f047574fbf1e06
+FileChecksum: MD5: 487c06f6dbf506daef9d0c44ea677396
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$OptionComparator.class
+SPDXID: SPDXRef-item8214656
+FileChecksum: SHA1: d374dfd77fa05c103c35e2e3a3bb931c71c87e1c
+FileChecksum: MD5: d002054aea31ddfc9d50cef4947fd537
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$OptionString.class
+SPDXID: SPDXRef-item8214657
+FileChecksum: SHA1: baa3ae6c352ac19e4c0c844cb7e02bdf3d205df5
+FileChecksum: MD5: a63cb16cedfb493c78aebfe7ecd6101f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/ProjectPropertiesCommandLineConverter.class
+SPDXID: SPDXRef-item8214658
+FileChecksum: SHA1: b8d615c5283ce6868ced7f7f900e0836c3df197d
+FileChecksum: MD5: 48e7b9c3210c2b8acad1e52401c52cd2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$OptionStringComparator.class
+SPDXID: SPDXRef-item8214659
+FileChecksum: SHA1: 0bf2e049008ddbe43018dd2bac05fe49d992d538
+FileChecksum: MD5: aca5ffc46110fc6573074cd31b2d81d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$CaseInsensitiveStringComparator.class
+SPDXID: SPDXRef-item8214660
+FileChecksum: SHA1: d8ff9633b52fd5989b8b14bd76d1ac80328ed776
+FileChecksum: MD5: dec104c8dc8b5208246968f45b20d31b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$OptionAwareParserState.class
+SPDXID: SPDXRef-item8214661
+FileChecksum: SHA1: 9d5990da93ab9814779988771d0eb7bcca5ad0ef
+FileChecksum: MD5: 4ba2bcfffc0dbefa9a95515825d9590f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$KnownOptionParserState.class
+SPDXID: SPDXRef-item8214662
+FileChecksum: SHA1: c04ea6d0c78b28c1d2308fb88069114a3c1be7ef
+FileChecksum: MD5: fbc3a02fcdd1c21bbaf3ee0344667ac0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/AbstractPropertiesCommandLineConverter.class
+SPDXID: SPDXRef-item8214663
+FileChecksum: SHA1: 10b209cc840edb3515115724b942bf28c0f4a500
+FileChecksum: MD5: 83634fe3358cddf6241f3cc9322cdc6a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$UnknownOptionParserState.class
+SPDXID: SPDXRef-item8214664
+FileChecksum: SHA1: e5da8c788f9e0d04f6a8b59c83b5d681c1572530
+FileChecksum: MD5: e25f7a5df2eb640fe4487df8b182b110
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$1.class
+SPDXID: SPDXRef-item8214665
+FileChecksum: SHA1: bdaec56bc5a96e3b7b07dc907ce419135ad6038c
+FileChecksum: MD5: fd4f17a502ae81fcf379cb79e2598704
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser.class
+SPDXID: SPDXRef-item8214666
+FileChecksum: SHA1: 7d6badb90a9947d2479239faec3a1fc4ae89a684
+FileChecksum: MD5: d70e201190db0ecc7626b82621c902ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineOption.class
+SPDXID: SPDXRef-item8214667
+FileChecksum: SHA1: a3483e79d06ac6cc758cd833dee965fda7ea0a89
+FileChecksum: MD5: bac2d45857b386fc92687856d0950dd7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineArgumentException.class
+SPDXID: SPDXRef-item8214668
+FileChecksum: SHA1: 54d1134b153d9199aa60bde18b129ba166588c7e
+FileChecksum: MD5: 843a3cda7eda915d393397b5adc310e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Download$1.class
+SPDXID: SPDXRef-item8214670
+FileChecksum: SHA1: d8b3b27086297ccd16232f345cdaa39976b67c69
+FileChecksum: MD5: 9d8e7ef338fd267ad55020655229ae12
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Install.class
+SPDXID: SPDXRef-item8214671
+FileChecksum: SHA1: 6cef1e45bafbcd24a1b1107e2e04bdb8fcac70f8
+FileChecksum: MD5: 34b549a44feb946c4b06e90cbcdf053b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/WrapperExecutor.class
+SPDXID: SPDXRef-item8214672
+FileChecksum: SHA1: 16d52de7c21cde5e10a3ccb56bd4bb8f31b6cccf
+FileChecksum: MD5: 3659aa20fb4d874e17680a5bfc6452dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/GradleUserHomeLookup.class
+SPDXID: SPDXRef-item8214673
+FileChecksum: SHA1: 982163a7ffa7162ef52ddc95456818729d7546c0
+FileChecksum: MD5: f5083aae06c9422366d780f85331649b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/PathAssembler$LocalDistribution.class
+SPDXID: SPDXRef-item8214674
+FileChecksum: SHA1: d4570292af481a04e279f69e10d1d302705f4ac3
+FileChecksum: MD5: 80f779580dd51fca7c5c68d0f6e3a2b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/IDownload.class
+SPDXID: SPDXRef-item8214675
+FileChecksum: SHA1: fd4611788dd0fccfb96c6e39d82d698baecace47
+FileChecksum: MD5: 3cb3fc270160c81c675f57f84e30b8d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/SystemPropertiesHandler.class
+SPDXID: SPDXRef-item8214676
+FileChecksum: SHA1: 3414639f7980269c422d73433ffe5443cd207e8f
+FileChecksum: MD5: 606c9d4d9392ce9f08a0bd9f7f82d1cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/ExclusiveFileAccessManager.class
+SPDXID: SPDXRef-item8214677
+FileChecksum: SHA1: 1376cffcdf45a6eaf25cd7a51dc4defc4ed74086
+FileChecksum: MD5: b8bed11a856a8621b62f46716dc0b9d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/PathAssembler.class
+SPDXID: SPDXRef-item8214678
+FileChecksum: SHA1: 145fdf78f6bd6406e636d4df6cc1c9526b1dbe99
+FileChecksum: MD5: 077645cbc899b604e27bde232ab1c456
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/BootstrapMainStarter.class
+SPDXID: SPDXRef-item8214679
+FileChecksum: SHA1: 776a90e23fbc500d8105e1d3c0a31050eeae45de
+FileChecksum: MD5: 865b1e447d36ebf6cfb81738016b0cf7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/GradleWrapperMain.class
+SPDXID: SPDXRef-item8214680
+FileChecksum: SHA1: 94568fb1130b8a9df1d18e3f5872b6987037edb9
+FileChecksum: MD5: 94f9dec8f6c0ec7e8c151a4a7cbe495a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Install$1.class
+SPDXID: SPDXRef-item8214681
+FileChecksum: SHA1: ff841ad48aa653c40377466147fdb68e3273d6f6
+FileChecksum: MD5: 308a71c67be3301d4be511199a29df58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/DownloadProgressListener.class
+SPDXID: SPDXRef-item8214682
+FileChecksum: SHA1: 5f4b6a77444fdc276bd3fc6f6bd5bb40fe4afc75
+FileChecksum: MD5: 7a345abd2c992345194cf1e500f4e06f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Logger.class
+SPDXID: SPDXRef-item8214683
+FileChecksum: SHA1: 74a71a86bb418333d8dddc738fa3ee6c1cde84ca
+FileChecksum: MD5: 88eb80c462eefcb609718ffa6eaac32a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/WrapperConfiguration.class
+SPDXID: SPDXRef-item8214684
+FileChecksum: SHA1: 399adab73d34700613b77225452f18ee6c5a34bf
+FileChecksum: MD5: 3397f9e0b07f88189c877cd321bb67fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Download$ProxyAuthenticator.class
+SPDXID: SPDXRef-item8214685
+FileChecksum: SHA1: 75c8b11e97185375a6168a4dc40bee79c98f50d7
+FileChecksum: MD5: 6b67665fd165d12c6315b31a64d2a2e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Download.class
+SPDXID: SPDXRef-item8214686
+FileChecksum: SHA1: 2bc5f382fbc7de2b713c3b2c1c2fda10b3cbf7c5
+FileChecksum: MD5: f6d8a0f33f481d6e6870808eee025197
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradle/wrapper/gradle-wrapper.jar/gradle-cli-classpath.properties
+SPDXID: SPDXRef-item8214687
+FileChecksum: SHA1: 304722d236753c8d7f294d638672cb5c37297c36
+FileChecksum: MD5: 7e7095a947b9d516871cba596dea5b9a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradle/wrapper/gradle-wrapper.jar/META-INF/MANIFEST.MF
+SPDXID: SPDXRef-item8214689
+FileChecksum: SHA1: 240e3bcf966c65534fc2d9fbf9502bb36f843f89
+FileChecksum: MD5: 0d3a8708bdea53bc771745759d5dbf88
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/gradle/wrapper/gradle-wrapper.jar/gradle-wrapper-classpath.properties
+SPDXID: SPDXRef-item8214690
+FileChecksum: SHA1: 08eb11a8e0f255a36a4a8055b7b665fb4b2b1475
+FileChecksum: MD5: 4d6e41346f11b13cbfe03541d58da90f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/docker-compose.yml
+SPDXID: SPDXRef-item8214691
+FileChecksum: SHA1: 66619402df42eebff2d2197b4fc6ec0cc2359641
+FileChecksum: MD5: 81f44d6b606263e8419d2daba3c92dca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/direct/worker/Dockerfile
+SPDXID: SPDXRef-item8214692
+FileChecksum: SHA1: 3430ca8074cf4e91ae183feb65348af94173a46b
+FileChecksum: MD5: b7c81591ca3056ec63d57e28c1d79340
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/common/java/.gitignore
+SPDXID: SPDXRef-item8214693
+FileChecksum: SHA1: f0d692c89d25ff3337eb360820b3bd51c0d3a2e1
+FileChecksum: MD5: fe4b32efac59af7d847ae1a1ba8b3e52
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/apps/generic_client/README.md
+SPDXID: SPDXRef-item8214738
+FileChecksum: SHA1: 077b6b8d4db3ee6656aee7f7cd013c292f502bfd
+FileChecksum: MD5: cb28b9ce8884d9865668e7993329894d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/apps/echo/README.md
+SPDXID: SPDXRef-item8214748
+FileChecksum: SHA1: 9964465e39c256c908e0b7f9f1dd8dca5308ee1b
+FileChecksum: MD5: 9f9fe01c58c421cd2eeff45ee7c8560e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/apps/eea_token/README.md
+SPDXID: SPDXRef-item8214752
+FileChecksum: SHA1: 2a10c1e0ba75ee5357c0ec20cfe24a326befef46
+FileChecksum: MD5: 8ceebda9827eacbb7831cdd72779a12e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/apps/eea_token/test/token_request
+SPDXID: SPDXRef-item8214755
+FileChecksum: SHA1: f498ac70472d84559101b6a824daf38002b4bb25
+FileChecksum: MD5: 5467fba268c9d4dbbfa9bfeba21afb3c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/apps/README.md
+SPDXID: SPDXRef-item8214757
+FileChecksum: SHA1: c43ac5c436720f1ffa9250f98fba0bf043a0577e
+FileChecksum: MD5: bd9977d53757f6d1aa8ccd2378712698
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/apps/simple_wallet/README.md
+SPDXID: SPDXRef-item8214767
+FileChecksum: SHA1: 6695181d1c5fd64f85b931330afa6736b21e2cba
+FileChecksum: MD5: 0a96620f6ad80ff9779c48ba3da8116b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/apps/heart_disease_eval/README.md
+SPDXID: SPDXRef-item8214777
+FileChecksum: SHA1: 956c778630bbb96a889f35292dd1788016e6e7e9
+FileChecksum: MD5: 3c351bc5a48426e36e580e8ab8f105f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/apps/heart_disease_eval/images/ecg.jpg
+SPDXID: SPDXRef-item8214779
+FileChecksum: SHA1: 31af3b69b2afe3016bf352dde7f6c640b301c2d3
+FileChecksum: MD5: 8860f5bee287f2717dadd34ecd3584e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/apps/heart_disease_eval/images/heart_gui_screenshot.jpg
+SPDXID: SPDXRef-item8214780
+FileChecksum: SHA1: a2db3d81af0ddec2edf35c7a87cc79a5b33c9162
+FileChecksum: MD5: 9cc4bc63cd2b8a96f4ca1a9812b4069d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/apps/aml/standalone-cipher/images/santander_logo.png
+SPDXID: SPDXRef-item8214790
+FileChecksum: SHA1: d9e12fb8f0b7e0b90c1d1c03a518053527bbe89a
+FileChecksum: MD5: e2fb3c16d4d7144361345565aa214438
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/apps/aml/standalone-cipher/test_data/csv_requests/transacPL.csv
+SPDXID: SPDXRef-item8214794
+FileChecksum: SHA1: b40e2674eaaa49990d5fb13fcc355548f5ac0332
+FileChecksum: MD5: 67568b579bfb8995322524fe45e67b00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/apps/aml/standalone-cipher/test_data/csv_requests/transacES.csv
+SPDXID: SPDXRef-item8214795
+FileChecksum: SHA1: 1933b70ab0c48db42add4946d4c275cc34c0c0dd
+FileChecksum: MD5: d6a6a00046e3eb3eab69dc14a15d6fb3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/apps/aml/standalone-cipher/test_data/csv_requests/usersPL.csv
+SPDXID: SPDXRef-item8214796
+FileChecksum: SHA1: a99340fbad0bbcb4aefbce1459a4f05bc59ad8da
+FileChecksum: MD5: 28aee312c0bd06f40a13b86911b33a4a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/apps/aml/standalone-cipher/test_data/csv_requests/transacUK.csv
+SPDXID: SPDXRef-item8214797
+FileChecksum: SHA1: 1148e6cf2c14e2c269c7a28e0c0e2970939a06d9
+FileChecksum: MD5: 7a775f0d422485aaa4355fec6906c941
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/apps/aml/standalone-cipher/test_data/csv_requests/usersES.csv
+SPDXID: SPDXRef-item8214798
+FileChecksum: SHA1: 7823f333551d1dd88000228ff3291978891d1bd4
+FileChecksum: MD5: 58275ac098f31e6035c76efd60ea72c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/apps/aml/standalone-cipher/test_data/csv_requests/usersUK.csv
+SPDXID: SPDXRef-item8214799
+FileChecksum: SHA1: ece3f85979055ac5ce5daa1b1991718d8d0636d6
+FileChecksum: MD5: 329b10da6abea307302bbaad81daac1b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/apps/aml/standalone-cipher/test_data/our_signing_key.pem
+SPDXID: SPDXRef-item8214800
+FileChecksum: SHA1: 1431832b72c61a08bb66b0415a75c15fbca9dfa5
+FileChecksum: MD5: 65e58ff10d3a3a93590d4bba1f13ed64
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/apps/aml/standalone-cipher/json_building_blocks/base.json
+SPDXID: SPDXRef-item8214802
+FileChecksum: SHA1: 6035ced1c47661cc56eb71e76de62c28be9d64a8
+FileChecksum: MD5: 74689f76b95dc94803cd426ca434a224
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/apps/aml/standalone-cipher/json_building_blocks/inData.json
+SPDXID: SPDXRef-item8214803
+FileChecksum: SHA1: 67695d75cea32b7496b982c80d0c664d82389510
+FileChecksum: MD5: 5f8f2c1bb1b43a725a278ce94f6b7b1c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/examples/apps/inside_out_demo/README.md
+SPDXID: SPDXRef-item8214813
+FileChecksum: SHA1: 8d1ade6948138e4e5f1a500bfd23225b153154a1
+FileChecksum: MD5: e4d85df24033001f8ea969528a1914bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/packages/base64/base64.h
+SPDXID: SPDXRef-item8214882
+FileChecksum: SHA1: fdae471e299a527a0bbdd5fd487377e2d240dec8
+FileChecksum: MD5: 0b340e22695ae328de924ff7dcf601eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tc/sgx/common/tests/trusted/enclave/TestEnclave_private.pem
+SPDXID: SPDXRef-item8214937
+FileChecksum: SHA1: 2ee9f5103d6be36dab47785130f8b34ce73192e0
+FileChecksum: MD5: 294c3b286e4dcb1b61c5846be364a50f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/.dockerignore
+SPDXID: SPDXRef-item8214960
+FileChecksum: SHA1: 6f771a28e7da6981833d32c27a6a5a0caee59ff7
+FileChecksum: MD5: a98ccb03cc5d768037f4c3765ffbf483
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/CODEOWNERS
+SPDXID: SPDXRef-item8215021
+FileChecksum: SHA1: 6f86cbb8f7396f554522125a59e8ec0e400d8f79
+FileChecksum: MD5: 723590f593f18043177e60b5946ce905
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/.gitattributes
+SPDXID: SPDXRef-item8215023
+FileChecksum: SHA1: 5cca66e45e63cc571886ea27e9faee77cc931dd9
+FileChecksum: MD5: a81a4b7d95bd014bc7dbbab488205744
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tests/worker/worker_01a.json
+SPDXID: SPDXRef-item8215027
+FileChecksum: SHA1: 232f3ab9496596f3e0df357a4b922414db91645d
+FileChecksum: MD5: 4c8d012df282f2cdebeb124225e03b11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tests/worker/worker_01.json
+SPDXID: SPDXRef-item8215028
+FileChecksum: SHA1: 1d54d6b742e1343690c1c5c9c26fca17691276ef
+FileChecksum: MD5: ed96f3a8df5c52c71c285be738b122cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tests/worker/worker_04.json
+SPDXID: SPDXRef-item8215029
+FileChecksum: SHA1: 00f2a4fbed214fe55330bb3fe4fca3a18133a108
+FileChecksum: MD5: b542dcb13470205f60d9ec357566f4b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tests/worker/worker_03.json
+SPDXID: SPDXRef-item8215030
+FileChecksum: SHA1: 71b5495e6f83bca3b6fd497b0473304ec05f902e
+FileChecksum: MD5: 74a0d8fbe42a1260f786df02607f6b3f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tests/worker/worker_02.json
+SPDXID: SPDXRef-item8215031
+FileChecksum: SHA1: 4a849e505afc36c791176000c1adbd0999ae1b21
+FileChecksum: MD5: e87eb8161f3886b669f9cbcb31f530fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tests/worker/worker_05.json
+SPDXID: SPDXRef-item8215032
+FileChecksum: SHA1: a8b88a57c2423f6734c9bdc03c12095f6abf2a7a
+FileChecksum: MD5: 1a9a6a74dac8a51983dc916dfb8fdbce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tests/test_utility/test_file_utils/sample1.json
+SPDXID: SPDXRef-item8215037
+FileChecksum: SHA1: 0a6d3fcc7547b738b1fa9a81e781cc865f6f5af4
+FileChecksum: MD5: 048d13e94b0024858ba6eb90b52683f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tests/test_utility/test_file_utils/path_test_file
+SPDXID: SPDXRef-item8215039
+FileChecksum: SHA1: 5c1370bf65ea177062a7328fa3f6b6238b069cfd
+FileChecksum: MD5: b06d9b967a26523398156beb67422641
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tests/test_utility/test_file_utils/sample3.json
+SPDXID: SPDXRef-item8215040
+FileChecksum: SHA1: 9c3fcc1bf89b3491f9a57002ac23976e054356f0
+FileChecksum: MD5: b5399bc2be81021706949d7ccf7cfacf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tests/test_utility/test_file_utils/sample2.json
+SPDXID: SPDXRef-item8215041
+FileChecksum: SHA1: bb6898708bc5c63d3367571fae54953fb493282b
+FileChecksum: MD5: c99ba1fb6a4c056fd62a521ea20d50ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tests/work_orders/03_work_order_encryptionkey_set.json
+SPDXID: SPDXRef-item8215046
+FileChecksum: SHA1: 91ca8b0e58ecf490670b9e0b5156afe694233860
+FileChecksum: MD5: e3cc704903b37b54b39005c5b151c179
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tests/work_orders/01a_worker_retrieve.json
+SPDXID: SPDXRef-item8215047
+FileChecksum: SHA1: 0cca3811f5c08d358f297026a3d7125649df1966
+FileChecksum: MD5: 872a1f106f80cdc990baceb7aacc885b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tests/work_orders/04_work_order_submit.json
+SPDXID: SPDXRef-item8215048
+FileChecksum: SHA1: 9c051dd407df2cb99c75fcefdfb0e4eada50802b
+FileChecksum: MD5: 3521949e462746758b31ee5bca34a7c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tests/work_orders/01_worker_lookup.json
+SPDXID: SPDXRef-item8215049
+FileChecksum: SHA1: 10e127dfea95baf776d1a5640ded5ffb7ffe4c4b
+FileChecksum: MD5: b0366c40a11f5289654560464ddaff5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tests/work_orders/02_work_order_encryptionkey_get.json
+SPDXID: SPDXRef-item8215050
+FileChecksum: SHA1: bb83bf6c26e7d85767dde3df7fdac6b9b69d03c5
+FileChecksum: MD5: 69c58c3b107109a86a1c563d641172fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tests/work_orders/05_work_order_get_result.json
+SPDXID: SPDXRef-item8215051
+FileChecksum: SHA1: df04e4077ce4287c4cf5bb0733951ad359a0dc87
+FileChecksum: MD5: e47bb7d3965c0deb3c2ca754aebde108
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tests/json_requests/json_05.json
+SPDXID: SPDXRef-item8215053
+FileChecksum: SHA1: 55f02816ced239aebb44435ab9448d63df3aad9c
+FileChecksum: MD5: e9bffcc61d2b38b8e1e5386894285b5d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tests/json_requests/json_03.json
+SPDXID: SPDXRef-item8215054
+FileChecksum: SHA1: 520def7cc2749bd79262a014e92a86bfede983ba
+FileChecksum: MD5: 76db4e752837a510d269d490e973c803
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tests/json_requests/json_11.json
+SPDXID: SPDXRef-item8215055
+FileChecksum: SHA1: 21a4e8fff7d9b31a99356f5fb4f9199773c8ab2e
+FileChecksum: MD5: ad569a3188c913f5af17212ebfe51dde
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tests/json_requests/json_13.json
+SPDXID: SPDXRef-item8215056
+FileChecksum: SHA1: 5d28d2a2ae79c6be3fd95162b75c2d214e9c48e2
+FileChecksum: MD5: 5dc7704f40132c3230faf892cd95dee3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tests/json_requests/json_08.json
+SPDXID: SPDXRef-item8215057
+FileChecksum: SHA1: d0aa2dfa8c186bc45de23c87e397a97bb6df7147
+FileChecksum: MD5: 5af705a640e7016e626a57f99d0f21f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tests/json_requests/json_01.json
+SPDXID: SPDXRef-item8215058
+FileChecksum: SHA1: 10e127dfea95baf776d1a5640ded5ffb7ffe4c4b
+FileChecksum: MD5: b0366c40a11f5289654560464ddaff5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tests/json_requests/json_10.json
+SPDXID: SPDXRef-item8215059
+FileChecksum: SHA1: 8b60ca108f8693c72c88068e83085977b1b7eca5
+FileChecksum: MD5: c7c3aeeea373787a192c650eec1e620c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tests/json_requests/json_09.json
+SPDXID: SPDXRef-item8215060
+FileChecksum: SHA1: fa1cca4ca4842c9d4c24ef9641b209deeff10036
+FileChecksum: MD5: 8b280ed1e68040d0b070e30c2ef9820d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tests/json_requests/json_06.json
+SPDXID: SPDXRef-item8215061
+FileChecksum: SHA1: 52124dcde58f277ab5306628db3d9d37a3875bf4
+FileChecksum: MD5: adec8d0f6906de2687b5872af2e35d7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tests/json_requests/json_04.json
+SPDXID: SPDXRef-item8215062
+FileChecksum: SHA1: 8f8c54f75a894c622a2a1e15a2caeb2d1122710d
+FileChecksum: MD5: 1f06630e9ae220bf32fec10d976385a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tests/json_requests/json_12.json
+SPDXID: SPDXRef-item8215063
+FileChecksum: SHA1: d5919c68d369364c3aee9a4ecca012ac265a1be1
+FileChecksum: MD5: 7be1006daef35fd8db630f1bf4bacff9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tests/json_requests/json_07.json
+SPDXID: SPDXRef-item8215064
+FileChecksum: SHA1: d8440df6647859f867b07a9ebaba3892a20e94de
+FileChecksum: MD5: 06dc23792c920e47def8a767f54cdf22
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tests/json_requests/json_02.json
+SPDXID: SPDXRef-item8215065
+FileChecksum: SHA1: 0cca3811f5c08d358f297026a3d7125649df1966
+FileChecksum: MD5: 872a1f106f80cdc990baceb7aacc885b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tests/signature/wo_request_02.json
+SPDXID: SPDXRef-item8215067
+FileChecksum: SHA1: 0cca3811f5c08d358f297026a3d7125649df1966
+FileChecksum: MD5: 872a1f106f80cdc990baceb7aacc885b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tests/signature/wo_request_05.json
+SPDXID: SPDXRef-item8215068
+FileChecksum: SHA1: db9fc0386396c75e089cc9be052e1d0f7ea2de36
+FileChecksum: MD5: 85e9fd6ac4e44369284cca968346253a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tests/signature/wo_request_04.json
+SPDXID: SPDXRef-item8215069
+FileChecksum: SHA1: c5449caceda3f598623831535704b83e114e32e9
+FileChecksum: MD5: f26a4ab1f2228239d05a8cb546a4dbbb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tests/signature/wo_request_03.json
+SPDXID: SPDXRef-item8215070
+FileChecksum: SHA1: 605ffeed78bf8b5757ad9b260383c25af2f1d2d6
+FileChecksum: MD5: 294e8cff0ec10845eda04065fed40d49
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tests/signature/wo_request_01.json
+SPDXID: SPDXRef-item8215071
+FileChecksum: SHA1: 10e127dfea95baf776d1a5640ded5ffb7ffe4c4b
+FileChecksum: MD5: b0366c40a11f5289654560464ddaff5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tests/workorder_receipt/workorderreceipt_03.json
+SPDXID: SPDXRef-item8215074
+FileChecksum: SHA1: 670149df9963286b5fb59a3cdf3de45c04f73e36
+FileChecksum: MD5: 6a2b1a87742bc79e2ffefcd53bb703cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tests/workorder_receipt/workorderreceipt_01.json
+SPDXID: SPDXRef-item8215075
+FileChecksum: SHA1: 3ff8de02db423f806f5d8156ca874fbd336294be
+FileChecksum: MD5: 2096d6d46ef316b3841d07ca91b25791
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tests/workorder_receipt/workorderreceipt_02.json
+SPDXID: SPDXRef-item8215076
+FileChecksum: SHA1: 1be7edcb45d7d8a48e82a589fa4b6c168e80c151
+FileChecksum: MD5: fccc1d2f9dc61e3fdecb8d15a03c8e20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tests/workorder_receipt/workorderreceipt_02b.json
+SPDXID: SPDXRef-item8215077
+FileChecksum: SHA1: 4b556eb0b462da4323f97ac1c77d852c62b8d533
+FileChecksum: MD5: 1337190a46d58c73395ea4efaa99d5b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tests/workorder_receipt/workorderreceipt_05.json
+SPDXID: SPDXRef-item8215078
+FileChecksum: SHA1: 9148a1406655f9faf7608d53ee29f754cb047b4f
+FileChecksum: MD5: 3fea1d76116445972c66d8e2812dacb5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tests/workorder_receipt/workorderreceipt_08.json
+SPDXID: SPDXRef-item8215079
+FileChecksum: SHA1: 92b5ff74360bad754322a3f5ff513e4dcd040275
+FileChecksum: MD5: 0039833582598a2dafec1c5bc880a456
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tests/workorder_receipt/workorderreceipt_02a.json
+SPDXID: SPDXRef-item8215080
+FileChecksum: SHA1: 58bff532b28f4a88755615449db9a7025458aa59
+FileChecksum: MD5: e449ea284848a8eee139897009fa1388
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tests/workorder_receipt/workorderreceipt_07.json
+SPDXID: SPDXRef-item8215081
+FileChecksum: SHA1: ef596ae2f0498f4212752036e98d4f06d826fd08
+FileChecksum: MD5: f63dcf3b42e141ec50b1fb6607dd08c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/tests/workorder_receipt/workorderreceipt_04.json
+SPDXID: SPDXRef-item8215082
+FileChecksum: SHA1: be244fa4687b8e8d8983d7e90a3bd25b9346f727
+FileChecksum: MD5: c5c216b0d45a1e323b111971f2c245bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/.gitignore
+SPDXID: SPDXRef-item8215085
+FileChecksum: SHA1: ec7ea7ec2cea0425697e40e12dccd3eb797c146c
+FileChecksum: MD5: d71f09da6422dcba274545e1a8d329b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/docs/README.md
+SPDXID: SPDXRef-item8215094
+FileChecksum: SHA1: b6d5752c979966f250d2dc4244f54c28876aea44
+FileChecksum: MD5: 7ffc1683757256f2f14cc8e55ac218c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/docs/workload-tutorial/README.md
+SPDXID: SPDXRef-item8215096
+FileChecksum: SHA1: e51a28b47938fddfad25fd6456e964d0160f0518
+FileChecksum: MD5: 4f9de035edaa0c86aa691f6841d97564
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: avalon/client_sdk/TestingContracts.md
+SPDXID: SPDXRef-item8215169
+FileChecksum: SHA1: 79482246a353188269ebd58bcf858ef9ba57abcd
+FileChecksum: MD5: 6ebfe636ff49c2c03341c90bc2a4d402
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-Freeware
+LicenseName: freeware
+ExtractedText: <text> Software classified as freeware is licensed at no cost and is either fully functional for an unlimited time; or has only basic functions enabled with a fully functional version available commercially or as shareware.[8] In contrast to free software, the author usually restricts one or more rights of the user, including the rights to use, copy, distribute, modify and make derivative works of the software or extract the source code.[1][2][9][10] The software license may impose various additional restrictions on the type of use, e.g. only for personal use, private use, individual use, non-profit use, non-commercial use, academic use, educational use, use in charity or humanitarian organizations, non-military use, use by public authorities or various other combinations of these type of restrictions.[11] For instance, the license may be "free for private, non-commercial use". The software license may also impose various other restrictions, such as restricted use over a network, restricted use on a server, restricted use in a combination with some types of other software or with some hardware devices, prohibited distribution over the Internet other than linking to author's website, restricted distribution without author's consent, restricted number of copies, etc. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Elk
+LicenseName: Elk Scheme custom permissive license
+ExtractedText: <text> Oliver Laumann, TELES GmbH, and Nixdorf Computer AG, as co-owners or
+individual owners of copyright in this software, grant to any person or
+company a worldwide, royalty free, license to
+
+   i) copy this software,
+  ii) prepare derivative works based on this software,
+ iii) distribute copies of this software or derivative works,
+  iv) perform this software, or
+   v) display this software,
+
+provided that this notice is not removed and that neither Oliver Laumann
+nor Teles nor Nixdorf are deemed to have made any representations as to
+the suitability of this software for any purpose nor are held responsible
+for any defects of this software.
+
+THERE IS ABSOLUTELY NO WARRANTY FOR THIS SOFTWARE. </text>
+
+LicenseID: LicenseRef-SLIB
+LicenseName: SLIB
+ExtractedText: <text> SLIB LICENSE Each file in SLIB (over a dozen lines in length) is either in the
+public domain, or comes with a statement of terms permitting users to copy,
+modify, and redistribute it. The comments at the beginning each file (containing
+over a dozen lines) must specify its terms. For instance, the comments at the
+beginning of "Template.scm" declare that it is in the public domain: ;;;
+"Template.scm" configuration template of *features* for Scheme ;;; Author:
+Aubrey Jaffer ;;; ;;; This code is in the public domain. Each copyrighted file
+lists the names of the copyright holders and gives permissions to copy, modify,
+and redistribute the file. For instance, the beginning of "require.scm" states:
+;;;; Implementation of VICINITY and MODULES for Scheme ;Copyright (C) 1991,
+1992, 1993, 1994, 1997 Aubrey Jaffer ; ;Permission to copy this software, to
+modify it, to redistribute it, ;to distribute modified versions, and to use it
+for any purpose is ;granted, subject to the following restrictions and
+understandings. ; ;1. Any copy made of this software must include this copyright
+notice ;in full. ; ;2. I have made no warranty or representation that the
+operation of ;this software will be error-free, and I am under no obligation to
+;provide any services, by way of maintenance, update, or otherwise. ; ;3. In
+conjunction with products arising from the use of this ;material, there shall be
+no use of my name in any advertising, ;promotional, or sales literature without
+prior written consent in ;each case. </text>
+
