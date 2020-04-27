@@ -1,0 +1,5534 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_explorer-2020-04-16.zip_1587583301.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2020-04-22T19:21:42Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: explorer-2020-04-16.zip
+PackageFileName: explorer-2020-04-16.zip
+SPDXID: SPDXRef-upload2355
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: e8d8da66aa34668fe0893e4a86e5ec469f34a02e
+PackageChecksum: SHA1: bd6f8bf8bb72099ecc3cd0f5a9e1a77ab8eabf6a
+PackageChecksum: MD5: 47df14044617573ceae8785115646f80
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2355
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/connection-profile/first-network.json
+SPDXID: SPDXRef-item9083121
+FileChecksum: SHA1: 27835fa888701314866b34ecda9d64107b369950
+FileChecksum: MD5: 66e55443d733b8170255fd608a6714bf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/e2e-test/configs/connection-profile/org1-network.json
+SPDXID: SPDXRef-item9083071
+FileChecksum: SHA1: 8d616dc9e22d84a417c5f3ec299e7b2e7523b72a
+FileChecksum: MD5: 9b46e8fb35e9cf6d4ced784d20be3d25
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/e2e-test/configs/connection-profile/org2-network.json
+SPDXID: SPDXRef-item9083070
+FileChecksum: SHA1: 829ddc2994832d05b28221c1bbc63594e07af1bb
+FileChecksum: MD5: 545bf501964347e32caefc687e8d021c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/e2e-test/configs/config_multi.json
+SPDXID: SPDXRef-item9083068
+FileChecksum: SHA1: dac599f51fb419566e3a653c7663e8bf6da76779
+FileChecksum: MD5: ca10932f8293de8f40b202abf2894399
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/e2e-test/configs/config_single.json
+SPDXID: SPDXRef-item9083067
+FileChecksum: SHA1: 520216fca0b1b77b82e2c777b37a49416d70807e
+FileChecksum: MD5: edc25443304a26e02a46135735f2b986
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/e2e-test/specs/apitest-network-spec.yml
+SPDXID: SPDXRef-item9083073
+FileChecksum: SHA1: 2d5f6cb3866c2133dd4c4ebe74a836d0411a1667
+FileChecksum: MD5: 5e695535931c383e585c0e0dbea6dd3b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/e2e-test/README.md
+SPDXID: SPDXRef-item9083063
+FileChecksum: SHA1: f402d4a1880b2824fcf4f2fcc81655839e5e3b57
+FileChecksum: MD5: 04cb7de04656af721f42ef38c5ca6d8f
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/e2e-test/configs/connection-profile/org1-network-for-guitest.json
+SPDXID: SPDXRef-item9082736
+FileChecksum: SHA1: 605c6d52807f96a153f7a935223454f724862536
+FileChecksum: MD5: 2d415a4e27e13e23078ed51a8c0c206c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/e2e-test/configs/config_guitest.json
+SPDXID: SPDXRef-item9082737
+FileChecksum: SHA1: 08df272930b14b29adbd29c197b230299e23e6b5
+FileChecksum: MD5: a8ca92f9e5733c404b9b09ebda3ab66c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/e2e-test/specs/gui-e2e-test-network-spec.yml
+SPDXID: SPDXRef-item9082747
+FileChecksum: SHA1: 66f8934a814a69c2be7d701f97ebe954b2d5772d
+FileChecksum: MD5: b3367b5d0e40eeddc10bdd0f165c809e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: blockchain-explorer/client/package.json
+SPDXID: SPDXRef-item9082910
+FileChecksum: SHA1: 56abbfeefb6471678c66e4790e1f2c35f714c70e
+FileChecksum: MD5: 3e24be261b60d78f4415ed3f7a083e8e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/release_notes/v1.0.0.md
+SPDXID: SPDXRef-item9082943
+FileChecksum: SHA1: e3a9a825d408eab686f67421bc2377a0f538d8c9
+FileChecksum: MD5: b4b50dac1a0e0c44d342eb1bde9ee323
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/release_notes/v1.0.0-rc3.md
+SPDXID: SPDXRef-item9082945
+FileChecksum: SHA1: 5c32b41da70e043b11a538c3e458881d146bde07
+FileChecksum: MD5: e31da9185a2ef6cd09c1b8364605a026
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/TROUBLESHOOT.md
+SPDXID: SPDXRef-item9082922
+FileChecksum: SHA1: 16aa8be0e1b41cab23c22e26f7cb5772596399ba
+FileChecksum: MD5: 88d4c961ac897a6febc8c1f5221bf800
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/README.md
+SPDXID: SPDXRef-item9082916
+FileChecksum: SHA1: 08837a679962f26e275c33ff6a548a1f93a899b5
+FileChecksum: MD5: 419ad1481072e90a859f370d1f41438c
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/package.json
+SPDXID: SPDXRef-item9083162
+FileChecksum: SHA1: 79d927eb4437eb2ca7c98e6c83c8ef5f2733ec22
+FileChecksum: MD5: abde1db048d15475bfe49169f58553c6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/README.md
+SPDXID: SPDXRef-item9083174
+FileChecksum: SHA1: 1bcefec13d6be898dcaf78ffb339281526e6d3eb
+FileChecksum: MD5: 002d88153732f1d820995d8ebb8458aa
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/CHANGELOG.md
+SPDXID: SPDXRef-item9083319
+FileChecksum: SHA1: 78c3e050d263124ee43c927d89aad4ffb45444c2
+FileChecksum: MD5: cf3a78c823604bef2930195d3645a598
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/index.rst
+SPDXID: SPDXRef-item9083189
+FileChecksum: SHA1: 7d4c65c8486df183ba5468459df5b093fd4bb384
+FileChecksum: MD5: 07f4aa5384204b7eea80bdaff3d5c69c
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/architecture.rst
+SPDXID: SPDXRef-item9083188
+FileChecksum: SHA1: 7c668fa2c9292ccb15cdce63ee8710ccd319ca05
+FileChecksum: MD5: 2a900c06a228843c7806c05cb5177268
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/architecture/backend.rst
+SPDXID: SPDXRef-item9083201
+FileChecksum: SHA1: 7d9a7b43689c4339b0457237f5dcaa9d4455366f
+FileChecksum: MD5: 605fef5ed37784b3e37cc732d4f380ce
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/architecture/hl_ui_high_level.rst
+SPDXID: SPDXRef-item9083209
+FileChecksum: SHA1: ca27023e72f59a508720f7b9bd7c2183a361c27d
+FileChecksum: MD5: 6135e32a60305061e7e36d32bb833a01
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/repos.rst
+SPDXID: SPDXRef-item9083244
+FileChecksum: SHA1: e0b77c156b0cf836c0bfb67ec8c0d13a2f077812
+FileChecksum: MD5: 889b10dd2d4df84b673c3df72d490157
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/Style-guides/js-style.rst
+SPDXID: SPDXRef-item9083302
+FileChecksum: SHA1: 50c496d7c9b1b18167910d65f93f7dba51feba63
+FileChecksum: MD5: d5fee49f802aa284bacc70ad9ef76bb6
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/dev-setup/build.rst
+SPDXID: SPDXRef-item9083304
+FileChecksum: SHA1: 1c45db079e3531f28e55d0c386bbb9d4dca48700
+FileChecksum: MD5: 1e671e977988b7dde37d670f5aef0b7d
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/dev-setup/devenv.rst
+SPDXID: SPDXRef-item9083306
+FileChecksum: SHA1: 7f5072a58e6fab63acc738419e6e4464f304fa39
+FileChecksum: MD5: 8fbbac8d4c002164d73c1f3e447194c8
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/getting_started.rst
+SPDXID: SPDXRef-item9083310
+FileChecksum: SHA1: 5d39058999747a539dd50abedc31e998417b38ee
+FileChecksum: MD5: b28b176b048cbf66962fba142831d1a4
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/introduction.rst
+SPDXID: SPDXRef-item9083312
+FileChecksum: SHA1: 65d2597693bfdb94cd624b07180db4c79e65c195
+FileChecksum: MD5: 8e767359049d7cba518079a7544750e1
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/CONTRIBUTING.rst
+SPDXID: SPDXRef-item9083311
+FileChecksum: SHA1: d65d91224192b9e3fa0e67bb834922805bc0526e
+FileChecksum: MD5: 156ec74953e3d879a695e208cbaa131c
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/MAINTAINERS.rst
+SPDXID: SPDXRef-item9083313
+FileChecksum: SHA1: b3429479960d0435c64ad0733dd17a0a68d85b10
+FileChecksum: MD5: 2dbd03095822cbd21bb63ee267bf5dd1
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/MAINTAINERS.rst
+SPDXID: SPDXRef-item9083320
+FileChecksum: SHA1: 951d0f4edf6289f0a48b9cce6ea07cda88cd0b45
+FileChecksum: MD5: 4925d4e17732bbb92cd2d79738855f72
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/monitor.sh
+SPDXID: SPDXRef-item9083167
+FileChecksum: SHA1: a6fde7fe6e7a6e485ac32b803803cc0b154265ea
+FileChecksum: MD5: 38b32fccf4e76dfe61796d6bdb30db83
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/.gitignore
+SPDXID: SPDXRef-item9082911
+FileChecksum: SHA1: 696e50e53838cd9f523b9af12dc5925e50b6f148
+FileChecksum: MD5: 934bf27e8e6efdfd822c6fc658269fbc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/static/css/main-dark.css
+SPDXID: SPDXRef-item9082855
+FileChecksum: SHA1: ee54f154846fa2bf3fdd30f61811845f90775c3e
+FileChecksum: MD5: 7f63ae3dc7af56292d5583a7404d0632
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/static/css/main.css
+SPDXID: SPDXRef-item9082856
+FileChecksum: SHA1: 84af5d5d9c451a5e53f06e64d33200d815512b8e
+FileChecksum: MD5: df3d3da9c1d583e8db67cd3d99e3af86
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/config.js
+SPDXID: SPDXRef-item9082867
+FileChecksum: SHA1: 4e38ac8a7598cecd4e96654fedccbf39d5fbce4a
+FileChecksum: MD5: fde02ddb6cc8a010dd724f5c857b9d9d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/state/redux/theme/index.js
+SPDXID: SPDXRef-item9082876
+FileChecksum: SHA1: 8a8adfd2dee5077bd3271f507ebc2aca19e07a70
+FileChecksum: MD5: 763aa16ae0983f8ae4b787a787989018
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/devenv/scripts/create-channel-join-insert-transaction.sh
+SPDXID: SPDXRef-item9082968
+FileChecksum: SHA1: 8c65d5ec4da44efbe3c306413a38432744ff6737
+FileChecksum: MD5: 64c8d76eb2292b115af22fa940735b56
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/state/redux/tables/index.js
+SPDXID: SPDXRef-item9082884
+FileChecksum: SHA1: b56b03e63e74121c48a38e404107ed365edce1bb
+FileChecksum: MD5: a72882506b53046f8400b0820bfd0ecf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/state/redux/theme/selectors.js
+SPDXID: SPDXRef-item9082873
+FileChecksum: SHA1: b54fc493ed91b0617026b7647756d30fea585909
+FileChecksum: MD5: 4e45ba98cbe45009bdba863fa7ec6320
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/state/redux/charts/index.js
+SPDXID: SPDXRef-item9082892
+FileChecksum: SHA1: 76931224e734c9b0c180325a1baae8c4e9370f65
+FileChecksum: MD5: ed7181596c05a7dd99379995e0777990
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Theme/Theme.js
+SPDXID: SPDXRef-item9082778
+FileChecksum: SHA1: 459c3a2d30171b71033d321c9e39d84e76f47ade
+FileChecksum: MD5: 566c7c5deb1447001557bc6c20ac5fec
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Main.spec.js
+SPDXID: SPDXRef-item9082757
+FileChecksum: SHA1: c57b5de29cfc884d4d38aa8255bfdfa85e00dbc8
+FileChecksum: MD5: 7fe13e57d118d372d34c32161c8edcd2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Charts/OrgPieChart.spec.js
+SPDXID: SPDXRef-item9082764
+FileChecksum: SHA1: 81f27c0d122dfe5b247547b438a97405049d25e1
+FileChecksum: MD5: 53aa30b9e4bf781aa48f96c65ddb074b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/View/NetworkView.spec.js
+SPDXID: SPDXRef-item9082792
+FileChecksum: SHA1: 5fa7e79fb0289dbd0f0246c69acfcd5c57154e62
+FileChecksum: MD5: 0915776fee5bd50ce3dc468eb7887f84
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Charts/TimeChart.js
+SPDXID: SPDXRef-item9082768
+FileChecksum: SHA1: 9eb9d46934608a71e6671d08ce31fa0ab2fa6b89
+FileChecksum: MD5: dcca46bbdbd925521b96c0fb928b5034
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/types/index.js
+SPDXID: SPDXRef-item9082781
+FileChecksum: SHA1: 054e851e9799a5a0693e18283cc6598a23e58522
+FileChecksum: MD5: 4335d6663cd288e4285cc4852f06873e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/View/BlocksView.spec.js
+SPDXID: SPDXRef-item9082790
+FileChecksum: SHA1: c3d25ae8e88d1dbd468e981945710ec58582cb64
+FileChecksum: MD5: 07e5e36356c3b13993e36ab01965822d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/View/NetworkView.js
+SPDXID: SPDXRef-item9082797
+FileChecksum: SHA1: ef6071f03b67674609145092cbd5139c3fbb5606
+FileChecksum: MD5: d4fd964e6804c40158cc7c4b5ec8d464
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/View/ChaincodeView.js
+SPDXID: SPDXRef-item9082802
+FileChecksum: SHA1: 7d59c8f66be2de2b9a4f44e64954c671dcc53903
+FileChecksum: MD5: b4d34af31b93b6601c4ece22e593a09e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/View/ChaincodeView.spec.js
+SPDXID: SPDXRef-item9082803
+FileChecksum: SHA1: 24e171ad38b8729bd953fd8923e8191d0d6b9607
+FileChecksum: MD5: 14156132950cb4ea4bbe19a6562dc38b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/View/ChannelsView.spec.js
+SPDXID: SPDXRef-item9082794
+FileChecksum: SHA1: 9a6bf634db1ccb66edcf272222045c15e83f562c
+FileChecksum: MD5: 25b8464dfbad6365852959f06b189aac
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/View/TransactionsView.spec.js
+SPDXID: SPDXRef-item9082800
+FileChecksum: SHA1: 07a537aeafe7eb96da6bf6adf0a5d3f38e005b07
+FileChecksum: MD5: 16e0b2b310c017b9e36f2ee7fceb47f2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/View/ChannelsView.js
+SPDXID: SPDXRef-item9082807
+FileChecksum: SHA1: 67727345159a59a586246b4fa74206f5742b55f4
+FileChecksum: MD5: 499517075aaaa57ec40d5a401e1a0c60
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/View/BlocksView.js
+SPDXID: SPDXRef-item9082808
+FileChecksum: SHA1: 74090ee64e571c084e9dc5929049fbe1b5a5b670
+FileChecksum: MD5: 68729d6ecdf14c4ecd17489223f7f106
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/View/TransactionsView.js
+SPDXID: SPDXRef-item9082810
+FileChecksum: SHA1: 72e0aac74c03548b691ba1869c0ae1e6e515e76f
+FileChecksum: MD5: 7e201419b23dfb77089a863f95d1bfc7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Lists/PeersHealth.spec.js
+SPDXID: SPDXRef-item9082815
+FileChecksum: SHA1: d15283ab617e39fe4c20da7c4b44f8e52f22e845
+FileChecksum: MD5: 66b15b08ab65d804319f073a154dc5dd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Lists/Channels.js
+SPDXID: SPDXRef-item9082817
+FileChecksum: SHA1: fc8aa713cdcba0165a12861d4c4953405834e208
+FileChecksum: MD5: 1554c702cf62bc801f2a67bd2cb7147e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/View/ChaincodeModal.js
+SPDXID: SPDXRef-item9082809
+FileChecksum: SHA1: 90b0a02041b9fc5044f503575817102a18d43242
+FileChecksum: MD5: ba5bdfe2d49dce38be55bafce685fa23
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Lists/TimelineStream.spec.js
+SPDXID: SPDXRef-item9082820
+FileChecksum: SHA1: 1f62965cd3c01d2af3abc01cd29291db57580a42
+FileChecksum: MD5: 75e9d6805492eaf99ba1e542848cfc27
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Lists/Channels.spec.js
+SPDXID: SPDXRef-item9082824
+FileChecksum: SHA1: c1c6be3c015f62e8c3fc2bc6d1d85613ba927bb1
+FileChecksum: MD5: bf72f1df7f49ccc582e6848013f9005a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Styled/Modal.js
+SPDXID: SPDXRef-item9082836
+FileChecksum: SHA1: 36ab2d3275a24c6d61ff0e3bc409c731ba860b60
+FileChecksum: MD5: d24a3836630a7cd94815c85c6dd279e1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Styled/Select.js
+SPDXID: SPDXRef-item9082840
+FileChecksum: SHA1: d361979c139908d48a104005ce16e184ea96b48e
+FileChecksum: MD5: d6e1f73b7531d6c582c4d6a0d9643e34
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Lists/Peers.spec.js
+SPDXID: SPDXRef-item9082823
+FileChecksum: SHA1: a6799092eea391dc91d6af1c025206d0380d902f
+FileChecksum: MD5: 668a11ad7ac688dbe1fed148ab9b8733
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Lists/Chaincodes.spec.js
+SPDXID: SPDXRef-item9082822
+FileChecksum: SHA1: 71865ad7914ad2a868c22d338b54e19948ec7018
+FileChecksum: MD5: 1a8b32ecaae4121219030b42a09e783a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Forms/ChannelForm.js
+SPDXID: SPDXRef-item9082848
+FileChecksum: SHA1: 08bbe386a69cc562c02347314f426ce36286bb2f
+FileChecksum: MD5: 8a5e8c1b5ef53bf6925c734fbe01f8e4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Forms/ChaincodeForm.js
+SPDXID: SPDXRef-item9082847
+FileChecksum: SHA1: 7a55b9c1266da6e8e0424b074ded1fe1b80f0a3b
+FileChecksum: MD5: 75dc3ef96aa31f63065e3c666b6594fb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Styled/View.js
+SPDXID: SPDXRef-item9082842
+FileChecksum: SHA1: ab9de6521f470ea680cbf67dbe6635f1c8fff17b
+FileChecksum: MD5: 37953b39bef583f2c1ad15324cf5a2dc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/services/__mocks__/request.js
+SPDXID: SPDXRef-item9082865
+FileChecksum: SHA1: 03c2a85f760743398de8444edd037533f1d96a93
+FileChecksum: MD5: 0627b794ba2bb4e34f644ee73b62b03c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/state/redux/theme/reducers.js
+SPDXID: SPDXRef-item9082874
+FileChecksum: SHA1: d4a51f3965ee234c050095f59499f0fc28ac7019
+FileChecksum: MD5: 674f043ab41e659680617cf84ed223c0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/state/redux/tables/actions.js
+SPDXID: SPDXRef-item9082879
+FileChecksum: SHA1: a9739846f4500f06f5b027406f1a392a0d3f00eb
+FileChecksum: MD5: 38b8dccf7878c6bbf685c832940b21bc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/state/redux/theme/types.js
+SPDXID: SPDXRef-item9082877
+FileChecksum: SHA1: ed25e7b2b1f14407f4f04f60c37a0b15d84904f5
+FileChecksum: MD5: cbd04f1a52e734e3bfc28b86a148a698
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/state/redux/tables/selectors.js
+SPDXID: SPDXRef-item9082880
+FileChecksum: SHA1: d17db53d1d2c1c15d7350be447023ed7243b798f
+FileChecksum: MD5: b1c65d18f195b741337f975645277ef7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/state/redux/tables/types.js
+SPDXID: SPDXRef-item9082885
+FileChecksum: SHA1: 11c44068d3036d15af15471125ab56c335d2124e
+FileChecksum: MD5: f2664e575c7711c9942157fe51c81084
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/state/redux/charts/actions.js
+SPDXID: SPDXRef-item9082887
+FileChecksum: SHA1: bd274058cd6bbe6b86e74771af020e2d541b952e
+FileChecksum: MD5: 03b50fd55b4ece8ec5bc08e023e9efbe
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/state/redux/tables/reducers.js
+SPDXID: SPDXRef-item9082881
+FileChecksum: SHA1: 8d61834df5331b6c66fda55e1152e8f841de3125
+FileChecksum: MD5: 90f0969d6b5c24ca6ab0e92d7fe174f2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/state/redux/charts/selectors.js
+SPDXID: SPDXRef-item9082888
+FileChecksum: SHA1: aac5ba312af40277d2db71cfc7fdc30f17fb7bca
+FileChecksum: MD5: 88a1f41a13a2821ea8549c8e00936b70
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/syncstop.sh
+SPDXID: SPDXRef-item9082953
+FileChecksum: SHA1: aaa3e8e1ad3a105f74e47a07c0c669e2d403c2ac
+FileChecksum: MD5: f689929edf179bb38d10c56ce5a2bb8c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/devenv/scripts/large-transaction.sh
+SPDXID: SPDXRef-item9082969
+FileChecksum: SHA1: dd3ebf098c5a294bfe7183393844fa410c56b952
+FileChecksum: MD5: 418047d6a6d025dc3b46cc48b0e09fd2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/state/redux/charts/types.js
+SPDXID: SPDXRef-item9082893
+FileChecksum: SHA1: 9bcc9fb6aec206717ebd5192031300e5338ea211
+FileChecksum: MD5: 087e08eba3627dac644015de77e4ea62
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/test.js
+SPDXID: SPDXRef-item9083017
+FileChecksum: SHA1: 72c1ad14d3d334fdd9dfe885b10289c4e477872f
+FileChecksum: MD5: 21c9069ef05462a41adc41b1d502a4ef
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Footer/FooterView.js
+SPDXID: SPDXRef-item9082759
+FileChecksum: SHA1: a8dbc9a71b1026b54ed36024ebd3dcd2b6c29502
+FileChecksum: MD5: f26fd1901ca9043cfd71922f889eab7c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/dateutil.js
+SPDXID: SPDXRef-item9083034
+FileChecksum: SHA1: 2da9645d6d8bdf0dffe9296b97eb4a63e2b09f81
+FileChecksum: MD5: 53dac234dea9653a122fbe23ec6c966e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/state/redux/charts/reducers.js
+SPDXID: SPDXRef-item9082889
+FileChecksum: SHA1: 6239bd0f12953668624c940d774e99f662a8f28a
+FileChecksum: MD5: b6a879cc356e6f15734035abd39dba91
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Login/Login.spec.js
+SPDXID: SPDXRef-item9082755
+FileChecksum: SHA1: e3a29deb853ca0176ad4a3670aea7f5fce78e08f
+FileChecksum: MD5: 627fbd083914f1e777ba597536360fd3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/registerServiceWorker.js
+SPDXID: SPDXRef-item9082751
+FileChecksum: SHA1: 5add57c877358dec5d0782e16de4994929090af3
+FileChecksum: MD5: 02f406a2035b1aaa94413cd0df371413
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/.editorconfig
+SPDXID: SPDXRef-item9082720
+FileChecksum: SHA1: 48d8b29277ab39ea6217fd4bcb510891e0a53174
+FileChecksum: MD5: 55e5767d1039b48cd59007c5b3828956
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Login/index.js
+SPDXID: SPDXRef-item9082756
+FileChecksum: SHA1: 889f13515f7613fee9b1d0790c644f2e043b7e9d
+FileChecksum: MD5: 51ece700da39843e06c4ccd77cb42eec
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Footer/index.js
+SPDXID: SPDXRef-item9082760
+FileChecksum: SHA1: 5e494198272a466e3b0c8436fbbe9a99351b1a18
+FileChecksum: MD5: 3228cabd00a8a09effe39056d0417b67
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Charts/TimeChart.spec.js
+SPDXID: SPDXRef-item9082763
+FileChecksum: SHA1: c75814bdc61a7ba1e614d7011f20172930d79e1c
+FileChecksum: MD5: dd13e27b9e6c031b137177e120ff24d3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Route/index.js
+SPDXID: SPDXRef-item9082771
+FileChecksum: SHA1: 9727b12592130f9151225565843f41eb3ba9ae36
+FileChecksum: MD5: d193ee6db437f3c24e95d8d970ef90ca
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Route/Private.js
+SPDXID: SPDXRef-item9082770
+FileChecksum: SHA1: c4ac422c17e1330b5da3e984c8eeadc160ae9757
+FileChecksum: MD5: 5e681b787869d6d0a10826bf7a6ffa3e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Footer/FooterView.spec.js
+SPDXID: SPDXRef-item9082761
+FileChecksum: SHA1: 47cc5f0f057edb47867e2ff3d5f2332666624887
+FileChecksum: MD5: 3276ba7f7a07de0a61270b496f87d540
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Register/Register.spec.js
+SPDXID: SPDXRef-item9082773
+FileChecksum: SHA1: 1e4860210babb32969755a541e88b7852d033143
+FileChecksum: MD5: 46d77a594f3e38cb69e9c7d404fb00f2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Charts/ChartStats.spec.js
+SPDXID: SPDXRef-item9082766
+FileChecksum: SHA1: cf10636685aa41dba43bef82df8ea879b706a951
+FileChecksum: MD5: 161f7de6349c24eaeed18f661c0b1584
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/ErrorMessage.spec.js
+SPDXID: SPDXRef-item9082776
+FileChecksum: SHA1: 4d10133d5d69bb77780d1ecb222bb72aae748259
+FileChecksum: MD5: a39fc68d64a53e18f160a2a6e85ad260
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Theme/index.js
+SPDXID: SPDXRef-item9082779
+FileChecksum: SHA1: 00236b766dbf5fac686c81b724853e81dee3e9c5
+FileChecksum: MD5: 2a02fcdbfc4f8ae3b23a83e5b8f61dc4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Register/Register.js
+SPDXID: SPDXRef-item9082774
+FileChecksum: SHA1: cf6cffbba5207ff1c5f0a508c5eb7478ae62f9ac
+FileChecksum: MD5: c831d27a8c658c03241815a3542dde18
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Register/index.js
+SPDXID: SPDXRef-item9082775
+FileChecksum: SHA1: 3642bee372a47d26504191b705542b1175aa73e3
+FileChecksum: MD5: 5ec10406b0933582d6ef61ca974ba6ca
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/ErrorMessage.js
+SPDXID: SPDXRef-item9082782
+FileChecksum: SHA1: 36e5e0661d3d16a31b7064f2e628c9fd2fa875f7
+FileChecksum: MD5: 298e870387d3838eb88000bf2da2a622
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/App/index.js
+SPDXID: SPDXRef-item9082786
+FileChecksum: SHA1: 9080ccb411c22377d13946686565cc359a9e8e0a
+FileChecksum: MD5: f88e98175b7159f9064dcbf5f3befcda
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Main.js
+SPDXID: SPDXRef-item9082787
+FileChecksum: SHA1: 37dd424ee99c896eb741688ff768fe1a6f5e3fbe
+FileChecksum: MD5: 8ae78fba3ee3573f7c4873980dbae2ea
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/App/App.spec.js
+SPDXID: SPDXRef-item9082784
+FileChecksum: SHA1: 6cc9b00c48fcfdd3e41d08cd3e3cd3a163a07b15
+FileChecksum: MD5: 4371fff60c09e029ef6185c64e2c4e4f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/View/LandingPage.spec.js
+SPDXID: SPDXRef-item9082789
+FileChecksum: SHA1: 2b59ff2e1146ead3d18ca0ad90f9e233fb6ef770
+FileChecksum: MD5: bf1383a509e24233b946f91bf9335383
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/View/BlockView.spec.js
+SPDXID: SPDXRef-item9082796
+FileChecksum: SHA1: 8a029ce8e16d9da029e969bdaeac2701a877829f
+FileChecksum: MD5: febfb396306966d87a49987d41330e8d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/View/TransactionView.spec.js
+SPDXID: SPDXRef-item9082791
+FileChecksum: SHA1: 7b6c1c2e1a0f231d2140ad7b0d245bfc3c119bc9
+FileChecksum: MD5: 4090ac06b79cbc77a083a43cc2828f11
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/View/LandingPage.js
+SPDXID: SPDXRef-item9082793
+FileChecksum: SHA1: f30409af2aa62a4c21a216e3d7e93c36966087c9
+FileChecksum: MD5: 2c50f024e5ae9c366eeee496c801c5db
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/View/PageNotFound.js
+SPDXID: SPDXRef-item9082795
+FileChecksum: SHA1: 6c0002a37b493a23203c4a539f366cd659875cb8
+FileChecksum: MD5: 29686187031cc194905af185f79b246b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/View/BlockView.js
+SPDXID: SPDXRef-item9082801
+FileChecksum: SHA1: 14e5b924fc9e06a9b914fe168a4ccb0427ae455e
+FileChecksum: MD5: 317e5c0ff3cd5356fb950767400198a5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/View/ChaincodeModal.spec.js
+SPDXID: SPDXRef-item9082798
+FileChecksum: SHA1: 9053796a4bc70578a7ab8b0425bd368b01778ccf
+FileChecksum: MD5: ba05c0cdba416e9a35bd71df3d15773f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/View/TransactionView.js
+SPDXID: SPDXRef-item9082805
+FileChecksum: SHA1: 977f8ee74974b53b17ba881b7acd5c1382dc79c3
+FileChecksum: MD5: ff74a4c97094ea48a804a37bd6fc6f03
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Lists/Chaincodes.js
+SPDXID: SPDXRef-item9082825
+FileChecksum: SHA1: 799c912ee66eb8ef4fa2f8a871a095416609f978
+FileChecksum: MD5: d1d948a22ecc476144c448dda04c06b4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Panels/AdminPanel.spec.js
+SPDXID: SPDXRef-item9082830
+FileChecksum: SHA1: 5ec2eddc5904cf1d7386c5234efb335512a75b40
+FileChecksum: MD5: 9a2c62674650639bd0ae5c3864833642
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Lists/PeersHealth.js
+SPDXID: SPDXRef-item9082814
+FileChecksum: SHA1: bf63f7b72483b6ee96bdb1b99f8112960b3a5a5c
+FileChecksum: MD5: f9f2dac6d25b84101e4fe5e989d73339
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/View/DashboardView.spec.js
+SPDXID: SPDXRef-item9082804
+FileChecksum: SHA1: f13b7ae52e6ceb45efdf45c6f0e3c1f7ecf16faf
+FileChecksum: MD5: 9f44457bc98bdf63b3916a80c9fe456e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Styled/Table.spec.js
+SPDXID: SPDXRef-item9082839
+FileChecksum: SHA1: a14e1aa2f8f1dba9a6471db42e0adf713cdf5833
+FileChecksum: MD5: 19971b2628cdef4e4e15b0d8151292ac
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Header/index.js
+SPDXID: SPDXRef-item9082832
+FileChecksum: SHA1: 725584c799a4a18e4ee48bb4436c33a28e9d2609
+FileChecksum: MD5: e007ba512b7abab6255e64acf5b69445
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Styled/DatePicker.spec.js
+SPDXID: SPDXRef-item9082838
+FileChecksum: SHA1: e886a553ac1a41ad6d6e3dd0fba4d4161cc9103f
+FileChecksum: MD5: 511f729109f03d07baf623c017520803
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Styled/Select.spec.js
+SPDXID: SPDXRef-item9082844
+FileChecksum: SHA1: d238847c8cb40965677ed3b47578748966e2a1cd
+FileChecksum: MD5: ccbaa9bf96b438693e7c7cb3e3ce7df5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Forms/ChaincodeForm.spec.js
+SPDXID: SPDXRef-item9082849
+FileChecksum: SHA1: 0d86ef88cc9565cea3d73514f34dd29b53eb3652
+FileChecksum: MD5: 27a53b350767b994ccfb4ae51c0ecd1b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Forms/ChannelForm.spec.js
+SPDXID: SPDXRef-item9082850
+FileChecksum: SHA1: 60587cd69c6fe1263ce7343fcec5e1780311f126
+FileChecksum: MD5: 717432a6fc8ed042ae4fba16ed1e5a8a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Styled/View.spec.js
+SPDXID: SPDXRef-item9082845
+FileChecksum: SHA1: 671b852fafb956365fefd70ef4b2d431f2ba5988
+FileChecksum: MD5: e4823d8fed11c6cae61e65eaa91b1f75
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/static/css/media-queries.css
+SPDXID: SPDXRef-item9082857
+FileChecksum: SHA1: 0ae2a6db075ded66633510c79db84e1cf1ddbe55
+FileChecksum: MD5: bb0ba9030edd1eea5fe429a1df5fa17a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/index.js
+SPDXID: SPDXRef-item9082868
+FileChecksum: SHA1: b57c3a05b9f693e9155f6807f8a9203611e3048a
+FileChecksum: MD5: e63a8b5739d7d66df5cf9e6ad4cb98dd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/setupTests.js
+SPDXID: SPDXRef-item9082852
+FileChecksum: SHA1: 84fec2f8f13a00f2ed239f1cdaab013bd32a113f
+FileChecksum: MD5: 66d40d6f03caf24e63d00a616286e00f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/state/redux/theme/actions.js
+SPDXID: SPDXRef-item9082872
+FileChecksum: SHA1: 88ff6dc09a7ec3a6ddea0fce0521e939c91adc72
+FileChecksum: MD5: f13b69eae3efbf31e6b5a9fb666c4e47
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/services/request.js
+SPDXID: SPDXRef-item9082866
+FileChecksum: SHA1: b34483802cdbee906aa0cff81185d0f3eb6b543c
+FileChecksum: MD5: c196194bff79455729d1c75518669eb1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/state/redux/tables/tests.spec.js
+SPDXID: SPDXRef-item9082883
+FileChecksum: SHA1: 7c550ab4cce62441e83189acaa938f46dc4fdeec
+FileChecksum: MD5: 62ad95a6a0599601927bb2b274e4659e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/state/redux/theme/tests.spec.js
+SPDXID: SPDXRef-item9082875
+FileChecksum: SHA1: c05299ee99d6b804df8b1e2f001f9317d39263b8
+FileChecksum: MD5: b630962fb292ef322169312a4425fdbd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/state/redux/charts/tests.spec.js
+SPDXID: SPDXRef-item9082891
+FileChecksum: SHA1: 464d5427994a6a06535c5278fa865468ba061145
+FileChecksum: MD5: 490a214b5447986acd2e431752998249
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/state/redux/auth/actions.js
+SPDXID: SPDXRef-item9082895
+FileChecksum: SHA1: 6d1595cf59e634ff56a94b6540e15aef9fb1d0af
+FileChecksum: MD5: 0dfc8dc3143109e468c95cae1c0e74ff
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/state/redux/auth/selectors.js
+SPDXID: SPDXRef-item9082896
+FileChecksum: SHA1: 9126acd2f33907518a58cccbbb52d2d22e0748a5
+FileChecksum: MD5: 2e2bc70f4669a8b080368a88a4093789
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/state/redux/auth/index.js
+SPDXID: SPDXRef-item9082900
+FileChecksum: SHA1: 59c9585cc1ed7e729ea81ac3d0faffd4ca439be7
+FileChecksum: MD5: dac94677921d0aa9b266383d8e0bcce1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/state/redux/auth/tests.spec.js
+SPDXID: SPDXRef-item9082899
+FileChecksum: SHA1: 9b1001474974faecd714417be0eb2b97c4199872
+FileChecksum: MD5: a7118daea68c15f8f415dd6939c5c95d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/state/redux/auth/reducers.js
+SPDXID: SPDXRef-item9082897
+FileChecksum: SHA1: 00364033a487eb0c819d3268f9e6a96b36307539
+FileChecksum: MD5: 905f83c22c53bfff7190e355f467ea48
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/state/redux/auth/types.js
+SPDXID: SPDXRef-item9082901
+FileChecksum: SHA1: f1668ee817b5dcc2b61cf2165988675f11c4fe50
+FileChecksum: MD5: 0917e2384c5222105054915ec78c41d3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/state/Auth.js
+SPDXID: SPDXRef-item9082903
+FileChecksum: SHA1: b9182af553e371dbc853aa16da66b5f2857d3359
+FileChecksum: MD5: 25475d6caa9652c03f07af0d36e0bca5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/state/redux/index.js
+SPDXID: SPDXRef-item9082902
+FileChecksum: SHA1: 5a4bd4e4e3b991c7a76cfbc0843185d05ba590fe
+FileChecksum: MD5: d7b759b9499a4bac875881e8bb18955f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/state/store.js
+SPDXID: SPDXRef-item9082904
+FileChecksum: SHA1: 8b3050e92ab999688e91318f7766212475b58571
+FileChecksum: MD5: 1d486c939d996b05f65a957d7da12b5d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/public/index.html
+SPDXID: SPDXRef-item9082909
+FileChecksum: SHA1: accd0ca050e932b3ff8fb52376530c728dd9b42b
+FileChecksum: MD5: 8708ec669ee5c4014335f625ccce1166
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/run_e2e_test.sh
+SPDXID: SPDXRef-item9082913
+FileChecksum: SHA1: 7a46286b97a5f9abfdcebf46aca75c72bb563e0d
+FileChecksum: MD5: d27cb3eddcf926a7df384ce5cc3918b4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/examples/net1/crypto/.gitignore
+SPDXID: SPDXRef-item9082930
+FileChecksum: SHA1: 7d2b9839579248470e1d75dd7dcfe9977a374bf4
+FileChecksum: MD5: 50805c687084e6fd3ab26e02cae5b315
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/examples/net1/.gitignore
+SPDXID: SPDXRef-item9082931
+FileChecksum: SHA1: 575bbba8f5191a2eb76b4e5d741a78f501a030f2
+FileChecksum: MD5: 6eb6dd1d0fb9b2503be574e14ee118e9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/.dockerignore
+SPDXID: SPDXRef-item9082951
+FileChecksum: SHA1: 198b73b5ef95a0b9c0bc3428aaa6e25ab16c63b4
+FileChecksum: MD5: 0497b9f881d4b920182565251eae9a73
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/keygenerator.sh
+SPDXID: SPDXRef-item9082954
+FileChecksum: SHA1: 5c2d7e5d50c32b550f71a4d2d3decb7ce0d38fe6
+FileChecksum: MD5: bd0b8477af54f2f19393736efe7fb98b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/ssl-certs/read.txt
+SPDXID: SPDXRef-item9082959
+FileChecksum: SHA1: cb5a3be3e687351c6e899812587db401e1f95285
+FileChecksum: MD5: 6dcff6a4ac7ab435586a14e2cbdd41a5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/devenv/src/chaincode/test/largeTransaction/largeTransaction.go
+SPDXID: SPDXRef-item9082965
+FileChecksum: SHA1: 46c1b30b814c260e74a46786f89bb01164b3352b
+FileChecksum: MD5: c6d6de0de6b85b178f6d7d63aa87d811
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. 2016 All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: blockchain-explorer/devenv/data/sample-data.txt
+SPDXID: SPDXRef-item9082976
+FileChecksum: SHA1: 5e0ef233f4d122a2dea9976a0228c13b4ea9f021
+FileChecksum: MD5: 08a6762ff6a30dff773128987ffaa840
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/channelsinfo.js
+SPDXID: SPDXRef-item9082986
+FileChecksum: SHA1: a0c4c886720016ad11bbcfac1318bf9779dca7a9
+FileChecksum: MD5: 417223d11e610ae7881754efacb1c6a6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/postgrespgtest.js
+SPDXID: SPDXRef-item9083012
+FileChecksum: SHA1: 0bb9d31f6b4489974824ebe6b37b524e4b9595a3
+FileChecksum: MD5: 819c79bc69df6745e3d83f08ac76a42f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/register.js
+SPDXID: SPDXRef-item9083013
+FileChecksum: SHA1: 22baa9529dda21b56cca1f58d2bf457966a03a54
+FileChecksum: MD5: e2ce54d1300dcf225aa82459bfc1fd19
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/networklist.js
+SPDXID: SPDXRef-item9083016
+FileChecksum: SHA1: 7f234dab88676b996a83f74c182ec43283e17a12
+FileChecksum: MD5: 39c62b0e5ef9b2dea350c09f4cea7f81
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/blockactivity.js
+SPDXID: SPDXRef-item9083015
+FileChecksum: SHA1: bd8aea9b12d1503e7fa35ca984a8ca65f39ebd63
+FileChecksum: MD5: bac10c1691f9f55a5c726384f0e6248e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/enroll.js
+SPDXID: SPDXRef-item9083014
+FileChecksum: SHA1: 23998c140aa01d66d6178f212d0353cacb26f4eb
+FileChecksum: MD5: 383c0a5a462f7c25be4ccee48b73408e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/currentchannel.js
+SPDXID: SPDXRef-item9083018
+FileChecksum: SHA1: ebc739b44a4913b71d554a3c154fb2f3fc455305
+FileChecksum: MD5: 15adbf7a2c1d361d7a40b12c215c1fa6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/blocksbyminute.js
+SPDXID: SPDXRef-item9083019
+FileChecksum: SHA1: 34f3286f3235e6c3a419ef24253ce7f66649c0fb
+FileChecksum: MD5: 700a386d1255ba5aeccdfdded577d2d8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/changechannel.js
+SPDXID: SPDXRef-item9083020
+FileChecksum: SHA1: a8c3513a311167f50575c55a2c8b8bce4666783b
+FileChecksum: MD5: ae8320f0688b410f5f52b664076dac10
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/login.js
+SPDXID: SPDXRef-item9083028
+FileChecksum: SHA1: a147dc63bca855d9f987d42ef10a4ca4cfd20275
+FileChecksum: MD5: 79066da1fb590dafba31c67e4bb5ecd4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/artifacts/org1.yaml
+SPDXID: SPDXRef-item9083023
+FileChecksum: SHA1: c3d93272cb4e9636ec13d09014a78b73e583f8c8
+FileChecksum: MD5: 4956b8f3b794b05b59d5ef9c8c818a76
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/artifacts/network-config.yaml
+SPDXID: SPDXRef-item9083024
+FileChecksum: SHA1: 61f2ba96e08af9a838fc5b7b1d68b42b986db7bd
+FileChecksum: MD5: 782a9c490bd98d7e1a815f40236b52c8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/block.js
+SPDXID: SPDXRef-item9083031
+FileChecksum: SHA1: 58c223fe376c3fa8c71fab15fe4fe671b37729cd
+FileChecksum: MD5: 1056a06d70029ba78ae6d471552630ab
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/chaincode.js
+SPDXID: SPDXRef-item9083030
+FileChecksum: SHA1: e35a80a75d50f9f8d04c5254b9537e3ee56c0af0
+FileChecksum: MD5: 59b7bb4d7ba1dc8f6b4698371425036c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/blocksbyhour.js
+SPDXID: SPDXRef-item9083033
+FileChecksum: SHA1: 89d50eede89c48ea6a0e134911188a087654422e
+FileChecksum: MD5: d7f65a0b3590ddde815eef8e34fc11e8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/blocktransaction.js
+SPDXID: SPDXRef-item9083037
+FileChecksum: SHA1: 461b3b8ac57c4bb20bedee96033ad988168455d3
+FileChecksum: MD5: de06ed9c063119b84b6957fdc062ae3b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/txbyhour.js
+SPDXID: SPDXRef-item9083039
+FileChecksum: SHA1: a263d6ce65dc339db6357343fa14cba7b0fd149b
+FileChecksum: MD5: e6e386a7daeae30af830cd2cf9ce198d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/txbyorg.js
+SPDXID: SPDXRef-item9083032
+FileChecksum: SHA1: 5dfdd414c7a7b1f08b6c0e7a397762c365fe6620
+FileChecksum: MD5: c149379ed9fcc22e999f62830f67f51d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/status.js
+SPDXID: SPDXRef-item9083038
+FileChecksum: SHA1: b0bb529a08c22883594a2131e0e6d6f6d0850d08
+FileChecksum: MD5: bfeeecfa4c6be7551d49e4d6b4eedbf7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/channels.js
+SPDXID: SPDXRef-item9083040
+FileChecksum: SHA1: f29cdddaba4939534350db7e439fc348826e2a2e
+FileChecksum: MD5: 41308b1f2f2d15031d043c4e0d044282
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/peer.js
+SPDXID: SPDXRef-item9083043
+FileChecksum: SHA1: b4dfc224c7b40ccf3090fcdba601bbc0366258d4
+FileChecksum: MD5: 4619d235c057bc29e19a62185c48610e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/common/ExplorerConst.js
+SPDXID: SPDXRef-item9083049
+FileChecksum: SHA1: 84af58a2f596e662cac756ec5cac56fab8b8f994
+FileChecksum: MD5: cf5a592e1d70d141b5d19f33efe72b1f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/transaction.js
+SPDXID: SPDXRef-item9083042
+FileChecksum: SHA1: ff0596a62cf366e228cf6f796ec58f27d5f05a1f
+FileChecksum: MD5: 859d9811d5e7b3c5ef463365d9de568d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/common/ExplorerMessage.js
+SPDXID: SPDXRef-item9083050
+FileChecksum: SHA1: 4d68a77756c7087c08adbab1e0124f831f33f546
+FileChecksum: MD5: ad3b8b6bf84cc030560127c59557b271
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/common/ExplorerError.js
+SPDXID: SPDXRef-item9083051
+FileChecksum: SHA1: c675490d1fa35c13b27654dc66a2283e77ca41db
+FileChecksum: MD5: 5571240e5081b0d38435e18c1c86b3ed
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/models/User.js
+SPDXID: SPDXRef-item9083056
+FileChecksum: SHA1: 7d47d2659c94d671d7ff79f1271cd642912b5947
+FileChecksum: MD5: 060ff3220ce9929264133ac2814c6b59
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/txbyminute.js
+SPDXID: SPDXRef-item9083044
+FileChecksum: SHA1: d60293178ab16ec1f39c5351e7015fd0b2a39551
+FileChecksum: MD5: 9a2f65a8f352c75cfc70802e5332abe1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/common/commonUtils.js
+SPDXID: SPDXRef-item9083052
+FileChecksum: SHA1: 452c27d35420ecd57631afdaf71e75c64fea3b2f
+FileChecksum: MD5: ecaf8b4d11af9cc8fc84793a3fa6d780
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/rest/adminroutes.js
+SPDXID: SPDXRef-item9083058
+FileChecksum: SHA1: 60c6f4ccc261485805d68f4b9c0809d7647e3444
+FileChecksum: MD5: 172c5aff7d9e1cb930cb55c8a491495e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/artifacts/operations/balance-transfer/prometheus.yml
+SPDXID: SPDXRef-item9083109
+FileChecksum: SHA1: 7abf18d079236f36147071c89853c95a3109c29c
+FileChecksum: MD5: 3db94c42d1140fee593b63326d720016
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/artifacts/fabric-config-samples/first-network/docker-compose-base-sample.yaml
+SPDXID: SPDXRef-item9083113
+FileChecksum: SHA1: d39088879bd63851e801d2fe35d54d34b0e7ad61
+FileChecksum: MD5: cb0536cd1a7533bd7b6a8e26ea310ff6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/artifacts/fabric-config-samples/balance-transfer/docker-compose.yaml
+SPDXID: SPDXRef-item9083115
+FileChecksum: SHA1: 6ff14d32446bf8b8145716bbcbe48cbd4535322d
+FileChecksum: MD5: 6d6c90e8d3822d1b1adf74e991ac6c87
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/utils/FabricConst.js
+SPDXID: SPDXRef-item9083118
+FileChecksum: SHA1: 301f10b90910a746d2c6de3177c0ebb34ad5bf95
+FileChecksum: MD5: 9e84522608c03c59445d0bdaf3670431
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/sync/listener/ForkListenerHandler.js
+SPDXID: SPDXRef-item9083139
+FileChecksum: SHA1: 6433f133abaa3a033c32de3b1681f7c1f182e35d
+FileChecksum: MD5: 06e1c296402c2c62495965888a8ea3aa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/PlatformBuilder.js
+SPDXID: SPDXRef-item9083134
+FileChecksum: SHA1: b23edab3cd96f8446319450964d2c9fead470ef9
+FileChecksum: MD5: 3598f1d6d2153896ddfff31757349adf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/sync/listener/ExplorerListener.js
+SPDXID: SPDXRef-item9083140
+FileChecksum: SHA1: 32fd73449299e9b0c8364ed4f42c8eb182f50d17
+FileChecksum: MD5: c52c56c873f6e85e5ee7aa0f6153f92c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/sync/sender/ForkSenderHandler.js
+SPDXID: SPDXRef-item9083143
+FileChecksum: SHA1: 74abfd1f57c4753fe336f8fb60850a011e15c3b9
+FileChecksum: MD5: fa5e5bcdecfea5640a052cfb1f82570a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/sync/SyncBuilder.js
+SPDXID: SPDXRef-item9083144
+FileChecksum: SHA1: 543fb173a0ca4e1a154728fd185c6733cf1fa9f5
+FileChecksum: MD5: d256a2d2192c30286a15ac5136e076f2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/sync/sender/ExplorerSender.js
+SPDXID: SPDXRef-item9083142
+FileChecksum: SHA1: dbe2ab80081bcfcf365c9149728eba9116241f4b
+FileChecksum: MD5: 6ba8cdc4048843af7835cbfcdf6731ad
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/Synchronizer.js
+SPDXID: SPDXRef-item9083145
+FileChecksum: SHA1: 118d510d0fa405039d38237bd77ab150fe7ebe80
+FileChecksum: MD5: ae2e20880476fb24ebae6862d0cdfc0a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/persistence/fabric/postgreSQL/db/createdb.sh
+SPDXID: SPDXRef-item9083157
+FileChecksum: SHA1: c54ad6a83993d45488c1b691c901d26ff106f445
+FileChecksum: MD5: af5cff03b98175044d5bcff01f73d04f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/persistence/postgreSQL/Persist.js
+SPDXID: SPDXRef-item9083149
+FileChecksum: SHA1: 9a8e151134752260c967c96b763798982bf8796a
+FileChecksum: MD5: b04d9ce41ecb0e9df422356bb87a3c71
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/stop.sh
+SPDXID: SPDXRef-item9083163
+FileChecksum: SHA1: 0563a3751f19922b7437c27d60e1bccc901d33fa
+FileChecksum: MD5: 95cf57499796f592cc9abef32551d15a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/persistence/PersistenceFactory.js
+SPDXID: SPDXRef-item9083161
+FileChecksum: SHA1: 653e75604d4403acfaf9302ee2b8b1153a43838c
+FileChecksum: MD5: 677665578750e9b6eb4f8f50e5ba4dec
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/persistence/fabric/postgreSQL/db/updatepg.sql
+SPDXID: SPDXRef-item9083159
+FileChecksum: SHA1: c39d58926b7a5a55f8f2b48ba8f0f5055dee1796
+FileChecksum: MD5: 4d5014c2a051ddc0e9affb95c4189dd0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/persistence/fabric/postgreSQL/db/processenv.js
+SPDXID: SPDXRef-item9083160
+FileChecksum: SHA1: 6ef89a526008e09d50cea6fb360be74085bb4128
+FileChecksum: MD5: aa19582729e90de9c15d9d8cb45799f3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/scripts/changelog.sh
+SPDXID: SPDXRef-item9083171
+FileChecksum: SHA1: 86674d3121f6e51df7e213774cbafef6b3fd96af
+FileChecksum: MD5: d39764506f515ca79a85f9900c804dae
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Charts/ChartStats.js
+SPDXID: SPDXRef-item9082765
+FileChecksum: SHA1: 4cca8209e431e47fd0a6377aac377d091960ea9d
+FileChecksum: MD5: 6ab76551e605d67e20abffcdbf46f30f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Charts/OrgPieChart.js
+SPDXID: SPDXRef-item9082767
+FileChecksum: SHA1: 211a7c67f0205255bd775573954e0ab8999d8533
+FileChecksum: MD5: ffbe21b29136226a42f110fb72648580
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/View/DashboardView.js
+SPDXID: SPDXRef-item9082799
+FileChecksum: SHA1: 3e105441afd3aba9366225f6f20048cb0d81f2ec
+FileChecksum: MD5: 72e46d8e386031b63925f8ed322e1381
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Lists/TimelineStream.js
+SPDXID: SPDXRef-item9082813
+FileChecksum: SHA1: a342a31099b05826f55f176f63952e9e7d21d7e3
+FileChecksum: MD5: 897cfe7bdae6a9a0f79290daa2856410
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Lists/Transactions.js
+SPDXID: SPDXRef-item9082818
+FileChecksum: SHA1: 1e6b164fbe9e694b325c8188df11386ea4981c98
+FileChecksum: MD5: ff9d8ea789391524b3e7db9436d286a7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Header/HeaderView.spec.js
+SPDXID: SPDXRef-item9082834
+FileChecksum: SHA1: da5fef1b8baa15d48fd345faa36a81c913a8a550
+FileChecksum: MD5: 9ff5a425081026a232a0a0830a4001d4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Styled/MultiSelect.js
+SPDXID: SPDXRef-item9082837
+FileChecksum: SHA1: 3c671bbbb7840e64a10bb5292565d21f2da63411
+FileChecksum: MD5: a0fd307a9d97905326aabdf874a53b97
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Styled/DatePicker.js
+SPDXID: SPDXRef-item9082841
+FileChecksum: SHA1: db5ecbb77e74c7f308618e4954a09dfcc1147076
+FileChecksum: MD5: ea9139c1605bcc5596d26d8fda4d2b41
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/main.sh
+SPDXID: SPDXRef-item9082920
+FileChecksum: SHA1: 46dba815e18d83a13713780076b97cb1cb82371f
+FileChecksum: MD5: e3c3578808196d5a7aef65eeeb103868
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Styled/Table.js
+SPDXID: SPDXRef-item9082843
+FileChecksum: SHA1: 9730e81a9a96adbab9a4c504caaecae3351e9c34
+FileChecksum: MD5: 48217389dcc5289cb9b45b2f81015787
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/Makefile
+SPDXID: SPDXRef-item9083173
+FileChecksum: SHA1: 7c1ffe489cddd089f959338c5407a81520d9595b
+FileChecksum: MD5: b083ae5289bc854de9ea17f455e4968a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/custom_theme/searchbox.html
+SPDXID: SPDXRef-item9083186
+FileChecksum: SHA1: 137259c63fe271e7e29099ef47b0732dc4ccc8f5
+FileChecksum: MD5: 2ec4353a9814a9884bc54c5af559693c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: blockchain-explorer/ci/azure-pipelines-release.yml
+SPDXID: SPDXRef-item9082726
+FileChecksum: SHA1: db3cf1c6d741e204ddee642345d1f554de5e5e31
+FileChecksum: MD5: 84ed37947ed77bce00f333690aba7c22
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright the Hyperledger Fabric contributors. All rights reserved. </text>
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/App/App.js
+SPDXID: SPDXRef-item9082785
+FileChecksum: SHA1: 7562af228e30b5adc4416b1dbd71fc7f782ecb56
+FileChecksum: MD5: d2b1985a2d7867f0158f69eed038b713
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Panels/AdminPanel.js
+SPDXID: SPDXRef-item9082828
+FileChecksum: SHA1: 753fbcbcafc27bcd719247411d1c7e52112ea490
+FileChecksum: MD5: 82c9a351c108c1877baf89fd917e996f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/CONTRIBUTING.md
+SPDXID: SPDXRef-item9082721
+FileChecksum: SHA1: ffe9d0d8038e6dd5f8894833ee76c963a6935ff3
+FileChecksum: MD5: 11f8fa0e40bfa1a708ce75b3873c860f
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright Hyperledger and its contributors. </text>
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Lists/Blocks.js
+SPDXID: SPDXRef-item9082812
+FileChecksum: SHA1: 3923bedf95f429f0994b3c8ce216f63c911e0f28
+FileChecksum: MD5: a8b7fba8ec73de4600b356056e6adc90
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Lists/Peers.js
+SPDXID: SPDXRef-item9082821
+FileChecksum: SHA1: 384e19639723786b42bd10f6f841490f9aeb0fd6
+FileChecksum: MD5: 14ce5f8b73e39c84991914584157381d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Panels/NotificationsPanel.js
+SPDXID: SPDXRef-item9082829
+FileChecksum: SHA1: f8310d72c22795cfb500a8f8b0ab03262dc33099
+FileChecksum: MD5: 700c13594acf4086ba9557c40145402e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/FabricVersion.js
+SPDXID: SPDXRef-item9082851
+FileChecksum: SHA1: 6a923b1357591ef8e3ae231739d0440903985e12
+FileChecksum: MD5: 2ab3952b92bbab8df5c8132c4dd1f45e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/state/redux/tables/operations.js
+SPDXID: SPDXRef-item9082882
+FileChecksum: SHA1: aa38cc6b1cbfb6f52f9209c997a1b45759eee44e
+FileChecksum: MD5: 8c8b2be43f17c1b0057f3761c0db5097
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/lgtm.yml
+SPDXID: SPDXRef-item9082917
+FileChecksum: SHA1: f88424b84bf35579d1ddc63ae99d931fa925a1d2
+FileChecksum: MD5: 1d12b193988273c59be41bee72db094f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/state/redux/charts/operations.js
+SPDXID: SPDXRef-item9082890
+FileChecksum: SHA1: f67d1e2ac1059122b9f9075bc5b544ff07271784
+FileChecksum: MD5: eeceaeacee8a2ef41a1e69570b841e5b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/CODEOWNERS
+SPDXID: SPDXRef-item9082957
+FileChecksum: SHA1: dc351908b831d5dc838cf40494965802feab5a7c
+FileChecksum: MD5: 46d2bf1746658efe25b20d231462e8f3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/rest/requestutils.js
+SPDXID: SPDXRef-item9082981
+FileChecksum: SHA1: 10beee19cd96b4180cc808743ab230ea08aa037c
+FileChecksum: MD5: 1d0a45b6c911e1d03b31b330d67ba216
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/blockandtx.js
+SPDXID: SPDXRef-item9083029
+FileChecksum: SHA1: 9e4a8054db09d737ea2ad7ebd82b2f35f291af61
+FileChecksum: MD5: 5c9192a2f11d5472bd03186aa2d89dfb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/Explorer.js
+SPDXID: SPDXRef-item9083146
+FileChecksum: SHA1: d1ffb7dba6930dd6ef035cd735451106d4272b3c
+FileChecksum: MD5: eb4242946ea691b7a140de1dc4d62813
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/requestutils.js
+SPDXID: SPDXRef-item9083035
+FileChecksum: SHA1: 1b90ef944e945ebcff74c71d5d64d3b9bf3d5369
+FileChecksum: MD5: 31f9d65b9d9eb77329b4877890055170
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/.gitignore
+SPDXID: SPDXRef-item9083168
+FileChecksum: SHA1: f97b35337827408450657d7aab8ccb2fab964a9d
+FileChecksum: MD5: 5a1946dd99567f35b8714103920f9631
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/requirements.txt
+SPDXID: SPDXRef-item9083184
+FileChecksum: SHA1: 3c43484c8a24d3ed4a62d95485308c8c622dbe7d
+FileChecksum: MD5: c0d669c4ba8f513871b0aed2d5e1e05d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/conf.py
+SPDXID: SPDXRef-item9083190
+FileChecksum: SHA1: b1b8c344555d6f8471947ebf3a93d7066870030b
+FileChecksum: MD5: 19bbdf696ff28683148e98c61971be91
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright Hyperledger Explorer </text>
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/architecture/webserver.rst
+SPDXID: SPDXRef-item9083202
+FileChecksum: SHA1: 66bab1988cca22a1da588fc6507317e4f06b5b97
+FileChecksum: MD5: b44488ef28f56893b4ece35f300fafe2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/architecture/websockets.html
+SPDXID: SPDXRef-item9083205
+FileChecksum: SHA1: cf567d36aa776aa364f62fdadbf3ab7ed8a9d1d7
+FileChecksum: MD5: b403ef4a90879ac7cb58e5ff976b5c95
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/architecture/index.rst
+SPDXID: SPDXRef-item9083204
+FileChecksum: SHA1: 2818dbf85e1ec4710eb4bd9e0812e28c11d4c1e0
+FileChecksum: MD5: 6f34881f114dec6e24be8eeb5676d9c7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/architecture/databaselayer.rst
+SPDXID: SPDXRef-item9083203
+FileChecksum: SHA1: c3752746f816195502eda462d80627ab953b43e3
+FileChecksum: MD5: fc9435ed9b18a2b04cb80eaee5a2ba70
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/architecture/logs_db.html
+SPDXID: SPDXRef-item9083207
+FileChecksum: SHA1: de9dace08312273709537688d7e6b07c92dd349e
+FileChecksum: MD5: 0da207a513c66fb02117fac0a084dda0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/architecture/websockets.rst
+SPDXID: SPDXRef-item9083206
+FileChecksum: SHA1: 6a3b9a653fcd8b764daacb6b3903269dfeeb316a
+FileChecksum: MD5: de509d875d9b4fc5e51f4f9dabf05554
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/architecture/gateway.html
+SPDXID: SPDXRef-item9083211
+FileChecksum: SHA1: 535603d6f5f2e46a9d13b4de2436e96f088f4247
+FileChecksum: MD5: 98481099f2f5f4e4099b8b689442d889
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/architecture/sync_configuration.rst
+SPDXID: SPDXRef-item9083208
+FileChecksum: SHA1: 16f7b7afbe5ce511d4578fd248b7ef753342d447
+FileChecksum: MD5: 47528aa7181391417110253928e3d655
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/architecture/hl_ui_high_level.html
+SPDXID: SPDXRef-item9083212
+FileChecksum: SHA1: 00cb35e54108f0c0339083062cf2ccf217231179
+FileChecksum: MD5: cc4dd78334500b6f46999a7ec37c3a73
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/architecture/gateway.rst
+SPDXID: SPDXRef-item9083210
+FileChecksum: SHA1: cfb7e2048fc8a0027a1327a7890bddac3a8f050f
+FileChecksum: MD5: 48a87fc09c81e3145e2ff646bb0301df
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/architecture/databaselayer.html
+SPDXID: SPDXRef-item9083213
+FileChecksum: SHA1: c32a5f0a72a6cd794056c7e4baee39020bfbdf41
+FileChecksum: MD5: ac78a12aaafe75e74e4aa36a438c3a52
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/architecture/routes.html
+SPDXID: SPDXRef-item9083215
+FileChecksum: SHA1: 607baef0e5c3ccac2f1356c09c8ef43541a2a44e
+FileChecksum: MD5: 3878dee49630bd054937311f9bccc190
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/architecture/dbservices.html
+SPDXID: SPDXRef-item9083216
+FileChecksum: SHA1: 8f0a3a20ecec1e56f9c818c22bbf33c08fb3b400
+FileChecksum: MD5: 0542003f1f418ce9f82401cc4ea8d82b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/architecture/logs_app.html
+SPDXID: SPDXRef-item9083217
+FileChecksum: SHA1: efe25feb31449c6b499e88f9f940509d79b98155
+FileChecksum: MD5: 8acc257faf7173df466b2b9729f54d71
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/architecture/webserver.html
+SPDXID: SPDXRef-item9083218
+FileChecksum: SHA1: 14a7b39c8d2d8a8ccf1911a723c42ff2982d8b58
+FileChecksum: MD5: 5212ddd2ca1cb57e71e4e125f266bb72
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/architecture/restapi.html
+SPDXID: SPDXRef-item9083219
+FileChecksum: SHA1: 6722b5d80c3d56adc43515f85b98d11a0d2242dd
+FileChecksum: MD5: 47bdafdba07cb800c1e78ff27a38c70c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/architecture/index.html
+SPDXID: SPDXRef-item9083220
+FileChecksum: SHA1: 626ad46acacaa9fdc536a70f2ff4eb7bd55b0ed1
+FileChecksum: MD5: a5a4e11418000822ce0020d00ff57648
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/architecture/restapi.rst
+SPDXID: SPDXRef-item9083214
+FileChecksum: SHA1: a9966f2f259a06c6c67542847402cbcc69c30cee
+FileChecksum: MD5: 55396e0b3a88707ef7471ed4736c8514
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/architecture/synchronizer.html
+SPDXID: SPDXRef-item9083223
+FileChecksum: SHA1: 890fd63e7de9362466a0b2570873bcf818f9414e
+FileChecksum: MD5: c53414786f3ee666280fbae047f6ad5c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/architecture/logs_console.html
+SPDXID: SPDXRef-item9083225
+FileChecksum: SHA1: 0abeebb92fb4832eae26649eeeea4b88c4434bbe
+FileChecksum: MD5: c6262ef489e46fc47fc89f6f80e13d8f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/architecture/dbservices.rst
+SPDXID: SPDXRef-item9083222
+FileChecksum: SHA1: 1ed88d4dcb8d6e1794df7044eb2e8d508ee95a47
+FileChecksum: MD5: 3e1fc3fb7ac2562ece563d67dd22a4bf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/presentation/hl_blocks_per_hour.html
+SPDXID: SPDXRef-item9083227
+FileChecksum: SHA1: 0754a6a781488559e3e6b7d6333fdf93828c0ee2
+FileChecksum: MD5: 6acb798028a5bef26765f26352e88bbb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/architecture/synchronizer.rst
+SPDXID: SPDXRef-item9083221
+FileChecksum: SHA1: 56df20bbc16b4fafafe72715f098b2d761ba1286
+FileChecksum: MD5: 64511e78788cabdbeb5d9a4f308ca619
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/presentation/hl_tx_details.html
+SPDXID: SPDXRef-item9083228
+FileChecksum: SHA1: f15a919934ccb528fa98fc6970d260f61c761ec0
+FileChecksum: MD5: 0ad2a192cccb8dfb162ea83521a1e4ec
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/presentation/hl_blocks_per_minute.html
+SPDXID: SPDXRef-item9083229
+FileChecksum: SHA1: 4d7feae75d99c1612e098eb2ee870c3b5ca82b9c
+FileChecksum: MD5: 219fdb562307cb62886a027b1815760e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/presentation/hl_login.html
+SPDXID: SPDXRef-item9083231
+FileChecksum: SHA1: 6b591a8ecd608f148ad9fb98e75232b10548402e
+FileChecksum: MD5: 0ff66df88c6ed0479bcf8155c3eec338
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/presentation/hl_dark_theme.html
+SPDXID: SPDXRef-item9083232
+FileChecksum: SHA1: 61c880475a28af3f9063545dc29630b67ba8e1b0
+FileChecksum: MD5: 94dbd8c5c51d7497ee801727362df8cc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/architecture/logs.rst
+SPDXID: SPDXRef-item9083224
+FileChecksum: SHA1: 1a7e85404a19b98df7ed27f340ec33cc97191f29
+FileChecksum: MD5: 7fd68b8193af18222093e79762b3d3da
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/presentation/hl_channel_list.html
+SPDXID: SPDXRef-item9083234
+FileChecksum: SHA1: 843552efb2ffce0d2db1f8c0f542cd76cad02d95
+FileChecksum: MD5: 53e84631b12870719af706dc13ca67b1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/presentation/hl_block_details_window.html
+SPDXID: SPDXRef-item9083233
+FileChecksum: SHA1: 8050cfe86f857a4bb27bafd0eb6b649ac1cd41e1
+FileChecksum: MD5: 76644bce6096d3d4d5aa15397d509bb1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/presentation/hl_block_details_notification_panel.html
+SPDXID: SPDXRef-item9083235
+FileChecksum: SHA1: 25ef425c135381e75b7cdcdb6fc02413e7f55f2d
+FileChecksum: MD5: 1f794b2bde3e3fc7a0ab8899fbe7a8e4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/presentation/hl_block_list.html
+SPDXID: SPDXRef-item9083236
+FileChecksum: SHA1: db9549e79a01c942ba59548cd9da8ded2e5935a2
+FileChecksum: MD5: 9c7a3b08365706a87259521d4f591705
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/presentation/hl_filter_window.html
+SPDXID: SPDXRef-item9083237
+FileChecksum: SHA1: 11d1439287d5cee8d94aa6f761350057fc145b2d
+FileChecksum: MD5: 3accc940e95f89458e1e347a7749f06d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/presentation/hl_network.html
+SPDXID: SPDXRef-item9083238
+FileChecksum: SHA1: d70bf858c29d101e96c90c490f0df241f9194ef1
+FileChecksum: MD5: 32d2783744427d42fd653f71735ff02a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/presentation/hl_transaction_list.html
+SPDXID: SPDXRef-item9083239
+FileChecksum: SHA1: 8fc11172e0d2ff117db15ccac0395f62cbd81364
+FileChecksum: MD5: af36f029ec217fd3b60d464e4aa4fb6a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/presentation/index.rst
+SPDXID: SPDXRef-item9083230
+FileChecksum: SHA1: 3883946b079df7b7b6effbb06727f88673fe821e
+FileChecksum: MD5: a5159d925c071544efc19f7ecce9a905
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/presentation/hl_dashboard.html
+SPDXID: SPDXRef-item9083240
+FileChecksum: SHA1: e16b940af780cc12fafa5dc022e915952d4692ee
+FileChecksum: MD5: b2a45cab1f9f1a246336bd3894cd7aab
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/presentation/hl_tx_count_minute.html
+SPDXID: SPDXRef-item9083242
+FileChecksum: SHA1: ed5924fda1853bd1a346e80893f162b3c5382a4a
+FileChecksum: MD5: c5cfa09d0955d83c1f9fbca11530667e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/presentation/hl_chaincodes.html
+SPDXID: SPDXRef-item9083241
+FileChecksum: SHA1: 5576dc937f2369e43e4ca133b1fb6fabc2a207c8
+FileChecksum: MD5: e76b98ce16b3d135a4a3b251714bca2f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/presentation/hl_tx_count_per_hour.html
+SPDXID: SPDXRef-item9083243
+FileChecksum: SHA1: 44a480584944849f0f8ce64b9521dc8a980f562d
+FileChecksum: MD5: 07a7059b38e71013254d2ff9a46ce2b4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/css/styles.css
+SPDXID: SPDXRef-item9083247
+FileChecksum: SHA1: c7fdf0fb837533812b1552b2181969a293af5a5b
+FileChecksum: MD5: 487316109532331511f993ab9d6865de
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/dev-setup/clone_button.html
+SPDXID: SPDXRef-item9083305
+FileChecksum: SHA1: 33dd9c8ec9b5d6425e3645baa16e6c0e0237dc17
+FileChecksum: MD5: dde02acc7e6f15345ecd775de2f27cf2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/dev-setup/azure.html
+SPDXID: SPDXRef-item9083307
+FileChecksum: SHA1: 5ab17181c97b67e70b6ef797239516cda1b6de89
+FileChecksum: MD5: 0a871f5f36fa421cdf1f37b241da7222
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/dev-setup/github_setup.html
+SPDXID: SPDXRef-item9083309
+FileChecksum: SHA1: c224e327b3f507392c710b047bccf8b78136cfba
+FileChecksum: MD5: d2ee02b30bcdc1947d148eb680ab0bd2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/dev-setup/azure.rst
+SPDXID: SPDXRef-item9083308
+FileChecksum: SHA1: 36dddba067ef379eefda4c25d00a8052e14aea5e
+FileChecksum: MD5: 7b78f74428d31b22cb0cd7d430735e5b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/e2e-test/specs/templates/crypto-config.yaml
+SPDXID: SPDXRef-item9083080
+FileChecksum: SHA1: 72a99d598074c5575c57bb6a4903998f9456ba4f
+FileChecksum: MD5: e391e0ad253be112493dd511999a23a3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/e2e-test/specs/templates/k8s/fabric-k8s-pvc.yaml
+SPDXID: SPDXRef-item9083083
+FileChecksum: SHA1: 164ffa0f47af0ac95762e7e7640a80dd27edbb40
+FileChecksum: MD5: ab8e20807410444b2f614faf3f5a506e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/e2e-test/specs/templates/configtx.yaml
+SPDXID: SPDXRef-item9083081
+FileChecksum: SHA1: e7e080b2c70441d13795efd80ae063c69fb88b6f
+FileChecksum: MD5: da13caac53c472edee535abaef59a85b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/e2e-test/specs/templates/k8s/fabric-k8s-service.yaml
+SPDXID: SPDXRef-item9083085
+FileChecksum: SHA1: 46ef68fa605da1092a62d5bb1d89af5550d41213
+FileChecksum: MD5: 14d939d39197d3cfbb694c56db6b0c2e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: blockchain-explorer/main.js
+SPDXID: SPDXRef-item9082915
+FileChecksum: SHA1: 1393f037e1a9cec858b64feb9ea39f26424d6c10
+FileChecksum: MD5: 9967c22637995bdba864e28e3ea567e0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/syncstart.sh
+SPDXID: SPDXRef-item9082722
+FileChecksum: SHA1: 1d71ab3dd45e0505e103a9d9ffb80aa86207d5a7
+FileChecksum: MD5: 26eaf305c2983aabe62dfff6e54d4c1c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Panels/NotificationsPanel.spec.js
+SPDXID: SPDXRef-item9082827
+FileChecksum: SHA1: b078c802d84a8db9e743dcebfab3694bbce8729a
+FileChecksum: MD5: ff5009feca285ef225d376bef53bef3e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Lists/Transactions.spec.js
+SPDXID: SPDXRef-item9082819
+FileChecksum: SHA1: 73b6b135fa3f13cac021b0508225703aa79ed8a7
+FileChecksum: MD5: 5900c929f0b757547365df11e5efe8a5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/gateway/FabricGateway.js
+SPDXID: SPDXRef-item9083126
+FileChecksum: SHA1: 903cb9e7c1d5809ffb0b94f20cd85e7543ebec30
+FileChecksum: MD5: e33397f4a5c220c209cb854315793b79
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/FabricConfig.js
+SPDXID: SPDXRef-item9083127
+FileChecksum: SHA1: f7057797117d4b54d4a3652a227a79933765699e
+FileChecksum: MD5: a7093b1a6366a1b043d3c3077dc512a2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/sync.js
+SPDXID: SPDXRef-item9083318
+FileChecksum: SHA1: fc56cef914341e1c9fed76411d8dae4b6fdba81a
+FileChecksum: MD5: 2a1d08e8a8c048ea8c0c2cf0cd788293
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/common/helper.js
+SPDXID: SPDXRef-item9083048
+FileChecksum: SHA1: 6ec7e8eb1b131ee70ce074d977a79f3aa532a1f3
+FileChecksum: MD5: 3f7d8eeefa422fdbe133dc0a673c677e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright ONECHAIN 2017 All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: blockchain-explorer/build_docker_image.sh
+SPDXID: SPDXRef-item9082727
+FileChecksum: SHA1: 9b435f474effd12ad2091070ef3af49ca061ef6b
+FileChecksum: MD5: 7f97e8f3cfc0366105741103b3069f8f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/e2e-test/gui-e2e-test-start.sh
+SPDXID: SPDXRef-item9082730
+FileChecksum: SHA1: 0124218dd417048e1750ec2e7d339dccad264cb4
+FileChecksum: MD5: 43b2f2b4b6ed0134787dd1ce7cae1330
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/ci/install_deps.yml
+SPDXID: SPDXRef-item9082724
+FileChecksum: SHA1: 0936b87a0d056f47a6dd7c348627628dfccb6877
+FileChecksum: MD5: f80f9adea5eec66106bd7ab8650e1248
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/ci/azure-pipelines.yml
+SPDXID: SPDXRef-item9082725
+FileChecksum: SHA1: 44ebdf057b691fed6f14ffa654ba9e328b70d69e
+FileChecksum: MD5: 06f10886f8d36a2def5e4160d7e58540
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/e2e-test/docker-compose-explorer.yaml
+SPDXID: SPDXRef-item9082732
+FileChecksum: SHA1: bbdef5e30ca151c501f5bffd0543ef1b328409bb
+FileChecksum: MD5: 644c7ec662a26c6506c6108a4fd866b2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/e2e-test/docker-compose.yaml
+SPDXID: SPDXRef-item9082733
+FileChecksum: SHA1: 31908547b065bae710bf73740954c2ad9aee1d03
+FileChecksum: MD5: e4152f51b170bb94e42e0e221b402cf5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/e2e-test/specs/chaincode/chaincode_view.js
+SPDXID: SPDXRef-item9082740
+FileChecksum: SHA1: 02264eab2ec55522be41d58d58906ae2485ae5c3
+FileChecksum: MD5: 4fa23d2e03bdecd418bcd797a1151a2a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/e2e-test/specs/network/network_view.js
+SPDXID: SPDXRef-item9082744
+FileChecksum: SHA1: 7af807d0c3c37d53b2d18a3b219c87a1c83b0d5b
+FileChecksum: MD5: 7929f2094c982dbb65d68898451a9b17
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/e2e-test/specs/root.js
+SPDXID: SPDXRef-item9082742
+FileChecksum: SHA1: d207c22e3e978fad8c793b72aaa5420b0986b4cb
+FileChecksum: MD5: e5942b22feb170a9ebbdffdcd123cd64
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/e2e-test/specs/dashboard/dashboard.js
+SPDXID: SPDXRef-item9082746
+FileChecksum: SHA1: eced766cb4d71843e85ed519d738e46fca00640a
+FileChecksum: MD5: 34c26a3b1861f957947977f2ba8d84b1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/e2e-test/wdio.conf.js
+SPDXID: SPDXRef-item9082748
+FileChecksum: SHA1: 7ab2c98788c042f74b09db6c685be22480910dda
+FileChecksum: MD5: 6a8e8437f0dab9456a874886357a2561
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Login/Login.js
+SPDXID: SPDXRef-item9082754
+FileChecksum: SHA1: 8e53a960cb47d502edd041cd7e819112bfbcc2f7
+FileChecksum: MD5: 0daca8faf81e87b02c69a2d2aaec7cf8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Header/HeaderView.js
+SPDXID: SPDXRef-item9082833
+FileChecksum: SHA1: aab20cf3122a98a2420ef31db9e549bcbce9fe20
+FileChecksum: MD5: 6f313982298db5931dd434ac0a592971
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/Lists/Blocks.spec.js
+SPDXID: SPDXRef-item9082816
+FileChecksum: SHA1: 529bd090b0c1f860079e1c3dc59f04ed81f5f093
+FileChecksum: MD5: 57b41128c7b1c22fef63aa98d102b799
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/state/redux/auth/operations.js
+SPDXID: SPDXRef-item9082898
+FileChecksum: SHA1: d0a135af97bc043582803ab57737edd4ad664e6f
+FileChecksum: MD5: 316cf1544603033da450fb909b08578c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/postgres-Dockerfile
+SPDXID: SPDXRef-item9082950
+FileChecksum: SHA1: 851fd3e979005b6069bbb3f6ff1c42888f42841a
+FileChecksum: MD5: 033e3b338723c8d7cc620623072aa8cc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Tecnalia Blockchain LAB
+Copyright Tecnalia Research & Innovation (https://www.tecnalia.com) </text>
+ 
+
+##File
+
+FileName: blockchain-explorer/docker-compose.yaml
+SPDXID: SPDXRef-item9082956
+FileChecksum: SHA1: 811b2143a94af229ef74be88d50e1d37070b3025
+FileChecksum: MD5: 2fe5e509381b4f6d9f00d6b3748ff14f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/rest/dbroutes.js
+SPDXID: SPDXRef-item9082980
+FileChecksum: SHA1: 6eaa6cb406b79ce03c14c856d5a5aa507aa99435
+FileChecksum: MD5: d6952d28d65d0b598d68bb4489285ad7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/service/UserService.js
+SPDXID: SPDXRef-item9083060
+FileChecksum: SHA1: e50d3ec61a7ff70a4d9f6655233a09ddf70f9330
+FileChecksum: MD5: 5aefcaa8484582256ab567b6bf79b740
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/rest/authroutes.js
+SPDXID: SPDXRef-item9082983
+FileChecksum: SHA1: 32cd363dfa9c2409577ac539d910ef4db32f77f0
+FileChecksum: MD5: 0d6308c140ac1d131bb1846a07b4861c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/passport/local-login.js
+SPDXID: SPDXRef-item9083046
+FileChecksum: SHA1: bbd9b43678454896c171d2b776cc88ccb5e9412e
+FileChecksum: MD5: e715b0ea891497ed2619ef15ddeeb1e0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/rest/platformroutes.js
+SPDXID: SPDXRef-item9082982
+FileChecksum: SHA1: 62fc55a5e16a10a4a667a1bbe95090ccf38b63d5
+FileChecksum: MD5: 9aa3219304282daf99a54f69f3aa9f0b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/service/NetworkService.js
+SPDXID: SPDXRef-item9083061
+FileChecksum: SHA1: 85f094193c32de13c8b96d56de9709dba82dad39
+FileChecksum: MD5: 5da8a31df99a33d2629228c07e8ff06a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/e2e-test/docker-compose.yaml
+SPDXID: SPDXRef-item9083065
+FileChecksum: SHA1: a50c9f96368cf619ba3a711012b58d7739412e3a
+FileChecksum: MD5: c3c8437d0799c9b3e60796c5685b3a33
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/e2e-test/specs/runexplorer.sh
+SPDXID: SPDXRef-item9083076
+FileChecksum: SHA1: 6f5c43195b1b465b6805d51382eb125186eda4b6
+FileChecksum: MD5: 4494b1a31d50e29a970345228799e1e4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/e2e-test/specs/templates/docker/docker-compose.yaml
+SPDXID: SPDXRef-item9083079
+FileChecksum: SHA1: a4c2cef0c5e4b8eb2ea9130d41548e45862deaf2
+FileChecksum: MD5: b3688e9a81fc42f77f69fb799049b7fb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/e2e-test/specs/templates/k8s/fabric-k8s-pods.yaml
+SPDXID: SPDXRef-item9083084
+FileChecksum: SHA1: f7cd0aa1290d60512c7171eea7c05790955e7ef7
+FileChecksum: MD5: 5c5e4f177eb1022224c90b491041d0a3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/e2e-test/specs/stopexplorer.sh
+SPDXID: SPDXRef-item9083093
+FileChecksum: SHA1: 1b15a15f54e1cfc416ef3fbb3a833321088efa12
+FileChecksum: MD5: c95e19bac22fbe5d951b918dbf2320aa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/e2e-test/specs/go.mod
+SPDXID: SPDXRef-item9083095
+FileChecksum: SHA1: 5ca1bd21d75fed4c8361a64610ee07dc8abc96d0
+FileChecksum: MD5: fd34a6e05b6e2a240af5a2fbc9feb7cd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/Platform.js
+SPDXID: SPDXRef-item9083124
+FileChecksum: SHA1: 03a5e9906433b9d46275ec81e8b46cc0ccaa9144
+FileChecksum: MD5: f24f13a7c40e657e23bde232959d671f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/sync/SyncService.js
+SPDXID: SPDXRef-item9083129
+FileChecksum: SHA1: fc5646e1ca7b8abf7a6a9d04d7cadec924950918
+FileChecksum: MD5: ba2a9b409ab0995c6a490cce90b72c94
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/sync/SyncPlatform.js
+SPDXID: SPDXRef-item9083130
+FileChecksum: SHA1: 451660ebae43de7bc559ab2acdf77f76cfa221a7
+FileChecksum: MD5: edb73bfccaa06249afb3364688fe5b75
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/sync/FabricEvent.js
+SPDXID: SPDXRef-item9083131
+FileChecksum: SHA1: 8e327bb4dae2ceaff9ef6fd3ffc5be13edeac050
+FileChecksum: MD5: 48c1352fe669f2065ad01cf97ace061b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/FabricClient.js
+SPDXID: SPDXRef-item9083132
+FileChecksum: SHA1: 1a8092e1d55092b1779cdb9fb1b56ff865180ffb
+FileChecksum: MD5: 3063bba3a5a3c80aba904c9f1f3b1806
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/utils/FabricUtils.js
+SPDXID: SPDXRef-item9083119
+FileChecksum: SHA1: 59bb405a35406e8f7f1e05e94cca299603738492
+FileChecksum: MD5: 376d6c9e023ed11c1b388d2a4b5d8d27
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/Proxy.js
+SPDXID: SPDXRef-item9083133
+FileChecksum: SHA1: 855a4c6b2ab22ab70bed7ebf62b629df13e4424f
+FileChecksum: MD5: 7afbdbc9ed9fe38bb5e87818a8bcd2b0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/persistence/postgreSQL/PgService.js
+SPDXID: SPDXRef-item9083151
+FileChecksum: SHA1: e328eb1680dabc70ff69e62e26d3652d45af6384
+FileChecksum: MD5: 5e5a694f84dcaa0dec634c6c2799b219
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright ONECHAIN 2017 All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: blockchain-explorer/app/persistence/fabric/CRUDService.js
+SPDXID: SPDXRef-item9083153
+FileChecksum: SHA1: c301a710f2c4dd81ac4f12c6e9c470b8b7901230
+FileChecksum: MD5: 9e77820cbf9a76221673982af2252e7e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/persistence/fabric/MetricService.js
+SPDXID: SPDXRef-item9083154
+FileChecksum: SHA1: c1f1bf2d42128db1985881c8497e650022908a87
+FileChecksum: MD5: 4e05f0484a7f266214ee768b91e40d3c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/middleware/auth-check.js
+SPDXID: SPDXRef-item9083136
+FileChecksum: SHA1: 720f82004bedc76ff9b178dc86a117de197b1c71
+FileChecksum: MD5: 37b34c31cb1fd234f8aae56cbb10d5a0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/scripts/verify-license.sh
+SPDXID: SPDXRef-item9083170
+FileChecksum: SHA1: 4e5628118e9b2e4d18dee8e659520fd80bde333a
+FileChecksum: MD5: 175836028af6b84db1a835f8fca8747b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/persistence/fabric/postgreSQL/db/explorerpg.sql
+SPDXID: SPDXRef-item9083158
+FileChecksum: SHA1: 6cb0d9c807e1b7f582e5d767552ca7f88dc41580
+FileChecksum: MD5: f7ca2edbfb2addf1e0d5d48947f8fb08
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/.eslintignore
+SPDXID: SPDXRef-item9083314
+FileChecksum: SHA1: 8e357124804d7b9c1e80d8bd7c589577cd2a75ed
+FileChecksum: MD5: eb5d5a2632d743c0ffe8995daefc27c8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/start.sh
+SPDXID: SPDXRef-item9083315
+FileChecksum: SHA1: c2f1114a9007bf9bed50e10abca4b48c7b8b5465
+FileChecksum: MD5: e1c93485c72d93c3e052c02be524e9c3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/Dockerfile
+SPDXID: SPDXRef-item9083321
+FileChecksum: SHA1: 72b1a6c06409b6b0f98121cd38378f435d9bde81
+FileChecksum: MD5: f068b5a606f636a6f78183700e34ab67
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Tecnalia Blockchain LAB
+Copyright Tecnalia Research & Innovation (https://www.tecnalia.com) </text>
+ 
+
+##File
+
+FileName: blockchain-explorer/LICENSE
+SPDXID: SPDXRef-item9082921
+FileChecksum: SHA1: 92170cdc034b2ff819323ff670d3b7266c8bffcd
+FileChecksum: MD5: e3fc50a88d0a364313df4b21ef20c29e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/package.json
+SPDXID: SPDXRef-item9083036
+FileChecksum: SHA1: 34f98556585a2928a78e6ed64d5152f3ef1d1e9e
+FileChecksum: MD5: 8189796b52a8024d72d86fa424345bcb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/devenv/ESLint-README.md
+SPDXID: SPDXRef-item9082966
+FileChecksum: SHA1: de0c9d31d25b9d4397fee68259ecff6dbb38e49e
+FileChecksum: MD5: 354e56aae19e4976abaf6b4c4996a63f
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/project_lifecycle/active.md
+SPDXID: SPDXRef-item9083183
+FileChecksum: SHA1: b3909496373da56051c7c3d9718864744d8e2d6c
+FileChecksum: MD5: 5d20a398ee06312eb0be45b8c2ef86b7
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/project_lifecycle/deprecated.md
+SPDXID: SPDXRef-item9083176
+FileChecksum: SHA1: a8ecdd0f73c227046c5e3a5baeba41a6edc4ec1c
+FileChecksum: MD5: 697f9f3e91f3f467d60349a6bf5a5f6b
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/project_lifecycle/end-of-life.md
+SPDXID: SPDXRef-item9083180
+FileChecksum: SHA1: b26c65bd28b6082be48a19c5698472140181df3a
+FileChecksum: MD5: 3c4d59784c946a07f835aca09d957973
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/project_lifecycle/first-major-release.md
+SPDXID: SPDXRef-item9083178
+FileChecksum: SHA1: 5d30f3ac7c79d599d4a619712deed5ef9555d76a
+FileChecksum: MD5: 175f33cba46f8e85b152f16e606c6394
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/project_lifecycle/project-incubation-exit-criteria.md
+SPDXID: SPDXRef-item9083177
+FileChecksum: SHA1: 8aa51443b585330ad8d49ad33eccafbdc6d11dd5
+FileChecksum: MD5: 0eac3e1b90c15a30ae57abeec59230a9
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/project_lifecycle/proposal.md
+SPDXID: SPDXRef-item9083181
+FileChecksum: SHA1: b3e87cd966b657590a5d015a471564f3cb2bc31e
+FileChecksum: MD5: 0b8856e73e9606d0e24228bf7ade9d14
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/project_lifecycle/README.md
+SPDXID: SPDXRef-item9083179
+FileChecksum: SHA1: 56ac9efded15f1a76663228a15341cde37c830ec
+FileChecksum: MD5: 524d7bae527ecf81d2dee3667a79eee2
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/examples/net1/README.md
+SPDXID: SPDXRef-item9082925
+FileChecksum: SHA1: cc6986d5c88221799bafc1f9c30e58232a57bee0
+FileChecksum: MD5: efa6684478037888715519a7333d915f
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/release_notes/v0.3.4.md
+SPDXID: SPDXRef-item9082935
+FileChecksum: SHA1: 356f66de769f4fbaf8aac412ffc28bf2462a1d40
+FileChecksum: MD5: 3df6e317076ef08064eae4a02b0d6cbe
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/release_notes/v0.3.5.1.md
+SPDXID: SPDXRef-item9082948
+FileChecksum: SHA1: 5e5acdc65e309eea6435dbd5514bea273417f992
+FileChecksum: MD5: 323199bb16a3a32ca0f15fba285e0e97
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/release_notes/v1.0.0-rc2.md
+SPDXID: SPDXRef-item9082940
+FileChecksum: SHA1: 4e7954b458538628b56876a239f4e7aa921260d4
+FileChecksum: MD5: 6f477dd6b3d827c71b41ed94bb4424c0
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/persistence/postgreSQL/CONFIGURE-TLS-CONNECTION-TO-POSTGRESQL.md
+SPDXID: SPDXRef-item9083150
+FileChecksum: SHA1: a0365d3f0af919afca2d9de7bbfbca9d3c555152
+FileChecksum: MD5: ffe4d01c24b079a9a5f1f8b7da78d8c2
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/artifacts/help/Test-ubuntu-install-composer.md
+SPDXID: SPDXRef-item9083026
+FileChecksum: SHA1: 58b2ba45c1225973a54e09c15ab9c7900a3eee82
+FileChecksum: MD5: 54b7dcc0e114e4c8d4e4fdcc18dc612b
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/e2e-test/E2E-TEST-README.md
+SPDXID: SPDXRef-item9082731
+FileChecksum: SHA1: f85818698514af24492d4e701176ae1e20040c7f
+FileChecksum: MD5: 77d57b7c3d58aa7fc8c5d172565eca01
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/README.md
+SPDXID: SPDXRef-item9082749
+FileChecksum: SHA1: a1df5b2a8e08dd6af5abfd1c7c7f1d3d41c26ff6
+FileChecksum: MD5: df1e816fea63163326fb7018b60ebf73
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/swagger.json
+SPDXID: SPDXRef-item9083165
+FileChecksum: SHA1: 335a812b3403a685f250638252abd39760c5874b
+FileChecksum: MD5: 4f1601d10afa9d98f940911bed8e5cbb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/examples/net1/config.json
+SPDXID: SPDXRef-item9082926
+FileChecksum: SHA1: 33e058ae19eb7a1566c17a8e23000f3708e60d58
+FileChecksum: MD5: d8b9c0259e2fe14b4c62f59ae4a9d822
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/release_notes/v0.3.5.md
+SPDXID: SPDXRef-item9082942
+FileChecksum: SHA1: cf9918585e0bbc1d9ec8e605e462bc856d84e977
+FileChecksum: MD5: a4e52f786003f8eb78ff6978f53d45d0
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/release_notes/v0.3.6.1.md
+SPDXID: SPDXRef-item9082937
+FileChecksum: SHA1: f0734ae792bd139359c84bdf345e625d3931d53b
+FileChecksum: MD5: 558ffb0613cf85e8824dbff055175806
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/release_notes/v0.3.6.md
+SPDXID: SPDXRef-item9082934
+FileChecksum: SHA1: 1f76bc3fab48e2af294b0ab20a1b1c8c2efffac2
+FileChecksum: MD5: f6adaa714685f5b7bbade924550aa089
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/release_notes/v0.3.7.md
+SPDXID: SPDXRef-item9082936
+FileChecksum: SHA1: 0e9b58c24af465594a7e58ea33acd8a5d4d8867d
+FileChecksum: MD5: a4072d72c8f3f805422405f37f1fe2df
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/release_notes/v0.3.8.md
+SPDXID: SPDXRef-item9082944
+FileChecksum: SHA1: 12eb52758d795f61afe5fc23cbbb6bb0a9938e59
+FileChecksum: MD5: f17fc09fb401f7d3263d49927079b21e
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/release_notes/v0.3.9.1.md
+SPDXID: SPDXRef-item9082938
+FileChecksum: SHA1: de454764cda760ce555f0d8898bd3e914ad703d2
+FileChecksum: MD5: 9e515971570e5c4ddb02ab566efa12d3
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/release_notes/v0.3.9.2.md
+SPDXID: SPDXRef-item9082941
+FileChecksum: SHA1: 213128ca4c35f567abd09afb3b8fea92c177b1ff
+FileChecksum: MD5: 785d098b16a80d8d439151e85f19e194
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/release_notes/v0.3.9.3.md
+SPDXID: SPDXRef-item9082947
+FileChecksum: SHA1: 9ed537bef0c56dd4bab2f6d549754e0f4ceb87ab
+FileChecksum: MD5: 56860d5ccf7c91e33bc8289e6c22168f
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/release_notes/v0.3.9.4.md
+SPDXID: SPDXRef-item9082949
+FileChecksum: SHA1: 955716950558037bc266683bcd5eff2f69cb47c0
+FileChecksum: MD5: 3ee7a46e15da420661968c2b69d1222d
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/release_notes/v0.3.9.5.md
+SPDXID: SPDXRef-item9082939
+FileChecksum: SHA1: dd05fbf7fc668c5b3957cc82b3a68812c6edc3f1
+FileChecksum: MD5: 5a2c8c2839cc84d1af0c41bfbcca0cc1
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/release_notes/v0.3.9.md
+SPDXID: SPDXRef-item9082946
+FileChecksum: SHA1: b9440145f71daa134fe5b41132d94314f891cbac
+FileChecksum: MD5: c6bdba56465079922489a1441875b42f
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/appconfig.json
+SPDXID: SPDXRef-item9083164
+FileChecksum: SHA1: 113280cd95effd271b47d7c1845c1607e431c734
+FileChecksum: MD5: 305b2cc8a5eade1342025e1f5b993ded
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/CONFIG-BALANCE-TRANSFER-HLEXPLORER.md
+SPDXID: SPDXRef-item9082914
+FileChecksum: SHA1: 436f5b3a5c5cd81f0eb627bb9c8e11b6ad4d41f1
+FileChecksum: MD5: b6ec47dc5310d2913d392cf7ee9352cf
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/CONFIG-CELLO-HLEXPLORER.md
+SPDXID: SPDXRef-item9083322
+FileChecksum: SHA1: f6749f416dc4956c2983fff667559c9f537ca295
+FileChecksum: MD5: 75724405f10bc892b36e5865b17353f9
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/CONFIG-COMPOSER-HLEXPLORER.md
+SPDXID: SPDXRef-item9082918
+FileChecksum: SHA1: 7b9aa524f899a06156f8725fad9af8bd22bc74d5
+FileChecksum: MD5: 5f1e2a45f35d3645d4d3929b789ea1b9
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/CONFIG-FABCAR-HLEXPLORER.md
+SPDXID: SPDXRef-item9082955
+FileChecksum: SHA1: 2aab4de96196c3176dbf383d68646bded1fe90b2
+FileChecksum: MD5: 99eebb0861d62a00509a9216c1cb5e94
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/CONFIG-HTTPS-HLEXPLORER.md
+SPDXID: SPDXRef-item9082952
+FileChecksum: SHA1: 444d1dd4f8a2d8ef75adf234dd9c584724d332f4
+FileChecksum: MD5: d01b2cbb294d961e658ffa4213254416
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/CONFIG-OPERATIONS-SERVICE-HLEXPLORER.md
+SPDXID: SPDXRef-item9083166
+FileChecksum: SHA1: 82018d0ea8f8bfae68a6f0634bab4bdeedac31ee
+FileChecksum: MD5: e3f163c876b772ee9f875863cc59108e
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/artifacts/operations/balance-transfer/balance-transfer-grafana-dashboard.json
+SPDXID: SPDXRef-item9083110
+FileChecksum: SHA1: 3e2ede2ce74ef948863aa65cfd0f20510000a416
+FileChecksum: MD5: 4c722ab572c6c24bc7951585064144ad
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/connection-profile/balance-transfer.json
+SPDXID: SPDXRef-item9083123
+FileChecksum: SHA1: fd1c0aa797c6a253d2c03443d0b9e1e6f957bcfa
+FileChecksum: MD5: 23450ba4ff8bb4ae9a3f145cfa644d26
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/connection-profile/fabcar.json
+SPDXID: SPDXRef-item9083122
+FileChecksum: SHA1: 1dc3a5509e20a489439d9c9ad32cd7894c1574c4
+FileChecksum: MD5: ca396d8cc9d09f9fb65ba8a79053f394
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/config.json
+SPDXID: SPDXRef-item9083116
+FileChecksum: SHA1: 33e058ae19eb7a1566c17a8e23000f3708e60d58
+FileChecksum: MD5: d8b9c0259e2fe14b4c62f59ae4a9d822
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/public/manifest.json
+SPDXID: SPDXRef-item9082908
+FileChecksum: SHA1: 0bc704976cc7832141a09d4c6a40df46160efe94
+FileChecksum: MD5: 5ca80f0d1a65daa18b1f900cf820b0b4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/components/View/PageNotFound.spec.js
+SPDXID: SPDXRef-item9082806
+FileChecksum: SHA1: 1853d21eca6f87ad1e7ff7d0157cb879bb73f348
+FileChecksum: MD5: 9fafedcb5082c8f4c68e05f3e5ef9a00
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/SECURITY.md
+SPDXID: SPDXRef-item9083317
+FileChecksum: SHA1: e660f6ea4773436388ec9acd3c9fb1c17d7491c5
+FileChecksum: MD5: 6db98192fc5dc1710f376a97410f5d07
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/project_lifecycle/Incubation.md
+SPDXID: SPDXRef-item9083182
+FileChecksum: SHA1: fde7f610dc6e81dddb16b489e1b6119b5d903e63
+FileChecksum: MD5: a57c743d595ea22e1e5f49de9b548f6e
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+LicenseInfoInFile: LicenseRef-Apache
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/release_notes/v1.0.0-rc1.md
+SPDXID: SPDXRef-item9082933
+FileChecksum: SHA1: c9ffe695f5e05a4811daa378f76a079e77a30188
+FileChecksum: MD5: d2622a00f9e37afad7e768e46337d9c1
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/artifacts/help/Test-ubuntu-install-cello.md
+SPDXID: SPDXRef-item9083027
+FileChecksum: SHA1: 2a9dccf300de9ec24af98c2ba6cbcbfb6a1f9802
+FileChecksum: MD5: 8edd2c3366843769f7c1689df470dd4a
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/e2e-test/specs/smoke-test-input.yml
+SPDXID: SPDXRef-item9082741
+FileChecksum: SHA1: 266010c340761c774b785061af071e0d503e6443
+FileChecksum: MD5: f1cddc08160ddac625d7c8e79ee351ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/static/images/chaincode.jpg
+SPDXID: SPDXRef-item9082859
+FileChecksum: SHA1: 816980d0cc1e2e1344714c43a468dbc233bad2e6
+FileChecksum: MD5: eba366707696009ff235b844df103123
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/static/images/Explorer_Logo.svg
+SPDXID: SPDXRef-item9082860
+FileChecksum: SHA1: 7569ff4762b63658a830783dc64331dd0cbd1310
+FileChecksum: MD5: ed510af49c8c65468f775274fb64031f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/static/images/blockOpen.png
+SPDXID: SPDXRef-item9082861
+FileChecksum: SHA1: b1543120f8bd7b9048d4bb36c433d921f1d93336
+FileChecksum: MD5: 06779c24cc886be7e45fc9cf06a95e9d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/src/static/images/Hyperledger_Explorer_Logo_Color.png
+SPDXID: SPDXRef-item9082862
+FileChecksum: SHA1: 90d7b613c6a9f1ad680ea24f55ec6665dd41a2b1
+FileChecksum: MD5: b10e5464a5f4c52099147d82ba513131
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/.eslintrc.json
+SPDXID: SPDXRef-item9082905
+FileChecksum: SHA1: 375f19210c034d1a3f5875ac83e52fdcb87e4294
+FileChecksum: MD5: c18bf7f9b3552fc1b80bb7cec0c486e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/public/favicon.ico
+SPDXID: SPDXRef-item9082907
+FileChecksum: SHA1: 616649555e7e23f4e93f57318a43596f9bb68b1f
+FileChecksum: MD5: feed43464f7a7ac2a06b3536feaf7111
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/client/package-lock.json
+SPDXID: SPDXRef-item9082912
+FileChecksum: SHA1: 8cb14ec8c02aee5bb16819e4c23a45e8291e658e
+FileChecksum: MD5: 7e2e7658e256d87a97e5039b295d5632
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/.eslintrc.json
+SPDXID: SPDXRef-item9082919
+FileChecksum: SHA1: 87808ca02fd83f3341619be1e13c261a05ea08f7
+FileChecksum: MD5: 2162f7331d284a1108a7e5d8da16c425
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/examples/net1/connection-profile/first-network.json
+SPDXID: SPDXRef-item9082928
+FileChecksum: SHA1: 605fed2b7771c73e617f1508697ac5f3c5267040
+FileChecksum: MD5: 285bdfddc5eb335b9d8285d68bf5b919
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/devenv/diagrams/app/persistance.png
+SPDXID: SPDXRef-item9082972
+FileChecksum: SHA1: ce6c9c21d95c14c97cc9e2ac36044b3a0141cc3e
+FileChecksum: MD5: 0fc512d3fad82977a5096544d5ee5553
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/devenv/diagrams/app/platform.png
+SPDXID: SPDXRef-item9082973
+FileChecksum: SHA1: 05250cae777bb71d604176d886005dd6798a44b6
+FileChecksum: MD5: 2d5895311bd3a76e1cc903ba91f2efa9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/devenv/diagrams/app/explorer.png
+SPDXID: SPDXRef-item9082974
+FileChecksum: SHA1: e39af5904360a1bc91143e036373c502b1c40217
+FileChecksum: MD5: e7ac0570a9a10c0727e62fc48fe4448d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/DCO.md
+SPDXID: SPDXRef-item9082977
+FileChecksum: SHA1: c0b11d854f176a5413e239aaea6d17d278e26e6a
+FileChecksum: MD5: b56f4e1bc490ca482c91fe8f37714354
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/explorerconfig.json
+SPDXID: SPDXRef-item9082984
+FileChecksum: SHA1: fc3449c16ca4b734d67a4fb1f07f18dc8038063d
+FileChecksum: MD5: 864d16291c9853ae8606d5d4575e2bb7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/fixtures/enroll.json
+SPDXID: SPDXRef-item9082988
+FileChecksum: SHA1: 8a94cba3debb338fcf23b0082edeac4671532162
+FileChecksum: MD5: f677fa259ab40722441daec9d89a4e4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/fixtures/networklist.json
+SPDXID: SPDXRef-item9082989
+FileChecksum: SHA1: 06410987bbf2423a33672eb1a720b8c69d150c1f
+FileChecksum: MD5: e79a0cae03c1fa0d448ed8a5710547a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/fixtures/changechannel.json
+SPDXID: SPDXRef-item9082990
+FileChecksum: SHA1: 5e1f6e30431d4a72989aabb49b942081cb751901
+FileChecksum: MD5: e91332b3f2c950e8851de5d10cc23add
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/fixtures/transaction.json
+SPDXID: SPDXRef-item9082991
+FileChecksum: SHA1: 7dbb1a356cd86d3eecf79a009287e085617d4f59
+FileChecksum: MD5: 6270eedaffcc9d74ba94f07e928e94ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/fixtures/reqNoOrgs.json
+SPDXID: SPDXRef-item9082992
+FileChecksum: SHA1: 0a0a8962fd44d562e4403ec8d9b9bb1f80bf585c
+FileChecksum: MD5: 51ae7956421962c1b4e4cdbc3334ede3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/fixtures/peers.json
+SPDXID: SPDXRef-item9082993
+FileChecksum: SHA1: 7cec9bb843c2ee1deb999f436cbc4032aac01ab6
+FileChecksum: MD5: 68e217afa0104f37e78e6d81f5081d71
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/fixtures/status.json
+SPDXID: SPDXRef-item9082994
+FileChecksum: SHA1: cbb3e324265987e51fae07f39e85d08c1825b486
+FileChecksum: MD5: 7f2fcefafcf9bbd89fad67157a0938f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/fixtures/blocksbyminute.json
+SPDXID: SPDXRef-item9082995
+FileChecksum: SHA1: f3ba86654bc7c9f21119bc90829b24cb4d874548
+FileChecksum: MD5: fd4d393999319719904100579f24b7b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/fixtures/blocktransaction.json
+SPDXID: SPDXRef-item9082996
+FileChecksum: SHA1: 937773b7a107e46809f2e28827663faa851b9ca1
+FileChecksum: MD5: b8036dc40b211ddac3f6afbb779e2af8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/fixtures/reqMultiOrgs.json
+SPDXID: SPDXRef-item9082997
+FileChecksum: SHA1: 6449ddc508982f4d86b760d07111c0f8c4e1d63a
+FileChecksum: MD5: 020d6445d5a9f1bf8596b77c1f17e569
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/fixtures/blocksbyhour.json
+SPDXID: SPDXRef-item9082998
+FileChecksum: SHA1: f3ba86654bc7c9f21119bc90829b24cb4d874548
+FileChecksum: MD5: fd4d393999319719904100579f24b7b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/fixtures/channels.json
+SPDXID: SPDXRef-item9082999
+FileChecksum: SHA1: 9bff9b64eeeb1be6408776b5f9b843708925a4ef
+FileChecksum: MD5: c83ba6e5d994f9aea6e974f2391c0da2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/fixtures/login.json
+SPDXID: SPDXRef-item9083000
+FileChecksum: SHA1: 45872173845d4e63b12d5cfe04ee40de21b6fd10
+FileChecksum: MD5: dc76f9688e1feb97823f1e21afee5afd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/fixtures/currentchannel.json
+SPDXID: SPDXRef-item9083001
+FileChecksum: SHA1: 5e1f6e30431d4a72989aabb49b942081cb751901
+FileChecksum: MD5: e91332b3f2c950e8851de5d10cc23add
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/fixtures/chaincode.json
+SPDXID: SPDXRef-item9083002
+FileChecksum: SHA1: f9d5eb7797dc150669a01c3fbc3b1742526baa80
+FileChecksum: MD5: 3e20a5df8f78920144877181be9da099
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/fixtures/reqOneOrg.json
+SPDXID: SPDXRef-item9083003
+FileChecksum: SHA1: cf448a8f7fe20bda4ebcf555955a5e8eb18bdec9
+FileChecksum: MD5: 1d7578086bf27dc8edd7c5e0a3542c16
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/fixtures/block.json
+SPDXID: SPDXRef-item9083004
+FileChecksum: SHA1: ae255c586eae0b6ed8c92c7ca0d755f1c4b0aed4
+FileChecksum: MD5: 53bfc45ef13d9494fc0414421fdb523b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/fixtures/txbyminute.json
+SPDXID: SPDXRef-item9083005
+FileChecksum: SHA1: f3ba86654bc7c9f21119bc90829b24cb4d874548
+FileChecksum: MD5: fd4d393999319719904100579f24b7b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/fixtures/txbyorg.json
+SPDXID: SPDXRef-item9083006
+FileChecksum: SHA1: 78181ae3f7909ce1c145fe7853fc38c269753a3d
+FileChecksum: MD5: ddb9780dd7f02ae6b474fddae624e7fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/fixtures/txbyhour.json
+SPDXID: SPDXRef-item9083007
+FileChecksum: SHA1: f3ba86654bc7c9f21119bc90829b24cb4d874548
+FileChecksum: MD5: fd4d393999319719904100579f24b7b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/fixtures/blockactivity.json
+SPDXID: SPDXRef-item9083008
+FileChecksum: SHA1: 6fde4bbd7522f38531a94fa9bdb479285c2c24a3
+FileChecksum: MD5: 0018c920a18b0a1383d0f30f6ab52bee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/fixtures/register.json
+SPDXID: SPDXRef-item9083009
+FileChecksum: SHA1: 8a94cba3debb338fcf23b0082edeac4671532162
+FileChecksum: MD5: f677fa259ab40722441daec9d89a4e4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/fixtures/blockandtx.json
+SPDXID: SPDXRef-item9083010
+FileChecksum: SHA1: c65511e7b849e53872fefbad2dfcaa6eeb702574
+FileChecksum: MD5: 6f887ba29f5d2d1b05075aa33f9c59db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/fixtures/channelsinfo.json
+SPDXID: SPDXRef-item9083011
+FileChecksum: SHA1: a171371644cd8b743e95333059e5a7903ac4275b
+FileChecksum: MD5: 4bb092f56b0ef96d2b838bcd80c9c2c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/artifacts/hellochannel.tx
+SPDXID: SPDXRef-item9083022
+FileChecksum: SHA1: 523f12b63dcf65bf1b840af7fc8c6d3ebd023d9d
+FileChecksum: MD5: 416a8d6f6442c670718d291ac60edf00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/test/package-lock.json
+SPDXID: SPDXRef-item9083041
+FileChecksum: SHA1: 2eecdf09128c9e7aa3698f74bb09d982821cd8c2
+FileChecksum: MD5: 608339aa814fe88c618b92a2c4694965
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/e2e-test/runTestSuite.sh
+SPDXID: SPDXRef-item9083064
+FileChecksum: SHA1: 7f09de0764b5e4f3d8bdf85829ecc7f1c3c0e54e
+FileChecksum: MD5: e3449ce789b61bcae4faf909cd2bd553
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/e2e-test/specs/apitest-input-multiprofile.yml
+SPDXID: SPDXRef-item9083074
+FileChecksum: SHA1: 23da6f6419d39731ea149d212978e20668018173
+FileChecksum: MD5: 3960bf1f2513d07351b7894908debc80
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/e2e-test/specs/apitest_def_test.go
+SPDXID: SPDXRef-item9083075
+FileChecksum: SHA1: 46971b854ee1de2991fd21c28a81077ac5c857f7
+FileChecksum: MD5: d72b5dedd576d32aab1366722fa62d6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/e2e-test/specs/apitest_suite_test.go
+SPDXID: SPDXRef-item9083086
+FileChecksum: SHA1: 9f14ed960adab824938b77527ffbe31215108e65
+FileChecksum: MD5: 4624c2f204a176a455bdfb3fb558eff5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/e2e-test/specs/go.sum
+SPDXID: SPDXRef-item9083087
+FileChecksum: SHA1: 016d0412558052015c3fb2694f05b009beb9ce54
+FileChecksum: MD5: 626f86673ddff097037b989001a0b59b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/e2e-test/specs/apitest_utils_test.go
+SPDXID: SPDXRef-item9083088
+FileChecksum: SHA1: af267de5ec8f9649ebf8af0a7e42f7226d718b62
+FileChecksum: MD5: 6312e1707c8f49a8435ae0e78ace6b58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/e2e-test/specs/apitest-input-multiprofile-invoke-common.yml
+SPDXID: SPDXRef-item9083089
+FileChecksum: SHA1: 8758766ad69ed49c0661f0899ba4eb1d2e9f08b7
+FileChecksum: MD5: bc89a00b5b354df23d4540864b7dfd4c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/e2e-test/specs/apitest-input-singleprofile_addnewch.yml
+SPDXID: SPDXRef-item9083090
+FileChecksum: SHA1: 976d18519d4fd91ee6988854424ea89ae661d405
+FileChecksum: MD5: 2d532a117390dd22d6e21e5c36564cb7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/e2e-test/specs/apitest-input-singleprofile.yml
+SPDXID: SPDXRef-item9083091
+FileChecksum: SHA1: b1b7a0d7df0da916b4d2d99d78a1bed41863ac40
+FileChecksum: MD5: c8ddeb2ef2e11b51af3a7894db2c6ca0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/e2e-test/specs/apitest-input-multiprofile-invoke-org1.yml
+SPDXID: SPDXRef-item9083092
+FileChecksum: SHA1: 5f88155e7d02cc61a78be3a441c9f2d309157b6e
+FileChecksum: MD5: cb427f2f10ce8d2ae8a82fd11318ab90
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/e2e-test/specs/genchannelartifacts.sh
+SPDXID: SPDXRef-item9083094
+FileChecksum: SHA1: 9601b4dfdf9ad046033bbf6de03ed33bb20378a9
+FileChecksum: MD5: 4cb70f043a7ffc23e20d92cd6490e326
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/e2e-test/specs/apitest_test.go
+SPDXID: SPDXRef-item9083096
+FileChecksum: SHA1: 59e84855ba1d0f7e042e690921a9caafc5758a54
+FileChecksum: MD5: e22f4281d09de900ee3c501a6a553b66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/e2e-test/specs/apitest-input-multiprofile-invoke-org2.yml
+SPDXID: SPDXRef-item9083097
+FileChecksum: SHA1: f1aa8d55ba54d4f3603e9368fd90009de1ea2cc7
+FileChecksum: MD5: e778bd1ef4078702171f738ddf467027
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/artifacts/operations/grafana_conf/provisioning/dashboards/dashboard.yaml
+SPDXID: SPDXRef-item9083103
+FileChecksum: SHA1: 45d4284130c62cf0053786883d8e7b7b93186e85
+FileChecksum: MD5: c3f96a9bf531a5b0d08d41edeb2a8b6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/artifacts/operations/grafana_conf/provisioning/notifiers/.gitkeep
+SPDXID: SPDXRef-item9083105
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/app/platform/fabric/artifacts/operations/grafana_conf/provisioning/datasources/datasource.yaml
+SPDXID: SPDXRef-item9083107
+FileChecksum: SHA1: fa02245e7330371a3fe9e4ef03f406277fe6f736
+FileChecksum: MD5: a9c54ce6f4fb3a6e0da96806563f9eae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/images/lf-sandbox-a.png
+SPDXID: SPDXRef-item9083192
+FileChecksum: SHA1: 00e54c139bb3140cdf38bd2c71a974c8a98e9b66
+FileChecksum: MD5: 42a46bfc676e6724986980c926617402
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/images/Jira4.png
+SPDXID: SPDXRef-item9083193
+FileChecksum: SHA1: b32e87840de8bf5c27640e5e7453224c4af76279
+FileChecksum: MD5: 5c61287d56c5765188dc684896e4aa94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/images/gerritSettings.png
+SPDXID: SPDXRef-item9083194
+FileChecksum: SHA1: be55f958b4aa1d63317788f339fc867a30a7c47d
+FileChecksum: MD5: 9fb3998fa1aac2dc14f8d1fc938c2fbe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/images/GitCloneCmd.png
+SPDXID: SPDXRef-item9083195
+FileChecksum: SHA1: 03894dd73ba17f831b923cf3276f5258dccc8628
+FileChecksum: MD5: 9a6cdff3bf0770ddef24ff4b7f5a268f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/images/AddSSH1.png
+SPDXID: SPDXRef-item9083196
+FileChecksum: SHA1: d511cbc7bc35824af69bc14bbaa905e91a813888
+FileChecksum: MD5: 1cb2c85597aef6572a985df6bb176ff6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/images/Hyperledger_Explorer_Logo_Color.png
+SPDXID: SPDXRef-item9083197
+FileChecksum: SHA1: 90d7b613c6a9f1ad680ea24f55ec6665dd41a2b1
+FileChecksum: MD5: b10e5464a5f4c52099147d82ba513131
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/images/logs_dir.png
+SPDXID: SPDXRef-item9083198
+FileChecksum: SHA1: dede56a1a092e5e0b486006f5b997d9d0587dd06
+FileChecksum: MD5: 20c817823660bd84bdf03428e511b0b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/images/Jira.png
+SPDXID: SPDXRef-item9083199
+FileChecksum: SHA1: ed717ca2079bf17bb10171cc0015c4c0a2d749dc
+FileChecksum: MD5: 694ab3e632e55041f8bfc7b82fef2066
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/hl_dark_theme.png
+SPDXID: SPDXRef-item9083249
+FileChecksum: SHA1: be78147f1a516897843fcf15ee768ad314efb655
+FileChecksum: MD5: b18dabdfddf2c3aaa31141781045c11a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/hl_link_icon_to_block_details.png
+SPDXID: SPDXRef-item9083250
+FileChecksum: SHA1: 2d9fe0345c21bc45b460f5a8511ee2e016ce2cbf
+FileChecksum: MD5: fd41d33bbca8001283ebb3c47de63f8d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/logs_subdirs.png
+SPDXID: SPDXRef-item9083251
+FileChecksum: SHA1: 8f55e5ae8d18072c32d1ff5a0f8096383811e82b
+FileChecksum: MD5: fc3690111aebe49b58a4f54b905ee48d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/diagram_routes.png
+SPDXID: SPDXRef-item9083252
+FileChecksum: SHA1: c89e6649c4f5aa989e0e8355ae07b72bf2bf1cab
+FileChecksum: MD5: 920c42e105d9cbf2ed2a1cc7bc7a737b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/azure_runs.png
+SPDXID: SPDXRef-item9083253
+FileChecksum: SHA1: 671eb2ddb57e1ec05ac2cba043cc5f47596f19b7
+FileChecksum: MD5: f75dce54a8e4833b4ac2d7a6b5d542be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/azure_hlexplorer.png
+SPDXID: SPDXRef-item9083254
+FileChecksum: SHA1: 3e1cf0cca1e5ed2c3fd5361796137ebd0e9197b0
+FileChecksum: MD5: c85abd687c689b5856e58a9581403c18
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/hle_tx_list.png
+SPDXID: SPDXRef-item9083255
+FileChecksum: SHA1: bf33310c3f9fff061b2fe4452481a4daf52069bc
+FileChecksum: MD5: 8d0e6e4d518b57d3d875bf4f8a55f402
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/hl_swagger_home.png
+SPDXID: SPDXRef-item9083256
+FileChecksum: SHA1: 18344e8ddd15ce7dd2370208ef5d4531e0c90d8e
+FileChecksum: MD5: 1525db481829d6902d9fd7f046429dc6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/azure_jobs.png
+SPDXID: SPDXRef-item9083257
+FileChecksum: SHA1: b72aaceaaf805183326a985b96fd4fa47cafe16d
+FileChecksum: MD5: fedf59bc15a8a68257b3bcb908d29f17
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/sync_process.png
+SPDXID: SPDXRef-item9083258
+FileChecksum: SHA1: cf6b1dd4c096fbc4fb1084d15a2cdb9e531aaa5b
+FileChecksum: MD5: 4389db68b990171de327cdc85de18ceb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/hl_channel_list.png
+SPDXID: SPDXRef-item9083259
+FileChecksum: SHA1: 2ef749c733db7fe816728973f67315150016c3c1
+FileChecksum: MD5: 74b551330a0c84818eccae6327a21e19
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/hl_blocks_per_hour.png
+SPDXID: SPDXRef-item9083260
+FileChecksum: SHA1: 3f28dfde5aba59ddf5d5c01e48b4998269836ab3
+FileChecksum: MD5: a4f6b44e57e13be98c1d31f8efed6c03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/host_sync.png
+SPDXID: SPDXRef-item9083261
+FileChecksum: SHA1: f6b5909b88d392315a07c812516946dedfc67af8
+FileChecksum: MD5: 7dcea88eb717cbf3d476b3757d59cc8a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/diagram_client_app_components.png
+SPDXID: SPDXRef-item9083262
+FileChecksum: SHA1: b44c24b3b64f25aecd284d1ffdbaee00d478e29e
+FileChecksum: MD5: 0380aff0733aed54ce364f3e951950e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/diagram_sync_js.png
+SPDXID: SPDXRef-item9083263
+FileChecksum: SHA1: 6feeb20760b4c6c79efface2d7e669ffad3193e7
+FileChecksum: MD5: 63c2bbb6e0cb474051e92ce54675e7b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/hl_new_block_notification_panel.png
+SPDXID: SPDXRef-item9083264
+FileChecksum: SHA1: 2c68a31a5862936533954f1ea9b957a74520aea8
+FileChecksum: MD5: eea5e0f7f39358453b13f3525bd16ab4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/azure_code_coverage_single_file.png
+SPDXID: SPDXRef-item9083265
+FileChecksum: SHA1: 58985c3f040e002aca462524853d35f35bf023ec
+FileChecksum: MD5: 36a667cddd25fdcb27b18f8413819af7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/hl_blocks_per_minute.png
+SPDXID: SPDXRef-item9083266
+FileChecksum: SHA1: bc494608d42fcde4fa0f47417bc5e2e31865e4fe
+FileChecksum: MD5: 30499b062329379cdd0bbab8768e14a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/diagram_explorer_js.png
+SPDXID: SPDXRef-item9083267
+FileChecksum: SHA1: 459d74c3e874c852915fd04f488e648d92bb5dd7
+FileChecksum: MD5: 23e240e90eaac0ff8d027653eb471f2f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/azure_code_coverage.png
+SPDXID: SPDXRef-item9083268
+FileChecksum: SHA1: 9df0f511b452da2f56fab2b813b974bde1cfc437
+FileChecksum: MD5: 3fca0af0eb3a631988c4dff266a44401
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/hl_latest_block_icon.png
+SPDXID: SPDXRef-item9083269
+FileChecksum: SHA1: 9e9c6deba206da44ca62e0db6ddbc98585b828f3
+FileChecksum: MD5: 875db8d43ab1ee737dafa24145eb0a96
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/hl_tx_details.png
+SPDXID: SPDXRef-item9083270
+FileChecksum: SHA1: 569fecb1e52fe6137b4225c40f3fd73fd6aac6e1
+FileChecksum: MD5: c9a629aa641949b7f66b52f7ac31bf77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/logs_console.png
+SPDXID: SPDXRef-item9083271
+FileChecksum: SHA1: 1ba3855cfd20a71c0c2ab4c706fa511efb27b916
+FileChecksum: MD5: 81d6eb53fc24c54bd1fe1092406cd402
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/hl_login.png
+SPDXID: SPDXRef-item9083272
+FileChecksum: SHA1: 01d54bbffa943b29636bfb9baf80ff3ed5a64499
+FileChecksum: MD5: cbe9542c9a6d91ea3693c48fc55d0638
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/hl_block_details_notification_panel.png
+SPDXID: SPDXRef-item9083273
+FileChecksum: SHA1: 9468e967da5fe2ab65496c268a0e988cd1144509
+FileChecksum: MD5: 51c2a807170e386403f9aff724bcb67b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/hl_new_user_window.png
+SPDXID: SPDXRef-item9083274
+FileChecksum: SHA1: cf953f36213a57c26d64f1c8e817a5dc5271fca5
+FileChecksum: MD5: 6d9b98f2232b6e913ba3516bbd35f4f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/logs_db.png
+SPDXID: SPDXRef-item9083275
+FileChecksum: SHA1: e6a944aac7f69cc7bbd9444a8f9e84bafdc03498
+FileChecksum: MD5: 86d4d9d7f253846a7a49cd85b332ec6a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/local_sync.png
+SPDXID: SPDXRef-item9083276
+FileChecksum: SHA1: 79f140c9a94519cba6e8c5f37dfada93d4fe69a6
+FileChecksum: MD5: d0c7058a6b1b6ff4221c9ff2db9200bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/db_model_diagram.png
+SPDXID: SPDXRef-item9083277
+FileChecksum: SHA1: 81ee5224be3bd44256199bdd7ed18f0ade3c04ab
+FileChecksum: MD5: afde23a2a5a8ee841af42fcb3603f70d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/hl_ui_high_level.png
+SPDXID: SPDXRef-item9083278
+FileChecksum: SHA1: a5013b72501d7a11aa2074cf2745acb4d124d83a
+FileChecksum: MD5: 594714bf29aeadfc29bca5e82fc1a503
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/hl_explorer_architecture.png
+SPDXID: SPDXRef-item9083279
+FileChecksum: SHA1: 1f5c09d3c8bb844a657b73ef43167d8455312c19
+FileChecksum: MD5: d0279359ba113f3d7cf814d2192a29de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/GitCloneCmd.png
+SPDXID: SPDXRef-item9083280
+FileChecksum: SHA1: 7a2e30f81e47746ae640e97852e5e287fdca765a
+FileChecksum: MD5: 2e062528f8ad19409582c307396a2e0c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/hl_block_details_window.png
+SPDXID: SPDXRef-item9083281
+FileChecksum: SHA1: 199d8729c3f2a12c98605fbdd46275f3d1930ef4
+FileChecksum: MD5: 8a64f5b17d24a2e1e39b855098cbbca9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/hl_user_registration.png
+SPDXID: SPDXRef-item9083282
+FileChecksum: SHA1: 58ce7d26d2c71f538c87cb15279136331f429f34
+FileChecksum: MD5: fb781dd877d1027982d95b608a81f123
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/hl_tx_count_minute.png
+SPDXID: SPDXRef-item9083283
+FileChecksum: SHA1: 9c74fd04a4ef1c36fca3f12fbe8e6a665ebb4bf4
+FileChecksum: MD5: 8df2ceaf215fb5e5e23397b0cea843b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/diagram_main_js.png
+SPDXID: SPDXRef-item9083284
+FileChecksum: SHA1: eb3b7af9db09a68bfec7e54dae756a4f1890462a
+FileChecksum: MD5: 4e7da35d1b769d530f0440cc942ee478
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/db_service_diagram.png
+SPDXID: SPDXRef-item9083285
+FileChecksum: SHA1: 05f86e82f926a7edd8cb690bb7b41c3c87994c2e
+FileChecksum: MD5: bdf9ff9d0e37e21cace1e5d93d0961f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/logs_app.png
+SPDXID: SPDXRef-item9083286
+FileChecksum: SHA1: a5bfe3fe3d3f8f42162c77db21122f813559ef8c
+FileChecksum: MD5: aec1e733ab718c4d116075c56d14defc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/hl_sync_diagram.png
+SPDXID: SPDXRef-item9083287
+FileChecksum: SHA1: e9e6167f7b219fb3c9dc4904d618fd6738ed3b9d
+FileChecksum: MD5: 18f122892eb6008e313e80621308e8d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/diagram_sync_package.png
+SPDXID: SPDXRef-item9083288
+FileChecksum: SHA1: 860705773959d55262db957e06d34f8493b81cad
+FileChecksum: MD5: 75a3c3bf3a8682e2f31bd6d6113b2a12
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/clone_download_button.png
+SPDXID: SPDXRef-item9083289
+FileChecksum: SHA1: 939601d1aa082f3c7488f35e201a53e021447e88
+FileChecksum: MD5: f1d2356290fffaa3d9480acb16ed075e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/hl_block_list.png
+SPDXID: SPDXRef-item9083290
+FileChecksum: SHA1: 69172fb48661aaea6dceefc123c627ef1196ff75
+FileChecksum: MD5: 4d931ccbf1949ad092a0444f33f927f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/hl_transaction_list.png
+SPDXID: SPDXRef-item9083291
+FileChecksum: SHA1: 9c3f451798302f70ce60a8524e2fbfb0f206c1fc
+FileChecksum: MD5: 7c284c65847a7ddf5f670b8995a085e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/hl_block_filter.png
+SPDXID: SPDXRef-item9083292
+FileChecksum: SHA1: 3e01df2b609181b750ebfd2bf78c9c530a0fcce7
+FileChecksum: MD5: 753ed1b79905debc415f68ab5a95d0fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/diagram_synchronizer_js.png
+SPDXID: SPDXRef-item9083293
+FileChecksum: SHA1: fc97fbba5465a89054919a69eb4b987a3283aff2
+FileChecksum: MD5: 70afc6d20269d8079014b6f0f9c8a8e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/hle_dashboard.png
+SPDXID: SPDXRef-item9083294
+FileChecksum: SHA1: c453f95c800e9aeacc76f11b4755c7b4595eec50
+FileChecksum: MD5: 98b001d8f9549ccc070f31303c0b58f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/hl_tx_count_per_hour.png
+SPDXID: SPDXRef-item9083295
+FileChecksum: SHA1: d8f59f303f284b123f5033cbea8f630ae54410b4
+FileChecksum: MD5: 1d7288f80fdcdfd5bc17de2783380408
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/hl_dashboard.png
+SPDXID: SPDXRef-item9083296
+FileChecksum: SHA1: 7e4e2ffbe92855739330e84835ef4439f7e7690c
+FileChecksum: MD5: 7a86bc69aeb7fc03b2d001d3632c3b9a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/diagram_gateway_class.png
+SPDXID: SPDXRef-item9083297
+FileChecksum: SHA1: 1df55cf54594605bb5f10d41c3265523a317cd19
+FileChecksum: MD5: f09fd2868dea6559b369d4cac62c4255
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/hl_network.png
+SPDXID: SPDXRef-item9083298
+FileChecksum: SHA1: 89da1882e61137c374e8f788be242477eb6b20b0
+FileChecksum: MD5: 59d73982ba074bae760f284473af485a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/hl_chaincodes.png
+SPDXID: SPDXRef-item9083299
+FileChecksum: SHA1: f21f4204a131c64f65f2275022ade5dfeac0fcb9
+FileChecksum: MD5: 7cc9d874aca0bc29e983a6e28efb8009
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/docs/source/_static/images/diagram_persistence_package.png
+SPDXID: SPDXRef-item9083300
+FileChecksum: SHA1: 6fbe2027b651e45d5c221a386ec82865754dee82
+FileChecksum: MD5: 2e803b8646f27c334358f02ae0b0326e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: blockchain-explorer/package-lock.json
+SPDXID: SPDXRef-item9083316
+FileChecksum: SHA1: 52a7a04a061caa5b9a019dc9e0033c664eb6d0bb
+FileChecksum: MD5: 3ffb5865a822a759ab076bfb4cc2bcd6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Apache
+LicenseName: Apache
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-Dual-license
+LicenseName: Dual-license
+ExtractedText: <text> Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
+When software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. </text>
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
