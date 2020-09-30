@@ -1,0 +1,2232 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_transact-2020-09-01.zip_1600097672.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2020-09-14T15:34:32Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: transact-2020-09-01.zip
+PackageFileName: transact-2020-09-01.zip
+SPDXID: SPDXRef-upload2733
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 2b3aa71e65a6b7b2dc4c7c8c2358076d1d0aef33
+PackageChecksum: SHA1: 23a3675ea2964c964e1fa46e18e4cebb846455a7
+PackageChecksum: MD5: 9475c5ef8ca200a210f2c42d1c0b070f
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2733
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: transact-sdk-go/c/c11_support.h
+SPDXID: SPDXRef-item10446592
+FileChecksum: SHA1: 1d3dc7498850842bc123b1769bd01f93c6dd5e19
+FileChecksum: MD5: 4709d7852eda3d0d15eafba63e4be640
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 Intel Corporation </text>
+ 
+
+##File
+
+FileName: transact-sdk-go/c/loader.c
+SPDXID: SPDXRef-item10446591
+FileChecksum: SHA1: 0e6fc6f242e6ca26108622b3f3973804748bd00c
+FileChecksum: MD5: f97f20e3e7f6fa36149f99c0a9f9e917
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 Intel Corporation </text>
+ 
+
+##File
+
+FileName: transact-sdk-go/c/c11_support.c
+SPDXID: SPDXRef-item10446593
+FileChecksum: SHA1: c7edbbd627102bbadf96527a678015866b5f41ed
+FileChecksum: MD5: 42dd788068dcb205cb53bac0ed8f2358
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 Intel Corporation </text>
+ 
+
+##File
+
+FileName: transact-contrib/LICENSE
+SPDXID: SPDXRef-item10446480
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact-rfcs/LICENSE
+SPDXID: SPDXRef-item10446547
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact-sdk-go/transactions/signing/core.go
+SPDXID: SPDXRef-item10446568
+FileChecksum: SHA1: 27872eb2681e2de091e629d7dbee2312a045d11e
+FileChecksum: MD5: 01f4da8c3037e1af9e8bfc7cb7f23434
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 Intel Corporation </text>
+ 
+
+##File
+
+FileName: transact/bin/whitelist
+SPDXID: SPDXRef-item10446373
+FileChecksum: SHA1: 6fa58d0017bd9f227a687964226fdfe8ea7f5a22
+FileChecksum: MD5: 2bf6e4bcc70398a8f7d8f55bc7978780
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 Intel Corporation </text>
+ 
+
+##File
+
+FileName: transact-sdk-javascript/protos/sabre_payload.proto
+SPDXID: SPDXRef-item10446528
+FileChecksum: SHA1: 72affa76db49a3b471456ff5db40514805d33c23
+FileChecksum: MD5: 2de11f66950c780e35d0cc96ddbf0931
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/LICENSE
+SPDXID: SPDXRef-item10446356
+FileChecksum: SHA1: c4519cb21cf53ae964103c9ec80d0508883af3e3
+FileChecksum: MD5: 4a74db8ae475d2bd439d60ff9df4e3e3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact-sdk-go/LICENSE
+SPDXID: SPDXRef-item10446581
+FileChecksum: SHA1: c4519cb21cf53ae964103c9ec80d0508883af3e3
+FileChecksum: MD5: 4a74db8ae475d2bd439d60ff9df4e3e3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact/ci/publish-transact-crates
+SPDXID: SPDXRef-item10446347
+FileChecksum: SHA1: 302e80dde08f2f4ff1ed33b73ddc8bbea0fe8c60
+FileChecksum: MD5: d797597b4e90954dc5516335ef56288c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Bitwise IO </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/scheduler/parallel/mod.rs
+SPDXID: SPDXRef-item10446413
+FileChecksum: SHA1: ad8e7bcc38a9723119e967670541c9faa52d8b0c
+FileChecksum: MD5: eba927025c836b9a75bf911b3d06cea8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/execution/mod.rs
+SPDXID: SPDXRef-item10446455
+FileChecksum: SHA1: 037340e2391a353c046509e8fbce9cfcbd9be6c3
+FileChecksum: MD5: b645f49fae57d56d9c7a0ee0428f5707
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Bitwise IO, Inc. </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/scheduler/serial/execution.rs
+SPDXID: SPDXRef-item10446417
+FileChecksum: SHA1: a8ce73f14f725284c971e55ab45ae067a15a3aaf
+FileChecksum: MD5: 973bb41b39a2525f111ce6bc57277baf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/execution/adapter/mod.rs
+SPDXID: SPDXRef-item10446450
+FileChecksum: SHA1: e0c72c9f551d7b0d7d9696f7f5f3ab7a41fb158a
+FileChecksum: MD5: 7a127ea1278e7c492c949f3cc657e7f2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Bitwise IO, Inc. </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/handler/mod.rs
+SPDXID: SPDXRef-item10446444
+FileChecksum: SHA1: c0e1f677cfb3d7cdf4cad1b97e7f542333652a7d
+FileChecksum: MD5: b9d76c72000333c122aa2f4a868f5724
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 Bitwise IO, Inc.
+Copyright 2019 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/libtransact/protos/events.proto
+SPDXID: SPDXRef-item10446468
+FileChecksum: SHA1: efd76cd1c2131b3937fca704658b3e496793e088
+FileChecksum: MD5: 86f0544d9a9f43c1cbc2eaaef762c4ed
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 Intel Corporation </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/execution/adapter/error.rs
+SPDXID: SPDXRef-item10446448
+FileChecksum: SHA1: 703e0abcdf278f939f0855d674a7b2e6eaaec09f
+FileChecksum: MD5: 9021f43fcb9a42901290c634e73312eb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Bitwise IO, Inc.
+Copyright 2019 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/libtransact/protos/merkle.proto
+SPDXID: SPDXRef-item10446467
+FileChecksum: SHA1: 1d18a8f2fd7cc9b9e18023a0f7cef5e651a848a9
+FileChecksum: MD5: 2945d2456a39ee65f5ca1fee7f8e3d03
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: transact/libtransact/protos/batch.proto
+SPDXID: SPDXRef-item10446470
+FileChecksum: SHA1: e8ac104e890766e235c230af39283f312217070b
+FileChecksum: MD5: 0fa6f1ffe57c28378e24978d9999ae50
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016 Intel Corporation </text>
+ 
+
+##File
+
+FileName: transact-sdk-javascript/protos/batch.proto
+SPDXID: SPDXRef-item10446529
+FileChecksum: SHA1: e8ac104e890766e235c230af39283f312217070b
+FileChecksum: MD5: 0fa6f1ffe57c28378e24978d9999ae50
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016 Intel Corporation </text>
+ 
+
+##File
+
+FileName: transact/libtransact/protos/command.proto
+SPDXID: SPDXRef-item10446471
+FileChecksum: SHA1: f1dbff9fea746d85703f00feb5055f03d51561cd
+FileChecksum: MD5: aad80d60d068e9824d2754932c6c2f90
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/libtransact/protos/transaction.proto
+SPDXID: SPDXRef-item10446472
+FileChecksum: SHA1: c222563468dcf1b8582cb8eb7ba20fc2bbdfb4e2
+FileChecksum: MD5: 72f915dd55bd7ca522c3adecdfb83e52
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016 Intel Corporation </text>
+ 
+
+##File
+
+FileName: transact-sdk-javascript/protos/transaction.proto
+SPDXID: SPDXRef-item10446530
+FileChecksum: SHA1: c222563468dcf1b8582cb8eb7ba20fc2bbdfb4e2
+FileChecksum: MD5: 72f915dd55bd7ca522c3adecdfb83e52
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016 Intel Corporation </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/signing/error.rs
+SPDXID: SPDXRef-item10446383
+FileChecksum: SHA1: 904b2ba1557a76e65d239e8908eff704a0b568a2
+FileChecksum: MD5: 440698630ae80c574f629ad665ed41b7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Bitwise IO, Inc. </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/scheduler/serial/shared.rs
+SPDXID: SPDXRef-item10446415
+FileChecksum: SHA1: 5b7dc20ac1563ce764598b2d49bce55e10fd483c
+FileChecksum: MD5: de53254d8a1f992d10b52f663b622c7d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/signing/hash.rs
+SPDXID: SPDXRef-item10446381
+FileChecksum: SHA1: e78a5e577256597988c3dbe94dd69b00aaf14eee
+FileChecksum: MD5: c0bead273a5bbc8f89032a729a201608
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Bitwise IO, Inc. </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/execution/executor/reader.rs
+SPDXID: SPDXRef-item10446453
+FileChecksum: SHA1: 0d75db63306be63813b08417476b862a8b19aa08
+FileChecksum: MD5: 180922e83966f731946bd1cf1a85b19d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Bitwise IO, Inc. </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/protos.rs
+SPDXID: SPDXRef-item10446424
+FileChecksum: SHA1: 822ba589f0232bf2bf51c04f72146c43edd67f24
+FileChecksum: MD5: 32ca0c5464dcbd8177e7f618ac3fbefb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Bitwise IO, Inc. </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/state/hashmap.rs
+SPDXID: SPDXRef-item10446462
+FileChecksum: SHA1: 833d0c5f83dc7b7e897d4839b4f6c093e386d317
+FileChecksum: MD5: 2113a37f234c0a7f642145d702816182
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Bitwise IO, Inc. </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/execution/adapter/test_adapter.rs
+SPDXID: SPDXRef-item10446447
+FileChecksum: SHA1: 9147f0c6c888b5eafdd39a390da23d977748b6f4
+FileChecksum: MD5: 23e7d3ed40a12132411b004f9396ea6a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Bitwise IO, Inc. </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/signing/ursa.rs
+SPDXID: SPDXRef-item10446382
+FileChecksum: SHA1: de7afc691385a50fac10fb9836ce173a204f376d
+FileChecksum: MD5: 0c8cd3b49a9c1393f68431315dd814be
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Sovrin Foundation </text>
+ 
+
+##File
+
+FileName: transact/examples/address_generator/src/main.rs
+SPDXID: SPDXRef-item10446365
+FileChecksum: SHA1: 59e45c388e58838540cb1102ec2bb85fcfcfbe0a
+FileChecksum: MD5: 6f6cfe3e17ebc2af49381967e5c53332
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/signing/mod.rs
+SPDXID: SPDXRef-item10446384
+FileChecksum: SHA1: 75a0b585007c260e6a8e5c57e5ff615d1be3aed3
+FileChecksum: MD5: 840358b5c0f139184f0837ca1edd07ce
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Bitwise IO, Inc. </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/contract/address/key_hash.rs
+SPDXID: SPDXRef-item10446393
+FileChecksum: SHA1: d24aaeb63d089fa8399e373a92f953f8325bbabf
+FileChecksum: MD5: 990f1ae54ba6f95096d08968a51ba814
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/contract/address/double_key_hash.rs
+SPDXID: SPDXRef-item10446394
+FileChecksum: SHA1: a5b7fa6e97420890d91955eb620cbe8b40050c34
+FileChecksum: MD5: 31005f4163464f604c63b199d76437eb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/contract/address/triple_key_hash.rs
+SPDXID: SPDXRef-item10446396
+FileChecksum: SHA1: 072f4fdab18f1d611011910d180de9eb276dcee6
+FileChecksum: MD5: 2aec167a3b846f5f9b979a681f677a3c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/contract/context/error.rs
+SPDXID: SPDXRef-item10446400
+FileChecksum: SHA1: 2e76a7873b193d015bac2fb5419ca0a6d003c6d7
+FileChecksum: MD5: 67e493fe2289c818e938e3ad501e05d3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/contract/context/mod.rs
+SPDXID: SPDXRef-item10446401
+FileChecksum: SHA1: d49f3eeeaf32e363880698c01d5d386121fb9ddc
+FileChecksum: MD5: 7c61fee23b44cd4fa1ac3bb087215ae1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/contract/context/key_value.rs
+SPDXID: SPDXRef-item10446399
+FileChecksum: SHA1: e8b718f882f42f554c12232112d80a958eabd3fe
+FileChecksum: MD5: c7f886a6dbc17289bdac2833e7e15ba4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/protocol/mod.rs
+SPDXID: SPDXRef-item10446409
+FileChecksum: SHA1: b6cbf3601e12199556af386a47f05ceb4622782f
+FileChecksum: MD5: 49844405bf3dfe775bf88185df00eec6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/libtransact/protos/key_value_state.proto
+SPDXID: SPDXRef-item10446466
+FileChecksum: SHA1: 7516034948c4f553ce19260aed9238685a77afb0
+FileChecksum: MD5: 3d490272efc9e68303f9b2464f7346a8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/libtransact/protos/transaction_receipt.proto
+SPDXID: SPDXRef-item10446469
+FileChecksum: SHA1: 79e4dd86e9d75b57194160d49e4cd2fa4ae29ff5
+FileChecksum: MD5: ade35221de840a3fc51e4f4bd1434d0a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 Intel Corporation </text>
+ 
+
+##File
+
+FileName: transact-sdk-javascript/src/transactions/signing/secp256k1/index.spec.ts
+SPDXID: SPDXRef-item10446492
+FileChecksum: SHA1: d25d79685a05992ce7903fd847b484e0172d3cb5
+FileChecksum: MD5: a193651b88ce784562a4587bd96114c2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact-sdk-javascript/src/transactions/signing/secp256k1/index.ts
+SPDXID: SPDXRef-item10446494
+FileChecksum: SHA1: eb9efec2f63ea536b6745f69838b065f8c474bc3
+FileChecksum: MD5: 2abcbe91a5d7060bc87fa56761b10bb5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact-sdk-javascript/src/transactions/signing/secp256k1/signer.ts
+SPDXID: SPDXRef-item10446493
+FileChecksum: SHA1: 8b95f326a24011036149d92d7b45faff28f93478
+FileChecksum: MD5: cc3e9fef18cf5632f6437a56f8cf1c46
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact-sdk-javascript/src/transactions/signing/signer.ts
+SPDXID: SPDXRef-item10446498
+FileChecksum: SHA1: 64470c86bd5be38412860eb7460f8a962d04edd5
+FileChecksum: MD5: c8df86b1ae69f32f63fe1d6aaf5bd6ac
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact-sdk-javascript/src/transactions/signing/secp256k1/privateKey.ts
+SPDXID: SPDXRef-item10446495
+FileChecksum: SHA1: 1cf8dc2b288548abeb3110690374e0acbf89656f
+FileChecksum: MD5: 9f7e7b96706964826f341ac6d143d01f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact-sdk-javascript/src/transactions/signing/secp256k1/context.ts
+SPDXID: SPDXRef-item10446496
+FileChecksum: SHA1: 690b095b52ba3685768914beb861de7c80a5f995
+FileChecksum: MD5: 41f9337bc7fdc3037f54c17884a61654
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact-sdk-javascript/src/transactions/signing/index.ts
+SPDXID: SPDXRef-item10446499
+FileChecksum: SHA1: 57cdd09c9ed1948366e9568bb60dc25bed2423c8
+FileChecksum: MD5: f650d161987830e218e074ebb650ed55
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact-sdk-javascript/src/transactions/signing/secp256k1/publicKey.ts
+SPDXID: SPDXRef-item10446497
+FileChecksum: SHA1: a8168ce4ac6d80f0a032ec2e5624dac49a3c9839
+FileChecksum: MD5: df7d2a4415943ef757a1e12c9741982e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact-sdk-javascript/src/transactions/signing/context.ts
+SPDXID: SPDXRef-item10446501
+FileChecksum: SHA1: 276ed1a6444812a342baa8c62cc4a5264791bb05
+FileChecksum: MD5: e1f318ad25a28a9265f722a519c33534
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact-sdk-javascript/src/transactions/index.ts
+SPDXID: SPDXRef-item10446503
+FileChecksum: SHA1: f7f4cba6510fe03acab817fc5bafba24f22dbb4f
+FileChecksum: MD5: 4587797c7693bbf55b7e657a84f012d8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact-sdk-javascript/src/transactions/transaction/errors/index.ts
+SPDXID: SPDXRef-item10446507
+FileChecksum: SHA1: 75286d6fd0a56fd5efa0b4cad1f752cbb7839ad6
+FileChecksum: MD5: 613bd8c4c23ac9b3b83a774f912bd9cd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact-sdk-javascript/src/transactions/signing/publicKey.ts
+SPDXID: SPDXRef-item10446502
+FileChecksum: SHA1: 4d0c4261878137d8895be1d84e3ab0d2b870af23
+FileChecksum: MD5: f7c7161d1e710a068b609216132e27b7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact-sdk-javascript/src/transactions/transaction/index.ts
+SPDXID: SPDXRef-item10446505
+FileChecksum: SHA1: cf9b2039e1929dfc1a507786be3b30deecf943fc
+FileChecksum: MD5: c6cbc6118aadfe35917bbe54be18cbc8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact-sdk-javascript/src/transactions/signing/privateKey.ts
+SPDXID: SPDXRef-item10446500
+FileChecksum: SHA1: 262d4706524ff41a97fc482ddc36f1a7658e724a
+FileChecksum: MD5: 3fc07911f96d0e01cacdc3ca4fea3106
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact-sdk-javascript/src/transactions/transaction/errors/missingFieldError.ts
+SPDXID: SPDXRef-item10446509
+FileChecksum: SHA1: 0c51c39a310eddb5c9124083fe9c4b737069470e
+FileChecksum: MD5: 31b19e741c2443ca8f22453ac51c3fc7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact-sdk-javascript/src/transactions/transaction/errors/transactionBuildError.ts
+SPDXID: SPDXRef-item10446508
+FileChecksum: SHA1: 4cce1b0f0c586caec674efbfe654f679ada61cd2
+FileChecksum: MD5: 4946c84a5cc5eda1c3397d2863fa9dca
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact-sdk-javascript/src/transactions/batch/index.ts
+SPDXID: SPDXRef-item10446512
+FileChecksum: SHA1: 1e8b78dc615c6df9515f2b3a39dd209effe2a224
+FileChecksum: MD5: 5859dcd99f9eb4a910488a63a942ab34
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact-sdk-javascript/src/transactions/batch/errors/batchBuildError.ts
+SPDXID: SPDXRef-item10446515
+FileChecksum: SHA1: 85403c99dd014f80ee20b6c6aea3b9222e3b1493
+FileChecksum: MD5: e294db16f0e54ca3049f6088bf3e73f2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact-sdk-javascript/src/index.ts
+SPDXID: SPDXRef-item10446518
+FileChecksum: SHA1: ab839fc311b33bd14671de8d210d3c73d3a542f1
+FileChecksum: MD5: a5a8236852c2738968af6cc40236c1f1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact-sdk-javascript/src/sabre/transaction/index.ts
+SPDXID: SPDXRef-item10446522
+FileChecksum: SHA1: 0b312602ce8136aa0a2b62471cbfd6c9920c7c63
+FileChecksum: MD5: 350f57a9fc6474a4069008cedb7d8e82
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact-sdk-javascript/src/sabre/addressing.ts
+SPDXID: SPDXRef-item10446524
+FileChecksum: SHA1: da8257f75cb7d355c6875dea17cd7f43fffd944e
+FileChecksum: MD5: e00757dd3a4f6a9fc1e342520ef73ecd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact-sdk-javascript/src/transactions/batch/errors/index.ts
+SPDXID: SPDXRef-item10446516
+FileChecksum: SHA1: a1bf2ab5429ff6e6cd59a93e57f3f3c96214f176
+FileChecksum: MD5: 99ea4da9cf47950a847e7bc34ea72f01
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact-sdk-javascript/src/sabre/transaction/transactionBuilder.ts
+SPDXID: SPDXRef-item10446523
+FileChecksum: SHA1: f387ade36386b4b5a604009e6e18730e8afa3f8c
+FileChecksum: MD5: 96227dbb5556e1f460fa5f4554208ee0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact-sdk-javascript/src/transactions/batch/errors/missingFieldError.ts
+SPDXID: SPDXRef-item10446517
+FileChecksum: SHA1: aaa906a13b537f5c14193fdc5db5aff047a2d334
+FileChecksum: MD5: 09389001f3f541e43483d940589e6216
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact-sdk-javascript/scripts/compile_protobuf.js
+SPDXID: SPDXRef-item10446537
+FileChecksum: SHA1: dc0958e21edd3fc3cc8b59e0c914ee0ad410aa93
+FileChecksum: MD5: 59a7d8913bcc2e0f1820fb6a978e1fc1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact-sdk-javascript/.npmignore
+SPDXID: SPDXRef-item10446526
+FileChecksum: SHA1: d7c9b3800632117ff0f546802a225225fc19f010
+FileChecksum: MD5: 3572d22abeeae0ca587063c26b50e4a5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact-sdk-javascript/scripts/compile_protobuf.build.js
+SPDXID: SPDXRef-item10446538
+FileChecksum: SHA1: 5b61dd656d5c631fcea822e43ee0b7fccf2088ea
+FileChecksum: MD5: 9255949bcc815c9a5044cf2967f89b9d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact-sdk-javascript/.eslintignore
+SPDXID: SPDXRef-item10446539
+FileChecksum: SHA1: efe8b7bc069e847a7e3cbc58468eb2bfa36cfb7c
+FileChecksum: MD5: 5c15683a82f431f6dd2978d88e3ab820
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact-sdk-javascript/.gitignore
+SPDXID: SPDXRef-item10446535
+FileChecksum: SHA1: 83a623e88cb4beace0399718c9c8d470caf8a115
+FileChecksum: MD5: 75118378c5072a43835014584805be37
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/contract/mod.rs
+SPDXID: SPDXRef-item10446402
+FileChecksum: SHA1: 3fcefce25c41cf3daefba8e2a1a033fbc9c8a114
+FileChecksum: MD5: ee27c05edd0dbe87397e698818cf2187
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/contract/archive/error.rs
+SPDXID: SPDXRef-item10446390
+FileChecksum: SHA1: 156c8c7b407cfa3fee6d22a20a7b6b174dff2558
+FileChecksum: MD5: 8d2a114538b33020a887d79b9fbe5aea
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/database/redis.rs
+SPDXID: SPDXRef-item10446440
+FileChecksum: SHA1: 78b0b266ea61f1b12d4248152adfbb6c86321926
+FileChecksum: MD5: aa8535951499e6384d8486aca68dc8ef
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/database/lmdb.rs
+SPDXID: SPDXRef-item10446438
+FileChecksum: SHA1: b6652a7874e0a190a9e9fdadaaada3694b24306e
+FileChecksum: MD5: 744101a41264a9835db5dd988d1508f5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/database/btree.rs
+SPDXID: SPDXRef-item10446436
+FileChecksum: SHA1: c63d4c1c6044e0470d3d09f573bf2fdca948f2fb
+FileChecksum: MD5: bf0ecdc0a6ee1d989b837d0764dce57b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Bitwise IO, Inc. </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/database/sqlite.rs
+SPDXID: SPDXRef-item10446439
+FileChecksum: SHA1: 5a5938ec1a560314305bcb72d568f05999ad5271
+FileChecksum: MD5: 608c97ff83e02fcbca46cdf4b7a2756b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/database/mod.rs
+SPDXID: SPDXRef-item10446441
+FileChecksum: SHA1: ecdf4c788742a91a8dc43824e125a0f4e6565b36
+FileChecksum: MD5: 181b8888b61e99a6e31190ce0f0b80cd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: transact/libtransact/tests/state/mod.rs
+SPDXID: SPDXRef-item10446477
+FileChecksum: SHA1: 6fb36a3849fbc5dec82b0d037b188e65aca24475
+FileChecksum: MD5: 97d124922f292d4a1671b9104982b356
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/state/merkle/change_log.rs
+SPDXID: SPDXRef-item10446459
+FileChecksum: SHA1: 241e7e6e5e68292aae5c6c61d58c8c71f6421545
+FileChecksum: MD5: a49e47835ccc482acdfa10356b6c1f76
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Bitwise IO, Inc. </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/state/mod.rs
+SPDXID: SPDXRef-item10446463
+FileChecksum: SHA1: 94c84ebdb33f089bc448d9cd63b13921e5a89fde
+FileChecksum: MD5: d0fe2c6323da8dba8e8aa751ffa9a520
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Bitwise IO, Inc.
+Copyright 2019 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/libtransact/tests/state/merkle.rs
+SPDXID: SPDXRef-item10446476
+FileChecksum: SHA1: 579d07bd0ffb9f6ae24052f24060beef259f14eb
+FileChecksum: MD5: 8288004c2fe1781a09a34de6b08723e9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/libtransact/tests/mod.rs
+SPDXID: SPDXRef-item10446478
+FileChecksum: SHA1: cf75ecd63e1c9d79adc770485c25bf63c55a9384
+FileChecksum: MD5: f7977edceffa303c921fdb464b677fcd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact-sdk-javascript/src/transactions/batch/batchBuilder.ts
+SPDXID: SPDXRef-item10446513
+FileChecksum: SHA1: 43b17e53c997b1e8357b6ad3099d14700a63f144
+FileChecksum: MD5: 4596ddbc094fa328648fbd8067fe0328
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact-sdk-javascript/src/sabre/index.ts
+SPDXID: SPDXRef-item10446520
+FileChecksum: SHA1: 74d39ad8567adb960d1d2bb567b3b658c9fe2e26
+FileChecksum: MD5: 38e99d29b70f3fab7af0b08721a00558
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact-sdk-javascript/src/transactions/transaction/transactionBuilder.ts
+SPDXID: SPDXRef-item10446510
+FileChecksum: SHA1: c95cbd774832b0222ff91b9edbe420185024d23a
+FileChecksum: MD5: 582e985deb91890b01ef73f2920b6a95
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/justfile
+SPDXID: SPDXRef-item10446344
+FileChecksum: SHA1: aabd7beac05329cdeeda3ff7a5efe7c35d35cd2d
+FileChecksum: MD5: ad8f3de800a3934fbdf2df252b565620
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2020 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/lib.rs
+SPDXID: SPDXRef-item10446378
+FileChecksum: SHA1: e656ac5e9b749eec1d264c6abacd006b3a266e12
+FileChecksum: MD5: 3e756f9ff3256b56a735908e0685c1d7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Bitwise IO, Inc.
+Copyright 2019 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/examples/address_generator/Cargo.toml
+SPDXID: SPDXRef-item10446366
+FileChecksum: SHA1: 07b33b7b93110ed16b82bad5bbfc912231b50fca
+FileChecksum: MD5: 32911b37f55f2dbf0d3b8fd80e63bcb7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019-2020 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/contract/address/error.rs
+SPDXID: SPDXRef-item10446395
+FileChecksum: SHA1: 7492b759b92219492e88185b6b4c0cbb232f5ca0
+FileChecksum: MD5: f7fd6da7fc86ff457c30a5f7f87179f9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/contract/address/mod.rs
+SPDXID: SPDXRef-item10446397
+FileChecksum: SHA1: fc6f39e625b964843240244b83ea46d8531e8cad
+FileChecksum: MD5: dd0a2c8ddbe112652aeb93deddb09c32
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/workload/mod.rs
+SPDXID: SPDXRef-item10446387
+FileChecksum: SHA1: 4ca3c7532b3d178ad5ab308ef78bbfa25ad2e758
+FileChecksum: MD5: 3e1689fdb91bd7dd7020ae6728a081a1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Bitwise IO, Inc.
+Copyright 2019 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/contract/archive/mod.rs
+SPDXID: SPDXRef-item10446391
+FileChecksum: SHA1: 41aa9cd8e9d5f17c7724fc3013de14abf0167d02
+FileChecksum: MD5: ac2449685bfd1969cf5ab61c9d37521a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/protocol/batch.rs
+SPDXID: SPDXRef-item10446407
+FileChecksum: SHA1: 4513c3a1193d8a04dbdd95c2932fb9fba5a2a80b
+FileChecksum: MD5: c57eeb06b1069e41d8ae83be1694492c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Bitwise IO, Inc. </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/context/error.rs
+SPDXID: SPDXRef-item10446426
+FileChecksum: SHA1: 064a6cf050a54fe0b36e43bf1b570de94fed9e32
+FileChecksum: MD5: 253780cfa1fc75cf8aaf2b7b712eccf4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Bitwise IO, Inc. </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/families/mod.rs
+SPDXID: SPDXRef-item10446434
+FileChecksum: SHA1: 8858b8aeb66ab492c696a260ac3970539c0ed83f
+FileChecksum: MD5: 1f11ebcea3e1f172b25cdeef4c14bcff
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2020 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/families/command.rs
+SPDXID: SPDXRef-item10446432
+FileChecksum: SHA1: dc2a2ff002f07e22fa9271b192b248f57aa93511
+FileChecksum: MD5: b3b819a4f136470919d22eb1fcaa460f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/handler/error.rs
+SPDXID: SPDXRef-item10446443
+FileChecksum: SHA1: 04b61bff03ba524cfff2e6853cab98ca33b5ad27
+FileChecksum: MD5: 4df84c2f33e326827adc71dc04ebb841
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 Bitwise IO, Inc.
+Copyright 2019 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/database/error.rs
+SPDXID: SPDXRef-item10446437
+FileChecksum: SHA1: 61e60f4c40f8594ea0841a85fae15f003a72c463
+FileChecksum: MD5: 3037a1ca82885eec6ba2492cb660aec4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/execution/executor/internal.rs
+SPDXID: SPDXRef-item10446452
+FileChecksum: SHA1: f4b551bcab527e8e448493c30dacfb750537b60b
+FileChecksum: MD5: 6245fbf09e1392a3706ff21d15bde2f7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Bitwise IO, Inc. </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/execution/adapter/static_adapter.rs
+SPDXID: SPDXRef-item10446449
+FileChecksum: SHA1: 2104e7a1509553d457cffa65c9dfd6f7fde98e0b
+FileChecksum: MD5: 48347ca15d1ef22de6bbde546d6dedee
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/state/merkle/error.rs
+SPDXID: SPDXRef-item10446458
+FileChecksum: SHA1: fb5b7b2dfa68364ed3226a87bea19b1d8c3732ff
+FileChecksum: MD5: f928711ecc2a3f9ffe8b8f2847f40305
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/execution/executor/mod.rs
+SPDXID: SPDXRef-item10446454
+FileChecksum: SHA1: 9812aac11d907fd476d679351ec719a4df0d3e7d
+FileChecksum: MD5: 8d75375445945d2228e15c0aba2eb578
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Bitwise IO, Inc. </text>
+ 
+
+##File
+
+FileName: transact/libtransact/build.rs
+SPDXID: SPDXRef-item10446473
+FileChecksum: SHA1: f430911a2a658c28326a8a2cc0f0f5282c5135d3
+FileChecksum: MD5: 41902696c3e007c8991f249115b9feba
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Bitwise IO, Inc.
+Copyright 2020 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact-sdk-go/client/main.go
+SPDXID: SPDXRef-item10446558
+FileChecksum: SHA1: 205636b5b9ceda9e15e07e10528b087efd6eb57b
+FileChecksum: MD5: 8068bd52309d2140513562fe8f80d232
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Tyson Foods, Inc. </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/state/error.rs
+SPDXID: SPDXRef-item10446461
+FileChecksum: SHA1: 06002a6fd9199153b2425efc7f3bceffb13c5c12
+FileChecksum: MD5: 41437f0b7874e3aa14d2214c0c0a05f6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Bitwise IO, Inc. </text>
+ 
+
+##File
+
+FileName: transact-sdk-go/src/protobuf/transaction_pb2/transaction.pb.go
+SPDXID: SPDXRef-item10446562
+FileChecksum: SHA1: 730ee021f03d7443735a128683077f107261d7dd
+FileChecksum: MD5: 5e4f224e89e155b5862e0f9a3810d093
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016 Intel Corporation
+Copyright (C) 2020 Tyson Foods, Inc. </text>
+ 
+
+##File
+
+FileName: transact-sdk-go/transactions/signing/pem_loader.go
+SPDXID: SPDXRef-item10446569
+FileChecksum: SHA1: 915fc28984b27818cd6f1ba8289695ca55dfc2f0
+FileChecksum: MD5: 67fa7d440406a6ad4bc6f385f83b1c44
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 Intel Corporation
+Copyright 2020 Tyson Foods, Inc. </text>
+ 
+
+##File
+
+FileName: transact-sdk-go/src/protobuf/sabre_pb2/sabre_payload.pb.go
+SPDXID: SPDXRef-item10446565
+FileChecksum: SHA1: 4330218a523d47acfe2a32b7325a03605d1e838b
+FileChecksum: MD5: 1b26aa3bfa9445b01e088b58ec1680de
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2020 Cargill Incorporated
+Copyright (C) 2020 Tyson Foods, Inc. </text>
+ 
+
+##File
+
+FileName: transact-sdk-go/src/protobuf/transaction_pb2/batch.pb.go
+SPDXID: SPDXRef-item10446563
+FileChecksum: SHA1: dfde5180c0ef3b3e427edb19a7119920a82e25df
+FileChecksum: MD5: 35e1f8ae4ecb28d6c40816f8ecbd2e16
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016 Intel Corporation
+Copyright (C) 2020 Tyson Foods, Inc. </text>
+ 
+
+##File
+
+FileName: transact-sdk-go/transactions/signing/secp256k1.go
+SPDXID: SPDXRef-item10446570
+FileChecksum: SHA1: 8672362b571ee650efdacc3ae83b94d160683c91
+FileChecksum: MD5: 0f7fd118b050dc769a5303f6d2aa41fa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 Intel Corporation </text>
+ 
+
+##File
+
+FileName: transact-sdk-go/transactions/transaction_options.go
+SPDXID: SPDXRef-item10446573
+FileChecksum: SHA1: 6e8d8dd98640c3d8af2a5cad403cc8d31a224c96
+FileChecksum: MD5: 3d67f2c279b6dfa45e1d4057c0e4099c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Tyson Foods, Inc. </text>
+ 
+
+##File
+
+FileName: transact-sdk-go/transactions/transaction_builder.go
+SPDXID: SPDXRef-item10446574
+FileChecksum: SHA1: 3ffe53dee5859b98872b087611f57052b7e06d3a
+FileChecksum: MD5: 8bac89bc11c4f476817c6be2f9624dd9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Tyson Foods, Inc. </text>
+ 
+
+##File
+
+FileName: transact-sdk-go/transactions/batch_options.go
+SPDXID: SPDXRef-item10446575
+FileChecksum: SHA1: 2f1104eee927777b560587a56349bb6574b553e6
+FileChecksum: MD5: 2e01802b61b45ecd48520959cc94500f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Tyson Foods, Inc. </text>
+ 
+
+##File
+
+FileName: transact-sdk-go/transactions/signing/tests/secp2561_test.go
+SPDXID: SPDXRef-item10446572
+FileChecksum: SHA1: 01148e74014c11374ab00eaaee0043fa2cab60c2
+FileChecksum: MD5: 4152a47536dfbdc898e841e423f19a88
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 Intel Corporation </text>
+ 
+
+##File
+
+FileName: transact-sdk-go/transactions/batch_builder.go
+SPDXID: SPDXRef-item10446576
+FileChecksum: SHA1: 38cacd20f442422dab4bbc7e17448c42fca7e97f
+FileChecksum: MD5: 85348bd3589192e194a96980b655d73a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Tyson Foods, Inc. </text>
+ 
+
+##File
+
+FileName: transact-sdk-go/protos/batch.proto
+SPDXID: SPDXRef-item10446579
+FileChecksum: SHA1: cdf904094f21e623f3d10ccd080795a38fdbe8d3
+FileChecksum: MD5: 15568afd4f59f7a62029b1f61d76b730
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016 Intel Corporation
+Copyright (C) 2020 Tyson Foods, Inc. </text>
+ 
+
+##File
+
+FileName: transact-sdk-go/protos/sabre_payload.proto
+SPDXID: SPDXRef-item10446578
+FileChecksum: SHA1: a80f9fdfc231ad0d43ff34effa6e5ebbb7ff9b58
+FileChecksum: MD5: b95e09070518811d4713d31bcd81e828
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2020 Cargill Incorporated
+Copyright (C) 2020 Tyson Foods, Inc. </text>
+ 
+
+##File
+
+FileName: transact-sdk-go/protos/transaction.proto
+SPDXID: SPDXRef-item10446580
+FileChecksum: SHA1: cea66a576fbd99ac5328866050a1f19d424aa308
+FileChecksum: MD5: 414f025d50a441c339d3b0fc096223d2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016 Intel Corporation
+Copyright (C) 2020 Tyson Foods, Inc. </text>
+ 
+
+##File
+
+FileName: transact-sdk-go/sabre/contract.go
+SPDXID: SPDXRef-item10446588
+FileChecksum: SHA1: 99a4bef49cabd96f4f12ffe2dd81ed2c118947b0
+FileChecksum: MD5: 7c653854223a06fb9b804a8c61077900
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Tyson Foods, Inc. </text>
+ 
+
+##File
+
+FileName: transact-sdk-go/sabre/addressing/addressing.go
+SPDXID: SPDXRef-item10446584
+FileChecksum: SHA1: c49027519e60f9ac5f4ae5775eb9db7306d0a5f0
+FileChecksum: MD5: 29afdee520c8f2ddaa1b7df68064d38e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Tyson Foods, Inc. </text>
+ 
+
+##File
+
+FileName: transact-sdk-go/sabre/transaction_options.go
+SPDXID: SPDXRef-item10446585
+FileChecksum: SHA1: 4a544267ff703178ad6c9188ea0f0a68515d374a
+FileChecksum: MD5: 6534ec485b06fe9bfde2050e5f119ac3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Tyson Foods, Inc. </text>
+ 
+
+##File
+
+FileName: transact-sdk-go/sabre/transaction_builder.go
+SPDXID: SPDXRef-item10446586
+FileChecksum: SHA1: a8170914178ec372e713d8ad35a6d235f07b3157
+FileChecksum: MD5: d35da4b4dad3c5f113761a8c2c6dbe17
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Tyson Foods, Inc. </text>
+ 
+
+##File
+
+FileName: transact-sdk-go/sabre/payload_builder.go
+SPDXID: SPDXRef-item10446587
+FileChecksum: SHA1: 80cd1e8d5ae07bc923f8e9605230938f6a0c321d
+FileChecksum: MD5: 826fe604143121b5db0a54e3f06d29d8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Tyson Foods, Inc. </text>
+ 
+
+##File
+
+FileName: transact-sdk-go/sabre/payload_options.go
+SPDXID: SPDXRef-item10446589
+FileChecksum: SHA1: 436c12e5681006345071fed132a09d775f1dce13
+FileChecksum: MD5: e6b3f4dd3b4b7b4e181f4ab608835bb5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Tyson Foods, Inc. </text>
+ 
+
+##File
+
+FileName: transact-sdk-go/crypto/crypto.go
+SPDXID: SPDXRef-item10446597
+FileChecksum: SHA1: 2ef528fa43402878a0c40d86a57d2c46575540be
+FileChecksum: MD5: 42d09456d60d379595ec11f519d6bbdf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Tyson Foods, Inc. </text>
+ 
+
+##File
+
+FileName: transact-sdk-go/scripts/compile_protos.sh
+SPDXID: SPDXRef-item10446603
+FileChecksum: SHA1: 30bd243320d524e55d3ad662aebf067edd20d892
+FileChecksum: MD5: 6b369e7d353b5b7fbcd69c8677f8db28
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Tyson Foods, Inc. </text>
+ 
+
+##File
+
+FileName: transact-sdk-go/errors/errors.go
+SPDXID: SPDXRef-item10446599
+FileChecksum: SHA1: 4ad314a4d749e4cbc1c68c54ec34622d2d23dbff
+FileChecksum: MD5: 3e877883c20a621c75c38ffaebd34553
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Tyson Foods, Inc. </text>
+ 
+
+##File
+
+FileName: transact/examples/simple_xo/src/main.rs
+SPDXID: SPDXRef-item10446361
+FileChecksum: SHA1: b38ac27892b081b8cc44ce5cf10c4147e1e9f365
+FileChecksum: MD5: 32dae985cd14eaff858aea6690039696
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Cargill Incorporated
+Copyright 2019 IBM Corp. </text>
+ 
+
+##File
+
+FileName: transact/Jenkinsfile
+SPDXID: SPDXRef-item10446348
+FileChecksum: SHA1: fe00dc5d96f66004785b144fbac0bff377494498
+FileChecksum: MD5: 68f3dc997ff02786d5f022d8b2fe6a2b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 Bitwise IO, Inc. </text>
+ 
+
+##File
+
+FileName: transact/examples/simple_xo/Cargo.toml
+SPDXID: SPDXRef-item10446362
+FileChecksum: SHA1: f6feff7c9421fc05f3fbd213efecee6b1913c77d
+FileChecksum: MD5: b79b534eec6e286d5708f744cbfd94ea
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 IBM Corp.
+Copyright 2020 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/sawtooth.rs
+SPDXID: SPDXRef-item10446379
+FileChecksum: SHA1: e289f90c03d7242ed33e32a6d144c8c2f1b3eaee
+FileChecksum: MD5: 88ea8ba840f86aaf50ee0589a0e5576d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/protocol/command.rs
+SPDXID: SPDXRef-item10446405
+FileChecksum: SHA1: 0a94bf02d1f0d8b29f65a73ad7e88aad8635ccbb
+FileChecksum: MD5: a0880b6d62153c5e56aef654113ffc6f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/protocol/key_value_state.rs
+SPDXID: SPDXRef-item10446406
+FileChecksum: SHA1: fc4b7bf4028fd5ff3b805fd0963f2ffc5f1ddd88
+FileChecksum: MD5: adede2d47ebc87de6a15d1d8b9f46b60
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/protocol/transaction.rs
+SPDXID: SPDXRef-item10446404
+FileChecksum: SHA1: d390550ec62698ae7bdaf3d39bbc5cbb13d09c41
+FileChecksum: MD5: a9c76271c1a4027070e390103782d92b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Bitwise IO, Inc. </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/protocol/receipt.rs
+SPDXID: SPDXRef-item10446408
+FileChecksum: SHA1: d93b81fedc782bcd140d0ee6195e536a6d7435e8
+FileChecksum: MD5: 3f9f8c73a37a79ffe97e38c7db6e55e0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Bitwise IO, Inc. </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/scheduler/multi/shared.rs
+SPDXID: SPDXRef-item10446420
+FileChecksum: SHA1: 5de8002cc662c451884a7d5a68e4397e01b7d618
+FileChecksum: MD5: c23b26bd2eb4f01ec36ab6f45d0dd769
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/scheduler/serial/mod.rs
+SPDXID: SPDXRef-item10446418
+FileChecksum: SHA1: 71b1571042a8178f5f7e3d243c7a04ba1fad27d5
+FileChecksum: MD5: 8d75ed2513cb59cc5fbd23d4841458d4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/scheduler/serial/core.rs
+SPDXID: SPDXRef-item10446416
+FileChecksum: SHA1: c6b4f8abd550999ad947dbf9359ffbb4cd8dc63c
+FileChecksum: MD5: a01d39a54a47b29f73b345d1b51c730b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/scheduler/multi/mod.rs
+SPDXID: SPDXRef-item10446422
+FileChecksum: SHA1: e44dd190a16037f710ddfdc160834c52fde99cad
+FileChecksum: MD5: c65a5888946dbf2deb219583a04a4d73
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/scheduler/mod.rs
+SPDXID: SPDXRef-item10446423
+FileChecksum: SHA1: 3a54030135067cad833c5d1133d6192301bfa670
+FileChecksum: MD5: e592b45ed7da5a584e07d7f9ea19373d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Bitwise IO, Inc.
+Copyright 2019 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/context/manager/sync.rs
+SPDXID: SPDXRef-item10446428
+FileChecksum: SHA1: 32130eddc505b5e208c011092d21cc841ff0996a
+FileChecksum: MD5: f3561c86fb507d379d9433f87b2a3fb1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Bitwise IO, Inc.
+Copyright 2019 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/scheduler/multi/core.rs
+SPDXID: SPDXRef-item10446421
+FileChecksum: SHA1: 530717107158b338af12e1286235d50a93add3aa
+FileChecksum: MD5: 053f7a436ffde2c5c562313bef9b22bf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/libtransact/Cargo.toml
+SPDXID: SPDXRef-item10446464
+FileChecksum: SHA1: 10afffa74efcfe293e08ef730951aa4ab10b78f7
+FileChecksum: MD5: b6743d771036cb1e4482d8e5ccf1ee68
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2019 Bitwise IO, Inc.
+Copyright 2019-2020 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/state/merkle/mod.rs
+SPDXID: SPDXRef-item10446460
+FileChecksum: SHA1: 2da873541cbdfef926c784f4882916cb57dcbcfe
+FileChecksum: MD5: fe0ddc0f85e03a722b9441c6b04920d4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Intel Corporation
+Copyright 2019 Bitwise IO, Inc. </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/context/mod.rs
+SPDXID: SPDXRef-item10446430
+FileChecksum: SHA1: 3a929653d884bbb9bf07c148e0d23bbc92597b63
+FileChecksum: MD5: 1eadf25d8ba03055c7d3e4a0e63e0849
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Bitwise IO, Inc. </text>
+ 
+
+##File
+
+FileName: transact/libtransact/src/context/manager/mod.rs
+SPDXID: SPDXRef-item10446429
+FileChecksum: SHA1: 569ef4bbbeb29129b1770e3c70250f9f8d00665f
+FileChecksum: MD5: c70acd02cfe4b5e04862515e76aafab0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Bitwise IO, Inc.
+Copyright 2019 Cargill Incorporated </text>
+ 
+
+##File
+
+FileName: transact-sdk-go/NOTICES
+SPDXID: SPDXRef-item10446555
+FileChecksum: SHA1: e090bdec14b9e043297bce80dc5d623c0af63c49
+FileChecksum: MD5: 07de72dcfe69d15419e80af58eb731f9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016 Intel Corporation This product includes software developed as part of The Hyperledger/Transact repository (https://github.com/hyperledger/transact).
+Copyright 2017 Intel Corporation This product includes software developed as part of The Hyperledger/sawtooth-sdk-go repository https://github.com/hyperledger/sawtooth-sdk-go).
+Copyright 2018 Cargill Incorporated This product includes software developed as part of The Cargill/splinter repository (https://github.com/Cargill/splinter). </text>
+ 
+
+##File
+
+FileName: transact/CONTRIBUTING.md
+SPDXID: SPDXRef-item10446345
+FileChecksum: SHA1: 14e89d90b2fed37c352fd482e826d1edadcabbd2
+FileChecksum: MD5: 40a39cc9e6cd3a1b26882aefbc0af597
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact/README.md
+SPDXID: SPDXRef-item10446354
+FileChecksum: SHA1: a1bfe40c141ede60f58c75217b82b95d9e3297d7
+FileChecksum: MD5: 591edd1179029ecf48173880761358a6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact-rfcs/text/0000-transact-governance.md
+SPDXID: SPDXRef-item10446550
+FileChecksum: SHA1: f8cedd32a5443e4e90270a88bcb37a0629bea619
+FileChecksum: MD5: c626aecd4f36536836fb283f72ac375f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact-rfcs/README.md
+SPDXID: SPDXRef-item10446543
+FileChecksum: SHA1: 22b88207349da28b5b97ad5bd357a5c81a183bba
+FileChecksum: MD5: b64fe359ecd5d3bcf3c629e164020cc7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact-sdk-javascript/package.json
+SPDXID: SPDXRef-item10446534
+FileChecksum: SHA1: 78a4f3b4b4ca6df7a5b0df594bd269cf60a43812
+FileChecksum: MD5: 203d770ef315dee7f737df0823b61d57
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact-sdk-javascript/README.md
+SPDXID: SPDXRef-item10446487
+FileChecksum: SHA1: 53156a22ea3b1adde4e65daee6dfc1c8510c4c65
+FileChecksum: MD5: b17af41697c1aaf49b57a02c10468bd0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact/docker/compose/docker-compose.yaml
+SPDXID: SPDXRef-item10446351
+FileChecksum: SHA1: d50420d4817752b0abf8c910610b975c6dc890c6
+FileChecksum: MD5: e2dce619ce044780933914358bd8b792
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact/docker/Dockerfile
+SPDXID: SPDXRef-item10446352
+FileChecksum: SHA1: 22ae3758b6e8032333687263d8c304deb50be0bd
+FileChecksum: MD5: 5047bcf1eb7eabecc6ef8e2d3a3429ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact/RELEASE_NOTES.md
+SPDXID: SPDXRef-item10446353
+FileChecksum: SHA1: c08a263361ccf34d6576f4dabf6a08d030730478
+FileChecksum: MD5: 39a0990f842de26dba4178171df65404
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact/Cargo.toml
+SPDXID: SPDXRef-item10446355
+FileChecksum: SHA1: 2e538a8d8901c8b381cd3c009282fba126897a72
+FileChecksum: MD5: a6a8177cb77404c6311e8bf872f69ba9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact/.env
+SPDXID: SPDXRef-item10446357
+FileChecksum: SHA1: 765fb93aa92f89d260d1f1e4fb01ee28e90489e8
+FileChecksum: MD5: d6beb5ad8909c73887bfc1e007f14280
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact/.dockerignore
+SPDXID: SPDXRef-item10446367
+FileChecksum: SHA1: da46246b189dddd5e7058a044fffc8db98809f33
+FileChecksum: MD5: 8bcf9ca9e63b8e8b1e714d5a07b18047
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact/CODEOWNERS
+SPDXID: SPDXRef-item10446368
+FileChecksum: SHA1: 9dd51d069e304b1ed04d87fa5e0e5914812a3a71
+FileChecksum: MD5: 518536a3a0d624d8e96e8c3eac5f7dd4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact/.gitignore
+SPDXID: SPDXRef-item10446369
+FileChecksum: SHA1: 6ba38cdd1e929c72bedb2138459bd1c22b7b6fcf
+FileChecksum: MD5: 95eba8af894025ba5c5d471797463494
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact/bin/run_lint
+SPDXID: SPDXRef-item10446371
+FileChecksum: SHA1: 01181c7b4a932b10c6819d2f44229d9998b2f679
+FileChecksum: MD5: b6b8d9e227bd9917042b50e4f62973c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact/bin/run_tests
+SPDXID: SPDXRef-item10446372
+FileChecksum: SHA1: db25c9b625703c9c503c8171f83a9b8ec6ed3130
+FileChecksum: MD5: 2f62f267fbaa999ba46a721d3e4fec02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact/SECURITY.md
+SPDXID: SPDXRef-item10446374
+FileChecksum: SHA1: 3c1e9d34253f7c866cd08d9e1e976ca8ecd44197
+FileChecksum: MD5: fd5082d9c35456a3a6327fcc8a93e25d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact/MAINTAINERS.md
+SPDXID: SPDXRef-item10446375
+FileChecksum: SHA1: 4a119393bb46cb4f54d6c3f8c971d94734320ce5
+FileChecksum: MD5: 6a08e633f9e014ab8b6fb8066e6b4cc1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact/libtransact/src/workload/error.rs
+SPDXID: SPDXRef-item10446386
+FileChecksum: SHA1: c83fdc3a8bcdfddcc158ee1996d411fe4fc7fab1
+FileChecksum: MD5: 85e150c1ad531f5c13dd3936548905be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact/libtransact/src/scheduler/parallel/tree.rs
+SPDXID: SPDXRef-item10446412
+FileChecksum: SHA1: 8bee291077d0bc01a6f524e81f60a0277116a7c2
+FileChecksum: MD5: 10ad0b9f4edec6c4cd58af07024cbd41
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact/libtransact/src/families/xo.rs
+SPDXID: SPDXRef-item10446433
+FileChecksum: SHA1: cf2af868a01ffbe9212b6eb31aa20c93459ff55a
+FileChecksum: MD5: 0b408643482b0e77f4d25d6c993cf3cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact-contrib/CODEOWNERS
+SPDXID: SPDXRef-item10446481
+FileChecksum: SHA1: 9dd51d069e304b1ed04d87fa5e0e5914812a3a71
+FileChecksum: MD5: 518536a3a0d624d8e96e8c3eac5f7dd4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact-contrib/.gitignore
+SPDXID: SPDXRef-item10446482
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact-contrib/SECURITY.md
+SPDXID: SPDXRef-item10446483
+FileChecksum: SHA1: 3c1e9d34253f7c866cd08d9e1e976ca8ecd44197
+FileChecksum: MD5: fd5082d9c35456a3a6327fcc8a93e25d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact-contrib/MAINTAINERS.md
+SPDXID: SPDXRef-item10446484
+FileChecksum: SHA1: 4a119393bb46cb4f54d6c3f8c971d94734320ce5
+FileChecksum: MD5: 6a08e633f9e014ab8b6fb8066e6b4cc1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact-sdk-javascript/tsconfig.json
+SPDXID: SPDXRef-item10446486
+FileChecksum: SHA1: a36250954f85d3687e55d05d6c272d7775cb7d55
+FileChecksum: MD5: 35caf89297b0782a4d145a558049fb3f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact-sdk-javascript/.eslintrc
+SPDXID: SPDXRef-item10446525
+FileChecksum: SHA1: a42731289fe2f92f4136c4709f6da8d4a078a4fc
+FileChecksum: MD5: f91141c74654e8a657ea7cbe14fce888
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact-sdk-javascript/.prettierrc
+SPDXID: SPDXRef-item10446531
+FileChecksum: SHA1: d95cdc40f6b413a9445885e1176cbaa0814055d5
+FileChecksum: MD5: 491e7363fc5ee9c3e8400ef6fc9c1bbd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact-sdk-javascript/jest.config.js
+SPDXID: SPDXRef-item10446532
+FileChecksum: SHA1: f4e5dfeda65ef3859dfa979436054a4f50f7f5ed
+FileChecksum: MD5: 937cb5bb88ca9d4339bc64d965fdaf51
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact-sdk-javascript/CODEOWNERS
+SPDXID: SPDXRef-item10446533
+FileChecksum: SHA1: 1cb156073ef0c29db04c063c518f6414679d44cf
+FileChecksum: MD5: 0d48ed0d93e6804649614680d991e18c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact-sdk-javascript/SECURITY.md
+SPDXID: SPDXRef-item10446540
+FileChecksum: SHA1: 3c1e9d34253f7c866cd08d9e1e976ca8ecd44197
+FileChecksum: MD5: fd5082d9c35456a3a6327fcc8a93e25d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact-sdk-javascript/MAINTAINERS.md
+SPDXID: SPDXRef-item10446541
+FileChecksum: SHA1: 60235884efcd6847a5dd0c9c76e8b9f437bb7c6d
+FileChecksum: MD5: 5d6bd68ef009f5be23d30b4ebcc4ed7f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact-rfcs/0000-template.md
+SPDXID: SPDXRef-item10446544
+FileChecksum: SHA1: b286a7acfc58e5fdf365773e0ea01200ac3ed2b2
+FileChecksum: MD5: e3cd5aa0a7c8325f523935701c50d764
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact-rfcs/subteams/root.md
+SPDXID: SPDXRef-item10446546
+FileChecksum: SHA1: f20bad087175862203942aafdc805170d2a110b7
+FileChecksum: MD5: ca46c4405015406b59e637b70b0a187d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact-rfcs/CODEOWNERS
+SPDXID: SPDXRef-item10446548
+FileChecksum: SHA1: b752b8f3e7a53bbbf162e61514e2473db284f590
+FileChecksum: MD5: fbb094236045661fc54f1de994d2d413
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact-rfcs/.gitignore
+SPDXID: SPDXRef-item10446551
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact-rfcs/SECURITY.md
+SPDXID: SPDXRef-item10446552
+FileChecksum: SHA1: 3c1e9d34253f7c866cd08d9e1e976ca8ecd44197
+FileChecksum: MD5: fd5082d9c35456a3a6327fcc8a93e25d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact-rfcs/MAINTAINERS.md
+SPDXID: SPDXRef-item10446553
+FileChecksum: SHA1: a4fa6c9c33ddc93b87f2afccc4cfce772dda5550
+FileChecksum: MD5: 7d24c46c745fae95d955bfedac300590
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact-sdk-go/client/README.md
+SPDXID: SPDXRef-item10446557
+FileChecksum: SHA1: 5edc7b2206313cac9058acf375d80fc66d090551
+FileChecksum: MD5: 44d2347bb05a21ae9f2e7d7413cd0840
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact-sdk-go/go.sum
+SPDXID: SPDXRef-item10446594
+FileChecksum: SHA1: 5ddebfbe20eb83f3e3abe3fd9d6e75d27c5faace
+FileChecksum: MD5: a82b355baaf666b206222ea70d69eb1e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact-sdk-go/CODEOWNERS
+SPDXID: SPDXRef-item10446595
+FileChecksum: SHA1: 9dd51d069e304b1ed04d87fa5e0e5914812a3a71
+FileChecksum: MD5: 518536a3a0d624d8e96e8c3eac5f7dd4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact-sdk-go/BUILD.md
+SPDXID: SPDXRef-item10446600
+FileChecksum: SHA1: ce4135bd578c98ad51dcdd265cbc68686f9781c5
+FileChecksum: MD5: 1a16dbac76472b97a70de41afaf5ca4e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact-sdk-go/.gitignore
+SPDXID: SPDXRef-item10446601
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact-sdk-go/go.mod
+SPDXID: SPDXRef-item10446604
+FileChecksum: SHA1: 45f2d70d96288f90596692a73b867b464f3f4597
+FileChecksum: MD5: 4418c6e36dc25a0faf984c7e5e25eb15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact-sdk-go/SECURITY.md
+SPDXID: SPDXRef-item10446605
+FileChecksum: SHA1: 3c1e9d34253f7c866cd08d9e1e976ca8ecd44197
+FileChecksum: MD5: fd5082d9c35456a3a6327fcc8a93e25d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: transact-sdk-go/MAINTAINERS.md
+SPDXID: SPDXRef-item10446606
+FileChecksum: SHA1: 4a119393bb46cb4f54d6c3f8c971d94734320ce5
+FileChecksum: MD5: 6a08e633f9e014ab8b6fb8066e6b4cc1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Dual-license
+LicenseName: Dual-license
+ExtractedText: <text> Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
+When software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. </text>
+
