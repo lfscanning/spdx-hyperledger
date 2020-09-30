@@ -1,0 +1,3029 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_ursa-2020-09-01.zip_1600097682.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2020-09-14T15:34:42Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: ursa-2020-09-01.zip
+PackageFileName: ursa-2020-09-01.zip
+SPDXID: SPDXRef-upload2734
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 7d53c0f5b65b21ab5bcc4d8af64a0294dab84025
+PackageChecksum: SHA1: 508b0e5659f805b29ab388ada2bf641fb642f7e6
+PackageChecksum: MD5: 8a6df8f94c1bee149559f2b54ab0a82a
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2734
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: ursa-rfcs/README.md
+SPDXID: SPDXRef-item10446668
+FileChecksum: SHA1: de7ddde642dc763ddd258f054e2f7d5c5d823c27
+FileChecksum: MD5: 18496d7bc8e3fbd34462c177757086f4
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-rfcs/LICENSE
+SPDXID: SPDXRef-item10446670
+FileChecksum: SHA1: ea50605ca80f45e1cac988d15acfc06ff950b0d7
+FileChecksum: MD5: 2ab724713fdaf49e4523c4503bfd068d
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: LicenseRef-Public-domain
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-rfcs/0000-template.md
+SPDXID: SPDXRef-item10446669
+FileChecksum: SHA1: 1a000c2df9178a0e78c95d1f468144b6c58ca54e
+FileChecksum: MD5: a27e22e36c64a8c2fcc4392caa705858
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-docs/LICENSE
+SPDXID: SPDXRef-item10446647
+FileChecksum: SHA1: ea50605ca80f45e1cac988d15acfc06ff950b0d7
+FileChecksum: MD5: 2ab724713fdaf49e4523c4503bfd068d
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: LicenseRef-Public-domain
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/Cargo.toml
+SPDXID: SPDXRef-item10446856
+FileChecksum: SHA1: 55fbf9deb480be8c26a527ef6e80555321f07a1b
+FileChecksum: MD5: 12da2a7b174c6c495cfd82cd2df178a9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bbs/Cargo.toml
+SPDXID: SPDXRef-item10446941
+FileChecksum: SHA1: cca058237f4f5dec820bc17b3801d52cda3fe2e2
+FileChecksum: MD5: af3de7405b2cd86fca9e4eb1282d1b12
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/Cargo.toml
+SPDXID: SPDXRef-item10446793
+FileChecksum: SHA1: 3ff9d020b324d6906ddc8fdb032333253ce1a150
+FileChecksum: MD5: fc6da2a8403fa21a988b452b61f4bf21
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright 2018, Hyperledger
+copyright 2019, Hyperledger </text>
+ 
+
+##File
+
+FileName: ursa/docs/source/community/code_of_conduct.rst
+SPDXID: SPDXRef-item10446958
+FileChecksum: SHA1: 4ce3bd188d08a2ec03eec200e6932927a2884b12
+FileChecksum: MD5: 1001b03d9a3e7ad77ae344bdf740a942
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/docs/source/community.rst
+SPDXID: SPDXRef-item10446960
+FileChecksum: SHA1: c3e071872a0998fad5b01fdc98b79d2fa5481b20
+FileChecksum: MD5: 9a4d383500049b0da2d97f4c5ffb3454
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/docs/source/contents.rst
+SPDXID: SPDXRef-item10446953
+FileChecksum: SHA1: 12a8bb16735aed6b4aa358866ab40bc172ab8870
+FileChecksum: MD5: f4eff303fceb4a36f7eb87e1dd7932e8
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/docs/source/community/issue_tracking.rst
+SPDXID: SPDXRef-item10446956
+FileChecksum: SHA1: 6d85b618bf6eab2e7f613c15c68f61e05e27ba66
+FileChecksum: MD5: da4f58be81ef90d9fe9f86a38f778761
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/docs/source/community/contributing.rst
+SPDXID: SPDXRef-item10446957
+FileChecksum: SHA1: 3665e22f67cb8b52d8d83ad26ed2c481b7eea657
+FileChecksum: MD5: 5b5797c9a02249ec041014d915f79149
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/docs/source/community/join_the_discussion.rst
+SPDXID: SPDXRef-item10446959
+FileChecksum: SHA1: 7e9788513227b0866489cb680b5e849d5303f308
+FileChecksum: MD5: 6edae5e621f067731e36a0d8e0472192
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/docs/source/introduction.rst
+SPDXID: SPDXRef-item10446961
+FileChecksum: SHA1: 540b1e7bf22bcb3fa1b32216f145cb471b89046f
+FileChecksum: MD5: 8eb2c68e049d0d1d1c545d0af768d6ed
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/src/verifiable_encryption/cs_verifiable_encryption.rs
+SPDXID: SPDXRef-item10446851
+FileChecksum: SHA1: 41a6b795f2e6eed5d1b1a9292574b8e7a152c0ad
+FileChecksum: MD5: 255a6e33680f76c9719cbdbbd752d27d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright contributors to Hyperledger Ursa. </text>
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/src/utils/vector_poly.rs
+SPDXID: SPDXRef-item10446874
+FileChecksum: SHA1: aef4eb04d84cc178ab7b203d8d2b48265292801e
+FileChecksum: MD5: 00172677450934d42eb5d419e2934b28
+LicenseConcluded: Apache-2.0 OR MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/src/transcript.rs
+SPDXID: SPDXRef-item10446878
+FileChecksum: SHA1: 944d0f85b9a35b80a1be81d58c1b5989f0e82d86
+FileChecksum: MD5: a8da372b53472bcf36e2f1f6614dcd10
+LicenseConcluded: Apache-2.0 OR MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/src/errors.rs
+SPDXID: SPDXRef-item10446871
+FileChecksum: SHA1: 0fc647ba1dcf20d004ae3fb157c1ee43896bfb78
+FileChecksum: MD5: 4a84a1cda10e99377ae6b8bc21cd387f
+LicenseConcluded: Apache-2.0 OR MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/src/r1cs/constraint_system.rs
+SPDXID: SPDXRef-item10446880
+FileChecksum: SHA1: f87463b18395383ec4f00f3fc7a1986b3f06e83e
+FileChecksum: MD5: 46fabba99c6e18474be7a6dc6cdd8246
+LicenseConcluded: Apache-2.0 OR MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/src/r1cs/linear_combination.rs
+SPDXID: SPDXRef-item10446881
+FileChecksum: SHA1: 87b1646c5eec74c6dac4ebe55e2b90d805d47c5c
+FileChecksum: MD5: 1cd76ce433630eb1ecc6fba7b6cf870d
+LicenseConcluded: Apache-2.0 OR MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/src/r1cs/proof.rs
+SPDXID: SPDXRef-item10446914
+FileChecksum: SHA1: d855d1fb7517d4cb7fb9fac3111e63e57e70255f
+FileChecksum: MD5: bf373ae44beb8040396af6ff382efe93
+LicenseConcluded: Apache-2.0 OR MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/src/r1cs/prover.rs
+SPDXID: SPDXRef-item10446882
+FileChecksum: SHA1: e794c846fc97398b8d8c99ac6e14a1edebba1864
+FileChecksum: MD5: 367a36e3cce3147ee682e26e5425f271
+LicenseConcluded: Apache-2.0 OR MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/src/ipp.rs
+SPDXID: SPDXRef-item10446877
+FileChecksum: SHA1: e2003e2d9f7d93db673aec21c753ca6d635d8b39
+FileChecksum: MD5: 407389977cf9009576a8e497b5e42b2d
+LicenseConcluded: Apache-2.0 OR MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/src/r1cs/verifier.rs
+SPDXID: SPDXRef-item10446913
+FileChecksum: SHA1: e5ffdf7bd2d19c559176f9da0d20fca9cf645a86
+FileChecksum: MD5: fc13d2e6f9ebf8e4e9659380ffba1263
+LicenseConcluded: Apache-2.0 OR MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/.github/settings.yml
+SPDXID: SPDXRef-item10446965
+FileChecksum: SHA1: 5829c4bbfe6c856551af7f67e58723b0002212f3
+FileChecksum: MD5: 239cc70c9c950b16c3629ecd2fb67f1d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/LICENSE-APACHE
+SPDXID: SPDXRef-item10446867
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-python/LICENSE
+SPDXID: SPDXRef-item10446615
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/LICENSE
+SPDXID: SPDXRef-item10446707
+FileChecksum: SHA1: 00dd40b4799690ad6d5093f1ee597118d1f7eec0
+FileChecksum: MD5: 0945719e068474a7f366d44ba0069e43
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Hyperledger </text>
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/LICENSE-MIT
+SPDXID: SPDXRef-item10446869
+FileChecksum: SHA1: e48adbb6a7ac8e0381e4cf8277527f1ffcc79882
+FileChecksum: MD5: 781c92dff96d43f99c207364d10e16fc
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) 2018 Chain, Inc. </text>
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/README.md
+SPDXID: SPDXRef-item10446868
+FileChecksum: SHA1: bb62ac5e80ca2f0971b2c010501826e344d4c019
+FileChecksum: MD5: 2dea8c4f655ee4201ad1f36c103b111a
+LicenseConcluded: Apache-2.0 OR MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/CONTRIBUTING.md
+SPDXID: SPDXRef-item10446691
+FileChecksum: SHA1: 66f69f968c73322b24936d063c3def93366da6eb
+FileChecksum: MD5: f68af0d6a62d19ecf6739849663994b3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-python/CONTRIBUTING.md
+SPDXID: SPDXRef-item10446611
+FileChecksum: SHA1: 32bc1c8b863219c0d3f50814e8c061e3896d4e13
+FileChecksum: MD5: 9e09bd01b41c8b2ecbcd234e79400a76
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-python/setup.py
+SPDXID: SPDXRef-item10446616
+FileChecksum: SHA1: 8fabb789e7232e2785388151d358d23c9e2e0d9c
+FileChecksum: MD5: f9ad032cb563ba683c360601a0eafea1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/.rpm/ursa.spec
+SPDXID: SPDXRef-item10446710
+FileChecksum: SHA1: a381ce4554e5feea52d749533bcebf692764f344
+FileChecksum: MD5: 0d88ca303f3d63700bd94106124c5248
+LicenseConcluded: Apache-2.0 OR MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-python/docker/Dockerfile
+SPDXID: SPDXRef-item10446613
+FileChecksum: SHA1: 317fa85e09669144db3b59318ed7a16cb49393dd
+FileChecksum: MD5: 3056155bacd8fac9ad76c195526fe2f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-python/README.md
+SPDXID: SPDXRef-item10446614
+FileChecksum: SHA1: c8507ba9a56c92a8f272599c99ed8f0f3011d3eb
+FileChecksum: MD5: cdc275408cadb6089824d85791f7a227
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-python/CODEOWNERS
+SPDXID: SPDXRef-item10446617
+FileChecksum: SHA1: e492d30a4a94933c70172254b78847331682b4e2
+FileChecksum: MD5: c8346fe2a03f72e51b7ebf297aea66b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-python/tests/conftest.py
+SPDXID: SPDXRef-item10446619
+FileChecksum: SHA1: 38e9ef7f49278149189f379fe5e0009d5ed20d6c
+FileChecksum: MD5: 5f464a766921b4dcd7707c39bbe1dbc9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-python/tests/__init__.py
+SPDXID: SPDXRef-item10446620
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-python/tests/bls-ursa/test_ver_key.py
+SPDXID: SPDXRef-item10446622
+FileChecksum: SHA1: c3068c0b8956b059200761d60739b1c7d0341025
+FileChecksum: MD5: 92e9a72e3bb5ce8dd06a27b93f4fa69b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-python/tests/bls-ursa/test_pop.py
+SPDXID: SPDXRef-item10446623
+FileChecksum: SHA1: 53bb74de85dc344b90af514dc064707ff227e467
+FileChecksum: MD5: 084ebfd30752f35a57885caf23b690f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-python/tests/bls-ursa/test_sign_key.py
+SPDXID: SPDXRef-item10446624
+FileChecksum: SHA1: e2bbe04413ac33dca28e14801a63ed17011360a4
+FileChecksum: MD5: ab54ee77f13f62f825d4c9c69ce05b3e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-python/tests/bls-ursa/test_signature.py
+SPDXID: SPDXRef-item10446625
+FileChecksum: SHA1: bd45f54f311d44ee3e55f21cf5288b9c18b88be5
+FileChecksum: MD5: a745bc60dbbe6ffb9331061ab0376dd9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-python/tests/bls-ursa/test_generator.py
+SPDXID: SPDXRef-item10446626
+FileChecksum: SHA1: 4c4d218249620eb0de75621161990dc50f6e2034
+FileChecksum: MD5: 414e939ecd68af061bfa540a09c78212
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-python/tests/bls-ursa/conftest.py
+SPDXID: SPDXRef-item10446627
+FileChecksum: SHA1: be555279581241516034e88edd7c86ef604daf44
+FileChecksum: MD5: 0da9139861697692cf4c105227ec3985
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-python/tests/bls-ursa/__init__.py
+SPDXID: SPDXRef-item10446628
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-python/tests/bls-ursa/test_bls.py
+SPDXID: SPDXRef-item10446629
+FileChecksum: SHA1: 29acaa3f8544d5e531177e9918cd2461ab153c2c
+FileChecksum: MD5: 80c2d3a6dd1b2f83c3d8530a50d0b651
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-python/tests/bls-ursa/test_multi_signature.py
+SPDXID: SPDXRef-item10446630
+FileChecksum: SHA1: 2248666736205da31a9d00806bd1724c70d56210
+FileChecksum: MD5: df5ea0c1fc20a087f249a3be9a7d1a63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-python/.gitignore
+SPDXID: SPDXRef-item10446631
+FileChecksum: SHA1: af376d9e1a630a466c76e92d32ed59b9d060c472
+FileChecksum: MD5: f805508c52acaa516478c33c9e3c12ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-python/CHANGELOG
+SPDXID: SPDXRef-item10446632
+FileChecksum: SHA1: 481c58df6fb8d90c4d014179da520bb30a8342be
+FileChecksum: MD5: ce9ff9d5abd08306fed5955a19420c15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-python/.github/workflows/pythonpublish.yml
+SPDXID: SPDXRef-item10446635
+FileChecksum: SHA1: 420d0b92d0871d98ac812163dd062548aa1eea79
+FileChecksum: MD5: f047d48b01fc2302078d0dc5047026cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-python/SECURITY.md
+SPDXID: SPDXRef-item10446636
+FileChecksum: SHA1: 3c1e9d34253f7c866cd08d9e1e976ca8ecd44197
+FileChecksum: MD5: fd5082d9c35456a3a6327fcc8a93e25d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-python/ursa/bls.py
+SPDXID: SPDXRef-item10446638
+FileChecksum: SHA1: 82db3e720eed7c59e77a81a2069642b7e8bbda91
+FileChecksum: MD5: b42af8468181fd70cc6cba7825591926
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-python/ursa/__init__.py
+SPDXID: SPDXRef-item10446639
+FileChecksum: SHA1: f8fc419ceec0d1b76b47191858755960ba0363c7
+FileChecksum: MD5: 684b140a3ae46951d927929748352aa0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-python/ursa/lib.py
+SPDXID: SPDXRef-item10446640
+FileChecksum: SHA1: 0874609e576bc952dac07f8dd0a1fcd2d3824e27
+FileChecksum: MD5: 48579164e7583e86824d8bca2cb0ea78
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-python/ursa/indy_error.py
+SPDXID: SPDXRef-item10446641
+FileChecksum: SHA1: 2eadaf7e9c631f9e9f6dec8470f26d23eef8bc7e
+FileChecksum: MD5: 00792f66284952b52d037ec687a93b8e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-docs/check.sh
+SPDXID: SPDXRef-item10446643
+FileChecksum: SHA1: 493d9fd3728d2fe3aa4392056a2a7263a2ae9533
+FileChecksum: MD5: 6c561a2707b7a5e9e3f66bcce189c310
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-docs/ci/azure-pipelines.yml
+SPDXID: SPDXRef-item10446645
+FileChecksum: SHA1: cc0c89fb3780e1fdc47131a92e51ac3ed6b0f0ee
+FileChecksum: MD5: 1197270f05a4d70b8606f9adface791b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-docs/README.md
+SPDXID: SPDXRef-item10446646
+FileChecksum: SHA1: 83f490197db53e5697ba7dcecf13b2d5aba66caf
+FileChecksum: MD5: c3ba0973725efb896ecd41965aef8c7e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-docs/CODEOWNERS
+SPDXID: SPDXRef-item10446648
+FileChecksum: SHA1: e492d30a4a94933c70172254b78847331682b4e2
+FileChecksum: MD5: c8346fe2a03f72e51b7ebf297aea66b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-docs/.gitignore
+SPDXID: SPDXRef-item10446649
+FileChecksum: SHA1: 465a1e5fa95ffafee1b2b340e170d8e0fcf2659e
+FileChecksum: MD5: b4559e824a149cd5e3f8e5f88da42668
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-docs/specs/docker/ubuntu/Dockerfile
+SPDXID: SPDXRef-item10446653
+FileChecksum: SHA1: c58596a598cf402e4f6e900bff170fa5bf78ae88
+FileChecksum: MD5: 0b4d75e1461608dad53a163a53f85fef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-docs/specs/README.md
+SPDXID: SPDXRef-item10446654
+FileChecksum: SHA1: 5a8b6bd4611d29d931666c6c64bd4c25ea76cb93
+FileChecksum: MD5: e3f6ff4636d4493a74f91a4ab831d8ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-docs/specs/.gitignore
+SPDXID: SPDXRef-item10446655
+FileChecksum: SHA1: 29c9862da5410ce7fa282c52b408dc1391fba425
+FileChecksum: MD5: 491e3481599a8145224fb8f45f857cef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-docs/specs/anoncreds1/anoncredsmain.tex
+SPDXID: SPDXRef-item10446657
+FileChecksum: SHA1: b1b2fd58f0496e77785bd5df9d95f20a224d6bff
+FileChecksum: MD5: c3c440c338b7a5f0080d768d3dcb1f98
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-docs/specs/anoncreds1/anoncreds.tex
+SPDXID: SPDXRef-item10446658
+FileChecksum: SHA1: e103f80a8f9dd50d4bd897cba9547f680d076204
+FileChecksum: MD5: d17e71993d6e5cfe4265e548abb6fde7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-docs/specs/anoncreds2/anoncreds2.bib
+SPDXID: SPDXRef-item10446660
+FileChecksum: SHA1: aab48f48e2b977f86c0b9cd7b0bb8088e5c58f31
+FileChecksum: MD5: 19510caed2197cccd8de47e0147407b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-docs/specs/anoncreds2/main.tex
+SPDXID: SPDXRef-item10446661
+FileChecksum: SHA1: 35a85a57a023b3358630b979878203e51bb69aa5
+FileChecksum: MD5: c40f29c52608094db722f93e7c5932b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-docs/specs/anoncreds2/build.sh
+SPDXID: SPDXRef-item10446662
+FileChecksum: SHA1: 8065faf0ac6fdc26afb46fc8ee197d4ed77b0af3
+FileChecksum: MD5: 2f9a43564145a1cf6edcda7e16d43f50
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-docs/docs/features/attribute_equality_anoncreds.md
+SPDXID: SPDXRef-item10446665
+FileChecksum: SHA1: e7353f685228717c9140e3ab6c4d36193a72c239
+FileChecksum: MD5: 8aa29d1da41feb1ec47e5873379ed400
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-docs/docs/.gitignore
+SPDXID: SPDXRef-item10446666
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-rfcs/CODEOWNERS
+SPDXID: SPDXRef-item10446671
+FileChecksum: SHA1: e492d30a4a94933c70172254b78847331682b4e2
+FileChecksum: MD5: c8346fe2a03f72e51b7ebf297aea66b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-rfcs/text/0011-python-wrappers/README.md
+SPDXID: SPDXRef-item10446674
+FileChecksum: SHA1: 16b70b951549dac9d2929a5fec5e74d44f932b47
+FileChecksum: MD5: 9595e1b64b55e76428f21d4796da0535
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-rfcs/text/ps-signatures/README.md
+SPDXID: SPDXRef-item10446676
+FileChecksum: SHA1: f69e886d9f82103e50147c8192f5cbbbaa534a05
+FileChecksum: MD5: 0b7aacaf3ea7df054df7ae83f53f8423
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-rfcs/text/language-bindings/README.md
+SPDXID: SPDXRef-item10446678
+FileChecksum: SHA1: 75ec3821eb1b44ad3629f6382d96962442a07e17
+FileChecksum: MD5: 0ed1013f31d0490db7a484ffe31e5ac2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-rfcs/text/delegatable_cdd/README.md
+SPDXID: SPDXRef-item10446680
+FileChecksum: SHA1: 31964c5cec450610640975b5b70790007fe5120a
+FileChecksum: MD5: 6ea2dc0563a0ba436464cf8341140a52
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-rfcs/text/0001-encryption-api/hartm_macro_safe.tex
+SPDXID: SPDXRef-item10446682
+FileChecksum: SHA1: c4a8c4aceb0b4de2c577a79635185952eb4d6a4d
+FileChecksum: MD5: 17bb8c8a40860e9debc8d30cdb76b104
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-rfcs/text/0001-encryption-api/README.md
+SPDXID: SPDXRef-item10446683
+FileChecksum: SHA1: c3fcbfa7ed745ec8b3ee43f9fdca1eff5339ef05
+FileChecksum: MD5: 54a0159abebdf119ecd7e9d49507ccff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-rfcs/text/0001-encryption-api/main.tex
+SPDXID: SPDXRef-item10446684
+FileChecksum: SHA1: d27b8018076e24a2cf2168a0cb155aa5b5c5242d
+FileChecksum: MD5: c7820a0f822988616e2d97e029754a24
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-rfcs/text/0001-encryption-api/flamacro.tex
+SPDXID: SPDXRef-item10446685
+FileChecksum: SHA1: c4a8c4aceb0b4de2c577a79635185952eb4d6a4d
+FileChecksum: MD5: 17bb8c8a40860e9debc8d30cdb76b104
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-rfcs/text/pok-vpc/README.md
+SPDXID: SPDXRef-item10446687
+FileChecksum: SHA1: 0d1a359b83e94f7ac1ba41fb5c868eec43955038
+FileChecksum: MD5: c46af863dc30d6321f0b763113697c6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-rfcs/text/cs-verifiable-encryption/README.md
+SPDXID: SPDXRef-item10446689
+FileChecksum: SHA1: a2e4fece4a7104d4f36c429abf90543d02ea0d5c
+FileChecksum: MD5: 328ba30aad421587aa2c025d2756e828
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Non-commercial
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/docker/fedora/Dockerfile
+SPDXID: SPDXRef-item10446694
+FileChecksum: SHA1: 217d126ef458da8a65007a44f616d12fa9dccf76
+FileChecksum: MD5: f3ddb10d9b4885a68d81c302df457cc4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/docker/suse/Dockerfile
+SPDXID: SPDXRef-item10446696
+FileChecksum: SHA1: b14c24e0eeccc39c0c38c458a313e7444e3db0c2
+FileChecksum: MD5: b775d633b0fa1a44699b892344a98d4f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/docker/ubuntu/ursa-bionic.dockerfile
+SPDXID: SPDXRef-item10446698
+FileChecksum: SHA1: 3e60d3f473c75de7eda90ecfc9a1c61f79785900
+FileChecksum: MD5: b7957613da0bea360cb43ddf31042a26
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/docker/ubuntu/ursa-xenial.dockerfile
+SPDXID: SPDXRef-item10446699
+FileChecksum: SHA1: f5887230315b3d818f02384f531f38750ab091e9
+FileChecksum: MD5: c534ac35ccda646902e9e83963c09fea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/docker/ubuntu/ursa-fossa.dockerfile
+SPDXID: SPDXRef-item10446700
+FileChecksum: SHA1: dba08c06087c8a68e844d9ea6cd17c4c8332c978
+FileChecksum: MD5: 42646337f39b55bb03be41cf203d0daf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/docker/ubuntu/Dockerfile
+SPDXID: SPDXRef-item10446701
+FileChecksum: SHA1: 6dc054622ddd0f1d29e8cf10a565fcd789ec444e
+FileChecksum: MD5: e2cc64f7542630662a8f7ea4167fb5df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/docker/centos/Dockerfile
+SPDXID: SPDXRef-item10446703
+FileChecksum: SHA1: dad54f6466ef1c4fdbe0340ab09064d38bb6f5d8
+FileChecksum: MD5: f0cac3af2c3e8cdfd08df747bf3ddb2d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/README.md
+SPDXID: SPDXRef-item10446704
+FileChecksum: SHA1: 6728d437a45f4deb391b827d76ce47e27d221fb4
+FileChecksum: MD5: 9b05b721bca00f044b612720cd5a2859
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/Cargo.lock
+SPDXID: SPDXRef-item10446705
+FileChecksum: SHA1: edadba24de8343f5283b95bfe4c6d578865b8d05
+FileChecksum: MD5: 21bb948315d3bd7f3ade802590ce263d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/Cargo.toml
+SPDXID: SPDXRef-item10446706
+FileChecksum: SHA1: 2264c41738c9eb2dc91cb3d25663a19e22f78f88
+FileChecksum: MD5: 5ccdb3b48b18b28769fcc16acd80d1fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/packaging/publish_to_crates_io.pl
+SPDXID: SPDXRef-item10446712
+FileChecksum: SHA1: 5022f6477c36dedad194d87507e56b89588fb498
+FileChecksum: MD5: e0dcbd365c2de0f636884dbe9104008c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/cmake-build-debug/CMakeFiles/clion-log.txt
+SPDXID: SPDXRef-item10446715
+FileChecksum: SHA1: 80a835b3c4e9d538c2f649c16ef9b6b2b848ea6a
+FileChecksum: MD5: 11a953487909aa222f5d79db84960fe4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/lib.rs
+SPDXID: SPDXRef-item10446717
+FileChecksum: SHA1: 4771d38ef4777ab4afe34b64d243bbf011e34b1a
+FileChecksum: MD5: 9e82b23958954104fa1ae53ebf09e5e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/bn/rust.rs
+SPDXID: SPDXRef-item10446719
+FileChecksum: SHA1: cfbd43602b82187312ae049684772a0b10ff6e04
+FileChecksum: MD5: bceb807dc75ced27a7db81ad53f435db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/bn/openssl.rs
+SPDXID: SPDXRef-item10446720
+FileChecksum: SHA1: f57ae0359712975ad7cc2c4f61aac37cb5dd5376
+FileChecksum: MD5: 84cf44f95cdf1837e31d72c434220b07
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/pair/amcl.rs
+SPDXID: SPDXRef-item10446722
+FileChecksum: SHA1: 01882692bc8102dddd526183a02312fbddb44c28
+FileChecksum: MD5: f9d6858bf6412b123b4645f7a40e77fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/kex/secp256k1.rs
+SPDXID: SPDXRef-item10446724
+FileChecksum: SHA1: 537a4681ee621a69ae94e5fae6e25ae56344f5a4
+FileChecksum: MD5: a1a334f312d2ebe8eebc5bb251e0b02b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/kex/x25519.rs
+SPDXID: SPDXRef-item10446725
+FileChecksum: SHA1: 174ae459741b336e69e4634dd9e1e97ad68a827e
+FileChecksum: MD5: aee133363ff87707ac888b6fd14794fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/kex/mod.rs
+SPDXID: SPDXRef-item10446726
+FileChecksum: SHA1: 625fb2df13fd69b6b9bc1a1702954241fb437985
+FileChecksum: MD5: ba2e3077c390db67d9cee7635e690b9a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/signatures/bls.rs
+SPDXID: SPDXRef-item10446728
+FileChecksum: SHA1: 68e6b3baac8c92588f8cfc83db3b2d77dacb98d7
+FileChecksum: MD5: b0707581590cc51e8c4306c502ed70bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/signatures/secp256k1.rs
+SPDXID: SPDXRef-item10446729
+FileChecksum: SHA1: 0c03f009ea2c84ad0d3f5cf491970e144c600d20
+FileChecksum: MD5: 2ddd748e1d592311029b2dfe2759bf46
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/signatures/ed25519.rs
+SPDXID: SPDXRef-item10446730
+FileChecksum: SHA1: 057348a1620a2cd4c2e685ccba393d7a51f661ba
+FileChecksum: MD5: e86d0acdf5f4ed541b0ef826096e0ec9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/signatures/mod.rs
+SPDXID: SPDXRef-item10446731
+FileChecksum: SHA1: a257a1df95cf4ce38f71fbe61f2cae087af4d8c5
+FileChecksum: MD5: 56748c558efed4a4e2dab5559e0d6bca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/keys.rs
+SPDXID: SPDXRef-item10446732
+FileChecksum: SHA1: 480ab622f371385203db6225551929228533e598
+FileChecksum: MD5: b3ecdfd378319a6e648a90e98340ac68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/utils/ctypes.rs
+SPDXID: SPDXRef-item10446734
+FileChecksum: SHA1: 8423b2442f40ed208b7d7344e6e83b9850932cec
+FileChecksum: MD5: 3098dff155f5cadec13954f603b7dd41
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/utils/macros.rs
+SPDXID: SPDXRef-item10446735
+FileChecksum: SHA1: 8d41681c819e0a63a19a3742d3ebab55f32b3d7f
+FileChecksum: MD5: 7175358261531041dff53775e5b8e086
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/utils/logger.rs
+SPDXID: SPDXRef-item10446736
+FileChecksum: SHA1: 5df5996647784847305235e444c1ee664c0561a5
+FileChecksum: MD5: 8c24b641ce88983b8bfba0dac34fb75c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/utils/commitment.rs
+SPDXID: SPDXRef-item10446737
+FileChecksum: SHA1: 460bdcef21b3223683d0d8cf5ac9668dd67bb2db
+FileChecksum: MD5: 64c3197cef808a4a1c6175c8778eb7c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/utils/mod.rs
+SPDXID: SPDXRef-item10446738
+FileChecksum: SHA1: 018786d07d003a5bf921b99104d0df545ad1a82d
+FileChecksum: MD5: 66d41bc9773de5871cb2ea4d5fa54996
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/cl/hash.rs
+SPDXID: SPDXRef-item10446740
+FileChecksum: SHA1: d32d8c6ea97aaae5114fc893efe2f24da9e7927a
+FileChecksum: MD5: ffe9d92673953549f75415457484f5ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/cl/prover.rs
+SPDXID: SPDXRef-item10446741
+FileChecksum: SHA1: 2c76788a2b2f8f120c346b3d7f827aa528793161
+FileChecksum: MD5: 56920611cbde676bff330ec046b7e7d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/cl/constants.rs
+SPDXID: SPDXRef-item10446742
+FileChecksum: SHA1: 38495f4c7b01b4ac377a992bd43c4844d6882774
+FileChecksum: MD5: 5b0d663c0247de5d1f2157963e9d3576
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/cl/verifier.rs
+SPDXID: SPDXRef-item10446743
+FileChecksum: SHA1: 55213dd74fc6ea36797a0c3c878875856c341e6b
+FileChecksum: MD5: 7526696d729f30ac26643c614cc44015
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/cl/datastructures.rs
+SPDXID: SPDXRef-item10446744
+FileChecksum: SHA1: ac215caf7f4b82ae4397adb13ccf00fd3868d4de
+FileChecksum: MD5: 16178af87aebb04723ec1790e0ac8549
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/cl/issuer.rs
+SPDXID: SPDXRef-item10446745
+FileChecksum: SHA1: ab89630b05b6086d794c006fed5ccf6fa54b89fc
+FileChecksum: MD5: a65da44ffd11ec13a348d249969878c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/cl/helpers.rs
+SPDXID: SPDXRef-item10446746
+FileChecksum: SHA1: c2ea84df21bff8e05d5379be34058c5187981fda
+FileChecksum: MD5: cf120c721b433ae85515541d3e2b9214
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/cl/mod.rs
+SPDXID: SPDXRef-item10446747
+FileChecksum: SHA1: 251eee3a772bb9a23e60e1ae48d89f3477d62228
+FileChecksum: MD5: 6408ed99341b1d9a8fd169cc1675807f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/ffi/signatures/ed25519.rs
+SPDXID: SPDXRef-item10446750
+FileChecksum: SHA1: 07d541a25e0253b58eb997eb73aa158a59a0c3d8
+FileChecksum: MD5: 39207ee5e2b781bda7216429bf9156d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/ffi/signatures/mod.rs
+SPDXID: SPDXRef-item10446751
+FileChecksum: SHA1: 2cbd2e8a558dda75e3ea4b7fc81fe9fc0a8e8464
+FileChecksum: MD5: 40edebd40b4a9b99b1e00df5321f9890
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/ffi/bls.rs
+SPDXID: SPDXRef-item10446752
+FileChecksum: SHA1: 48a6c4ffc8201e0ee52830acef7ecef6893c1350
+FileChecksum: MD5: 3c90a09e178d90fa394d98827ead131f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/ffi/cl/prover.rs
+SPDXID: SPDXRef-item10446754
+FileChecksum: SHA1: b6f80009388bd234872115248910e953c4aa40f7
+FileChecksum: MD5: 031478b7ee08cd86833a72168713f838
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/ffi/cl/verifier.rs
+SPDXID: SPDXRef-item10446755
+FileChecksum: SHA1: 545ea749a80130f0d5e77f9d77a7f9ffda0d54ab
+FileChecksum: MD5: e180dfee2b985b9d2c5b9efa9c762fcc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/ffi/cl/issuer.rs
+SPDXID: SPDXRef-item10446756
+FileChecksum: SHA1: bf1703704c8fb87b5112dd27945792c6f15fe3be
+FileChecksum: MD5: 35f4119544d1520200e827b1948e083d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/ffi/cl/mod.rs
+SPDXID: SPDXRef-item10446757
+FileChecksum: SHA1: f8dd756e576be51cb3de110009424794fe54b8c4
+FileChecksum: MD5: eaff16b0346fb56ca75183eae8e40b2f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/ffi/encryption/mod.rs
+SPDXID: SPDXRef-item10446759
+FileChecksum: SHA1: 38aae3df479caf8b18fedc29d75f083b24fada40
+FileChecksum: MD5: 2a20a14805636c4a9edeb6b5cf3fa56a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/ffi/logger.rs
+SPDXID: SPDXRef-item10446760
+FileChecksum: SHA1: 166471488024560cdb9032b601b330ff556f8413
+FileChecksum: MD5: 685711c4c9b4f707283bd81bb8676a10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/ffi/mod.rs
+SPDXID: SPDXRef-item10446761
+FileChecksum: SHA1: 136e4b8248368df1dacfbde74cd4f81695f6a624
+FileChecksum: MD5: 9a5ea05832cbaf3ab644156360cc571a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/sharing/shamir.rs
+SPDXID: SPDXRef-item10446763
+FileChecksum: SHA1: 68159f45200840220115993b722362870fec5b0b
+FileChecksum: MD5: 17bd660b32a113dda4fa29bd84b39b99
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/sharing/mod.rs
+SPDXID: SPDXRef-item10446764
+FileChecksum: SHA1: 216854ba4863419c0cd042865101445b27cd311c
+FileChecksum: MD5: e22f88adcf556f5656e3e9e4176d78eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/errors/mod.rs
+SPDXID: SPDXRef-item10446766
+FileChecksum: SHA1: e160f9ec35a528fa698ce2a628ad15491c23385d
+FileChecksum: MD5: c1ea35c092291731903ef18ee1305ef0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/encryption/symm/aesgcm.rs
+SPDXID: SPDXRef-item10446769
+FileChecksum: SHA1: c0fe8e983d55c1e5b7171f49b8c3cb1237ac2d2b
+FileChecksum: MD5: 0e48f01b0ffbd5827173b5ae765d2e75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/encryption/symm/chacha20poly1305_asm.rs
+SPDXID: SPDXRef-item10446770
+FileChecksum: SHA1: 9f856a8498ba2c7327a5f05db15aa0554f9fcb99
+FileChecksum: MD5: d9c5f9d7c27118dc82e1e4988d908aec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/encryption/symm/aescbc.rs
+SPDXID: SPDXRef-item10446771
+FileChecksum: SHA1: 80c9b5bc9b11cad94c7c9335eaea5ce1f2ead96c
+FileChecksum: MD5: a1f8ffc7aea5238191c86cba12b9ec44
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/encryption/symm/aescbc_asm.rs
+SPDXID: SPDXRef-item10446772
+FileChecksum: SHA1: 3c9c62ddb86fcb6e683fbf5dc7489447ecf28191
+FileChecksum: MD5: 8e5a1fcff541999248a7659ba10083f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/encryption/symm/chacha20poly1305.rs
+SPDXID: SPDXRef-item10446773
+FileChecksum: SHA1: 059946a20e810800b8e2041511c77ec6244e2942
+FileChecksum: MD5: d311ac0b3f8e699e9a36aa3bcdb5b82c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/encryption/symm/aesgcm_asm.rs
+SPDXID: SPDXRef-item10446774
+FileChecksum: SHA1: 1b9c70cda227cb7becc51759cc1778a41374760f
+FileChecksum: MD5: e8f75e595a675c4adcf1e7a04090980f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/encryption/symm/xchacha20poly1305_asm.rs
+SPDXID: SPDXRef-item10446775
+FileChecksum: SHA1: cb5bd326b7d45d0c49f4e9ffd2169bfaef0bfc45
+FileChecksum: MD5: 0cecfd052c77f9a101672f2da56f9fd5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/encryption/symm/xchacha20poly1305.rs
+SPDXID: SPDXRef-item10446776
+FileChecksum: SHA1: f5e8eadcd5fc9d1e7f59d792ce94b8dc6d296608
+FileChecksum: MD5: 89c7c222786051348f74e58f4da1b5bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/encryption/symm/mod.rs
+SPDXID: SPDXRef-item10446777
+FileChecksum: SHA1: c1c7fa544f42bad3132e048d4caacb4399cc805e
+FileChecksum: MD5: 19f7f4d4a8068a14d7100d158e2540dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/encryption/mod.rs
+SPDXID: SPDXRef-item10446778
+FileChecksum: SHA1: 974ed0c0c5cce34946b5d60f2a8d59a489c789d0
+FileChecksum: MD5: 109f9cec9383b593cda6ce3958a1708b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/wasm/bls.rs
+SPDXID: SPDXRef-item10446780
+FileChecksum: SHA1: ed33ab63d35b93e1e584d926777c50623e154395
+FileChecksum: MD5: 262290b61e6cf54f6c2c53ce66b2538c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/wasm/macros.rs
+SPDXID: SPDXRef-item10446781
+FileChecksum: SHA1: c3d211fdc557c01f07508352d73cae836d74e3b0
+FileChecksum: MD5: 0172384316854133cde274f125168846
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/wasm/secp256k1.rs
+SPDXID: SPDXRef-item10446782
+FileChecksum: SHA1: 9535144bbab034db5be736e34624287a3803914e
+FileChecksum: MD5: 51a94180484e789ea79222d694ccd9db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/wasm/cl.rs
+SPDXID: SPDXRef-item10446783
+FileChecksum: SHA1: 04c97bb56279b446398a4bc868abc327501873f4
+FileChecksum: MD5: 4fb48cded2e9d72f547a13863009fe4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/wasm/ed25519.rs
+SPDXID: SPDXRef-item10446784
+FileChecksum: SHA1: 0e518d3263c393b5516eff40f31d978b343e4d3d
+FileChecksum: MD5: 9cb9631674123648f3885be4bde9c59c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/wasm/x25519.rs
+SPDXID: SPDXRef-item10446785
+FileChecksum: SHA1: 834cefcd17f2862d1ffcdf4691268c5ead0b58a0
+FileChecksum: MD5: 6a1b0f577158a9ab26c2906776ccf3bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/wasm/encryption.rs
+SPDXID: SPDXRef-item10446786
+FileChecksum: SHA1: 6a99a7cb5e03a8808f0e747bc94b340d5becb527
+FileChecksum: MD5: 496d1889378a221c6e584f9eb26ae377
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/wasm/mod.rs
+SPDXID: SPDXRef-item10446787
+FileChecksum: SHA1: c9ee80acc90583e7a45fa55e5dd9136fa0faaf8a
+FileChecksum: MD5: 79074cadd0ebc10efd03e25c60a1c443
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/hash/blake2.rs
+SPDXID: SPDXRef-item10446789
+FileChecksum: SHA1: 130bda3cb3b4deac39b27dc36d99e8562c1c387c
+FileChecksum: MD5: 31381c42c97c76db2222a2a7887856ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/hash/mod.rs
+SPDXID: SPDXRef-item10446790
+FileChecksum: SHA1: 2c575cc9c6f56cea9e5e322569ee4d7b834ab9f6
+FileChecksum: MD5: fed5a1aeb42c562992e4fdccf809eca6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/src/bls/mod.rs
+SPDXID: SPDXRef-item10446792
+FileChecksum: SHA1: e4e105ee347aeb68ec4d112d71839ae4c3a11582
+FileChecksum: MD5: 42118e1de71f6e8c9ef1a20f24a07a49
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/include/ursa_crypto.h
+SPDXID: SPDXRef-item10446795
+FileChecksum: SHA1: da91782a6665a5a10dd3dddb076f4b3d21615d34
+FileChecksum: MD5: 71ef104fd89cd767696ab781d8067b7a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/include/ursa_crypto_ed25519.h
+SPDXID: SPDXRef-item10446796
+FileChecksum: SHA1: 1a0b661a568f4334a0d3439761a18e6e1b35f137
+FileChecksum: MD5: a77d2e141e93bb75e81e3450202591e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/include/ursa_crypto_encryption.h
+SPDXID: SPDXRef-item10446797
+FileChecksum: SHA1: 5e01e499e5bd95dce4c3ecaeaa10a9d0a7f3ad66
+FileChecksum: MD5: 241163c1a1074a63cd06d38a14cf74f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/benches/bls.rs
+SPDXID: SPDXRef-item10446799
+FileChecksum: SHA1: 7c493fdcd77a8f8a67c9dc6da594cf9d3948dbfc
+FileChecksum: MD5: 7d6dc22eeb540336e87cd563b89a2014
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/benches/cks_revok.rs
+SPDXID: SPDXRef-item10446800
+FileChecksum: SHA1: 11a089f27614882f9e4db313062e620a5353bfc7
+FileChecksum: MD5: fa030b804b09408da6ee9defec306f8e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/benches/encryption.rs
+SPDXID: SPDXRef-item10446801
+FileChecksum: SHA1: ffe8bb145d4e3e273fd98a87b8c16c39d4e95381
+FileChecksum: MD5: fd077c2f0d3011fd162f54eae75c61f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/tests/cl.rs
+SPDXID: SPDXRef-item10446803
+FileChecksum: SHA1: 4cd0cf75050659974b253ced515c65501713994b
+FileChecksum: MD5: c31427c992d83ca5749e089964b55698
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/tests/test_bench.rs
+SPDXID: SPDXRef-item10446804
+FileChecksum: SHA1: a93d4ed3d1650fc0d7851aca4d6077faea9f8b94
+FileChecksum: MD5: bb3f597d52511e0d73ce996b506df983
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/.gitignore
+SPDXID: SPDXRef-item10446805
+FileChecksum: SHA1: 30b055485a20d86a977d60e54afbb3b3936ae36f
+FileChecksum: MD5: 1736b54a29deb66f84107c8c137e32ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/docs/anoncreds-design.md
+SPDXID: SPDXRef-item10446807
+FileChecksum: SHA1: 10628246ed75cf5c80d7076cd155376b9f56c47c
+FileChecksum: MD5: 67dd649596860941d1c40acd654b52cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/bin/test_aesgcm.rs
+SPDXID: SPDXRef-item10446809
+FileChecksum: SHA1: 53a5d29b09518d7aefc3b320f123050f782def0f
+FileChecksum: MD5: 5e87b136996db0b9dcc0820559162e09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/bin/test_xchacha20poly1305.rs
+SPDXID: SPDXRef-item10446810
+FileChecksum: SHA1: ea028db6c7bcf6086a7d5e7c9c96680b5837b007
+FileChecksum: MD5: 4be7d0b54f1a1045aeb5d9f3e7c73fac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/bin/test_ed25519.rs
+SPDXID: SPDXRef-item10446811
+FileChecksum: SHA1: 194b3ff8b00e7a723d3743922818e522292af51d
+FileChecksum: MD5: c1764d9b4fbe90ae429dc4c6c8d801da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/bin/test_aescbc.rs
+SPDXID: SPDXRef-item10446812
+FileChecksum: SHA1: 13695de85131ce04c46ae78e0a700faef9444920
+FileChecksum: MD5: 102ae66100997c060639b75e9f3e81aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libursa/bin/test_secp256k1.rs
+SPDXID: SPDXRef-item10446813
+FileChecksum: SHA1: 81e4857d9189f5492332ff7eb9973f04dcb747f2
+FileChecksum: MD5: 8804cc7071f460651a95f599ae755baf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/README.md
+SPDXID: SPDXRef-item10446815
+FileChecksum: SHA1: cfd45b08fbbb809eae1f58ee269a1880fa336ee7
+FileChecksum: MD5: 0c224d8a7b8342d53beef1c24c1ddb2b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/src/errors.rs
+SPDXID: SPDXRef-item10446817
+FileChecksum: SHA1: 070b3f4801eccdb07843405a306c07a1f7472432
+FileChecksum: MD5: 1104182fe5901ed3cdf29ed34156a752
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/src/lib.rs
+SPDXID: SPDXRef-item10446818
+FileChecksum: SHA1: 73d83b82e20d83f9c9025e06ecbc83815e844fd5
+FileChecksum: MD5: 0961eb2ab543eb0e0810cfc909d15ea4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/src/signatures/ps/errors.rs
+SPDXID: SPDXRef-item10446821
+FileChecksum: SHA1: c3c592e3ded866cc5358248a205d45860132d10a
+FileChecksum: MD5: beeb785f4929e70d6eb71a2952dbbdae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/src/signatures/ps/README.md
+SPDXID: SPDXRef-item10446822
+FileChecksum: SHA1: bb778514cdf1dd312a34fb71d724383e2171468c
+FileChecksum: MD5: 92ff95378859b47347071b44db045e1f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/src/signatures/ps/signature.rs
+SPDXID: SPDXRef-item10446823
+FileChecksum: SHA1: 279bc5429b4ead1d83a1ea26237f9733af1eb8ab
+FileChecksum: MD5: 73512a6498160723e97ca2526da94176
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/src/signatures/ps/keys.rs
+SPDXID: SPDXRef-item10446824
+FileChecksum: SHA1: c9cd3137bde2cbc43357d285bd45f3a84a659052
+FileChecksum: MD5: ed7fe3f397beb8470b0ad6b6156a7bad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/src/signatures/ps/pok_sig.rs
+SPDXID: SPDXRef-item10446825
+FileChecksum: SHA1: 0605619e2aed2f2cf2c963a50142ae4af979e16c
+FileChecksum: MD5: db80ace858f616059e75ba51dfa8a885
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/src/signatures/ps/blind_signature.rs
+SPDXID: SPDXRef-item10446826
+FileChecksum: SHA1: 59bd0ea34da59b9bc9a87c8ba2d4533f2d74d0c9
+FileChecksum: MD5: 705322a476abbb410dad3ba3e20dbfc1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/src/signatures/ps/mod.rs
+SPDXID: SPDXRef-item10446827
+FileChecksum: SHA1: 01de2a03744ac59b1d509c74bd48e1538abb9952
+FileChecksum: MD5: f7a8fdd20f8d45add2f0068a6dfd091f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/src/signatures/delg_cred_cdd/errors.rs
+SPDXID: SPDXRef-item10446829
+FileChecksum: SHA1: 3cdb3f7f2f8f58567088b06aca497662b1cc9ef9
+FileChecksum: MD5: 7544ae8806af5530c7d55a6f474109fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/src/signatures/delg_cred_cdd/groth_sig.rs
+SPDXID: SPDXRef-item10446830
+FileChecksum: SHA1: d644b7dcece4eecb2fa1489f1c8e69ef17979432
+FileChecksum: MD5: 2af41453d05d7bc1b734ebf330933a26
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/src/signatures/delg_cred_cdd/README.md
+SPDXID: SPDXRef-item10446831
+FileChecksum: SHA1: a09beaf2f33e756382854c6def313eb9cf3fd104
+FileChecksum: MD5: 2542429ff75c704e08787f89ceaf8450
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/src/signatures/delg_cred_cdd/attribute_token.rs
+SPDXID: SPDXRef-item10446832
+FileChecksum: SHA1: 4c586918ffec130cfabc2c9b10152057d290c832
+FileChecksum: MD5: b26ceeb6d97601bc838862d8e47e5bdc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/src/signatures/delg_cred_cdd/issuer.rs
+SPDXID: SPDXRef-item10446833
+FileChecksum: SHA1: f2a6446423fcc52d597da92b72d0deb6382e3863
+FileChecksum: MD5: e9f3e499c382e1426d5c6ca9ec19bcc0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/src/signatures/delg_cred_cdd/mod.rs
+SPDXID: SPDXRef-item10446834
+FileChecksum: SHA1: 42a7b087e5305470eab712afe258c6982d3172e6
+FileChecksum: MD5: 86ea4328b0be1dcf6677aa43687b9e14
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/src/signatures/mod.rs
+SPDXID: SPDXRef-item10446835
+FileChecksum: SHA1: 9f87f9ff601d89b8ba8f009da8f3b8b391ab851a
+FileChecksum: MD5: 7954ee4b2de7edf6a229789e94462565
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/src/commitments/pedersen_BLS12_381.rs
+SPDXID: SPDXRef-item10446837
+FileChecksum: SHA1: 37d3103ffa739159f8f02df649f78b72cd5b06ab
+FileChecksum: MD5: e74250c3cf16c8509cda01e105859baa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/src/commitments/pok_vc.rs
+SPDXID: SPDXRef-item10446838
+FileChecksum: SHA1: 0a3a3a2475ebef87b797a7a4a36a6bcacaba1f31
+FileChecksum: MD5: 74cca7e2c9a08f49714c8d918a20c639
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/src/commitments/mod.rs
+SPDXID: SPDXRef-item10446839
+FileChecksum: SHA1: 076a3cf16d1f4ef3a8396e17ef02b8b70eabb96a
+FileChecksum: MD5: 8f83763752bd3ddeaa13486886490030
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/src/zkl/spec.rs
+SPDXID: SPDXRef-item10446841
+FileChecksum: SHA1: 1a85c7c87c86cd8affac07328acf54639b042579
+FileChecksum: MD5: f51e51b4dd2e6fc7a4860f95464b989d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/src/zkl/mod.rs
+SPDXID: SPDXRef-item10446842
+FileChecksum: SHA1: e3e17b580fd95eb46b117c1cc38f82096b3f6141
+FileChecksum: MD5: 6ed2a03a92f097267b526cf4e1840407
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/src/utils/random.rs
+SPDXID: SPDXRef-item10446844
+FileChecksum: SHA1: 66e29f71950ce715f1855abdd121f765a34fd326
+FileChecksum: MD5: 020a6df1b4c5d169c55cde875d8bc83f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/src/utils/mod.rs
+SPDXID: SPDXRef-item10446845
+FileChecksum: SHA1: c1970912c617c35f5b935f9acf6afe2ba64602fe
+FileChecksum: MD5: 3750f74b2a54b607ac4f17ba6ca615f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/src/prf/mod.rs
+SPDXID: SPDXRef-item10446847
+FileChecksum: SHA1: ad804da30d27f18440b385c26a72f6adfe487406
+FileChecksum: MD5: f358a670ec024f5d63e37adca0bb980c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/src/ffi/mod.rs
+SPDXID: SPDXRef-item10446849
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/src/verifiable_encryption/mod.rs
+SPDXID: SPDXRef-item10446852
+FileChecksum: SHA1: b1779f8f2dc5526552bdc3e00406ed9619a3c026
+FileChecksum: MD5: 9434d1f1cbe75170a1cd2b7bc7bc4951
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/src/hash_functions/bls12_381_hash.rs
+SPDXID: SPDXRef-item10446854
+FileChecksum: SHA1: c6b5ce687c4d4d104e52e30c1d88f08bf0f707a2
+FileChecksum: MD5: e24fd0d6a8170d63600492eaff888eda
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/src/hash_functions/mod.rs
+SPDXID: SPDXRef-item10446855
+FileChecksum: SHA1: 63b192990ff1c1095211b02de167f90214d0b158
+FileChecksum: MD5: 3f3c21584398017f87b68220c23223c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/benches/bbs_vs_ps.rs
+SPDXID: SPDXRef-item10446858
+FileChecksum: SHA1: d4612ab9ea7a65e44f236eacb08b962bf6e268c4
+FileChecksum: MD5: b37172ea733381eca38871bd2ccb82f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/tests/ps_sig_complete_scenario.rs
+SPDXID: SPDXRef-item10446860
+FileChecksum: SHA1: 82133bc1f0ed4bf997005a795eadff2171c4e665
+FileChecksum: MD5: 746d65c76a2ea4610675eec98af9bb23
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/docs/flow-diagram.png
+SPDXID: SPDXRef-item10446862
+FileChecksum: SHA1: 578ee1168538932383380445f6197572f7515ba1
+FileChecksum: MD5: af95e7d2d43637b66ea7098faaa278ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/docs/VerifiableCredentials.md
+SPDXID: SPDXRef-item10446863
+FileChecksum: SHA1: a4a96d8032772813859620e087222ffc867eb188
+FileChecksum: MD5: 79b16e1433f6cba5af2d3e870a32c4d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/docs/zklang_proof_spec.json
+SPDXID: SPDXRef-item10446864
+FileChecksum: SHA1: a0f1e644ff604608dac713ed5a1af39a91011cae
+FileChecksum: MD5: fb95c60528261e77b33f3c05bb4a8f00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/docs/flow.puml
+SPDXID: SPDXRef-item10446865
+FileChecksum: SHA1: 988ce86391b09424463c6eec06af8092be263e5a
+FileChecksum: MD5: a2c50533e81848e01dee31194b648b13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/src/lib.rs
+SPDXID: SPDXRef-item10446872
+FileChecksum: SHA1: d95695c72c253b7f8d1def999f6b0ad7284668fc
+FileChecksum: MD5: 55f5f6bcc5954925df9128e8cdda97b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/src/utils/hash_db.rs
+SPDXID: SPDXRef-item10446875
+FileChecksum: SHA1: 420b398197afcabd5da0e66f6bcd05459473a3a7
+FileChecksum: MD5: c87731fe9004a635bc03513c9345a33c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/src/utils/mod.rs
+SPDXID: SPDXRef-item10446876
+FileChecksum: SHA1: f67d84890976deac07c4b4cd202c7132428c31a7
+FileChecksum: MD5: d683d3782f67d26764197233f9452361
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/sage/create_rcs_grain.sage
+SPDXID: SPDXRef-item10446885
+FileChecksum: SHA1: 6b77441e4662876df352cf70b588b9028a022576
+FileChecksum: MD5: c87d76be289cb690bc82b195f576d540
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/sage/calc_round_numbers.py
+SPDXID: SPDXRef-item10446886
+FileChecksum: SHA1: b199dd957ed3e36be709ea0475b63332d894d232
+FileChecksum: MD5: 5f77f746245500a715bcacda573bb30d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/sage/create_mds_pf.sage
+SPDXID: SPDXRef-item10446887
+FileChecksum: SHA1: 5c2e362c79bbdfff4f5d5396a83cd2fec16dd7ce
+FileChecksum: MD5: 60557300d9cdcb10a3bd01fc6c2f2833
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/mimc.rs
+SPDXID: SPDXRef-item10446888
+FileChecksum: SHA1: ab0be7780497cbbed7bc19b83043c37c6da355c4
+FileChecksum: MD5: 9e07cf6b9534e875ef4b385d1624210d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/hamming_distance.rs
+SPDXID: SPDXRef-item10446889
+FileChecksum: SHA1: 0791a7d66a395b4e361b7b54d5bbcdd628054ccc
+FileChecksum: MD5: 893601466a635c21130778c6dc6ac6b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/README.md
+SPDXID: SPDXRef-item10446890
+FileChecksum: SHA1: e9e0f3c252446270c1ca3bde9cb1356691d27ec0
+FileChecksum: MD5: 7f7f6b1c002d999413f98e35204d13d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/sparse_merkle_tree_4_ary.rs
+SPDXID: SPDXRef-item10446891
+FileChecksum: SHA1: bb2afabd9f3a44367fb457ef0ab8306b4d357766
+FileChecksum: MD5: 9a52cefa10ac7f976646923fc22ba426
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/poseidon_hash.rs
+SPDXID: SPDXRef-item10446892
+FileChecksum: SHA1: 21bc2e65a6fab08d4af02839467bb11581b4379a
+FileChecksum: MD5: f975fcea810fca9fe941c22eb89ed755
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/set_non_membership.rs
+SPDXID: SPDXRef-item10446893
+FileChecksum: SHA1: fbc754b3a140e1f138773ac9f88ef16dcf2b8975
+FileChecksum: MD5: 7ef9534324e66b04e6d02a597475e84b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/poseidon_constants.rs
+SPDXID: SPDXRef-item10446894
+FileChecksum: SHA1: fc86462eeb100aea7a1fc68e3ff039870d4e034f
+FileChecksum: MD5: e28b84c4423a882e823d60f5de8d81da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/randomizer.rs
+SPDXID: SPDXRef-item10446895
+FileChecksum: SHA1: 082d883d43719cc528c055120a51cec1daccbbce
+FileChecksum: MD5: ee6a45fe9eea566fc7491e6125bdc15f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/non_zero.rs
+SPDXID: SPDXRef-item10446896
+FileChecksum: SHA1: 3982c18bc6941be060929153f852280f321942f5
+FileChecksum: MD5: 4d5dbf24a71ee9fda1664193ba4f1b69
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/set_membership_alt.rs
+SPDXID: SPDXRef-item10446897
+FileChecksum: SHA1: 3a623b093c0a0963d33b7111e1033e94f8d723a9
+FileChecksum: MD5: e076820f1c02df3cc427063c6253b373
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/bound_check.rs
+SPDXID: SPDXRef-item10446898
+FileChecksum: SHA1: df438b5c4fdd8c9e112f730ba7d841c15f745e9f
+FileChecksum: MD5: fa7267763aaf943b624fb611acca3ef2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/sparse_merkle_tree_8_ary.rs
+SPDXID: SPDXRef-item10446899
+FileChecksum: SHA1: 8ec61184b41401bddab6078d1ef0e12fa505c24f
+FileChecksum: MD5: 621bc16bb6aabb7b3236ada109864ceb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/merkle_tree_hash.rs
+SPDXID: SPDXRef-item10446900
+FileChecksum: SHA1: 785c90827cb85c9d7dc43912a913278da06a2c99
+FileChecksum: MD5: 9977ac3e378be7c8e8c2d2acda4398c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/set_membership.rs
+SPDXID: SPDXRef-item10446901
+FileChecksum: SHA1: df51cdec86f1ee4c5e979c398e643ecf3fbf7875
+FileChecksum: MD5: b1a97caa13d8b7c17bc681524b46190c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/helper_constraints/mimc.rs
+SPDXID: SPDXRef-item10446903
+FileChecksum: SHA1: b35a4c4e42de1fa32528d5b1cb9512565d734219
+FileChecksum: MD5: 225888814845648e4a05538d9bfee916
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/helper_constraints/sparse_merkle_tree_4_ary.rs
+SPDXID: SPDXRef-item10446904
+FileChecksum: SHA1: 62effb21cae215226654e6e42ab90f85d91060af
+FileChecksum: MD5: 791a5da3329c44e0ed277334ecb554a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/helper_constraints/bit.rs
+SPDXID: SPDXRef-item10446905
+FileChecksum: SHA1: 4ff6d6e8fe7f93d2e93ad28a0b0601fd385876f5
+FileChecksum: MD5: 5691e5c30d5c09174b3816e3ee5e35bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/helper_constraints/vector_sum.rs
+SPDXID: SPDXRef-item10446906
+FileChecksum: SHA1: b03e4366b411660fe4cb8e5943888cf9b52d763d
+FileChecksum: MD5: 653fb4f3ef3829e211dd1a8e1f0c46e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/helper_constraints/non_zero.rs
+SPDXID: SPDXRef-item10446907
+FileChecksum: SHA1: 734ac2b0bf3a7f4445da7bdc5445cff4deb6f6ee
+FileChecksum: MD5: 90d31ed1046dd05a8df499ba129d031f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/helper_constraints/sparse_merkle_tree_8_ary.rs
+SPDXID: SPDXRef-item10446908
+FileChecksum: SHA1: 1aedc0330f87393664c9b6344ecb7204d62d16ad
+FileChecksum: MD5: 9087cea90f24a9e7d6a89934c3a2518c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/helper_constraints/poseidon.rs
+SPDXID: SPDXRef-item10446909
+FileChecksum: SHA1: af7f6b2294d46f777aa28f1757c01310937b0221
+FileChecksum: MD5: 8f365b28c0904812af0c92e79fbfcbfd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/helper_constraints/positive_no.rs
+SPDXID: SPDXRef-item10446910
+FileChecksum: SHA1: 1641a8288e6afccdcaca8ea8a5793b409800d6b0
+FileChecksum: MD5: 891a8d77874d0b68aa02404bbd6da2eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/helper_constraints/mod.rs
+SPDXID: SPDXRef-item10446911
+FileChecksum: SHA1: e1caaada067169424cbf9e54ac3b7a781949cebb
+FileChecksum: MD5: 3d85031942a61968bcf420c29404065a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/mod.rs
+SPDXID: SPDXRef-item10446912
+FileChecksum: SHA1: 07b81cf9ae210e9282886ad14318d418485173d2
+FileChecksum: MD5: dbbcd08667975a1972fe8a63f7bfd60f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/src/r1cs/mod.rs
+SPDXID: SPDXRef-item10446915
+FileChecksum: SHA1: 68168e68573a330226439432eb7aeb0a6aa3e8aa
+FileChecksum: MD5: 709990b2bfda00a5b5a2f1f0c1f48449
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/Cargo.toml
+SPDXID: SPDXRef-item10446916
+FileChecksum: SHA1: 1c8c9ba61c73564e9d719aacbb6fc7fe3de4660e
+FileChecksum: MD5: 74bd0c9ada14978d33b6609447807849
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/benches/vec_poly_eval.rs
+SPDXID: SPDXRef-item10446918
+FileChecksum: SHA1: ae3bb7dd86459d449d1a616a2f133d6643a9dd50
+FileChecksum: MD5: dcd7ec297aeba76a43b7657d20ba03fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/tests/multiple_constraint_systems.rs
+SPDXID: SPDXRef-item10446920
+FileChecksum: SHA1: d670a61569ac11a7f0e48e1218810e6ce0ea0f6e
+FileChecksum: MD5: 405685a97188856181a97dbe215ed6c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/tests/utils/mimc.rs
+SPDXID: SPDXRef-item10446922
+FileChecksum: SHA1: b4f779f5691a85e35294e85d33b50f4690e9af42
+FileChecksum: MD5: f59b5d131fae46dadf53f8af2f45641b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/tests/utils/mod.rs
+SPDXID: SPDXRef-item10446923
+FileChecksum: SHA1: 041da3d8bc73fdbb8adbf5231dbdf60297d363f2
+FileChecksum: MD5: 2914a16180000fd9cadc8fd06862c193
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/tests/r1cs.rs
+SPDXID: SPDXRef-item10446924
+FileChecksum: SHA1: 404d2c2725e4f7e4d709a21c7824699448514e89
+FileChecksum: MD5: 64317d883ff00565e7fe6f10afd862f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/tests/mod.rs
+SPDXID: SPDXRef-item10446925
+FileChecksum: SHA1: 6978a12485ac5e278d57a5eb84002a84b2da0d5a
+FileChecksum: MD5: 8715a71b7e80705e17c9a696d90cf330
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bulletproofs_amcl/.gitignore
+SPDXID: SPDXRef-item10446926
+FileChecksum: SHA1: 2adbda2d19352f6876f150919178b254375e1046
+FileChecksum: MD5: 21995b1f2b246e3ae7673a154563a50c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bbs/README.md
+SPDXID: SPDXRef-item10446928
+FileChecksum: SHA1: 0191fc5a76b8a0afe22b33f1b6d43961f35fc18b
+FileChecksum: MD5: 751e056abfbcd41729783a3b83777bde
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bbs/src/errors.rs
+SPDXID: SPDXRef-item10446930
+FileChecksum: SHA1: e35f49ef9e1ea156d1b0f28cea2e28f9a97afe2f
+FileChecksum: MD5: 3341ebbcfd9973978cbfb7c3164abfe0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bbs/src/lib.rs
+SPDXID: SPDXRef-item10446931
+FileChecksum: SHA1: d6d307ed9e75a3955fd8ae798ec55fefb5b9d7d5
+FileChecksum: MD5: 6065d744c5a29a19e11af2a615e5c528
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bbs/src/messages.rs
+SPDXID: SPDXRef-item10446932
+FileChecksum: SHA1: a88edbdfddf9c3177b0b99c256d018f9cf9ddea7
+FileChecksum: MD5: 0cd03e6fb4a8c2406929c1d31e9286e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bbs/src/signature.rs
+SPDXID: SPDXRef-item10446933
+FileChecksum: SHA1: aa3be3a425edb420859a77105a0a5d70c5a3f6a2
+FileChecksum: MD5: 5e9b62ddfb7439a1663a402ebe9c41cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bbs/src/keys.rs
+SPDXID: SPDXRef-item10446934
+FileChecksum: SHA1: ba9d81d6aa10cb135083c38d46370a6a3d856549
+FileChecksum: MD5: ddadf916ed56951faad327b4a028727a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bbs/src/macros.rs
+SPDXID: SPDXRef-item10446935
+FileChecksum: SHA1: 0916f30c2a30431d3331aa3782b59e7ce36574ee
+FileChecksum: MD5: c827ea2b4738099a86942872453ef866
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bbs/src/prover.rs
+SPDXID: SPDXRef-item10446936
+FileChecksum: SHA1: 210408154001bf97a30759e7b3aac3513d6010e7
+FileChecksum: MD5: cbeb7e6388c3065cff7968aa7161607a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bbs/src/pok_sig.rs
+SPDXID: SPDXRef-item10446937
+FileChecksum: SHA1: a21ca8db1ccd1eb10ba8141781b4a112749f862c
+FileChecksum: MD5: 4e1c09850210f8ce062bf1a3f8c17556
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bbs/src/verifier.rs
+SPDXID: SPDXRef-item10446938
+FileChecksum: SHA1: db7abaa4d3b66cb187193c8b200fd5a2435a0a04
+FileChecksum: MD5: f95f1ed563efd7e2c1557125cd4bd36c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bbs/src/issuer.rs
+SPDXID: SPDXRef-item10446939
+FileChecksum: SHA1: 9418ce462a88908ef09c5f6009941daaebdc1cec
+FileChecksum: MD5: ff970d26710afa87c49ce03e6309ed1a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bbs/src/pok_vc.rs
+SPDXID: SPDXRef-item10446940
+FileChecksum: SHA1: 87bd7dc7b7f236614cad69a6b658fcee43a0ca83
+FileChecksum: MD5: 17a5226b2b97b2195692337f30c1f9c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/libzmix/bbs/tests/bbs.rs
+SPDXID: SPDXRef-item10446943
+FileChecksum: SHA1: 7af422d449542c6aae5f472f110513e2dd5be007
+FileChecksum: MD5: ed6184469e659e1764dcef128a5b54a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/azure-pipelines.yml
+SPDXID: SPDXRef-item10446944
+FileChecksum: SHA1: f9f112220b3ca0299e3b57e21408b73c46f0f440
+FileChecksum: MD5: f24c2c17ae1b755f7b877c0b99abd6a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/CODEOWNERS
+SPDXID: SPDXRef-item10446945
+FileChecksum: SHA1: e492d30a4a94933c70172254b78847331682b4e2
+FileChecksum: MD5: c8346fe2a03f72e51b7ebf297aea66b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/rustfmt.toml
+SPDXID: SPDXRef-item10446946
+FileChecksum: SHA1: e31b698e2de14b0b7e1bff7754e2447e0fcd8a58
+FileChecksum: MD5: e40ee0c877196485a228e802c5a9e384
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/RELEASES.md
+SPDXID: SPDXRef-item10446947
+FileChecksum: SHA1: 01c815d81e3e860e81f08608b7f45515eccf8177
+FileChecksum: MD5: cb489cba3b7af4b75527df82f3b8f929
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/.gitignore
+SPDXID: SPDXRef-item10446948
+FileChecksum: SHA1: 1591785d9bafd688244d33ff8f424822723c8f42
+FileChecksum: MD5: 3e28768358b7905687db23d3118d5988
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/docs/Makefile
+SPDXID: SPDXRef-item10446950
+FileChecksum: SHA1: bd681c1ac24eed33ec2ea6ef2d6d63c7c71d0ce4
+FileChecksum: MD5: fd93912b59bb0a3f76d2680a02fa6b2b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/docs/build-environment.md
+SPDXID: SPDXRef-item10446951
+FileChecksum: SHA1: 88b5c51c5ec20ea12d114d83056c5370c7fe0af9
+FileChecksum: MD5: c67cb59e26e90d581f8ff1a8256ee9eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/docs/source/conf.py
+SPDXID: SPDXRef-item10446954
+FileChecksum: SHA1: 472c723d0a900a74ff6a67eb29b5fc658e9a07f5
+FileChecksum: MD5: 7c090719470c829d27721709fbfe6bfa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyright 2018, Ursa Contributors </text>
+ 
+
+##File
+
+FileName: ursa/CHANGELOG
+SPDXID: SPDXRef-item10446962
+FileChecksum: SHA1: 1c3835af8e295e099530827fde64da6588412564
+FileChecksum: MD5: b811708a51fc2b0ec6b84fb0d8fd2b8a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/appveyor.yml
+SPDXID: SPDXRef-item10446963
+FileChecksum: SHA1: 33f4efadcae8d815f0b31d0546ac3e8c8e4117a4
+FileChecksum: MD5: 4b6efccdbbc3d36a0d0f89450c3c59aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa/SECURITY.md
+SPDXID: SPDXRef-item10446966
+FileChecksum: SHA1: 0397010efc31a3508d0eb8151dbae32e9433b031
+FileChecksum: MD5: ae35bef17d8b512c07bade9bc1c39226
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Dual-license
+LicenseName: Dual-license
+ExtractedText: <text> Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
+When software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. </text>
+
+LicenseID: LicenseRef-Non-commercial
+LicenseName: Non-commercial
+ExtractedText: <text> License by Nomos. </text>
+
