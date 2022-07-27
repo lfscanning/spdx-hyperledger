@@ -1,0 +1,4029 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_ursa-2022-07-22.zip_1658741048.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2022-07-25T09:24:08Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: ursa-2022-07-22.zip
+PackageFileName: ursa-2022-07-22.zip
+SPDXID: SPDXRef-upload546
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 6268ccf8a4a74527eb9711922b1a24f7236f3e60
+PackageChecksum: SHA1: d086a8504654b9de241054eca7763df0a76b2369
+PackageChecksum: SHA256: 2f35f0d70cb9193df92b97af1430bdba36b379d9ab819fe601017d62efe0b2cc
+PackageChecksum: MD5: fbd342eaf397d9281cbfc34f7e772447
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload546
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/docs/source/contents.rst
+SPDXID: SPDXRef-item2532814
+FileChecksum: SHA1: 12a8bb16735aed6b4aa358866ab40bc172ab8870
+FileChecksum: SHA256: a4bb889f64f6b61d3ec11ede78d6ff70d2d57952d8b60412ad0a64fe1be1ebda
+FileChecksum: MD5: f4eff303fceb4a36f7eb87e1dd7932e8
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/docs/source/introduction.rst
+SPDXID: SPDXRef-item2532815
+FileChecksum: SHA1: 540b1e7bf22bcb3fa1b32216f145cb471b89046f
+FileChecksum: SHA256: 532250c36a07b0aaf11218dbe2b533beb32359f2526542590aaaae971ebb1680
+FileChecksum: MD5: 8eb2c68e049d0d1d1c545d0af768d6ed
+LicenseConcluded: Apache-2.0 OR CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/docs/source/community/code_of_conduct.rst
+SPDXID: SPDXRef-item2532817
+FileChecksum: SHA1: 4ce3bd188d08a2ec03eec200e6932927a2884b12
+FileChecksum: SHA256: 29af3f4fda62e64bf11db13aba4bbf11caf566adc94cfae346e83dd955305320
+FileChecksum: MD5: 1001b03d9a3e7ad77ae344bdf740a942
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/docs/source/community/join_the_discussion.rst
+SPDXID: SPDXRef-item2532819
+FileChecksum: SHA1: 7e9788513227b0866489cb680b5e849d5303f308
+FileChecksum: SHA256: b0da44101fb918f15101f509d7fc7b0ed6b2ad5e68d74f06d6ccc20041a94782
+FileChecksum: MD5: 6edae5e621f067731e36a0d8e0472192
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/docs/source/community/contributing.rst
+SPDXID: SPDXRef-item2532818
+FileChecksum: SHA1: fdbd9ef97034b46a3da9476423d1bcb6222fbaf0
+FileChecksum: SHA256: 56e27a3799bb1eea12b80de8ebc458684886f335859b598a2a97820ea27126fc
+FileChecksum: MD5: fa812f0d0005003af5571c095aba4cb1
+LicenseConcluded: Apache-2.0 OR CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/docs/source/community/issue_tracking.rst
+SPDXID: SPDXRef-item2532820
+FileChecksum: SHA1: 6d85b618bf6eab2e7f613c15c68f61e05e27ba66
+FileChecksum: SHA256: 69e2f80d80910881a02eb67b316cfe7a2a3a007d198b11d16d1d5738495acd77
+FileChecksum: MD5: da4f58be81ef90d9fe9f86a38f778761
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/docs/source/community.rst
+SPDXID: SPDXRef-item2532821
+FileChecksum: SHA1: c3e071872a0998fad5b01fdc98b79d2fa5481b20
+FileChecksum: SHA256: 386abbe72efd3a367dde82cb4c00db1213d7be0eefdb91dbef28079da4fc2eef
+FileChecksum: MD5: 9a4d383500049b0da2d97f4c5ffb3454
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/src/transcript.rs
+SPDXID: SPDXRef-item2532834
+FileChecksum: SHA1: 944d0f85b9a35b80a1be81d58c1b5989f0e82d86
+FileChecksum: SHA256: 63f2363b0a1bc4d2fb6a175f7fffda2bc3144b32020e497aa99ba667412bb329
+FileChecksum: MD5: a8da372b53472bcf36e2f1f6614dcd10
+LicenseConcluded: Apache-2.0 OR MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/src/utils/vector_poly.rs
+SPDXID: SPDXRef-item2532837
+FileChecksum: SHA1: aef4eb04d84cc178ab7b203d8d2b48265292801e
+FileChecksum: SHA256: 1842f7ff904bb0d706513c7929ee40c25766d5b04d49970c08b61f537eec067b
+FileChecksum: MD5: 00172677450934d42eb5d419e2934b28
+LicenseConcluded: Apache-2.0 OR MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/src/errors.rs
+SPDXID: SPDXRef-item2532835
+FileChecksum: SHA1: 0fc647ba1dcf20d004ae3fb157c1ee43896bfb78
+FileChecksum: SHA256: d96b75cd804da721f33899a55a06f2867c124689c13cbe97a66c381c5ccb7bcf
+FileChecksum: MD5: 4a84a1cda10e99377ae6b8bc21cd387f
+LicenseConcluded: Apache-2.0 OR MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/src/r1cs/proof.rs
+SPDXID: SPDXRef-item2532841
+FileChecksum: SHA1: d855d1fb7517d4cb7fb9fac3111e63e57e70255f
+FileChecksum: SHA256: 40ab44b05d80a8fd4cfe723d114bf42b31040eaaa65604c2cfc1623afbf88db3
+FileChecksum: MD5: bf373ae44beb8040396af6ff382efe93
+LicenseConcluded: Apache-2.0 OR MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/src/r1cs/prover.rs
+SPDXID: SPDXRef-item2532842
+FileChecksum: SHA1: e794c846fc97398b8d8c99ac6e14a1edebba1864
+FileChecksum: SHA256: be5a6c25b73bc6a827963e66d5c201e45ba29b8754b9d5ebc955b089814f7e5f
+FileChecksum: MD5: 367a36e3cce3147ee682e26e5425f271
+LicenseConcluded: Apache-2.0 OR MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/src/r1cs/linear_combination.rs
+SPDXID: SPDXRef-item2532844
+FileChecksum: SHA1: 87b1646c5eec74c6dac4ebe55e2b90d805d47c5c
+FileChecksum: SHA256: 882955fc0421ac94292f2fe82bb405c15f346885d5e4992c70f03aa29b02399e
+FileChecksum: MD5: 1cd76ce433630eb1ecc6fba7b6cf870d
+LicenseConcluded: Apache-2.0 OR MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/src/r1cs/constraint_system.rs
+SPDXID: SPDXRef-item2532843
+FileChecksum: SHA1: f87463b18395383ec4f00f3fc7a1986b3f06e83e
+FileChecksum: SHA256: 4a0841f5f408a079a5f09d28056083d12267ab6ac827638505f0f41de9c7d037
+FileChecksum: MD5: 46fabba99c6e18474be7a6dc6cdd8246
+LicenseConcluded: Apache-2.0 OR MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/src/r1cs/verifier.rs
+SPDXID: SPDXRef-item2532876
+FileChecksum: SHA1: e5ffdf7bd2d19c559176f9da0d20fca9cf645a86
+FileChecksum: SHA256: 17ac4257c844901cca0cb7a3e3128f4fe93021a2ce029eea7b3e24b735f52a86
+FileChecksum: MD5: fc13d2e6f9ebf8e4e9659380ffba1263
+LicenseConcluded: Apache-2.0 OR MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/src/ipp.rs
+SPDXID: SPDXRef-item2532878
+FileChecksum: SHA1: e2003e2d9f7d93db673aec21c753ca6d635d8b39
+FileChecksum: SHA256: 18620aa71a615326e78df71afc0a161ffa783e3db359327010a287820ad95c28
+FileChecksum: MD5: 407389977cf9009576a8e497b5e42b2d
+LicenseConcluded: Apache-2.0 OR MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/src/verifiable_encryption/cs_verifiable_encryption.rs
+SPDXID: SPDXRef-item2532923
+FileChecksum: SHA1: 41a6b795f2e6eed5d1b1a9292574b8e7a152c0ad
+FileChecksum: SHA256: 49fc9ff12f1d5aadda7f6263c2382f73974aaeb8cc31ac5283f3b1dddf3703bb
+FileChecksum: MD5: 255a6e33680f76c9719cbdbbd752d27d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright contributors to Hyperledger Ursa. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/.github/settings.yml
+SPDXID: SPDXRef-item2532986
+FileChecksum: SHA1: 504005fc97ab4fcef2b152a4e9b31d2d6c3130f2
+FileChecksum: SHA256: 78bf9d3b991a1ad3566cbc57a234121f5e38120475c54fc20c5116bce8f475e0
+FileChecksum: MD5: 1b174361da2d5f97a744e4c164744cf4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-wrapper-go/CODEOWNERS
+SPDXID: SPDXRef-item2533154
+FileChecksum: SHA1: 3020e4594b630fd92724ff00399056d50afd1a58
+FileChecksum: SHA256: 968198e7ecf842f9a35e669096208e01197f8c2ff9ffac143eb83df6e3279eac
+FileChecksum: MD5: 06e8f6035f6f4fdc0506c227c73c6b35
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-wrapper-go/.github/workflows/Dockerfile
+SPDXID: SPDXRef-item2533161
+FileChecksum: SHA1: d2ba7f365e2f3c9defcd21862bf5f6f498c02276
+FileChecksum: SHA256: 9f88f8a5b0067828ccb0c34214878f7ba071173aca7506fea00247513209d5a4
+FileChecksum: MD5: 9371b4fb1f954ba1d77bbca33292709d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright contributors to Hyperledger Ursa SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-wrapper-go/.github/settings.yml
+SPDXID: SPDXRef-item2533164
+FileChecksum: SHA1: 61f57582c6d41713b8093ae31d49b026ae3c47e5
+FileChecksum: SHA256: 06cc8fdc6f0075d6ad68a7fe35e1eab71256cfc1535c081fbcf7693dd70775da
+FileChecksum: MD5: d8d1233f7afcf55fc7a88635406b35ad
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/docker/ubuntu/ursa-fossa.dockerfile
+SPDXID: SPDXRef-item2532995
+FileChecksum: SHA1: f876278ff286c2d00093daa4149498693eb61884
+FileChecksum: SHA256: a14142611d9c01b446b561ff544331d241599b33b501f18480027c336ec9a8d0
+FileChecksum: MD5: ea33fa01915977dc5823c729fd1aa7fb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright contributors to Hyperledger Ursa SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/docker/ubuntu/ursa-xenial.dockerfile
+SPDXID: SPDXRef-item2532997
+FileChecksum: SHA1: dc780b967991b616ad199ea40a2ad016192447c3
+FileChecksum: SHA256: b9ad8d293dcc286dc66fd352c2bb8d9c3e32c4a5ddcd762dd95bafe225ec70c8
+FileChecksum: MD5: 48f771d6f9126df2718471946179565b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright contributors to Hyperledger Ursa SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/docker/ubuntu/Dockerfile
+SPDXID: SPDXRef-item2532996
+FileChecksum: SHA1: f4377c2d091e67832881990376480cd57cbeae22
+FileChecksum: SHA256: 2bcae5acb264494baee577fcdc44405a9519ecae51b4e8fdabe9371764e98284
+FileChecksum: MD5: 1072fc83d40d4813efdd80189fba6819
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright contributors to Hyperledger Ursa SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/docker/ubuntu/ursa-bionic.dockerfile
+SPDXID: SPDXRef-item2532998
+FileChecksum: SHA1: f4377c2d091e67832881990376480cd57cbeae22
+FileChecksum: SHA256: 2bcae5acb264494baee577fcdc44405a9519ecae51b4e8fdabe9371764e98284
+FileChecksum: MD5: 1072fc83d40d4813efdd80189fba6819
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright contributors to Hyperledger Ursa SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/LICENSE-APACHE
+SPDXID: SPDXRef-item2532884
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-python/LICENSE
+SPDXID: SPDXRef-item2533213
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-wrapper-go/LICENSE
+SPDXID: SPDXRef-item2533156
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/ursa_sharing/src/error.rs
+SPDXID: SPDXRef-item2532959
+FileChecksum: SHA1: 500b4706374697cca66163549e8aae7ddf13c6d5
+FileChecksum: SHA256: 025355415732914e2ff3fbf0d72706ad571b79090841561675aefeae2f55e8b7
+FileChecksum: MD5: 914ca02ec430c21dc4605b1eb930297e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Hyperledger Ursa Contributors </text>
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/LICENSE
+SPDXID: SPDXRef-item2532955
+FileChecksum: SHA1: 00dd40b4799690ad6d5093f1ee597118d1f7eec0
+FileChecksum: SHA256: f57b86f8433e827e93fe1e6a01742266bd4708eff62ebd91c032fd05de576800
+FileChecksum: MD5: 0945719e068474a7f366d44ba0069e43
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright 2018 Hyperledger </text>
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/ursa_sharing/src/lib.rs
+SPDXID: SPDXRef-item2532958
+FileChecksum: SHA1: 576c9e91773b08808b3ac159f370f5526256ccb3
+FileChecksum: SHA256: 3b0755f28feaab53964503bfc603acc98b687316e906b65a0220810c5a7cd1d8
+FileChecksum: MD5: ed00a823bd2226abeffd34149cc348da
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Hyperledger Ursa Contributors </text>
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/ursa_sharing/src/pedersen.rs
+SPDXID: SPDXRef-item2532960
+FileChecksum: SHA1: db11fdf463d25ba552a9f556a456a8af3e90f976
+FileChecksum: SHA256: e8a54c6615452f33510ec6732875bece668e1b77ff55ae3370b7022857f32e17
+FileChecksum: MD5: 2960b8d442ba9d923ef05fe709029aab
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Hyperledger Ursa Contributors </text>
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/ursa_sharing/src/shamir.rs
+SPDXID: SPDXRef-item2532963
+FileChecksum: SHA1: 78b3b4f3f816a7d2ad01de2a0f4e0887e7e1b709
+FileChecksum: SHA256: 40749989f150514540fee206131bb84434e157025dc10ef826d6c09d3fc75b01
+FileChecksum: MD5: 3a92640b7574f208b48453ac7e01a2ec
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Hyperledger Ursa Contributors </text>
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/ursa_sharing/src/tests.rs
+SPDXID: SPDXRef-item2532961
+FileChecksum: SHA1: f1361ff00cdb5fbe17bbda6e9a21cb06670649cc
+FileChecksum: SHA256: c85f2bc519212d1f7070f1f2ddc7f15f384fe7436bc497a0cfccac2872042fab
+FileChecksum: MD5: b4d49078f8ab81166887ca6a186e5b32
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Hyperledger Ursa Contributors </text>
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/ursa_sharing/src/feldman.rs
+SPDXID: SPDXRef-item2532962
+FileChecksum: SHA1: afdfff1e04d912383c85806db2ea777da643a811
+FileChecksum: SHA256: 75426ea7341c04c1d056b37d3efcb042086d11da249e0d4a154a2b2d49a54bc0
+FileChecksum: MD5: 4a5398cd5c725cd2a50cd9701f543d81
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Hyperledger Ursa Contributors </text>
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/ursa_sharing/examples/k256.rs
+SPDXID: SPDXRef-item2532965
+FileChecksum: SHA1: 4e8f5951b58185a3e74d753fab33d5838ae4b4ac
+FileChecksum: SHA256: b626a3ea52157d605eff5deaee17274a894d7a1675c057baf643634e60886a31
+FileChecksum: MD5: a41dc8c093db7b98e853614e25b4d32b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Hyperledger Ursa Contributors </text>
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/ursa_sharing/examples/curve25519.rs
+SPDXID: SPDXRef-item2532967
+FileChecksum: SHA1: 2431c1c7b50f2b40c12fb4d8d931d9ba5b4707fd
+FileChecksum: SHA256: b22d3a61551933100e8b9a893135d800078375ee6c502a3f9738c40d9f22ca34
+FileChecksum: MD5: 10ceb0e30e12ecd6e5fc8f89f898f309
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Hyperledger Ursa Contributors </text>
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/ursa_sharing/examples/p256.rs
+SPDXID: SPDXRef-item2532966
+FileChecksum: SHA1: 2aeed4a070fe771ae1cd754cbafac047364c0a59
+FileChecksum: SHA256: 015f147eb3f209519eb332b219ad82c7914f56d2d9d4c2b5719d79970ad99bb7
+FileChecksum: MD5: eb976ff009424efb5d02f7c57214aa11
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Hyperledger Ursa Contributors </text>
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/ursa_sharing/examples/bn3072.rs
+SPDXID: SPDXRef-item2532968
+FileChecksum: SHA1: 7464ae0b7bdc6d9b8398755633ae213e11f65a9d
+FileChecksum: SHA256: b1f9d3df24d08c0c45dae0318f14a2dd5cdf11df88d04359e7903a5dfdb466b5
+FileChecksum: MD5: 6af40411bc0f679c045c7b1f49fda369
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Hyperledger Ursa Contributors </text>
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/ursa_sharing/examples/bls12381.rs
+SPDXID: SPDXRef-item2532969
+FileChecksum: SHA1: e058e743bc5c40ebab8b697c3e399439c8ba2230
+FileChecksum: SHA256: 0ef9f949dc51a788a7adb1abe194f01677dd8b4dc8229e17644e9764798d6365
+FileChecksum: MD5: 2556ac8cf6fea13a3e80fcf270e82492
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Hyperledger Ursa Contributors </text>
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/src/lib.rs
+SPDXID: SPDXRef-item2532981
+FileChecksum: SHA1: f4a9f3d77aab077a14e2651204404ad9525e63bc
+FileChecksum: SHA256: 0678748cb4b802cd8fb3e7d90ce8b9731935ca6986765e6a8a3c9f7dc466c866
+FileChecksum: MD5: 92c507257fc2f7432c37b72e333e16f7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Hyperledger Ursa Contributors </text>
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/src/prelude.rs
+SPDXID: SPDXRef-item2532982
+FileChecksum: SHA1: 5a310104c03d512f1ed7eb10968c3d82a7b8631d
+FileChecksum: SHA256: dc06d98e8eb3333dc49725e3228e8629026daf9793e0b7c00c3821ea0ce963b5
+FileChecksum: MD5: 718d244b6ce91a77c7af0812de2ab592
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Hyperledger Ursa Contributors </text>
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bbs/Cargo.toml
+SPDXID: SPDXRef-item2532903
+FileChecksum: SHA1: e425729269af64a5d10620e327f9cd3fe7aa470e
+FileChecksum: SHA256: 29c0014504f49f7fce6124236a7f4b9eb7e9f963d20a27206d0b3dbedf6c2d7a
+FileChecksum: MD5: 690d0365c7a0200180466d01dc2c9e59
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/LICENSE-MIT
+SPDXID: SPDXRef-item2532883
+FileChecksum: SHA1: e48adbb6a7ac8e0381e4cf8277527f1ffcc79882
+FileChecksum: SHA256: 9a1bffd4f22dafff2381514bcd4ec3706903e7422d6c5295b8752199a393d9c9
+FileChecksum: MD5: 781c92dff96d43f99c207364d10e16fc
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) 2018 Chain, Inc. </text>
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/README.md
+SPDXID: SPDXRef-item2532885
+FileChecksum: SHA1: bb62ac5e80ca2f0971b2c010501826e344d4c019
+FileChecksum: SHA256: 632757a1b6e987863a05fcbe5d1560d804b8657344dbe3903e308fbd7a508cbf
+FileChecksum: MD5: 2dea8c4f655ee4201ad1f36c103b111a
+LicenseConcluded: Apache-2.0 OR MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/Cargo.toml
+SPDXID: SPDXRef-item2532952
+FileChecksum: SHA1: 55fbf9deb480be8c26a527ef6e80555321f07a1b
+FileChecksum: SHA256: 293d0692abfa659959e452e771e6210f237d175e6da04a4b746601a5067d3982
+FileChecksum: MD5: 12da2a7b174c6c495cfd82cd2df178a9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/ursa_accumulators/Cargo.toml
+SPDXID: SPDXRef-item2533003
+FileChecksum: SHA1: d1dcc3cd2a48ba955b61345d099530159c98c51e
+FileChecksum: SHA256: ee8e920ab73a699bb4051a549ac9519b4d5a6bc06106d54694e1a867c7d97723
+FileChecksum: MD5: d60a783dd069407ef346d9e37c69e8b7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/ursa_core/Cargo.toml
+SPDXID: SPDXRef-item2533126
+FileChecksum: SHA1: 63c7c8515b7fa4526c9792e53c1f86c7443e0284
+FileChecksum: SHA256: 793a97e99662896226ef483a11ed5e15cf2df55720aa050ca58275e692460456
+FileChecksum: MD5: 51afcf91c3b442a4c29a5c87863d0f43
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/ursa_encryption/Cargo.toml
+SPDXID: SPDXRef-item2532977
+FileChecksum: SHA1: 0bd1b26a98fe9ec192b523c819aabc20499ee8b5
+FileChecksum: SHA256: 08eedf941da324f2ba98cefe8a65b43398861f078fbcc3fb59bc441e413bad28
+FileChecksum: MD5: 25bcbf3dbbb63efdf46ceba5ad0d55c1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/ursa_sharing/Cargo.toml
+SPDXID: SPDXRef-item2532971
+FileChecksum: SHA1: b951863630b1a0bfd59639a21c78871047075e2e
+FileChecksum: SHA256: af3837f064e4348671ed326c6d654870bde084dc5214436af7e8e5114d3aa78b
+FileChecksum: MD5: d65a56b7bf3fd0d97a6d11c0645ea33c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/ursa_shortgroupsignatures/Cargo.toml
+SPDXID: SPDXRef-item2533116
+FileChecksum: SHA1: 689f11c3857eacecbca27448e13c319210fbc40c
+FileChecksum: SHA256: 11cbeae0c0b59e73e4064e933cdfc67fe16469473394e40f589c291a930ce2d6
+FileChecksum: MD5: 6d2050be19d757a6fcaaff1074f640ca
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/ursa_signatures/Cargo.toml
+SPDXID: SPDXRef-item2533121
+FileChecksum: SHA1: 791d14306bbd2b2885d2e1906ab38ada6125651b
+FileChecksum: SHA256: 806b7635253f7882722e793bd23139011ec88bbc43e6e232d4522dae03375d98
+FileChecksum: MD5: eb4f186c4d7bcdd27704e5902333777a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/CONTRIBUTING.md
+SPDXID: SPDXRef-item2532979
+FileChecksum: SHA1: f23ba6c59295da284cc1f0b1437419b2ccafa2d6
+FileChecksum: SHA256: 6df3ad13a0ad2bed25741e43e2e2040ca3bc505f665262498f4a04a4c821148c
+FileChecksum: MD5: c1a94138f0792600aab71e78ea8438b8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/Cargo.toml
+SPDXID: SPDXRef-item2533005
+FileChecksum: SHA1: 54c3379ea1fa71d894a21e9483f46c8d5e1c8694
+FileChecksum: SHA256: 52a414dfb3958726cd477aaf5636ea1ca55ba063b3c8f89d3a57cc5bcb29b8c0
+FileChecksum: MD5: 08c9e22d4d3b3add8e152eee233dd21e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-docs/LICENSE
+SPDXID: SPDXRef-item2533133
+FileChecksum: SHA1: ea50605ca80f45e1cac988d15acfc06ff950b0d7
+FileChecksum: SHA256: 9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411
+FileChecksum: MD5: 2ab724713fdaf49e4523c4503bfd068d
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: LicenseRef-Public-domain
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> copyright and certain other rights specified in the public license below. The following considerations are for informational purposes only, are not exhaustive, and do not form part of our licenses.
+copyright. More considerations for licensors: wiki.creativecommons.org/Considerations_for_licensors
+copyright--then that use is not regulated by the license. Our
+copyright or other rights in the material. A licensor may make special requests, such as asking that all changes be marked or described. Although not required by our licenses, you are encouraged to respect those requests where reasonable. More considerations for the public: wiki.creativecommons.org/Considerations_for_licensees
+Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.
+copyright and/or similar rights
+copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights
+Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.
+copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
+copyright notice;
+Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically. </text>
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-python/CONTRIBUTING.md
+SPDXID: SPDXRef-item2533214
+FileChecksum: SHA1: 32bc1c8b863219c0d3f50814e8c061e3896d4e13
+FileChecksum: SHA256: 9af35724f6b4bc352d1816e107255633b942cb1e4afbeae8fa989091f356b9c6
+FileChecksum: MD5: 9e09bd01b41c8b2ecbcd234e79400a76
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-python/setup.py
+SPDXID: SPDXRef-item2533221
+FileChecksum: SHA1: 8fabb789e7232e2785388151d358d23c9e2e0d9c
+FileChecksum: SHA256: fac3050f923f91aee602e4cdd7e9a37cff3058816339eb77366aeddcf2ebc5e4
+FileChecksum: MD5: f9ad032cb563ba683c360601a0eafea1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-rfcs/0000-template.md
+SPDXID: SPDXRef-item2533229
+FileChecksum: SHA1: 1a000c2df9178a0e78c95d1f468144b6c58ca54e
+FileChecksum: SHA256: 246857415fd25a701a0ad18930a52582f6c7e4727357a7ebd70c56e7baa28d2f
+FileChecksum: MD5: a27e22e36c64a8c2fcc4392caa705858
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-rfcs/LICENSE
+SPDXID: SPDXRef-item2533228
+FileChecksum: SHA1: ea50605ca80f45e1cac988d15acfc06ff950b0d7
+FileChecksum: SHA256: 9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411
+FileChecksum: MD5: 2ab724713fdaf49e4523c4503bfd068d
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: LicenseRef-Public-domain
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> copyright and certain other rights specified in the public license below. The following considerations are for informational purposes only, are not exhaustive, and do not form part of our licenses.
+copyright. More considerations for licensors: wiki.creativecommons.org/Considerations_for_licensors
+copyright--then that use is not regulated by the license. Our
+copyright or other rights in the material. A licensor may make special requests, such as asking that all changes be marked or described. Although not required by our licenses, you are encouraged to respect those requests where reasonable. More considerations for the public: wiki.creativecommons.org/Considerations_for_licensees
+Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.
+copyright and/or similar rights
+copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights
+Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.
+copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
+copyright notice;
+Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically. </text>
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-rfcs/README.md
+SPDXID: SPDXRef-item2533250
+FileChecksum: SHA1: de7ddde642dc763ddd258f054e2f7d5c5d823c27
+FileChecksum: SHA256: f504d384680161d342fcb3c04e010a30cc2d93bdfbf970c8d852e01868770d43
+FileChecksum: MD5: 18496d7bc8e3fbd34462c177757086f4
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/.rpm/ursa.spec
+SPDXID: SPDXRef-item2533106
+FileChecksum: SHA1: a381ce4554e5feea52d749533bcebf692764f344
+FileChecksum: SHA256: 91d36bfacdb81472be5a3f21c23a59dccc62f0e91ef3fd1ca690c302f2f8a246
+FileChecksum: MD5: 0d88ca303f3d63700bd94106124c5248
+LicenseConcluded: Apache-2.0 OR MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/Cargo.toml
+SPDXID: SPDXRef-item2533104
+FileChecksum: SHA1: e5dfa5f502d0da033c64ca82bf0c2dee12e64c6b
+FileChecksum: SHA256: 24630ceaeeb5fb34dc6fdb3cc844ea384d3521454d7f624ec692fd2801e1ee26
+FileChecksum: MD5: b3bcc40351dbe4ba52f25f3bac8af701
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright = "2019, Hyperledger" depends = "$auto" extended-description = """\ Rust written reliable, secure, easy-to-use, and pluggable cryptographic implementations.""" section = "admin" revision = "1" priority = "optional" assets = [ target/release/libursa.a", "usr/lib/libursa.a", "644"], target/release/libursa.so", "usr/lib/libursa.so", "644"], include/ursa_crypto.h", "usr/include/ursa/ursa_crypto.h", "644"], include/ursa_crypto_ed25519.h", "usr/include/ursa/ursa_crypto_ed25519.h", "644"]
+copyright = "2018, Hyperledger" depends = "$auto" extended-description = """\ Rust written reliable, secure, easy-to-use, and pluggable cryptographic implementations.""" section = "admin" revision = "1" priority = "optional" </text>
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-wrapper-go/README.md
+SPDXID: SPDXRef-item2533170
+FileChecksum: SHA1: eabbb8c8ce715bf1175e873d86ce4187a5bf8dff
+FileChecksum: SHA256: 7c77193f37a7eed94f1b9271c856754bc793ffe843546b11a640d05067f657e7
+FileChecksum: MD5: cc20057e279012c01c6d3a00d7916d45
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/docs/Makefile
+SPDXID: SPDXRef-item2532812
+FileChecksum: SHA1: bd681c1ac24eed33ec2ea6ef2d6d63c7c71d0ce4
+FileChecksum: SHA256: c77535eedc489bcb134a612a61529806414be1a6a39751e6a6310665e3d8132a
+FileChecksum: MD5: fd93912b59bb0a3f76d2680a02fa6b2b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/docs/source/conf.py
+SPDXID: SPDXRef-item2532822
+FileChecksum: SHA1: 472c723d0a900a74ff6a67eb29b5fc658e9a07f5
+FileChecksum: SHA256: c34b517ae50b0e84d962008bfd2ee3ffc0e1c761f0bf6724b72374e7be0d0bab
+FileChecksum: MD5: 7c090719470c829d27721709fbfe6bfa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyright = '2018, Ursa Contributors' author = 'Ursa Contributors' </text>
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/docs/build-environment.md
+SPDXID: SPDXRef-item2532823
+FileChecksum: SHA1: 378948b061a70694ba59c880c90055674d18b992
+FileChecksum: SHA256: ba84a2741b07609c6df7c7656fc70fa881274e1ba3b61a8eff82a2347f24a23d
+FileChecksum: MD5: ef79fab6bb6d037efb66d4499ea1501f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/tests/utils/mimc.rs
+SPDXID: SPDXRef-item2532828
+FileChecksum: SHA1: b4f779f5691a85e35294e85d33b50f4690e9af42
+FileChecksum: SHA256: 0d132965a60977ec9667b32b5e721e073c35aeedc3b64756ac4c54df07eb180f
+FileChecksum: MD5: f59b5d131fae46dadf53f8af2f45641b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/tests/utils/mod.rs
+SPDXID: SPDXRef-item2532829
+FileChecksum: SHA1: 041da3d8bc73fdbb8adbf5231dbdf60297d363f2
+FileChecksum: SHA256: c171012742bb0da1e8c4b9a53be39e58ae7463d896d30b90ff2a8915df506336
+FileChecksum: MD5: 2914a16180000fd9cadc8fd06862c193
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/tests/multiple_constraint_systems.rs
+SPDXID: SPDXRef-item2532830
+FileChecksum: SHA1: d670a61569ac11a7f0e48e1218810e6ce0ea0f6e
+FileChecksum: SHA256: f9267eef68848e9b8722f91e0ead060395b873bc1bb219dccbbab749418fcc87
+FileChecksum: MD5: 405685a97188856181a97dbe215ed6c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/tests/mod.rs
+SPDXID: SPDXRef-item2532831
+FileChecksum: SHA1: 6978a12485ac5e278d57a5eb84002a84b2da0d5a
+FileChecksum: SHA256: caf837da18044c2da0496b1509a9e197d7d57e3662b606120c58d1ed0ed780f0
+FileChecksum: MD5: 8715a71b7e80705e17c9a696d90cf330
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/tests/r1cs.rs
+SPDXID: SPDXRef-item2532832
+FileChecksum: SHA1: 404d2c2725e4f7e4d709a21c7824699448514e89
+FileChecksum: SHA256: 2b112399cd199af26c275c28fc350dcb9a7a77839f01843799a2d0c108daa740
+FileChecksum: MD5: 64317d883ff00565e7fe6f10afd862f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/src/utils/mod.rs
+SPDXID: SPDXRef-item2532838
+FileChecksum: SHA1: f67d84890976deac07c4b4cd202c7132428c31a7
+FileChecksum: SHA256: 7e18cf4d5eea816970098bd99750d583da6ed444b765f63190369b915ab92ee9
+FileChecksum: MD5: d683d3782f67d26764197233f9452361
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/src/utils/hash_db.rs
+SPDXID: SPDXRef-item2532839
+FileChecksum: SHA1: 420b398197afcabd5da0e66f6bcd05459473a3a7
+FileChecksum: SHA256: 1353551da698767474a5f8f36ac9e2930c57be3f22a124019f103d7ceb2f12b7
+FileChecksum: MD5: c87731fe9004a635bc03513c9345a33c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/merkle_tree_hash.rs
+SPDXID: SPDXRef-item2532846
+FileChecksum: SHA1: 785c90827cb85c9d7dc43912a913278da06a2c99
+FileChecksum: SHA256: cc5a5224710776449c24a8c6d20e51cc0933eb55de30e8afa7f826e9977836b1
+FileChecksum: MD5: 9977ac3e378be7c8e8c2d2acda4398c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/bound_check.rs
+SPDXID: SPDXRef-item2532847
+FileChecksum: SHA1: df438b5c4fdd8c9e112f730ba7d841c15f745e9f
+FileChecksum: SHA256: 6d7f694d5b8d203aa48985256c5d9eb45c12e94796ff12afeb32904fd453ffbd
+FileChecksum: MD5: fa7267763aaf943b624fb611acca3ef2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/non_zero.rs
+SPDXID: SPDXRef-item2532848
+FileChecksum: SHA1: 3982c18bc6941be060929153f852280f321942f5
+FileChecksum: SHA256: 5275f767ae0a68ee89d580cc54421c79879929e9e28aecf2e46db4efd5a71e31
+FileChecksum: MD5: 4d5dbf24a71ee9fda1664193ba4f1b69
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/sparse_merkle_tree_4_ary.rs
+SPDXID: SPDXRef-item2532849
+FileChecksum: SHA1: bb2afabd9f3a44367fb457ef0ab8306b4d357766
+FileChecksum: SHA256: ae1bcdbaa094690acd705732ddbd51d650d5b0ca42108e4ae97324115d2fef15
+FileChecksum: MD5: 9a52cefa10ac7f976646923fc22ba426
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/hamming_distance.rs
+SPDXID: SPDXRef-item2532850
+FileChecksum: SHA1: 0791a7d66a395b4e361b7b54d5bbcdd628054ccc
+FileChecksum: SHA256: 880f129cefeb899596e06de758654374b20c488803d53ed829fe1cbceddc9e70
+FileChecksum: MD5: 893601466a635c21130778c6dc6ac6b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/sparse_merkle_tree_8_ary.rs
+SPDXID: SPDXRef-item2532851
+FileChecksum: SHA1: 8ec61184b41401bddab6078d1ef0e12fa505c24f
+FileChecksum: SHA256: 91ea70a3673dc5c8f7b811802799dec99eaa1f079cc531e0085d5d7e2c85930c
+FileChecksum: MD5: 621bc16bb6aabb7b3236ada109864ceb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/mimc.rs
+SPDXID: SPDXRef-item2532852
+FileChecksum: SHA1: ab0be7780497cbbed7bc19b83043c37c6da355c4
+FileChecksum: SHA256: ad8bb3ef12a2eb1d9a80a1a1dd73e8cfbc75d787ccfb3dc3a993f75c199f5d64
+FileChecksum: MD5: 9e07cf6b9534e875ef4b385d1624210d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/set_membership_alt.rs
+SPDXID: SPDXRef-item2532853
+FileChecksum: SHA1: 3a623b093c0a0963d33b7111e1033e94f8d723a9
+FileChecksum: SHA256: eaaeba8cbc19291d268fb99dc2982d1e86fc427a5d2db480af262c994ff98f8f
+FileChecksum: MD5: e076820f1c02df3cc427063c6253b373
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/poseidon_constants.rs
+SPDXID: SPDXRef-item2532854
+FileChecksum: SHA1: fc86462eeb100aea7a1fc68e3ff039870d4e034f
+FileChecksum: SHA256: 6e302d017b8f8e434f534bb0a4a43fb9da422b07aeeb052e92be5b1bf891cb08
+FileChecksum: MD5: e28b84c4423a882e823d60f5de8d81da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/poseidon_hash.rs
+SPDXID: SPDXRef-item2532855
+FileChecksum: SHA1: 21bc2e65a6fab08d4af02839467bb11581b4379a
+FileChecksum: SHA256: 3daf2f614a2718cefab72e21b38babc9b876f753326ec22020da63c1193cf93b
+FileChecksum: MD5: f975fcea810fca9fe941c22eb89ed755
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/helper_constraints/non_zero.rs
+SPDXID: SPDXRef-item2532857
+FileChecksum: SHA1: 734ac2b0bf3a7f4445da7bdc5445cff4deb6f6ee
+FileChecksum: SHA256: 362dfc9117600455f57ecd230ea2776fda243afd5b9c4882f8fe26ae9d0372c1
+FileChecksum: MD5: 90d31ed1046dd05a8df499ba129d031f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/helper_constraints/sparse_merkle_tree_4_ary.rs
+SPDXID: SPDXRef-item2532858
+FileChecksum: SHA1: 62effb21cae215226654e6e42ab90f85d91060af
+FileChecksum: SHA256: d2e9d14a74f665380223ad025fe71cba84fa34aa4138c4f0a81dcf4096c34564
+FileChecksum: MD5: 791a5da3329c44e0ed277334ecb554a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/helper_constraints/sparse_merkle_tree_8_ary.rs
+SPDXID: SPDXRef-item2532859
+FileChecksum: SHA1: 1aedc0330f87393664c9b6344ecb7204d62d16ad
+FileChecksum: SHA256: 1d4b225026f442d4609c7770e300e52b9d280f768c34b2be5d6a661e8714f362
+FileChecksum: MD5: 9087cea90f24a9e7d6a89934c3a2518c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/helper_constraints/mimc.rs
+SPDXID: SPDXRef-item2532860
+FileChecksum: SHA1: b35a4c4e42de1fa32528d5b1cb9512565d734219
+FileChecksum: SHA256: 26b9d64528afcf8aace83e2749d3c378b9ff7f341a67df7f78f9b2c7791cebc0
+FileChecksum: MD5: 225888814845648e4a05538d9bfee916
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/helper_constraints/positive_no.rs
+SPDXID: SPDXRef-item2532861
+FileChecksum: SHA1: 1641a8288e6afccdcaca8ea8a5793b409800d6b0
+FileChecksum: SHA256: 2376afedc0320e2aa30cca37bf7590037e8d0586548337ba1004c3e7a8f0f5a7
+FileChecksum: MD5: 891a8d77874d0b68aa02404bbd6da2eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/helper_constraints/mod.rs
+SPDXID: SPDXRef-item2532862
+FileChecksum: SHA1: e1caaada067169424cbf9e54ac3b7a781949cebb
+FileChecksum: SHA256: 350fdf231f4aa463da7c48a1af9d1248e3902dd26fdad882ef4a79a0d743aa5d
+FileChecksum: MD5: 3d85031942a61968bcf420c29404065a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/helper_constraints/poseidon.rs
+SPDXID: SPDXRef-item2532863
+FileChecksum: SHA1: af7f6b2294d46f777aa28f1757c01310937b0221
+FileChecksum: SHA256: 5901fb024c11d9e6480c38baa30a7a2bb31b59c34428424992a569c4733419d7
+FileChecksum: MD5: 8f365b28c0904812af0c92e79fbfcbfd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/helper_constraints/bit.rs
+SPDXID: SPDXRef-item2532864
+FileChecksum: SHA1: 4ff6d6e8fe7f93d2e93ad28a0b0601fd385876f5
+FileChecksum: SHA256: 0f7dfab08d26c5a10980a27d8dc1deea74b99fd4a59d6095d9280f63e7992ef4
+FileChecksum: MD5: 5691e5c30d5c09174b3816e3ee5e35bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/helper_constraints/vector_sum.rs
+SPDXID: SPDXRef-item2532865
+FileChecksum: SHA1: b03e4366b411660fe4cb8e5943888cf9b52d763d
+FileChecksum: SHA256: 9472f052aa0aeb5f6d4b13c932caef4fd9bc56263f236811b9584d76936ec132
+FileChecksum: MD5: 653fb4f3ef3829e211dd1a8e1f0c46e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/mod.rs
+SPDXID: SPDXRef-item2532866
+FileChecksum: SHA1: 07b81cf9ae210e9282886ad14318d418485173d2
+FileChecksum: SHA256: aa6ad49dad00ff2ae9de53971638758c32ae28dfb5199f6bc1fbd3d8f5db48ab
+FileChecksum: MD5: dbbcd08667975a1972fe8a63f7bfd60f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/README.md
+SPDXID: SPDXRef-item2532867
+FileChecksum: SHA1: e9e0f3c252446270c1ca3bde9cb1356691d27ec0
+FileChecksum: SHA256: 0869e2f1133ded77a398fd625a51f26d5c6a91345eb464f58af7abe86f3781ca
+FileChecksum: MD5: 7f7f6b1c002d999413f98e35204d13d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/sage/create_mds_pf.sage
+SPDXID: SPDXRef-item2532869
+FileChecksum: SHA1: 5c2e362c79bbdfff4f5d5396a83cd2fec16dd7ce
+FileChecksum: SHA256: 88244e697e046ec00e11c79af126727478377288f2716cca4c88aba55b299876
+FileChecksum: MD5: 60557300d9cdcb10a3bd01fc6c2f2833
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/sage/calc_round_numbers.py
+SPDXID: SPDXRef-item2532870
+FileChecksum: SHA1: b199dd957ed3e36be709ea0475b63332d894d232
+FileChecksum: SHA256: b850ecf8d403c3ac3fced726deff540574ec3ca713f1f19cad55beff4ea1d094
+FileChecksum: MD5: 5f77f746245500a715bcacda573bb30d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/sage/create_rcs_grain.sage
+SPDXID: SPDXRef-item2532871
+FileChecksum: SHA1: 6b77441e4662876df352cf70b588b9028a022576
+FileChecksum: SHA256: 5ee0dba8d7f83d958134d15d7ec8e6ca662365388ed3969163a807547ae1d592
+FileChecksum: MD5: c87d76be289cb690bc82b195f576d540
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/set_membership.rs
+SPDXID: SPDXRef-item2532872
+FileChecksum: SHA1: df51cdec86f1ee4c5e979c398e643ecf3fbf7875
+FileChecksum: SHA256: 2b3e0e7adf1048ed1e92c5dca21687f4fec4f5a0532e1850f33e09e6d1b68ef1
+FileChecksum: MD5: b1a97caa13d8b7c17bc681524b46190c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/randomizer.rs
+SPDXID: SPDXRef-item2532873
+FileChecksum: SHA1: 082d883d43719cc528c055120a51cec1daccbbce
+FileChecksum: SHA256: 1e6e380eb99671fc7b935811abc9546b0da9c038d91d1d756b39c2eb6aaaea66
+FileChecksum: MD5: ee6a45fe9eea566fc7491e6125bdc15f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/src/r1cs/gadgets/set_non_membership.rs
+SPDXID: SPDXRef-item2532874
+FileChecksum: SHA1: fbc754b3a140e1f138773ac9f88ef16dcf2b8975
+FileChecksum: SHA256: 1c3c1fccfd60f6262db4f50618059783b9b9afba6616eb261ed9185d7469a431
+FileChecksum: MD5: 7ef9534324e66b04e6d02a597475e84b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/src/r1cs/mod.rs
+SPDXID: SPDXRef-item2532875
+FileChecksum: SHA1: 68168e68573a330226439432eb7aeb0a6aa3e8aa
+FileChecksum: SHA256: 638dfb70153e4b62bef66e114c719d51b92e358dd8207feeffef2c452551a430
+FileChecksum: MD5: 709990b2bfda00a5b5a2f1f0c1f48449
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/src/lib.rs
+SPDXID: SPDXRef-item2532877
+FileChecksum: SHA1: d95695c72c253b7f8d1def999f6b0ad7284668fc
+FileChecksum: SHA256: ccf642633aba09f3b0c198ab1c9232378564f0bcc75cf8eb99c409da4bfe4372
+FileChecksum: MD5: 55f5f6bcc5954925df9128e8cdda97b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/benches/vec_poly_eval.rs
+SPDXID: SPDXRef-item2532880
+FileChecksum: SHA1: ae3bb7dd86459d449d1a616a2f133d6643a9dd50
+FileChecksum: SHA256: 2edc8a79656b7879622c2daa0d0d571491d668401fb83986142a1420d6921ad7
+FileChecksum: MD5: dcd7ec297aeba76a43b7657d20ba03fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/.gitignore
+SPDXID: SPDXRef-item2532881
+FileChecksum: SHA1: 2adbda2d19352f6876f150919178b254375e1046
+FileChecksum: SHA256: f517c58a84c79041e443e49f212f377de75280ed322117bd304762d012abb9c3
+FileChecksum: MD5: 21995b1f2b246e3ae7673a154563a50c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bulletproofs_amcl/Cargo.toml
+SPDXID: SPDXRef-item2532882
+FileChecksum: SHA1: 1c8c9ba61c73564e9d719aacbb6fc7fe3de4660e
+FileChecksum: SHA256: aaae33bed560442de1d3e368fcf5e1a5b833b10f1baacd57a7914a210772d923
+FileChecksum: MD5: 74bd0c9ada14978d33b6609447807849
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/tests/ps_sig_complete_scenario.rs
+SPDXID: SPDXRef-item2532887
+FileChecksum: SHA1: 82133bc1f0ed4bf997005a795eadff2171c4e665
+FileChecksum: SHA256: ccb667b531e533864260db7d28acc79cf2b8100c17a2f781b0a69f089c837a39
+FileChecksum: MD5: 746d65c76a2ea4610675eec98af9bb23
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bbs/tests/bbs.rs
+SPDXID: SPDXRef-item2532890
+FileChecksum: SHA1: cdfd988428786a0985f69052190cd6d6bbc307d1
+FileChecksum: SHA256: 1445980fceaab7478891ca5a3d6e65d9801f2b4f90cb4f846d3d6d1869ad2afe
+FileChecksum: MD5: 283999be75dd2c350d5aafebef25d29f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bbs/src/keys.rs
+SPDXID: SPDXRef-item2532892
+FileChecksum: SHA1: 59d05e332788ea122dda45f96d34f236897e8192
+FileChecksum: SHA256: 6c533157f8bffe23902bbce5ee2c58c6441e984edcce1a2235f5c04f709e51a5
+FileChecksum: MD5: dfadde0e6b13583b1df503a4f03aef3c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bbs/src/messages.rs
+SPDXID: SPDXRef-item2532893
+FileChecksum: SHA1: a88edbdfddf9c3177b0b99c256d018f9cf9ddea7
+FileChecksum: SHA256: 56f3e8ce55d41dcb4e9e8e4a2dea18f12897ba69e1b059ea085ba30b825befa5
+FileChecksum: MD5: 0cd03e6fb4a8c2406929c1d31e9286e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bbs/src/prover.rs
+SPDXID: SPDXRef-item2532894
+FileChecksum: SHA1: 35ea95ec2816d675eb2498fac0625e9191bd4f50
+FileChecksum: SHA256: cb1059eb941bf23b56385c4c55195bc97f55d1eb1e0c405b7b6c8557b631caf8
+FileChecksum: MD5: 7c3895dda7f4bb4f94814245bbe9a924
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bbs/src/errors.rs
+SPDXID: SPDXRef-item2532895
+FileChecksum: SHA1: 2eb8277a53c81bd7df041b8597851fe0c1ee4fd5
+FileChecksum: SHA256: 4ff9b84a923609139b50410de72250eee70457399c272d49a95c49859128d153
+FileChecksum: MD5: c7e26e92b1b4716fbbe22949b7a34cf8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bbs/src/lib.rs
+SPDXID: SPDXRef-item2532896
+FileChecksum: SHA1: 56332fb3bc6a6683823fb5477fc8b24d0f15a9df
+FileChecksum: SHA256: ca1b0eaaf1816c80af0056d5bbd56cf249ddd0c7f2d3072c4b755c40b752cfbf
+FileChecksum: MD5: 4230478a6a27790438c486ff2aff769f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bbs/src/issuer.rs
+SPDXID: SPDXRef-item2532897
+FileChecksum: SHA1: bf0d339d7e710e8ae405650631ca4b892f802af6
+FileChecksum: SHA256: ae4bb2c0c254999a8c67a9e7cb541c0568595c795d9d983dc797468f70b9d0a0
+FileChecksum: MD5: f64533c6122438d85d326d66c6a3b125
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bbs/src/signature.rs
+SPDXID: SPDXRef-item2532898
+FileChecksum: SHA1: 8de43dc8d5e9f2c5a887302f5410f0c70004ed48
+FileChecksum: SHA256: 4be4c2e53009b4aa9f9a8fbd4fea3951bfdfaff75eb465d527ceabe8115ed7da
+FileChecksum: MD5: a4036618bd2e56adefd744b2d3a950d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bbs/src/macros.rs
+SPDXID: SPDXRef-item2532899
+FileChecksum: SHA1: 0916f30c2a30431d3331aa3782b59e7ce36574ee
+FileChecksum: SHA256: 14b66df424a0b814d1f613222e431870c77bbece98a2ba83b8f93a96c3876f0d
+FileChecksum: MD5: c827ea2b4738099a86942872453ef866
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bbs/src/pok_sig.rs
+SPDXID: SPDXRef-item2532900
+FileChecksum: SHA1: e845bbfc9f4d78d9fa5f1d668cbd1a88d2c90ddb
+FileChecksum: SHA256: aa71eca71540f86b8feccdc88c3b0546a52fd688a446d99b671ab8ec7c3edeb0
+FileChecksum: MD5: 701ef9559d73c7e6f21cf1315032c735
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bbs/src/pok_vc.rs
+SPDXID: SPDXRef-item2532901
+FileChecksum: SHA1: 72160d7f31d71c710c25cb71817f648a9f0276da
+FileChecksum: SHA256: 72452c0f80927d361933430fac658a89dea7ea197457161629b6c477973ea73b
+FileChecksum: MD5: e9c8825284ab331c6d4316a6fc7e95dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bbs/src/verifier.rs
+SPDXID: SPDXRef-item2532902
+FileChecksum: SHA1: db7abaa4d3b66cb187193c8b200fd5a2435a0a04
+FileChecksum: SHA256: f95b1763476fd81643c1ebe4df4a073bfc8637853a34f10c6394c77f832b792b
+FileChecksum: MD5: f95f1ed563efd7e2c1557125cd4bd36c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/bbs/README.md
+SPDXID: SPDXRef-item2532904
+FileChecksum: SHA1: 0191fc5a76b8a0afe22b33f1b6d43961f35fc18b
+FileChecksum: SHA256: 4798d85270e8fec5abe6588692942ce7d96f0bad6ea0e9980418b60ed6f879fd
+FileChecksum: MD5: 751e056abfbcd41729783a3b83777bde
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/docs/flow.puml
+SPDXID: SPDXRef-item2532906
+FileChecksum: SHA1: 988ce86391b09424463c6eec06af8092be263e5a
+FileChecksum: SHA256: 1101ec040e918e5cb0767ef2b4b7968a18d34822b7b9e98a54dd82e39f78a5a6
+FileChecksum: MD5: a2c50533e81848e01dee31194b648b13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/docs/VerifiableCredentials.md
+SPDXID: SPDXRef-item2532907
+FileChecksum: SHA1: a4a96d8032772813859620e087222ffc867eb188
+FileChecksum: SHA256: 756bf158c3e6e2b7615fd5abeeb1119c1906a4e4fa589704b5f0033c8b482a1a
+FileChecksum: MD5: 79b16e1433f6cba5af2d3e870a32c4d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/docs/flow-diagram.png
+SPDXID: SPDXRef-item2532908
+FileChecksum: SHA1: 578ee1168538932383380445f6197572f7515ba1
+FileChecksum: SHA256: 5f9c1518052a01874935a1d3f3bd598dd70016e79201150c04dbf98369eb2224
+FileChecksum: MD5: af95e7d2d43637b66ea7098faaa278ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/docs/zklang_proof_spec.json
+SPDXID: SPDXRef-item2532909
+FileChecksum: SHA1: a0f1e644ff604608dac713ed5a1af39a91011cae
+FileChecksum: SHA256: 0d4870847ee6d46f6111fd5eecf2ac695632f247577166374ad3d4c37f746a71
+FileChecksum: MD5: fb95c60528261e77b33f3c05bb4a8f00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/src/errors.rs
+SPDXID: SPDXRef-item2532911
+FileChecksum: SHA1: 070b3f4801eccdb07843405a306c07a1f7472432
+FileChecksum: SHA256: 34c91ab2ceb9acccdcfd56274183ee30ad0f48476ae2057cafe26773e8e91fd1
+FileChecksum: MD5: 1104182fe5901ed3cdf29ed34156a752
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/src/utils/mod.rs
+SPDXID: SPDXRef-item2532913
+FileChecksum: SHA1: c1970912c617c35f5b935f9acf6afe2ba64602fe
+FileChecksum: SHA256: 9a731d772904e98b11972318a9cfe7f9cf72d0676b332f9722f5027c7e695296
+FileChecksum: MD5: 3750f74b2a54b607ac4f17ba6ca615f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/src/utils/random.rs
+SPDXID: SPDXRef-item2532914
+FileChecksum: SHA1: 66e29f71950ce715f1855abdd121f765a34fd326
+FileChecksum: SHA256: 53e28b8c29e7116ff80bf2c47472b9dc99849e9b70a8f54c865199c1f30c0ea3
+FileChecksum: MD5: 020a6df1b4c5d169c55cde875d8bc83f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/src/lib.rs
+SPDXID: SPDXRef-item2532915
+FileChecksum: SHA1: 73d83b82e20d83f9c9025e06ecbc83815e844fd5
+FileChecksum: SHA256: c461e0bdb7b181f7cd3f9035ac301dd5fe8eb856c22a29f412f555be9f07550d
+FileChecksum: MD5: 0961eb2ab543eb0e0810cfc909d15ea4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/src/ffi/mod.rs
+SPDXID: SPDXRef-item2532917
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/src/commitments/pedersen_BLS12_381.rs
+SPDXID: SPDXRef-item2532919
+FileChecksum: SHA1: 37d3103ffa739159f8f02df649f78b72cd5b06ab
+FileChecksum: SHA256: dace950225013eb27c7b4b2a8e942f632512c7ec2dbc346283fd2f452abb2084
+FileChecksum: MD5: e74250c3cf16c8509cda01e105859baa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/src/commitments/mod.rs
+SPDXID: SPDXRef-item2532920
+FileChecksum: SHA1: 076a3cf16d1f4ef3a8396e17ef02b8b70eabb96a
+FileChecksum: SHA256: 294d37afad924d5d1cbc5199b9f578687f06bb1c2febb7110ac5690e568f8767
+FileChecksum: MD5: 8f83763752bd3ddeaa13486886490030
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/src/commitments/pok_vc.rs
+SPDXID: SPDXRef-item2532921
+FileChecksum: SHA1: 0a3a3a2475ebef87b797a7a4a36a6bcacaba1f31
+FileChecksum: SHA256: fe28f9e5e3268dbe438d808a1d29e9de965995f2efb966ded4872e88b66552f9
+FileChecksum: MD5: 74cca7e2c9a08f49714c8d918a20c639
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/src/verifiable_encryption/mod.rs
+SPDXID: SPDXRef-item2532924
+FileChecksum: SHA1: b1779f8f2dc5526552bdc3e00406ed9619a3c026
+FileChecksum: SHA256: b5ac6a9517e5802b5da2bc40f8083d3328bcd39bfdb9489b7f0acff1f315903c
+FileChecksum: MD5: 9434d1f1cbe75170a1cd2b7bc7bc4951
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/src/signatures/delg_cred_cdd/errors.rs
+SPDXID: SPDXRef-item2532927
+FileChecksum: SHA1: 3cdb3f7f2f8f58567088b06aca497662b1cc9ef9
+FileChecksum: SHA256: 42fa7f4a739138ac147c067c2ab3012fdd9ec2808fbd0083cceb27e3618687c6
+FileChecksum: MD5: 7544ae8806af5530c7d55a6f474109fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/src/signatures/delg_cred_cdd/issuer.rs
+SPDXID: SPDXRef-item2532928
+FileChecksum: SHA1: f2a6446423fcc52d597da92b72d0deb6382e3863
+FileChecksum: SHA256: d0d2c87fe9da4913bcdfcf6a54adc85e37ca5ca6518bbb212cb9d87bfaa39a3d
+FileChecksum: MD5: e9f3e499c382e1426d5c6ca9ec19bcc0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/src/signatures/delg_cred_cdd/attribute_token.rs
+SPDXID: SPDXRef-item2532929
+FileChecksum: SHA1: 4c586918ffec130cfabc2c9b10152057d290c832
+FileChecksum: SHA256: 9806622c74c1b1a61236bc58dbc45eaea8a6d4bae62ce853b2961f8d746dce3b
+FileChecksum: MD5: b26ceeb6d97601bc838862d8e47e5bdc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/src/signatures/delg_cred_cdd/mod.rs
+SPDXID: SPDXRef-item2532930
+FileChecksum: SHA1: 42a7b087e5305470eab712afe258c6982d3172e6
+FileChecksum: SHA256: 92fb076d5dfcd095cd820fff21230f4239a3e05c027cb9d09dfb3698dcf0de4a
+FileChecksum: MD5: 86ea4328b0be1dcf6677aa43687b9e14
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/src/signatures/delg_cred_cdd/README.md
+SPDXID: SPDXRef-item2532931
+FileChecksum: SHA1: a09beaf2f33e756382854c6def313eb9cf3fd104
+FileChecksum: SHA256: d767e8229cd7e131895ba6247527e5ca22460d488170fb4bd0dffa6692630cf0
+FileChecksum: MD5: 2542429ff75c704e08787f89ceaf8450
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/src/signatures/delg_cred_cdd/groth_sig.rs
+SPDXID: SPDXRef-item2532932
+FileChecksum: SHA1: d644b7dcece4eecb2fa1489f1c8e69ef17979432
+FileChecksum: SHA256: 2ed6008ac03e55d66c5103cbbce0d3fe0cade95d715c51f274b1428e96e2da87
+FileChecksum: MD5: 2af41453d05d7bc1b734ebf330933a26
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/src/signatures/mod.rs
+SPDXID: SPDXRef-item2532933
+FileChecksum: SHA1: 9f87f9ff601d89b8ba8f009da8f3b8b391ab851a
+FileChecksum: SHA256: b30ca542a5ef8c608f58435de64fe4de83fbecf99bda64ad0b12a361d10fb6ae
+FileChecksum: MD5: 7954ee4b2de7edf6a229789e94462565
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/src/signatures/ps/keys.rs
+SPDXID: SPDXRef-item2532935
+FileChecksum: SHA1: c9cd3137bde2cbc43357d285bd45f3a84a659052
+FileChecksum: SHA256: 1c406128ad2d36a4438441ff45d28a6a0fe3e2f2a68e36e6b01109d97691b349
+FileChecksum: MD5: ed7fe3f397beb8470b0ad6b6156a7bad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/src/signatures/ps/blind_signature.rs
+SPDXID: SPDXRef-item2532936
+FileChecksum: SHA1: 59bd0ea34da59b9bc9a87c8ba2d4533f2d74d0c9
+FileChecksum: SHA256: a7ece9c0699ab03fc7a827c4232a1be95e157b863f113098a16f650965e37da4
+FileChecksum: MD5: 705322a476abbb410dad3ba3e20dbfc1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/src/signatures/ps/errors.rs
+SPDXID: SPDXRef-item2532937
+FileChecksum: SHA1: c3c592e3ded866cc5358248a205d45860132d10a
+FileChecksum: SHA256: 9ad308677226db4a52aab4fa5b326a13ca983afa97757f74c09af301713fbfab
+FileChecksum: MD5: beeb785f4929e70d6eb71a2952dbbdae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/src/signatures/ps/signature.rs
+SPDXID: SPDXRef-item2532938
+FileChecksum: SHA1: 279bc5429b4ead1d83a1ea26237f9733af1eb8ab
+FileChecksum: SHA256: ff0537963e5defdb70f0c4aa61b644653ebc4b4167ec36fcd7353cf06cb2add9
+FileChecksum: MD5: 73512a6498160723e97ca2526da94176
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/src/signatures/ps/pok_sig.rs
+SPDXID: SPDXRef-item2532939
+FileChecksum: SHA1: 0605619e2aed2f2cf2c963a50142ae4af979e16c
+FileChecksum: SHA256: e075cf0bf4664befa0c1aefab2b322394052844801a5948620a5dc555519c489
+FileChecksum: MD5: db80ace858f616059e75ba51dfa8a885
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/src/signatures/ps/mod.rs
+SPDXID: SPDXRef-item2532940
+FileChecksum: SHA1: 01de2a03744ac59b1d509c74bd48e1538abb9952
+FileChecksum: SHA256: 3428f9b6a1c554fb83f6ca5f6628b676f7c317967b5212b7fa4aee4ce0fd06d2
+FileChecksum: MD5: f7a8fdd20f8d45add2f0068a6dfd091f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/src/signatures/ps/README.md
+SPDXID: SPDXRef-item2532941
+FileChecksum: SHA1: bb778514cdf1dd312a34fb71d724383e2171468c
+FileChecksum: SHA256: 8412727c44326ab5bc3d61b78ee599c3fd12f7a9428002787511f8f1ae019615
+FileChecksum: MD5: 92ff95378859b47347071b44db045e1f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/src/hash_functions/bls12_381_hash.rs
+SPDXID: SPDXRef-item2532943
+FileChecksum: SHA1: c6b5ce687c4d4d104e52e30c1d88f08bf0f707a2
+FileChecksum: SHA256: c5d4de5ee54477b8d1809c19da06d186e2ffe8ea9d6778c842f70692072621cb
+FileChecksum: MD5: e24fd0d6a8170d63600492eaff888eda
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/src/hash_functions/mod.rs
+SPDXID: SPDXRef-item2532944
+FileChecksum: SHA1: 63b192990ff1c1095211b02de167f90214d0b158
+FileChecksum: SHA256: b31891992c8b46a89a718dca7015660c935dbb10928d29d172c7c4dab46ad3f6
+FileChecksum: MD5: 3f3c21584398017f87b68220c23223c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/src/prf/mod.rs
+SPDXID: SPDXRef-item2532946
+FileChecksum: SHA1: ad804da30d27f18440b385c26a72f6adfe487406
+FileChecksum: SHA256: 3efbea149ffafdb66fcc4a3c67bf8d8e5da201de776fe20c97da76a5b39bb2de
+FileChecksum: MD5: f358a670ec024f5d63e37adca0bb980c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/src/zkl/spec.rs
+SPDXID: SPDXRef-item2532948
+FileChecksum: SHA1: 1a85c7c87c86cd8affac07328acf54639b042579
+FileChecksum: SHA256: 76c8c35419268697a8a0974396894cb05c24afc5a1f583059c7515479040bd74
+FileChecksum: MD5: f51e51b4dd2e6fc7a4860f95464b989d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/src/zkl/mod.rs
+SPDXID: SPDXRef-item2532949
+FileChecksum: SHA1: e3e17b580fd95eb46b117c1cc38f82096b3f6141
+FileChecksum: SHA256: 3cc89d96a3058a4ac720e101e8f8c52364c347ff08726e5eb75925eb59c9f9a2
+FileChecksum: MD5: 6ed2a03a92f097267b526cf4e1840407
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/benches/bbs_vs_ps.rs
+SPDXID: SPDXRef-item2532951
+FileChecksum: SHA1: d4612ab9ea7a65e44f236eacb08b962bf6e268c4
+FileChecksum: SHA256: 80efcac6cedd6efca4ffe974b36dc1b0ae451cfdc013634cad2c60ec3bef1ee8
+FileChecksum: MD5: b37172ea733381eca38871bd2ccb82f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libzmix/README.md
+SPDXID: SPDXRef-item2532953
+FileChecksum: SHA1: 82307f69d130737fafd33d3528876ab7f93a67d1
+FileChecksum: SHA256: 48a596321e5068373f5bc496bfd28eb9fe47ccc3a270993dad17e03305cef70a
+FileChecksum: MD5: 5aca3bad72a1d1756b68b49646c54445
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/CODEOWNERS
+SPDXID: SPDXRef-item2532954
+FileChecksum: SHA1: 7a2f81168b29b7b9a92a31db82dcc3d3c97f9128
+FileChecksum: SHA256: 12b046dd0ffc56e40ba26bb267c3626052480cce482ddab692c8a2a4c8be4e2a
+FileChecksum: MD5: ca0ecec309d6b00bdd98dc967e932fdc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/ursa_sharing/run_examples.bat
+SPDXID: SPDXRef-item2532970
+FileChecksum: SHA1: eec6587982152ef8aedeef244d5eafc78a9b1ec0
+FileChecksum: SHA256: c91f4f37ad3a82a6c2a67d6a448d215fff388a187592e895b5165b3c26ba97c0
+FileChecksum: MD5: ea0f36db6fbf4724bc93356724b4fd3c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/ursa_sharing/README.md
+SPDXID: SPDXRef-item2532972
+FileChecksum: SHA1: 077b3ece778027d7665966b39e095d6c4cd68d45
+FileChecksum: SHA256: 549c63c5a338be4bf820bfb7ab990f3fb33ac21b4c6572dbc5c3f4bdb8cfb45c
+FileChecksum: MD5: 9bed063fe2de133300426f34b33b038a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/ursa_sharing/run_examples.sh
+SPDXID: SPDXRef-item2532973
+FileChecksum: SHA1: 5e390efcf8b6beb647b26b985ac212fe03469390
+FileChecksum: SHA256: 6e5aa8d2ada7cee512a6515b41233232d55ef366df9c34f8e9eec6194d22e647
+FileChecksum: MD5: 7a242516513fa7bf21ee7a54cbae7054
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/ursa_encryption/src/lib.rs
+SPDXID: SPDXRef-item2532976
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/RELEASES.md
+SPDXID: SPDXRef-item2532978
+FileChecksum: SHA1: 0fbe3ae3aedec16f5d396f6b6cdbfb68d2e02e68
+FileChecksum: SHA256: a6122eaf04656f071cd8cbe1ac2d55643e6fcaf208ccc29bba981d67fc4685b9
+FileChecksum: MD5: 8e4b2f26051cf556806fc3176ad632a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/.github/workflows/rust.yml
+SPDXID: SPDXRef-item2532985
+FileChecksum: SHA1: e536d9904a5ee2fa7c91db18b72ce670ecaf24ae
+FileChecksum: SHA256: 5c8fed95285ea07220ed3104bd748a2b743beee326cb2bf0c94e1fdce1a858d8
+FileChecksum: MD5: af74021b7f75efc42c294dfeee714ba5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/docker/fedora/Dockerfile
+SPDXID: SPDXRef-item2532989
+FileChecksum: SHA1: babc94e799f7d0c91675ada04a2a2096413cace7
+FileChecksum: SHA256: f6443280c04dc4244ed503110fb00d1f1b7e718421fb1ea18ae536faa27dd36a
+FileChecksum: MD5: 3eecc62a21d2fa954fde8a7ae19ffe15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/docker/centos/Dockerfile
+SPDXID: SPDXRef-item2532991
+FileChecksum: SHA1: 8a1835d7ec8613b0b54af52a6d87a76f4f960350
+FileChecksum: SHA256: 60f65b0caea3bb9f11f97ee0ee6e31db69d35b0831046004f17dd8cc9590b39c
+FileChecksum: MD5: df23e923c84dd663bfa91c642a6b799c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/docker/suse/Dockerfile
+SPDXID: SPDXRef-item2532993
+FileChecksum: SHA1: 446e5430dfb31c0610fe93aaa5a49ac4a7dca47a
+FileChecksum: SHA256: 8858f25c3afc3556151f919a410cabda84c5fa30419d6e96d35c9ac5472e02d1
+FileChecksum: MD5: 9336aca1752ddec26df3fd3a3d7e913c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/.gitignore
+SPDXID: SPDXRef-item2532999
+FileChecksum: SHA1: 1591785d9bafd688244d33ff8f424822723c8f42
+FileChecksum: SHA256: 6a05a840904cdd21213b00a2d520fec4dbf80ffddb66bf8c2289e5bc5a9a4743
+FileChecksum: MD5: 3e28768358b7905687db23d3118d5988
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/ursa_accumulators/src/lib.rs
+SPDXID: SPDXRef-item2533002
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/appveyor.yml
+SPDXID: SPDXRef-item2533004
+FileChecksum: SHA1: aff9868017ff7d68713299507741f8c9d2c5e707
+FileChecksum: SHA256: 3c5faff449e0c98886c12a1265da5940618e222b6f7ef3be34f6eebe816a359c
+FileChecksum: MD5: ee276601e02d0cf6a93830aafd96cb78
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/bin/test_aesgcm.rs
+SPDXID: SPDXRef-item2533008
+FileChecksum: SHA1: 53a5d29b09518d7aefc3b320f123050f782def0f
+FileChecksum: SHA256: 80df129bc58c585f7b07ff15fe18fa1324bbada8f35206b0bb5be48004930444
+FileChecksum: MD5: 5e87b136996db0b9dcc0820559162e09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/bin/test_xchacha20poly1305.rs
+SPDXID: SPDXRef-item2533009
+FileChecksum: SHA1: 7a423d7989f433ba1633a0a0a396c74830a31bae
+FileChecksum: SHA256: 8c47178589cafee1121f3bc4ca61c818c2f02b77f72aaad80a1f7ae21a84eabc
+FileChecksum: MD5: 94620e57860bfc52a9d05a90e4a33cf7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/bin/test_ed25519.rs
+SPDXID: SPDXRef-item2533010
+FileChecksum: SHA1: b69ea1ca66dfb7e2022bb41ae88824abe61161b4
+FileChecksum: SHA256: ff1e6cbbdd5413bf4767f2839d9f54ccaf5987dab3211ab8e4f1357a2aba5ecc
+FileChecksum: MD5: efd0ec46cd44576e4f4b5e1699043d00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/bin/test_aescbc.rs
+SPDXID: SPDXRef-item2533011
+FileChecksum: SHA1: 13695de85131ce04c46ae78e0a700faef9444920
+FileChecksum: SHA256: 143759f80a5c6d9ee20631c2531eabe253ffabcfb3b4c4ab005c27be0b17ba74
+FileChecksum: MD5: 102ae66100997c060639b75e9f3e81aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/bin/test_secp256k1.rs
+SPDXID: SPDXRef-item2533012
+FileChecksum: SHA1: 81e4857d9189f5492332ff7eb9973f04dcb747f2
+FileChecksum: SHA256: 045628e2e54530876c6fcc7f991d7ee0c9fd84fbfd7403078bafe9819dda3a98
+FileChecksum: MD5: 8804cc7071f460651a95f599ae755baf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/tests/cl.rs
+SPDXID: SPDXRef-item2533014
+FileChecksum: SHA1: 4cd0cf75050659974b253ced515c65501713994b
+FileChecksum: SHA256: 45da919679025097bf5b8e3419ca6ba98d6225143d026762723cae6fc0891f31
+FileChecksum: MD5: c31427c992d83ca5749e089964b55698
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/tests/test_bench.rs
+SPDXID: SPDXRef-item2533015
+FileChecksum: SHA1: a93d4ed3d1650fc0d7851aca4d6077faea9f8b94
+FileChecksum: SHA256: 57ede437e7894b039d3999645d5b43ce548e9f93a8ed2c6509d7969165f2050c
+FileChecksum: MD5: bb3f597d52511e0d73ce996b506df983
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/docs/anoncreds-design.md
+SPDXID: SPDXRef-item2533017
+FileChecksum: SHA1: 10628246ed75cf5c80d7076cd155376b9f56c47c
+FileChecksum: SHA256: 69c1f3cf82e4c811d5a91a8de4f7b4aafd832975443c4353f7cb6f5a6f036690
+FileChecksum: MD5: 67dd649596860941d1c40acd654b52cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/bn/rust.rs
+SPDXID: SPDXRef-item2533020
+FileChecksum: SHA1: 27c9f0c60aa2879b14dbef86c06d0bd1bf67d7a4
+FileChecksum: SHA256: aa45c11e82b9a898ba7139da3af7503d3cadcf4410b6199cc2ca908684d02014
+FileChecksum: MD5: 178e867f1d3b6cccc8c95dfea68ad4ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/bn/openssl.rs
+SPDXID: SPDXRef-item2533021
+FileChecksum: SHA1: 567d3d18a7b62e6fe105ba73694dafac998ea1d0
+FileChecksum: SHA256: 3590a219db4113f3172129a178148774522ef54d70af8c8ca2f71b93a2a8a867
+FileChecksum: MD5: 0be3561f7ead9ec11c88b10491fcf559
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/errors/mod.rs
+SPDXID: SPDXRef-item2533023
+FileChecksum: SHA1: e5832b6ac2184ff614030dec12511b7c07ab8fee
+FileChecksum: SHA256: dc50dffb4570f082c2c685d5318af487b97c35f212e0e90b92f4283d68b68393
+FileChecksum: MD5: 61cb6fb3b3758e303aaf0ca1dcb6f621
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/keys.rs
+SPDXID: SPDXRef-item2533024
+FileChecksum: SHA1: 480ab622f371385203db6225551929228533e598
+FileChecksum: SHA256: f35d910a4c99fd78279ae81d06de5317514fb66b8afdcfe6aa9f9e2b3a28399f
+FileChecksum: MD5: b3ecdfd378319a6e648a90e98340ac68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/encryption/symm/xchacha20poly1305.rs
+SPDXID: SPDXRef-item2533027
+FileChecksum: SHA1: f5e8eadcd5fc9d1e7f59d792ce94b8dc6d296608
+FileChecksum: SHA256: e983e2133234fa464bf472e0ceb016c9e9704dfcf3d58a12d1db7505a22c0fc8
+FileChecksum: MD5: 89c7c222786051348f74e58f4da1b5bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/encryption/symm/aesgcm.rs
+SPDXID: SPDXRef-item2533028
+FileChecksum: SHA1: c0fe8e983d55c1e5b7171f49b8c3cb1237ac2d2b
+FileChecksum: SHA256: 93e69ee13bc63913311ef5c42f161c2b8183bf4d090bc3137844a30e897924af
+FileChecksum: MD5: 0e48f01b0ffbd5827173b5ae765d2e75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/encryption/symm/aescbc.rs
+SPDXID: SPDXRef-item2533029
+FileChecksum: SHA1: 391a289fe0a157be6f966c569e824876a400e7d6
+FileChecksum: SHA256: f71f6b94e1f20ba7338dbbbb783aeeae00ab2b23478bf4277b92b0791f3590ad
+FileChecksum: MD5: 80b6f845ec224781284523591dbb7b0a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/encryption/symm/aescbc_asm.rs
+SPDXID: SPDXRef-item2533030
+FileChecksum: SHA1: 3c9c62ddb86fcb6e683fbf5dc7489447ecf28191
+FileChecksum: SHA256: d8219ce0dec1989a12366fc97ac1992e917e40a2a59924ee06fdb51dea911cb3
+FileChecksum: MD5: 8e5a1fcff541999248a7659ba10083f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/encryption/symm/aesgcm_asm.rs
+SPDXID: SPDXRef-item2533031
+FileChecksum: SHA1: 1b9c70cda227cb7becc51759cc1778a41374760f
+FileChecksum: SHA256: 22bf069bffdc4dbea68dc6ffcdbfabca13dc5c92c81b91b5424265e9cdf4c82c
+FileChecksum: MD5: e8f75e595a675c4adcf1e7a04090980f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/encryption/symm/mod.rs
+SPDXID: SPDXRef-item2533032
+FileChecksum: SHA1: 07001537ef1e84958ad12faebd2daab8b019c9c6
+FileChecksum: SHA256: bec34b6e4f16bc5ecf1d694b53d9df1ad3dccae5108c2e1c3752e0d14becb8cc
+FileChecksum: MD5: efe25fe2295ecbeb2827eb41975e748d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/encryption/symm/chacha20poly1305.rs
+SPDXID: SPDXRef-item2533033
+FileChecksum: SHA1: 059946a20e810800b8e2041511c77ec6244e2942
+FileChecksum: SHA256: 76513ce0f0abc0bc0cb86a2ac5a0af8d532e9ed76b8c7153048cff1ca5a6966f
+FileChecksum: MD5: d311ac0b3f8e699e9a36aa3bcdb5b82c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/encryption/mod.rs
+SPDXID: SPDXRef-item2533034
+FileChecksum: SHA1: 974ed0c0c5cce34946b5d60f2a8d59a489c789d0
+FileChecksum: SHA256: 4d2c4bfbb99d2ea949641baac504016e039dc89e8a5a8bd7c8c95ab4b1a7151e
+FileChecksum: MD5: 109f9cec9383b593cda6ce3958a1708b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/wasm/secp256k1.rs
+SPDXID: SPDXRef-item2533036
+FileChecksum: SHA1: 9535144bbab034db5be736e34624287a3803914e
+FileChecksum: SHA256: 4f79eeb56007c4c526f6b354ba472d02434d29eaa387628f46f47080cb9faeae
+FileChecksum: MD5: 51a94180484e789ea79222d694ccd9db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/wasm/x25519.rs
+SPDXID: SPDXRef-item2533037
+FileChecksum: SHA1: 834cefcd17f2862d1ffcdf4691268c5ead0b58a0
+FileChecksum: SHA256: 5aa72427a0cb35474024664cafb97fd5eafff87b536e7ba3e353c48e443fa777
+FileChecksum: MD5: 6a1b0f577158a9ab26c2906776ccf3bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/wasm/macros.rs
+SPDXID: SPDXRef-item2533038
+FileChecksum: SHA1: c3d211fdc557c01f07508352d73cae836d74e3b0
+FileChecksum: SHA256: 9ea13357009f1c35dc0c102cc394b63c58645d5ee1bf77af048254594dea96d4
+FileChecksum: MD5: 0172384316854133cde274f125168846
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/wasm/ed25519.rs
+SPDXID: SPDXRef-item2533039
+FileChecksum: SHA1: 0e518d3263c393b5516eff40f31d978b343e4d3d
+FileChecksum: SHA256: de1f9cf4d6dda23440360638518767f517c2a6cbfc8e4e19256faad262ae3083
+FileChecksum: MD5: 9cb9631674123648f3885be4bde9c59c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/wasm/mod.rs
+SPDXID: SPDXRef-item2533040
+FileChecksum: SHA1: c9ee80acc90583e7a45fa55e5dd9136fa0faaf8a
+FileChecksum: SHA256: 50420ba05738299e0be028a1dfb089abb48b34c4fe14c2c3ef0ab46e276d0894
+FileChecksum: MD5: 79074cadd0ebc10efd03e25c60a1c443
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/wasm/cl.rs
+SPDXID: SPDXRef-item2533041
+FileChecksum: SHA1: 04c97bb56279b446398a4bc868abc327501873f4
+FileChecksum: SHA256: a08044dfae09f5f83b135f3d4386f4d55a2c0ef538524c0d45ce48189d2c36d9
+FileChecksum: MD5: 4fb48cded2e9d72f547a13863009fe4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/wasm/bls.rs
+SPDXID: SPDXRef-item2533042
+FileChecksum: SHA1: ed33ab63d35b93e1e584d926777c50623e154395
+FileChecksum: SHA256: e57461c6ea2cbf53a54e05cfb051cbfa0cee54596aaac3b85c1b4d4fa60fe01b
+FileChecksum: MD5: 262290b61e6cf54f6c2c53ce66b2538c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/wasm/encryption.rs
+SPDXID: SPDXRef-item2533043
+FileChecksum: SHA1: 6a99a7cb5e03a8808f0e747bc94b340d5becb527
+FileChecksum: SHA256: 49fd6b61b8fce943483b4132fb60b7e0f2a9a8c2dd775c73aeda9a75cf088b9a
+FileChecksum: MD5: 496d1889378a221c6e584f9eb26ae377
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/utils/logger.rs
+SPDXID: SPDXRef-item2533045
+FileChecksum: SHA1: 5df5996647784847305235e444c1ee664c0561a5
+FileChecksum: SHA256: 248414fd42e1c0877ff517a5867ffbefda633783295aaaac512ebace84fe5a6e
+FileChecksum: MD5: 8c24b641ce88983b8bfba0dac34fb75c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/utils/macros.rs
+SPDXID: SPDXRef-item2533046
+FileChecksum: SHA1: 8d41681c819e0a63a19a3742d3ebab55f32b3d7f
+FileChecksum: SHA256: 5d9c1dd532836a954bbc442775ea4179526c0369f33ba9f72cf7debe65c39dd5
+FileChecksum: MD5: 7175358261531041dff53775e5b8e086
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/utils/commitment.rs
+SPDXID: SPDXRef-item2533047
+FileChecksum: SHA1: 460bdcef21b3223683d0d8cf5ac9668dd67bb2db
+FileChecksum: SHA256: e3fa4251129e1dc3838a7353ba9837be3b71a9bf72eeec09e4a841e02cd42499
+FileChecksum: MD5: 64c3197cef808a4a1c6175c8778eb7c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/utils/mod.rs
+SPDXID: SPDXRef-item2533048
+FileChecksum: SHA1: 018786d07d003a5bf921b99104d0df545ad1a82d
+FileChecksum: SHA256: a01c609c069fc92a5c721f184727b7b2883033ffa114a4cb3838613c72c62116
+FileChecksum: MD5: 66d41bc9773de5871cb2ea4d5fa54996
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/utils/ctypes.rs
+SPDXID: SPDXRef-item2533049
+FileChecksum: SHA1: 8423b2442f40ed208b7d7344e6e83b9850932cec
+FileChecksum: SHA256: 6ac986aec826f61f95c6bdbe9f8b3fc5ec083548fce1b9a40043a2dec053ede4
+FileChecksum: MD5: 3098dff155f5cadec13954f603b7dd41
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/lib.rs
+SPDXID: SPDXRef-item2533050
+FileChecksum: SHA1: 4df247e34c493a51d4a6028337d577a709e9f1e3
+FileChecksum: SHA256: 83d01981960604481cb06cca57a9bbd538e2a43c7299371ac609598ab26eab01
+FileChecksum: MD5: e2308c8ea90158b74897a50b36a80046
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/kex/secp256k1.rs
+SPDXID: SPDXRef-item2533052
+FileChecksum: SHA1: f5f75ea4d29920a5bce067092f7e562182d3c7d5
+FileChecksum: SHA256: f1b3e2dfc61d3a46a1d8b5899caeac45c1a2a2390cbb7b9fdfc3588e7eab1be6
+FileChecksum: MD5: 2cd939a7d93c5b03c962419e4b3cd962
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/kex/x25519.rs
+SPDXID: SPDXRef-item2533053
+FileChecksum: SHA1: 174ae459741b336e69e4634dd9e1e97ad68a827e
+FileChecksum: SHA256: e0a7a06f48ae3dd42939f56d86cba379c9063f1f6f49b35b4b28252e38e44c0c
+FileChecksum: MD5: aee133363ff87707ac888b6fd14794fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/kex/mod.rs
+SPDXID: SPDXRef-item2533054
+FileChecksum: SHA1: 625fb2df13fd69b6b9bc1a1702954241fb437985
+FileChecksum: SHA256: 9a86de1dc3fb57be503eb60ac286ca6afde5c4199dd111c756a0d80762968bc6
+FileChecksum: MD5: ba2e3077c390db67d9cee7635e690b9a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/bls/mod.rs
+SPDXID: SPDXRef-item2533056
+FileChecksum: SHA1: 590dac199d10140968f95d7eb1c2a5aa2f7cbc12
+FileChecksum: SHA256: ac185737ad3d865911f4dcf27f5950450cee270d945e7c124852232e12ea7001
+FileChecksum: MD5: f3f6a78b3033db440f5867f6467405a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/cl/helpers.rs
+SPDXID: SPDXRef-item2533058
+FileChecksum: SHA1: c2ea84df21bff8e05d5379be34058c5187981fda
+FileChecksum: SHA256: 1f7eabf7fe5f3d11e4f9613caf444bf34203b8728b8c5ac3ef0fdaca22893e16
+FileChecksum: MD5: cf120c721b433ae85515541d3e2b9214
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/cl/prover.rs
+SPDXID: SPDXRef-item2533059
+FileChecksum: SHA1: 07c4f2585218b74672e992b433546fbb3105c963
+FileChecksum: SHA256: 985f3e1b583bc68dba321c1620621f5e6eb23f712abcbaa9f684bafc07e9e098
+FileChecksum: MD5: 982a26550080160c4b2d8ebe54044d49
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/cl/issuer.rs
+SPDXID: SPDXRef-item2533060
+FileChecksum: SHA1: ab89630b05b6086d794c006fed5ccf6fa54b89fc
+FileChecksum: SHA256: 645538c73a5913eb44881d28b6d9f455f739d8f2867d451d83e6791abb3d9612
+FileChecksum: MD5: a65da44ffd11ec13a348d249969878c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/cl/hash.rs
+SPDXID: SPDXRef-item2533061
+FileChecksum: SHA1: d32d8c6ea97aaae5114fc893efe2f24da9e7927a
+FileChecksum: SHA256: de982b3913e0d4ca6ee9514c59a1a447f775d1eae1c11cdbe423f4668a478f3e
+FileChecksum: MD5: ffe9d92673953549f75415457484f5ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/cl/constants.rs
+SPDXID: SPDXRef-item2533062
+FileChecksum: SHA1: 38495f4c7b01b4ac377a992bd43c4844d6882774
+FileChecksum: SHA256: f12ffa92deb6efeb80b022892755ecd7f5d0135684d253c4d520c05b0e4bfc4a
+FileChecksum: MD5: 5b0d663c0247de5d1f2157963e9d3576
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/cl/datastructures.rs
+SPDXID: SPDXRef-item2533063
+FileChecksum: SHA1: ac215caf7f4b82ae4397adb13ccf00fd3868d4de
+FileChecksum: SHA256: cb30cd04804eca35e03b3461d74ec041f1d740967ea8ca80ded191eaaf4ae14a
+FileChecksum: MD5: 16178af87aebb04723ec1790e0ac8549
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/cl/mod.rs
+SPDXID: SPDXRef-item2533064
+FileChecksum: SHA1: 1acb44f4a4ea1464a9e1a0b68bd668961982c74a
+FileChecksum: SHA256: e0f19bbdafd1aa78252a54dc5ffc354dad2d65fd83e03dac292c1a17214255f0
+FileChecksum: MD5: efca395c442bac31cbbdde498d3c7b9d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/cl/verifier.rs
+SPDXID: SPDXRef-item2533065
+FileChecksum: SHA1: 55213dd74fc6ea36797a0c3c878875856c341e6b
+FileChecksum: SHA256: 3746f6937716b3ad809a47b9612cb98c0cdfb0f22d47385874febd28210a9d8b
+FileChecksum: MD5: 7526696d729f30ac26643c614cc44015
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/ffi/encryption/mod.rs
+SPDXID: SPDXRef-item2533068
+FileChecksum: SHA1: d3d800f4a88db7a7e24be9087601bf5237e98c85
+FileChecksum: SHA256: b3a206389b053bb48467e6d366e8b32bf8a7fdfd22e0c7cc5ca293fbaf19dd3f
+FileChecksum: MD5: d0b563d321a2d30696e82715ec508ff2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/ffi/logger.rs
+SPDXID: SPDXRef-item2533069
+FileChecksum: SHA1: 6a29a849cb7055faaa49c205b6d2334db3606999
+FileChecksum: SHA256: 1651a43ab77090b518a29adf3229d216259c64f45caf667877d3ec2fb2fb08a9
+FileChecksum: MD5: 3052c2ddd50f0e696d6bf0f931327aef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/ffi/mod.rs
+SPDXID: SPDXRef-item2533070
+FileChecksum: SHA1: 97a13ceff636c7e697f4975dd9cdb4ef5dcd300b
+FileChecksum: SHA256: 6b21f8412fdbd7aab367850cf9151a19282e075cd454395a3e009c05610a6bec
+FileChecksum: MD5: c0cc66901c8384b8527473e1c8ca1e7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/ffi/cl/prover.rs
+SPDXID: SPDXRef-item2533072
+FileChecksum: SHA1: b6f80009388bd234872115248910e953c4aa40f7
+FileChecksum: SHA256: 8769bc4f0303b7d6329bab38a054de495a5901806fa814aa3a10a667c726ca87
+FileChecksum: MD5: 031478b7ee08cd86833a72168713f838
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/ffi/cl/issuer.rs
+SPDXID: SPDXRef-item2533073
+FileChecksum: SHA1: bf1703704c8fb87b5112dd27945792c6f15fe3be
+FileChecksum: SHA256: 8aa00152cb1c7082a5c612c80401bb414fa3dc773a7f2367c0a43061c838e8e8
+FileChecksum: MD5: 35f4119544d1520200e827b1948e083d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/ffi/cl/mod.rs
+SPDXID: SPDXRef-item2533074
+FileChecksum: SHA1: f8dd756e576be51cb3de110009424794fe54b8c4
+FileChecksum: SHA256: 874f2e76cdd2609a3cca26ab6b5eac620a5475548d81a4c9afd8843f13a90ee9
+FileChecksum: MD5: eaff16b0346fb56ca75183eae8e40b2f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/ffi/cl/verifier.rs
+SPDXID: SPDXRef-item2533075
+FileChecksum: SHA1: 545ea749a80130f0d5e77f9d77a7f9ffda0d54ab
+FileChecksum: SHA256: aba1898befdc0cbf87aa418671cfe7d888368e948e00d61a198f338d58fd3813
+FileChecksum: MD5: e180dfee2b985b9d2c5b9efa9c762fcc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/ffi/signatures/ed25519.rs
+SPDXID: SPDXRef-item2533077
+FileChecksum: SHA1: 1639587bf5463e0cc8b7def9a8084e421c16ec0c
+FileChecksum: SHA256: fa2eb66a38dac421aa832ecf795c587b7878876d0f0ff0a4d12e81fbf65b8bde
+FileChecksum: MD5: 0e5133ef0148afe02ee04472bd0fdb21
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/ffi/signatures/mod.rs
+SPDXID: SPDXRef-item2533078
+FileChecksum: SHA1: 2cbd2e8a558dda75e3ea4b7fc81fe9fc0a8e8464
+FileChecksum: SHA256: 6646053cf426a09249595a7cbe3753887ab21fcc86a50bd4759449752376e7b3
+FileChecksum: MD5: 40edebd40b4a9b99b1e00df5321f9890
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/ffi/bls.rs
+SPDXID: SPDXRef-item2533079
+FileChecksum: SHA1: 48a6c4ffc8201e0ee52830acef7ecef6893c1350
+FileChecksum: SHA256: 1cda92cfac88a5bfabbe24b9c82aae3ada6b224865e9052e3e015138a61cd90e
+FileChecksum: MD5: 3c90a09e178d90fa394d98827ead131f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/sharing/mod.rs
+SPDXID: SPDXRef-item2533081
+FileChecksum: SHA1: 216854ba4863419c0cd042865101445b27cd311c
+FileChecksum: SHA256: 745ef6fea4655bdb15f7279c1105aaf37effc724b56630bed3b2bd167f4c5144
+FileChecksum: MD5: e22f88adcf556f5656e3e9e4176d78eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/sharing/shamir.rs
+SPDXID: SPDXRef-item2533082
+FileChecksum: SHA1: 68159f45200840220115993b722362870fec5b0b
+FileChecksum: SHA256: b6e90f5ab93c853f458d02b2aebccc51c1be6c4cb71c6126803e466cb495b9f9
+FileChecksum: MD5: 17bd660b32a113dda4fa29bd84b39b99
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/hash/blake2.rs
+SPDXID: SPDXRef-item2533084
+FileChecksum: SHA1: 130bda3cb3b4deac39b27dc36d99e8562c1c387c
+FileChecksum: SHA256: 37f68e9e2da71787ace681edf89b90e5002a1002b418727f8da7089b14562b99
+FileChecksum: MD5: 31381c42c97c76db2222a2a7887856ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/hash/mod.rs
+SPDXID: SPDXRef-item2533085
+FileChecksum: SHA1: 2c575cc9c6f56cea9e5e322569ee4d7b834ab9f6
+FileChecksum: SHA256: bd49f717b3060fc8752afa8bacc4e87aff3a54f735a20f76548d6e5157f6d75b
+FileChecksum: MD5: fed5a1aeb42c562992e4fdccf809eca6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/signatures/secp256k1.rs
+SPDXID: SPDXRef-item2533087
+FileChecksum: SHA1: 239706ac6f619cbb7ae9966d06dae63f88d01002
+FileChecksum: SHA256: a2b7182352b8a9930f46b01098f142de4953f1d9c8e63412e209c0789944976d
+FileChecksum: MD5: b74206f47cd21cd7ab88a5a5b69d7fcd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/signatures/ed25519.rs
+SPDXID: SPDXRef-item2533088
+FileChecksum: SHA1: 3a5e696f2ed1efd51076485fbfa0c7a86ae323c6
+FileChecksum: SHA256: bf558c2dde347c85116f2867c7dbc95e45c1667165e1515c8cb9665a980de857
+FileChecksum: MD5: 158d49c701a3d3f11ae45ad0ccf9ed5d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/signatures/mod.rs
+SPDXID: SPDXRef-item2533089
+FileChecksum: SHA1: a257a1df95cf4ce38f71fbe61f2cae087af4d8c5
+FileChecksum: SHA256: 4d29b8e5b4f7e82acca407ff194d415bc18a2decafaae0fde2d392fa518c1450
+FileChecksum: MD5: 56748c558efed4a4e2dab5559e0d6bca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/signatures/bls.rs
+SPDXID: SPDXRef-item2533090
+FileChecksum: SHA1: 68e6b3baac8c92588f8cfc83db3b2d77dacb98d7
+FileChecksum: SHA256: cc31a8066f520d51816c3c990202b077ea0a02b808b64ac193e6780d7871bdb4
+FileChecksum: MD5: b0707581590cc51e8c4306c502ed70bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/src/pair/amcl.rs
+SPDXID: SPDXRef-item2533092
+FileChecksum: SHA1: b911f6cd6fa045696ef4ba95badeaca83ba36b0d
+FileChecksum: SHA256: 7a27b8967de2cd68c2c8dca6d311832c928e0382b4004462822e093049432443
+FileChecksum: MD5: d2aaef7710743b941ee7a90312416017
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/benches/cks_revok.rs
+SPDXID: SPDXRef-item2533094
+FileChecksum: SHA1: 11a089f27614882f9e4db313062e620a5353bfc7
+FileChecksum: SHA256: 01306b8330b8a56ca05f76f20a0dc41e2051573d7b186315eccfecbdf5ef6e02
+FileChecksum: MD5: fa030b804b09408da6ee9defec306f8e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/benches/bls.rs
+SPDXID: SPDXRef-item2533095
+FileChecksum: SHA1: 7c493fdcd77a8f8a67c9dc6da594cf9d3948dbfc
+FileChecksum: SHA256: d6d8c5549771a2dfdffe4202bdb647242bbdd07c7806b003a39b8d37dfb04163
+FileChecksum: MD5: 7d6dc22eeb540336e87cd563b89a2014
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/benches/encryption.rs
+SPDXID: SPDXRef-item2533096
+FileChecksum: SHA1: ffe8bb145d4e3e273fd98a87b8c16c39d4e95381
+FileChecksum: SHA256: 010d17c4bf4303f06979f397da6de2f2a7cbe873aa8cd102d578d7c949960127
+FileChecksum: MD5: fd077c2f0d3011fd162f54eae75c61f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/packaging/publish_to_crates_io.pl
+SPDXID: SPDXRef-item2533098
+FileChecksum: SHA1: 5022f6477c36dedad194d87507e56b89588fb498
+FileChecksum: SHA256: 4b2b8c1f7823b7628cab154fa521a1b070f77c889db0908dad9d478abf20df5d
+FileChecksum: MD5: e0dcbd365c2de0f636884dbe9104008c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/.gitignore
+SPDXID: SPDXRef-item2533099
+FileChecksum: SHA1: 30b055485a20d86a977d60e54afbb3b3936ae36f
+FileChecksum: SHA256: 2174a90a202fd02dde6d259b63ac5cfcdb38af159b089100f9264285fa4fe2b8
+FileChecksum: MD5: 1736b54a29deb66f84107c8c137e32ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/include/ursa_crypto_ed25519.h
+SPDXID: SPDXRef-item2533101
+FileChecksum: SHA1: 1a0b661a568f4334a0d3439761a18e6e1b35f137
+FileChecksum: SHA256: 8400e3f6ad58169996518b6493e870329775520c4e769f437856ed44dd844174
+FileChecksum: MD5: a77d2e141e93bb75e81e3450202591e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/include/ursa_crypto.h
+SPDXID: SPDXRef-item2533102
+FileChecksum: SHA1: da91782a6665a5a10dd3dddb076f4b3d21615d34
+FileChecksum: SHA256: c555f7db8fa5a9d7d57c92f65e9e4cbcccae9fba8a4902866ef74080f7f58002
+FileChecksum: MD5: 71ef104fd89cd767696ab781d8067b7a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/include/ursa_crypto_encryption.h
+SPDXID: SPDXRef-item2533103
+FileChecksum: SHA1: c3ed7a2c2e6a954c215a2aec1eef76bf91052dd4
+FileChecksum: SHA256: cf9b75844a07931e07668974666b355175ff41437facc5cd886ef6c84c574b26
+FileChecksum: MD5: 7d0a118ebce548c5b1d1026062311761
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/libursa/cmake-build-debug/CMakeFiles/clion-log.txt
+SPDXID: SPDXRef-item2533109
+FileChecksum: SHA1: 80a835b3c4e9d538c2f649c16ef9b6b2b848ea6a
+FileChecksum: SHA256: 98364a42b65b2ca2509ebe64e2ae34684d535d00a2571b6a6754176a6d72a07f
+FileChecksum: MD5: 11a953487909aa222f5d79db84960fe4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/Cargo.lock
+SPDXID: SPDXRef-item2533110
+FileChecksum: SHA1: b9b22d91e49ed8e42813541340ba37c2ab2e3570
+FileChecksum: SHA256: bc314e043cec2ffcb4a56eff26fb1f31bb7f147c782381ab716b1c17c26f8e48
+FileChecksum: MD5: c0ab11ed38c32284e15c67dd6bc3fee0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/CHANGELOG
+SPDXID: SPDXRef-item2533111
+FileChecksum: SHA1: 7a5420dab6387d4674ce366c27723264eafb22fa
+FileChecksum: SHA256: 4f7718d87d10cfc7790e4c23cc4d17e2169562c39fd1361b385f463fe4d57f93
+FileChecksum: MD5: 82e3625893b1059d9e7704f625d3fca6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/README.md
+SPDXID: SPDXRef-item2533112
+FileChecksum: SHA1: d31c54e930ec314dff2cf7c2b82557a36052a3a9
+FileChecksum: SHA256: e64e5fda5b9ce864d92fc157473d4f6b6291303ade96c2a3a38b6df908a49531
+FileChecksum: MD5: 8b367efc8b92105ff9acc7435ddf2b4a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/ursa_shortgroupsignatures/src/lib.rs
+SPDXID: SPDXRef-item2533115
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/SECURITY.md
+SPDXID: SPDXRef-item2533117
+FileChecksum: SHA1: 0397010efc31a3508d0eb8151dbae32e9433b031
+FileChecksum: SHA256: 4f6911df9983130f0bfa37a0a98ad19f31df4a6cd339c6c89bc213a54c2a1b74
+FileChecksum: MD5: ae35bef17d8b512c07bade9bc1c39226
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/ursa_signatures/src/lib.rs
+SPDXID: SPDXRef-item2533120
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/rustfmt.toml
+SPDXID: SPDXRef-item2533122
+FileChecksum: SHA1: e31b698e2de14b0b7e1bff7754e2447e0fcd8a58
+FileChecksum: SHA256: 92a9a6f8c4cdcb74fe06bff2299776cd40a6a19d4135e9e1574b3c74e18daec4
+FileChecksum: MD5: e40ee0c877196485a228e802c5a9e384
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa/ursa_core/src/lib.rs
+SPDXID: SPDXRef-item2533125
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-docs/docs/features/attribute_equality_anoncreds.md
+SPDXID: SPDXRef-item2533130
+FileChecksum: SHA1: e7353f685228717c9140e3ab6c4d36193a72c239
+FileChecksum: SHA256: 69e5778cd1f1fc30cfe37cc0f98ee2c1bcb7621943c6815552e407680f230614
+FileChecksum: MD5: 8aa29d1da41feb1ec47e5873379ed400
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-docs/docs/.gitignore
+SPDXID: SPDXRef-item2533131
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-docs/CODEOWNERS
+SPDXID: SPDXRef-item2533132
+FileChecksum: SHA1: 7a2f81168b29b7b9a92a31db82dcc3d3c97f9128
+FileChecksum: SHA256: 12b046dd0ffc56e40ba26bb267c3626052480cce482ddab692c8a2a4c8be4e2a
+FileChecksum: MD5: ca0ecec309d6b00bdd98dc967e932fdc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-docs/.github/workflows/main.yml
+SPDXID: SPDXRef-item2533136
+FileChecksum: SHA1: 90ba1d546e4926d5032583861535f314c4ff5818
+FileChecksum: SHA256: ac7b1ad0aca6813b84e9369cf1d8065511af641fc755ca181b7fd7f329c99150
+FileChecksum: MD5: 391248e9f9042cb82ee60169e927d90d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-docs/.gitignore
+SPDXID: SPDXRef-item2533137
+FileChecksum: SHA1: 465a1e5fa95ffafee1b2b340e170d8e0fcf2659e
+FileChecksum: SHA256: 24f2503fb4465554c59a2a7b6560a3e714d54b6cb0418b7b30e5736543c99bb8
+FileChecksum: MD5: b4559e824a149cd5e3f8e5f88da42668
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-docs/README.md
+SPDXID: SPDXRef-item2533138
+FileChecksum: SHA1: e6c8e9e328ec06a576d229f63d166282204c1bd9
+FileChecksum: SHA256: dbbd96040253e148e40ad4d5cb6621dbfa6e3275e1595c45503b50f6a6ce8b8b
+FileChecksum: MD5: 57f6d68905c25cc2f27aaa2e8df9fcc9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-docs/check.sh
+SPDXID: SPDXRef-item2533139
+FileChecksum: SHA1: 493d9fd3728d2fe3aa4392056a2a7263a2ae9533
+FileChecksum: SHA256: 04cc0b942eee64b6e1d426eb869b6109ef0128fdea337d2596f804b317af2180
+FileChecksum: MD5: 6c561a2707b7a5e9e3f66bcce189c310
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-docs/specs/docker/ubuntu/Dockerfile
+SPDXID: SPDXRef-item2533143
+FileChecksum: SHA1: c58596a598cf402e4f6e900bff170fa5bf78ae88
+FileChecksum: SHA256: 736d30bfce4f11edfda5b5c73fe4016f697d794788271b20e1ddc35db10936d5
+FileChecksum: MD5: 0b4d75e1461608dad53a163a53f85fef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-docs/specs/.gitignore
+SPDXID: SPDXRef-item2533144
+FileChecksum: SHA1: 29c9862da5410ce7fa282c52b408dc1391fba425
+FileChecksum: SHA256: d97dc2b0bc9919d2739b1acaa25039503bd1666a6f8b28efed9ec25d6052ac7e
+FileChecksum: MD5: 491e3481599a8145224fb8f45f857cef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-docs/specs/anoncreds2/anoncreds2.bib
+SPDXID: SPDXRef-item2533146
+FileChecksum: SHA1: aab48f48e2b977f86c0b9cd7b0bb8088e5c58f31
+FileChecksum: SHA256: 8b2617a46c5b026d5ec3d0e7b8fbe671563c2d2b1ff4368b8d7c610dfcfc3b07
+FileChecksum: MD5: 19510caed2197cccd8de47e0147407b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-docs/specs/anoncreds2/build.sh
+SPDXID: SPDXRef-item2533147
+FileChecksum: SHA1: 8065faf0ac6fdc26afb46fc8ee197d4ed77b0af3
+FileChecksum: SHA256: 64b460218b954c9f2ef318560ff3e8be84a209cfc0a32c0a4d5a8c8f46c6af6d
+FileChecksum: MD5: 2f9a43564145a1cf6edcda7e16d43f50
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-docs/specs/anoncreds2/main.tex
+SPDXID: SPDXRef-item2533148
+FileChecksum: SHA1: 35a85a57a023b3358630b979878203e51bb69aa5
+FileChecksum: SHA256: 6e6e4553661c7ce390b27f3f290e86059a3d6a1bc20eacc3247a0f645eb5c646
+FileChecksum: MD5: c40f29c52608094db722f93e7c5932b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-docs/specs/anoncreds1/anoncreds.tex
+SPDXID: SPDXRef-item2533150
+FileChecksum: SHA1: 025c7edd00644954d0989a88f4fcf135fab787ee
+FileChecksum: SHA256: c488530798256e82bdaa111ddc4c76326b660397b7a7e9b0d5847afa54a08166
+FileChecksum: MD5: 875b90c3cea00a0c698c5ee023348557
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-docs/specs/anoncreds1/anoncredsmain.tex
+SPDXID: SPDXRef-item2533151
+FileChecksum: SHA1: 152e4b1b13411f843804dc94705806cfe17c7be4
+FileChecksum: SHA256: 1226f1852418c7382ba0bdf1f8c775f4a7cc4c4c46cbde4123c6bbce1a71c132
+FileChecksum: MD5: ad01e5644eced92f4df69783e33fed17
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-docs/specs/README.md
+SPDXID: SPDXRef-item2533152
+FileChecksum: SHA1: 5a8b6bd4611d29d931666c6c64bd4c25ea76cb93
+FileChecksum: SHA256: 42b564309637f09ee9012c297547c74df2bde1401acad6941f39eb57dfe572a5
+FileChecksum: MD5: e3f6ff4636d4493a74f91a4ab831d8ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-wrapper-go/Makefile
+SPDXID: SPDXRef-item2533155
+FileChecksum: SHA1: b44655a36226ba6c7987711c552feb51b115ad43
+FileChecksum: SHA256: c93a6eba1a1a746bb17a8e6eb1251d67f34b62149dac7f971fb87d5d3ecb2819
+FileChecksum: MD5: 0cd8eefc5898e9c84401201a6b02541a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-wrapper-go/.github/CONTRIBUTING.md
+SPDXID: SPDXRef-item2533158
+FileChecksum: SHA1: 062d0b8a3f0e780be1f62f0a09026d67a8b95b2e
+FileChecksum: SHA256: 3be1fc9e97ed6fc3002fa5f8bfcc9f8b38b25ff0b78c540645e9a57717d7b2b0
+FileChecksum: MD5: 5be1f2a53ed3359dfd11834dfb8ad29a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-wrapper-go/.github/workflows/release.yaml
+SPDXID: SPDXRef-item2533160
+FileChecksum: SHA1: 1e9a99f6e3137d9276c37044b6c86732e3946a1d
+FileChecksum: SHA256: e77a36e69a375893563ce923add1b26e9e5fa0ca5e3f9e830deac0c123012fb9
+FileChecksum: MD5: 70f3d5945ac68132875037e5ff49604a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-wrapper-go/.github/workflows/build.yaml
+SPDXID: SPDXRef-item2533162
+FileChecksum: SHA1: 94dd0d5520c135d79eb9d930b48be0513f01267e
+FileChecksum: SHA256: 3cfbf31696a3dfdd29240f5981bfd91c89e2cfa8f5f4328189251c57848cbb38
+FileChecksum: MD5: d007874bed630bce96ef1063d5d97ecf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-wrapper-go/.github/ISSUE_TEMPLATE.md
+SPDXID: SPDXRef-item2533163
+FileChecksum: SHA1: ed97ed6c6491b7347b4dab62cd3ff0dfb10b38a9
+FileChecksum: SHA256: eaeb05ca2cfbf3de979b5d3c891808e97b8b8e19a96e953010dbab35b4f4299e
+FileChecksum: MD5: e82d6230e1c875f2a0eb4e952f7f1d75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-wrapper-go/.github/PULL_REQUEST_TEMPLATE.md
+SPDXID: SPDXRef-item2533165
+FileChecksum: SHA1: 858e5f21b5c394b1567dd192801d08120c18a81e
+FileChecksum: SHA256: fecf1e2281f04af0d993f9e8f188af009ac252a9b6ef09687e438c66f1856f13
+FileChecksum: MD5: b45df7fa3d11f6250a4bb12baf008179
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-wrapper-go/.gitignore
+SPDXID: SPDXRef-item2533166
+FileChecksum: SHA1: e5442ca78fd74648c8630546d81ea8ca7f0c1112
+FileChecksum: SHA256: a627a3eea116b50d37c4306f2e7dea52bc4708fe8a5bf0d879d225f4472faaf6
+FileChecksum: MD5: b23b39af78a3198082d889e9c4e1734b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-wrapper-go/go.mod
+SPDXID: SPDXRef-item2533167
+FileChecksum: SHA1: 5d218ec629ba76538b1b5e7f1f4b998efa1c8872
+FileChecksum: SHA256: e002903cb8d0c31c20f9ce49b70eecd42515b643c050c224f1f97d1f1d8a9ce9
+FileChecksum: MD5: ac8bfe6d3207eea930d8aff2838e45a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-wrapper-go/scripts/test.sh
+SPDXID: SPDXRef-item2533169
+FileChecksum: SHA1: 3a7b867ec234be6ce07aef8ba67c75c8e36adc4a
+FileChecksum: SHA256: d58674df67619438610f590023a48e607496b80c44456672225553a897ce5558
+FileChecksum: MD5: 4ce18c01c16e2127f369508ec0343166
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-wrapper-go/pkg/libzmix/bbs/bbs_cl.h
+SPDXID: SPDXRef-item2533174
+FileChecksum: SHA1: 8e780effb07672cf67b63429c724c357858016f0
+FileChecksum: SHA256: 1cc59d0e8f3fb46147bdb89dbc3fbb28072edfbae330d28b068bc71e70514fa5
+FileChecksum: MD5: 459d8fe8a2141dc73152d671cf311da7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-wrapper-go/pkg/libzmix/bbs/bbs.go
+SPDXID: SPDXRef-item2533175
+FileChecksum: SHA1: c10df08d95b25f1dcbc8e84f0ecf09cf77ff03b9
+FileChecksum: SHA256: 373b16a196dfafd1dac7b787bfabfaf3e73c409d5fb0dc1c4170b845bc2dc236
+FileChecksum: MD5: d28b04bd0e234659f17cc6f27b3f71f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-wrapper-go/pkg/libzmix/bbs/bbs_test.go
+SPDXID: SPDXRef-item2533176
+FileChecksum: SHA1: 656ced6971fc7df996b12514664e3320bcc329b3
+FileChecksum: SHA256: d2b352f341252881e1ef29aaa7a986c2c1d9c704713356e84f922cc97123cd21
+FileChecksum: MD5: da34f6929b2386196a8d84c12523778a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-wrapper-go/pkg/libursa/ursa/ursa_cl.h
+SPDXID: SPDXRef-item2533179
+FileChecksum: SHA1: e73ede35961ee2a51a66b9d556758679be3f409e
+FileChecksum: SHA256: 7b4bb72ed82383c431d64c091fdff708b18f70489d292d939c08b1cb32218363
+FileChecksum: MD5: 0ec6988de2858834f1fe4ad6369f08b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-wrapper-go/pkg/libursa/ursa/proof_builder.go
+SPDXID: SPDXRef-item2533180
+FileChecksum: SHA1: f12d793a2aaea0f9ea70c49cf2ebf5ac6c2c5c51
+FileChecksum: SHA256: 6b0fb16bf457aff7ed04af6548df69ce70da00ae0b2b390ec030df24c0910df9
+FileChecksum: MD5: 776e76422543d664ce399dfd622415f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-wrapper-go/pkg/libursa/ursa/value_builder.go
+SPDXID: SPDXRef-item2533181
+FileChecksum: SHA1: 399f529d615b96afe862acd34f108d785e274d80
+FileChecksum: SHA256: b996379b53c67de414bc10c94a938a98b0ddd80a2a4360906cdda59246b9ea39
+FileChecksum: MD5: 5754cb74b811e0fef74249515ba00bb6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-wrapper-go/pkg/libursa/ursa/proof_builder_test.go
+SPDXID: SPDXRef-item2533182
+FileChecksum: SHA1: d7b79287149ed9414c64b65ed25c9fb8cee2b781
+FileChecksum: SHA256: 48c2292791d3f711f8826ea6b8e2fca29204a8fe2c371c5bd6a4c77436b1ab89
+FileChecksum: MD5: e298c7969cf98e91566c3a9c91edc7e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-wrapper-go/pkg/libursa/ursa/credential_definition_test.go
+SPDXID: SPDXRef-item2533183
+FileChecksum: SHA1: 8ac77510c2a20e04905873bbc98fdd8376b6752b
+FileChecksum: SHA256: ec230a29136625a1e464fc1dc8fc3eeefa69ee5b51973268a89239d69f5bac2c
+FileChecksum: MD5: d004641ede992a15c8f93c4cb5715f4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-wrapper-go/pkg/libursa/ursa/ursa.go
+SPDXID: SPDXRef-item2533184
+FileChecksum: SHA1: 944f5f02445c3ce90ea6128c52d0fa69990f448c
+FileChecksum: SHA256: 759f46269a9a60cbdf9990e3a8218796f111c09da4d3ca73949002ffbfc30dac
+FileChecksum: MD5: f954c3503fe12b0e2d36c2e7f3be707c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-wrapper-go/pkg/libursa/ursa/verifier_test.go
+SPDXID: SPDXRef-item2533185
+FileChecksum: SHA1: 1ecb2fbb2f93b37bc3fbff65ac10f634767fa1fd
+FileChecksum: SHA256: bad249a6f8e6ec0b35ca2b374069f5624d0ef7de9ae457e282e8105cbb7be874
+FileChecksum: MD5: c2b31d9fcefa7807841ac902e82dd1a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-wrapper-go/pkg/libursa/ursa/master_secret_test.go
+SPDXID: SPDXRef-item2533186
+FileChecksum: SHA1: 1813baaa2799078589e4fb10e6441d8eab904dd9
+FileChecksum: SHA256: b3193dddf11f538785dc16dc46057a8e6c6f962d5afa42b493ae8c55356f3546
+FileChecksum: MD5: 4de7b309846cb0ec45eeba7ab9c2cf50
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-wrapper-go/pkg/libursa/ursa/value_builder_test.go
+SPDXID: SPDXRef-item2533187
+FileChecksum: SHA1: 553aa88ff67d2a4951d2470d036e5188df43e4fb
+FileChecksum: SHA256: 65c67cb74ac635c0d5b4abbd10bf1d4f9f386bf48912f6f4107abef860aa8841
+FileChecksum: MD5: 01130d2fdb925cfde49fb448645f62ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-wrapper-go/pkg/libursa/ursa/master_secret.go
+SPDXID: SPDXRef-item2533188
+FileChecksum: SHA1: a5ef3abf99cfe6d11c615856bf3fce00ad1e7a59
+FileChecksum: SHA256: 7abfb2aae0675395cb8dd192a27c37d0388204da83d9d908ae3900e77d005d99
+FileChecksum: MD5: 8bcea8a1aa6b86d94fdb09a4b8de3074
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-wrapper-go/pkg/libursa/ursa/verifier.go
+SPDXID: SPDXRef-item2533189
+FileChecksum: SHA1: 7f7cf853556f4026e876821008e084902bee3bf1
+FileChecksum: SHA256: 061747d07284219e422c7fa7d2a46ddaa44869d8448905f9e4d677d259ce4b24
+FileChecksum: MD5: 8ab86cdf1411624b4a9c0500c1627974
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-wrapper-go/pkg/libursa/ursa/ursa_test.go
+SPDXID: SPDXRef-item2533190
+FileChecksum: SHA1: 9aa87e9e0c22576e01d55a676f77a6e4fc65c953
+FileChecksum: SHA256: 08b8da61fe81513105ab9f19c2f67373d38f44158513968dfac6b7fa151e9724
+FileChecksum: MD5: 8f4c6c52f35265387acef2c53b7e479c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-wrapper-go/go.sum
+SPDXID: SPDXRef-item2533191
+FileChecksum: SHA1: 463d694f2af376e11674883c5ad910df9a167beb
+FileChecksum: SHA256: 0f9fe6d78e5411a5238694f05b437b27d41bb089fbc25a66aeec2f84834fc431
+FileChecksum: MD5: 2d2e4e1278df208f15fc494218b57538
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-wrapper-go/ursa-wrapper-go.sh
+SPDXID: SPDXRef-item2533192
+FileChecksum: SHA1: 0c2e8afb64a60b5fe0562d51fb6788e6706c5715
+FileChecksum: SHA256: 51d9bbb53cc8d6ccce1f3afbe1c8de438e178a1862920837aaf5d043dd3eaf55
+FileChecksum: MD5: 198a5d491778b95fc7168eb793d0a3e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-python/tests/conftest.py
+SPDXID: SPDXRef-item2533195
+FileChecksum: SHA1: 38e9ef7f49278149189f379fe5e0009d5ed20d6c
+FileChecksum: SHA256: 0f81e244c1f32b4a047c33e0bcb8e022793851d3964f7f0fa0ba6b5d1bdb5c7e
+FileChecksum: MD5: 5f464a766921b4dcd7707c39bbe1dbc9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-python/tests/__init__.py
+SPDXID: SPDXRef-item2533196
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-python/tests/bls-ursa/test_ver_key.py
+SPDXID: SPDXRef-item2533198
+FileChecksum: SHA1: c3068c0b8956b059200761d60739b1c7d0341025
+FileChecksum: SHA256: a32331c86875a3721ed2ab5c3dd7946fe29410c1d67b94cdecd0b7cc98f5e14a
+FileChecksum: MD5: 92e9a72e3bb5ce8dd06a27b93f4fa69b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-python/tests/bls-ursa/test_bls.py
+SPDXID: SPDXRef-item2533199
+FileChecksum: SHA1: 29acaa3f8544d5e531177e9918cd2461ab153c2c
+FileChecksum: SHA256: 908cddeca7e4e1821f7db7fb67b02ee129c10b79ebafe96a76b19099b8eb8768
+FileChecksum: MD5: 80c2d3a6dd1b2f83c3d8530a50d0b651
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-python/tests/bls-ursa/test_signature.py
+SPDXID: SPDXRef-item2533200
+FileChecksum: SHA1: bd45f54f311d44ee3e55f21cf5288b9c18b88be5
+FileChecksum: SHA256: 519bfa3299ec724bf66868b236bead2a5155b9249d07d487a469ec176c1f70e0
+FileChecksum: MD5: a745bc60dbbe6ffb9331061ab0376dd9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-python/tests/bls-ursa/test_generator.py
+SPDXID: SPDXRef-item2533201
+FileChecksum: SHA1: 4c4d218249620eb0de75621161990dc50f6e2034
+FileChecksum: SHA256: da34bf41b4699aac109b000e8bbe624473269cc353d6c6475af5ddca830b8f10
+FileChecksum: MD5: 414e939ecd68af061bfa540a09c78212
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-python/tests/bls-ursa/test_sign_key.py
+SPDXID: SPDXRef-item2533202
+FileChecksum: SHA1: e2bbe04413ac33dca28e14801a63ed17011360a4
+FileChecksum: SHA256: 3252a3be8e7441e3de14b0d09410f92764417c69638bc5a7d54409719662a157
+FileChecksum: MD5: ab54ee77f13f62f825d4c9c69ce05b3e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-python/tests/bls-ursa/conftest.py
+SPDXID: SPDXRef-item2533203
+FileChecksum: SHA1: be555279581241516034e88edd7c86ef604daf44
+FileChecksum: SHA256: 33cd2f696b8319c4e80a40bb95356e2dec55affcae9a0377df2466afc319e8af
+FileChecksum: MD5: 0da9139861697692cf4c105227ec3985
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-python/tests/bls-ursa/__init__.py
+SPDXID: SPDXRef-item2533204
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-python/tests/bls-ursa/test_pop.py
+SPDXID: SPDXRef-item2533205
+FileChecksum: SHA1: 53bb74de85dc344b90af514dc064707ff227e467
+FileChecksum: SHA256: 1dac5d5699344bb8f10bf67570ed0286007d76d7c9b37c10eda2cc7a713b388c
+FileChecksum: MD5: 084ebfd30752f35a57885caf23b690f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-python/tests/bls-ursa/test_multi_signature.py
+SPDXID: SPDXRef-item2533206
+FileChecksum: SHA1: 2248666736205da31a9d00806bd1724c70d56210
+FileChecksum: SHA256: e49b76ea7d30619c81ec7d94fd6a639a6608c1acd8491ae0a34a1917ea170c46
+FileChecksum: MD5: df5ea0c1fc20a087f249a3be9a7d1a63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-python/ursa/indy_error.py
+SPDXID: SPDXRef-item2533208
+FileChecksum: SHA1: 2eadaf7e9c631f9e9f6dec8470f26d23eef8bc7e
+FileChecksum: SHA256: 381fa0904b5b24d82670cb3e57556285971cc60785b3fa3a16810024dbcbbc61
+FileChecksum: MD5: 00792f66284952b52d037ec687a93b8e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-python/ursa/lib.py
+SPDXID: SPDXRef-item2533209
+FileChecksum: SHA1: 0874609e576bc952dac07f8dd0a1fcd2d3824e27
+FileChecksum: SHA256: d38afad79d5e38dd602f245076e868d3a7e5197c84b3659fc74bc93dccd0c92d
+FileChecksum: MD5: 48579164e7583e86824d8bca2cb0ea78
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-python/ursa/bls.py
+SPDXID: SPDXRef-item2533210
+FileChecksum: SHA1: 82db3e720eed7c59e77a81a2069642b7e8bbda91
+FileChecksum: SHA256: 10f9a9f871dd671a94af47e070e485a17041853e1eb1dd0c2b994bcd366fee12
+FileChecksum: MD5: b42af8468181fd70cc6cba7825591926
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-python/ursa/__init__.py
+SPDXID: SPDXRef-item2533211
+FileChecksum: SHA1: f8fc419ceec0d1b76b47191858755960ba0363c7
+FileChecksum: SHA256: d833960ab4264ad62f67071090221a1eb8c4ec9edf3bcc54bfb9541e230755dc
+FileChecksum: MD5: 684b140a3ae46951d927929748352aa0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-python/CODEOWNERS
+SPDXID: SPDXRef-item2533212
+FileChecksum: SHA1: 7a2f81168b29b7b9a92a31db82dcc3d3c97f9128
+FileChecksum: SHA256: 12b046dd0ffc56e40ba26bb267c3626052480cce482ddab692c8a2a4c8be4e2a
+FileChecksum: MD5: ca0ecec309d6b00bdd98dc967e932fdc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-python/.github/workflows/pip-audit.yml
+SPDXID: SPDXRef-item2533217
+FileChecksum: SHA1: 79ff85ec2eb9ab96d5728a9dcf5baa33cf8f6089
+FileChecksum: SHA256: e0bf9ffbbc92e67575cf8cad089bf50c062f116b698684c71cb6a449e210a154
+FileChecksum: MD5: aeee6f49f5eaf13ff5609bd49300a591
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-python/.github/workflows/pythonpublish.yml
+SPDXID: SPDXRef-item2533218
+FileChecksum: SHA1: 420d0b92d0871d98ac812163dd062548aa1eea79
+FileChecksum: SHA256: 1fb0accb0e10f9941e5241f91cd4b9ce7bd527e8df949b5f00ca05d3a9d55f32
+FileChecksum: MD5: f047d48b01fc2302078d0dc5047026cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-python/docker/Dockerfile
+SPDXID: SPDXRef-item2533220
+FileChecksum: SHA1: 317fa85e09669144db3b59318ed7a16cb49393dd
+FileChecksum: SHA256: d44cda2717bd6cc73391113e8ba562e7aad086ff77c12b4654764fb3ddf3d1dc
+FileChecksum: MD5: 3056155bacd8fac9ad76c195526fe2f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-python/.gitignore
+SPDXID: SPDXRef-item2533222
+FileChecksum: SHA1: af376d9e1a630a466c76e92d32ed59b9d060c472
+FileChecksum: SHA256: e4360df8ef9a539f076c291a7df08698315778fa391d20d57be8fef80986f0cb
+FileChecksum: MD5: f805508c52acaa516478c33c9e3c12ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-python/CHANGELOG
+SPDXID: SPDXRef-item2533223
+FileChecksum: SHA1: 481c58df6fb8d90c4d014179da520bb30a8342be
+FileChecksum: SHA256: b8795ce80ead75850bf055dffc97f45a8ed29636c2d405430963b55915a334ef
+FileChecksum: MD5: ce9ff9d5abd08306fed5955a19420c15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-python/README.md
+SPDXID: SPDXRef-item2533224
+FileChecksum: SHA1: c8507ba9a56c92a8f272599c99ed8f0f3011d3eb
+FileChecksum: SHA256: 688a048fb05fe2784cbfb7613b190f8d96c24a74fbeade56c13af4bfbdc909d6
+FileChecksum: MD5: cdc275408cadb6089824d85791f7a227
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-python/SECURITY.md
+SPDXID: SPDXRef-item2533225
+FileChecksum: SHA1: 3c1e9d34253f7c866cd08d9e1e976ca8ecd44197
+FileChecksum: SHA256: 51783e79fcd9085d312c036bc98e7f94d0652c873a7c10ff2d70757a54ccf711
+FileChecksum: MD5: fd5082d9c35456a3a6327fcc8a93e25d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-rfcs/CODEOWNERS
+SPDXID: SPDXRef-item2533227
+FileChecksum: SHA1: 7a2f81168b29b7b9a92a31db82dcc3d3c97f9128
+FileChecksum: SHA256: 12b046dd0ffc56e40ba26bb267c3626052480cce482ddab692c8a2a4c8be4e2a
+FileChecksum: MD5: ca0ecec309d6b00bdd98dc967e932fdc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-rfcs/text/0001-encryption-api/hartm_macro_safe.tex
+SPDXID: SPDXRef-item2533232
+FileChecksum: SHA1: c4a8c4aceb0b4de2c577a79635185952eb4d6a4d
+FileChecksum: SHA256: ab86ea5ab5740c45bb2d51562b9ab3634b5b6e6e35545a4389fc3e7f28e1c5cb
+FileChecksum: MD5: 17bb8c8a40860e9debc8d30cdb76b104
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-rfcs/text/0001-encryption-api/README.md
+SPDXID: SPDXRef-item2533233
+FileChecksum: SHA1: c3fcbfa7ed745ec8b3ee43f9fdca1eff5339ef05
+FileChecksum: SHA256: e50a1c309a316f98c9281526bc2e5edd873ae236e935adbad7f69ecfc087d9d0
+FileChecksum: MD5: 54a0159abebdf119ecd7e9d49507ccff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-rfcs/text/0001-encryption-api/flamacro.tex
+SPDXID: SPDXRef-item2533234
+FileChecksum: SHA1: c4a8c4aceb0b4de2c577a79635185952eb4d6a4d
+FileChecksum: SHA256: ab86ea5ab5740c45bb2d51562b9ab3634b5b6e6e35545a4389fc3e7f28e1c5cb
+FileChecksum: MD5: 17bb8c8a40860e9debc8d30cdb76b104
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-rfcs/text/0001-encryption-api/main.tex
+SPDXID: SPDXRef-item2533235
+FileChecksum: SHA1: d27b8018076e24a2cf2168a0cb155aa5b5c5242d
+FileChecksum: SHA256: a6da368316558b0f46881a81c1774074c1abbf26d71e5d7a4b6ca80f3c05bf62
+FileChecksum: MD5: c7820a0f822988616e2d97e029754a24
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-rfcs/text/pok-vpc/README.md
+SPDXID: SPDXRef-item2533237
+FileChecksum: SHA1: 0d1a359b83e94f7ac1ba41fb5c868eec43955038
+FileChecksum: SHA256: 8350543d931dda124cf260e04e33848bdbfbcb4ffcbb5cc271e560426c2c8892
+FileChecksum: MD5: c46af863dc30d6321f0b763113697c6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-rfcs/text/0002-zmix-api/README.md
+SPDXID: SPDXRef-item2533239
+FileChecksum: SHA1: 3b734841994d46581c80eb8d0debe90cda938f45
+FileChecksum: SHA256: 356e12a484b8e4103da1f22378214e49f8ea32c57d828fd94a46dbb85ec105f9
+FileChecksum: MD5: 24570f3abb74ef89a9ab329b80df05c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-rfcs/text/delegatable_cdd/README.md
+SPDXID: SPDXRef-item2533241
+FileChecksum: SHA1: 31964c5cec450610640975b5b70790007fe5120a
+FileChecksum: SHA256: 33aeb01530beef02addda6e49eed860ebe238bd5763bbda478905a846cd96756
+FileChecksum: MD5: 6ea2dc0563a0ba436464cf8341140a52
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-rfcs/text/0011-python-wrappers/README.md
+SPDXID: SPDXRef-item2533243
+FileChecksum: SHA1: 16b70b951549dac9d2929a5fec5e74d44f932b47
+FileChecksum: SHA256: 5431fe077123691cf2cfdbeb7258d06b04c55aafcc4a5fcf869bef2babcc1bef
+FileChecksum: MD5: 9595e1b64b55e76428f21d4796da0535
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-rfcs/text/ps-signatures/README.md
+SPDXID: SPDXRef-item2533245
+FileChecksum: SHA1: f69e886d9f82103e50147c8192f5cbbbaa534a05
+FileChecksum: SHA256: f4119c907c1b952181408c85de42b50a4152cb3eb6a9786ea9fbaa620c214bde
+FileChecksum: MD5: 0b7aacaf3ea7df054df7ae83f53f8423
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-rfcs/text/language-bindings/README.md
+SPDXID: SPDXRef-item2533247
+FileChecksum: SHA1: 75ec3821eb1b44ad3629f6382d96962442a07e17
+FileChecksum: SHA256: 25c3fd95a78f479ace642c83f3f01647ef8a3c049b926fdb7666bef52d5ff8c0
+FileChecksum: MD5: 0ed1013f31d0490db7a484ffe31e5ac2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ursa-2022-07-22.zip/ursa-rfcs/text/cs-verifiable-encryption/README.md
+SPDXID: SPDXRef-item2533249
+FileChecksum: SHA1: a2e4fece4a7104d4f36c429abf90543d02ea0d5c
+FileChecksum: SHA256: 33bfd22be7c2bbb1440c262bda7ad545c7619a42c4a725501669bd40eb7b7153
+FileChecksum: MD5: 328ba30aad421587aa2c025d2756e828
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Non-commercial
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Apache-possibility
+LicenseName: Apache-possibility
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-Non-commercial
+LicenseName: Non-commercial
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-Dual-license
+LicenseName: Dual-license
+ExtractedText: <text> Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
+When software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. </text>
+
