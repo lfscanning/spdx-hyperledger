@@ -1,0 +1,526 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_aries-2025-05-09.zip_1747296174.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2025-05-15T08:02:54Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: aries-2025-05-09.zip
+PackageFileName: aries-2025-05-09.zip
+SPDXID: SPDXRef-upload1824
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: d0441fa8f0874c2a97f620437b0505fc9a59e7c4
+PackageChecksum: SHA1: 7d5133fdea5a5089976158010d7c196428623176
+PackageChecksum: SHA256: 2bf17640be4a306db5ba35c7e9c163cd7cafbc6237f577dee45f7e41dd960e6d
+PackageChecksum: MD5: b2eeca31b5f168ba80070fb7148b6eb3
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload1824
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: aries-2025-05-09.zip/aries/Hyperledger Aries Technical Charter.md
+SPDXID: SPDXRef-item10580949
+FileChecksum: SHA1: 4ac43b6a9e1e1fd0f4e1d8e01cde5dba92247054
+FileChecksum: SHA256: d1e5ecde0bd2d7679bbb33eb89ba35f10a12282fd1414b9b9ed77ab1c3391167
+FileChecksum: MD5: 0c2ad829e3486fff72e7eef5aa604eef
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> copyright in all new contributions will be retained by the copyright holder as independent works of authorship and that no contributor or copyright holder will be required to assign copyrights to the Project. </text>
+
+##File
+
+FileName: aries-2025-05-09.zip/aries-bbs-go/bbs/proof_of_knowledge.go
+SPDXID: SPDXRef-item10580979
+FileChecksum: SHA1: 9a1aadd6b3ed64345c4b259dd1185a3d2cbf91ab
+FileChecksum: SHA256: 2ca14a5fdad55413df3cfcc71e81bb9b6bc675b0bea4e5b64589ba0422fce4d0
+FileChecksum: MD5: 5e9e0156d7dc61d92463484340bf739f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright SecureKey Technologies Inc. All Rights Reserved. </text>
+
+##File
+
+FileName: aries-2025-05-09.zip/aries-bbs-go/bbs/signature.go
+SPDXID: SPDXRef-item10580982
+FileChecksum: SHA1: 31ac16cd09ed4f5c244bf484ac139922e0399aef
+FileChecksum: SHA256: cdccfa9e09ebed7aa635d8665fe62c2cbf4e01b88400b1c3cdbe7816d5059130
+FileChecksum: MD5: dad6fd9de1705c21e062781a806ae496
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright SecureKey Technologies Inc. All Rights Reserved. </text>
+
+##File
+
+FileName: aries-2025-05-09.zip/aries-bbs-go/bbs/signature_message.go
+SPDXID: SPDXRef-item10580986
+FileChecksum: SHA1: e307cdecd149e514a6ed4a680624b011799b68b5
+FileChecksum: SHA256: e4f719924d9f609e1cd6ff439e29c3efc8387bb5f45e53f6e4f3e1d53cee8cd6
+FileChecksum: MD5: 100d82b88ae68a51c17cfb5020836dba
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright SecureKey Technologies Inc. All Rights Reserved. </text>
+
+##File
+
+FileName: aries-2025-05-09.zip/aries-bbs-go/bbs/signature_proof.go
+SPDXID: SPDXRef-item10580985
+FileChecksum: SHA1: f73ca63da028f0780349438708164fa0a44e52f9
+FileChecksum: SHA256: 228217f9ad62f08794df50db3b1682217e18c5d64f4c0e0158722355b96e776a
+FileChecksum: MD5: 9e7d065f74672e6089e02366711554db
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright SecureKey Technologies Inc. All Rights Reserved. </text>
+
+##File
+
+FileName: aries-2025-05-09.zip/aries-bbs-go/bbs/signature_test.go
+SPDXID: SPDXRef-item10580983
+FileChecksum: SHA1: 74b13cdc6fd3da35f35ba22ea6ae2aed3009543c
+FileChecksum: SHA256: 17b13dec6d5484ff047eda0048e3e3b983399945be8fa137f4166ddbf2e0c2a7
+FileChecksum: MD5: 4deecfe91a7e3bece555b0c2382a1362
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright SecureKey Technologies Inc. All Rights Reserved. </text>
+
+##File
+
+FileName: aries-2025-05-09.zip/aries-bbs-go/bbs/utils.go
+SPDXID: SPDXRef-item10580980
+FileChecksum: SHA1: 2c6032a88fe5f968463d5e0f5fb645401860a14c
+FileChecksum: SHA256: 4b303850f6779cbbbb29374fe7886ace83aee6f9ec167d4c163fe296904aa8b6
+FileChecksum: MD5: 8c268d0dfd1cd66cc4b44580b6222fcb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright SecureKey Technologies Inc. All Rights Reserved. </text>
+
+##File
+
+FileName: aries-2025-05-09.zip/aries-bbs-go/bbs/utils_test.go
+SPDXID: SPDXRef-item10580988
+FileChecksum: SHA1: eb9e87e216cf013170d2f688dbf5b454b7809eb3
+FileChecksum: SHA256: e42fb8ae5f82678ed65fce760dfe3e973c9fea5357f9b9f5f781ff488b09b377
+FileChecksum: MD5: 658be1361d4dd0e69ba98cde6bc88276
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright SecureKey Technologies Inc. All Rights Reserved. </text>
+
+##File
+
+FileName: aries-2025-05-09.zip/aries-bbs-go/integration/rust_test.go
+SPDXID: SPDXRef-item10580975
+FileChecksum: SHA1: 2f0c0955741b40d0cec618a91794294516eb2479
+FileChecksum: SHA256: 0885fcea95242c8c2f6b5cc5a65a244fe6e35f16abb22aec15f2db5847ae5cab
+FileChecksum: MD5: 0924b0c75c2e327ff4f0035a9b331ef8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. All Rights Reserved. </text>
+
+##File
+
+FileName: aries-2025-05-09.zip/aries/LICENSE
+SPDXID: SPDXRef-item10580962
+FileChecksum: SHA1: f242311c3bf83cd7b3b436562b73e74afa7b595a
+FileChecksum: SHA256: 7c0558c365d644b7588d481e22f26421cd3ba23492d2c0ce0fd382466aad2c13
+FileChecksum: MD5: d1fe67b259330a3f0ef2f10d39cebdf1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright 2017 Soramitsu LLC </text>
+
+##File
+
+FileName: aries-2025-05-09.zip/aries-bbs-go/.github/settings.yml
+SPDXID: SPDXRef-item10580994
+FileChecksum: SHA1: 7f185dd1b4d3dafcd38887fbf62daf1cc1dc4e91
+FileChecksum: SHA256: 435c32c4527372ff1d9ddb7e2d2ed8c5a3c4760aad28d33bad46ebe2d2c32283
+FileChecksum: MD5: 040004e94970249ef4a3a224f5c57072
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: aries-2025-05-09.zip/aries-bbs-go/bbs/bbs12381g2pub.go
+SPDXID: SPDXRef-item10580984
+FileChecksum: SHA1: aa1494df5d33d28eaf0e074fdc4ce99d7caee9b4
+FileChecksum: SHA256: 26f2aad1e22d7d61cc7aeac34aebd3da85dcb7bc0760f8cb9cdfe2ffebbd85d4
+FileChecksum: MD5: 61025f4cdd8a3df131c174d96c3c7934
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright SecureKey Technologies Inc. All Rights Reserved. </text>
+
+##File
+
+FileName: aries-2025-05-09.zip/aries-bbs-go/bbs/bbs_test.go
+SPDXID: SPDXRef-item10580987
+FileChecksum: SHA1: 5895a795a3c319958ab2455bb163821a616e354d
+FileChecksum: SHA256: 51900224d84ae644c395792680219c22c782f2c4d10006e685e921a2a3737f10
+FileChecksum: MD5: f9ff5d10e04a0eb2974d5327e4b129d0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright SecureKey Technologies Inc. All Rights Reserved. </text>
+
+##File
+
+FileName: aries-2025-05-09.zip/aries-bbs-go/bbs/fr.go
+SPDXID: SPDXRef-item10580981
+FileChecksum: SHA1: 3a337faa8912a76afb3e247bccd73130ded15473
+FileChecksum: SHA256: a28bd051308756713feea9b8e7ff614e7ec768491a6d262314d95314a965ffc5
+FileChecksum: MD5: 33efd072e8d1a94c98cb5a4c79961b69
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright SecureKey Technologies Inc. All Rights Reserved. </text>
+
+##File
+
+FileName: aries-2025-05-09.zip/aries-bbs-go/bbs/keys.go
+SPDXID: SPDXRef-item10580978
+FileChecksum: SHA1: 8d2edd40b6b9d43af556ad211259b7ab12b906b3
+FileChecksum: SHA256: b729ce2b23bb5669434854453cea32b07a0e358bf79d6224d606a1afe7c8e5f4
+FileChecksum: MD5: 8acee3bf5e163db4fad97fedfe69ebc7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright SecureKey Technologies Inc. All Rights Reserved. </text>
+
+##File
+
+FileName: aries-2025-05-09.zip/aries-bbs-go/bbs/keys_test.go
+SPDXID: SPDXRef-item10580977
+FileChecksum: SHA1: cc5875a5aa32a180862f8ca98a0ab4ceceb35b8d
+FileChecksum: SHA256: e6398802858ac00335e68348b7fc7a3dfa639f6c9075292894683a1575311dc7
+FileChecksum: MD5: 9583114b43b0c44e0fbe160268fd5793
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright SecureKey Technologies Inc. All Rights Reserved. </text>
+
+##File
+
+FileName: aries-2025-05-09.zip/aries-bbs-go/LICENSE
+SPDXID: SPDXRef-item10580990
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: aries-2025-05-09.zip/aries/collateral/Hyperledger_Aries_Logo_Black.png
+SPDXID: SPDXRef-item10580951
+FileChecksum: SHA1: ac9807aeb0efcc602b42d04ad209b3541541b883
+FileChecksum: SHA256: f485643b7d6844407df46c82fb7842b52782f264e99d8305bb2cac36a31279b4
+FileChecksum: MD5: 81afe3188c7be682f48476077941b063
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: aries-2025-05-09.zip/aries/collateral/Hyperledger_Aries_Logo_Color.eps
+SPDXID: SPDXRef-item10580952
+FileChecksum: SHA1: 3f42c5e847c8bbdb51ee28fe9c9733187f72af7c
+FileChecksum: SHA256: d734cf07a63a3293e2b335da632c183c6061cb10335cf95e42aebad5edab322b
+FileChecksum: MD5: 5e7752262cf27b2699660ecf28d50387
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright: Copyright(C)2000-2006 Adobe Systems, Inc. All Rights Reserved. systemdict/setpacking known currentpacking	true setpacking}if userdict/Adobe_AGM_Utils 75 dict dup begin put bdf bind def}bind def nd{null def}bdf xdf exch def}bdf ldf load def}bdf ddf put}bdf xddf 3 -1 roll put}
+Copyright: Copyright(C)1997-2007 Adobe Systems, Inc. All Rights Reserved. systemdict/setpacking known
+Copyright: Copyright 1997-2006 Adobe Systems Incorporated. All Rights Reserved.%%Version: 2.31 010 dict begin/Adobe_CoolType_Passthru currentdict def/Adobe_CoolType_Core_Defined userdict/Adobe_CoolType_Core known defAdobe_CoolType_Core_Defined {/Adobe_CoolType_Core userdict/Adobe_CoolType_Core
+Copyright: Copyright(C)2000-2006 Adobe Systems, Inc. All Rights Reserved. systemdict/setpacking known </text>
+
+##File
+
+FileName: aries-2025-05-09.zip/aries/collateral/Hyperledger_Aries_Logo_White.png
+SPDXID: SPDXRef-item10580953
+FileChecksum: SHA1: 7af7ff5db3353b1a91667e84491311382ce4ad6d
+FileChecksum: SHA256: 971f64f5da678cf7f9ef22eb658901e6405fc5329921b1f5870ee780a66e4f68
+FileChecksum: MD5: 49918028dd3f368375a1b48e681ec951
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: aries-2025-05-09.zip/aries/collateral/Hyperledger_Aries_Logo_White.eps
+SPDXID: SPDXRef-item10580954
+FileChecksum: SHA1: 529c891db56e609afc5e54a9d6ab9db94c27667a
+FileChecksum: SHA256: e2f4639f6f4f11c9380dc94a1566a768320be9889a552b10be248ee064f52d8d
+FileChecksum: MD5: b859bd280b290779690560ee4ddfd063
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright: Copyright(C)2000-2006 Adobe Systems, Inc. All Rights Reserved. systemdict/setpacking known currentpacking	true setpacking}if userdict/Adobe_AGM_Utils 75 dict dup begin put bdf bind def}bind def nd{null def}bdf xdf exch def}bdf ldf load def}bdf ddf put}bdf xddf 3 -1 roll put}
+Copyright: Copyright(C)1997-2007 Adobe Systems, Inc. All Rights Reserved. systemdict/setpacking known
+Copyright: Copyright 1997-2006 Adobe Systems Incorporated. All Rights Reserved.%%Version: 2.31 010 dict begin/Adobe_CoolType_Passthru currentdict def/Adobe_CoolType_Core_Defined userdict/Adobe_CoolType_Core known defAdobe_CoolType_Core_Defined {/Adobe_CoolType_Core userdict/Adobe_CoolType_Core
+Copyright: Copyright(C)2000-2006 Adobe Systems, Inc. All Rights Reserved. systemdict/setpacking known </text>
+
+##File
+
+FileName: aries-2025-05-09.zip/aries/collateral/Hyperledger_Aries_Logo_Black.eps
+SPDXID: SPDXRef-item10580955
+FileChecksum: SHA1: ae8e0fcdd000b3b5a9b20b3d68e88c936f824fe1
+FileChecksum: SHA256: 460f8b313691a7946c5e2bd1c2580957f6f970bb9ca1917714df602478e39712
+FileChecksum: MD5: 1b0d4e184680952aeac74500b8a2c85b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright: Copyright(C)2000-2006 Adobe Systems, Inc. All Rights Reserved. systemdict/setpacking known currentpacking	true setpacking}if userdict/Adobe_AGM_Utils 75 dict dup begin put bdf bind def}bind def nd{null def}bdf xdf exch def}bdf ldf load def}bdf ddf put}bdf xddf 3 -1 roll put}
+Copyright: Copyright(C)1997-2007 Adobe Systems, Inc. All Rights Reserved. systemdict/setpacking known
+Copyright: Copyright 1997-2006 Adobe Systems Incorporated. All Rights Reserved.%%Version: 2.31 010 dict begin/Adobe_CoolType_Passthru currentdict def/Adobe_CoolType_Core_Defined userdict/Adobe_CoolType_Core known defAdobe_CoolType_Core_Defined {/Adobe_CoolType_Core userdict/Adobe_CoolType_Core
+Copyright: Copyright(C)2000-2006 Adobe Systems, Inc. All Rights Reserved. systemdict/setpacking known </text>
+
+##File
+
+FileName: aries-2025-05-09.zip/aries/collateral/Hyperledger_Aries_Logo_Color.svg
+SPDXID: SPDXRef-item10580956
+FileChecksum: SHA1: c17149a0342be6446bfa4eb4f48c02ba107ec955
+FileChecksum: SHA256: cf8202f0d424c959f8b8ae102ffe5a114eef3adeff7c60dcaf1545cc5fc22548
+FileChecksum: MD5: 89aee3f7759125ae9824a93067b31592
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: aries-2025-05-09.zip/aries/collateral/Hyperledger_Aries_Logo_Color.png
+SPDXID: SPDXRef-item10580957
+FileChecksum: SHA1: 86739216d9e3e5b38a0341fc77e7dcbe8db8d21c
+FileChecksum: SHA256: 26725d7e5cfecd1839a75420badd41a9d1351afca0c529ffdf33427be6f63685
+FileChecksum: MD5: 1229ec675da9f003f27f864c75f89d22
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: aries-2025-05-09.zip/aries/collateral/Hyperledger_Aries_Logo_Color.jpg
+SPDXID: SPDXRef-item10580958
+FileChecksum: SHA1: 9879c91a1c0d3f8dd3d62ddf106bf5b557bc8572
+FileChecksum: SHA256: b9ceda963b77c6e3e58910ee837b6a1c940207e17146bd884632a344c0da16c4
+FileChecksum: MD5: 426dfb4a3846ed09aa33f94784a4bfe8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: aries-2025-05-09.zip/aries/collateral/Hyperledger_Aries_Logo_White.svg
+SPDXID: SPDXRef-item10580959
+FileChecksum: SHA1: 2a63e907d16f0a7349ee46841be9e9570ebc5d38
+FileChecksum: SHA256: 5e5854b0d421e17118f06933a5492ebabf61c56226c279faea7b918b4796391b
+FileChecksum: MD5: f8f922cb94943f2d6de75106ad6e9cd6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: aries-2025-05-09.zip/aries/collateral/Hyperledger_Aries_Logo_Black.jpg
+SPDXID: SPDXRef-item10580960
+FileChecksum: SHA1: 5c9567905baf50952b4741b0264a761d83157751
+FileChecksum: SHA256: fb285fb0ab4387cb172b5ea2662404769bbf95fd5cc9b513aed45356fbed8948
+FileChecksum: MD5: b6daec0dc4a5cecf9974e4c2efe8e7b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	D5ø­4JÙO4ë[w#*T·T¥-éO8âԥ(ÌëÎg2íà@ =]:(ö<yçV+P¢EOñãoLʼ´ʈV¤¹HÐnɊ¼¾D·I'á^ǌÿbIIhٶµRP?À?Nz]9\à#ú?%·÷݋Ä,°o*CÈrtGªÇ#ÕÖ?|"_Xû?ôL¤áj-+?Tf¯b?w«g¬´+?/ïS7Òû¾þCèÈî?'6½¯?@P:9ƲþRu÷ˌO÷zèÚøz`fmêFî7Q͎bÃÔZ«"nóBqEÜ?ҽä»MmkYËhæUÒ?WeOÚxTÏtq¥¦²D¨Î)Äj[Uí®gYWH </text>
+
+##File
+
+FileName: aries-2025-05-09.zip/aries/collateral/Hyperledger_Aries_Logo_Black.svg
+SPDXID: SPDXRef-item10580961
+FileChecksum: SHA1: f28d79d9b48176b9d1829b1be6f8d4bf8ab16323
+FileChecksum: SHA256: c6ed85f014b489211548e495c580041fe8b5a15daabac73ad105310df005066f
+FileChecksum: MD5: d90758e66dd62303c298562942ca2919
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: aries-2025-05-09.zip/aries/TSC.md
+SPDXID: SPDXRef-item10580963
+FileChecksum: SHA1: b9d55e995fdb08fc35a99e4d3882e77ebf57d217
+FileChecksum: SHA256: dbcba8f50a6475033c3d4e40c8ea87f6787ef00ebc5695d958c894a3efcf73b5
+FileChecksum: MD5: 53930074261af28ab33ff3b52eab5690
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: aries-2025-05-09.zip/aries/.gitignore
+SPDXID: SPDXRef-item10580964
+FileChecksum: SHA1: 1d56c3dfe71e039868c4a3f0ef72f7772dccdcb2
+FileChecksum: SHA256: 3340d2f6c5381371cd26fc7ccf27fff5e093545956a45a9196aad4b24b61bf74
+FileChecksum: MD5: 9fe3890eb3c20ccd92916170cd63947a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: aries-2025-05-09.zip/aries/README.md
+SPDXID: SPDXRef-item10580965
+FileChecksum: SHA1: 218a6b07c22c51d3635f9d01356bd62406866f9e
+FileChecksum: SHA256: 8b51f2d22defcb1c34b003b59e8afceb1857177be273adb1db91473f98349611
+FileChecksum: MD5: d5837ec10127f9f9416b9e69fdb53292
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: aries-2025-05-09.zip/aries/SECURITY.md
+SPDXID: SPDXRef-item10580966
+FileChecksum: SHA1: 4422f357e8c9e742bf50607a4deaf66eb8a87e49
+FileChecksum: SHA256: 6dc99ace20f789becc90fa982606260ab1a755c661ce4ed17d7d40533b64c9c2
+FileChecksum: MD5: 0c8c4d5d88bfeae3ce98447ca96e9bc4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: aries-2025-05-09.zip/aries/MAINTAINERS.md
+SPDXID: SPDXRef-item10580967
+FileChecksum: SHA1: eface86aa0d85f01a79736b1bdb1de1380ab12cf
+FileChecksum: SHA256: 5f0ae9cc32a41b59ddf2726dc2c61051068f106ab6ec29972efea11b27148acb
+FileChecksum: MD5: a2f0b1cadc751e8b22f786d4d554f103
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: aries-2025-05-09.zip/aries-bbs-go/integration/rust_signer/src/main.rs
+SPDXID: SPDXRef-item10580972
+FileChecksum: SHA1: bf260c82f32d287e7bb207a9af5b6e046a65167e
+FileChecksum: SHA256: 68e3bb107a4ae6657ab21c78f7ec5956fb804d522a6f292fad2ae341708c5e12
+FileChecksum: MD5: 9e1b9825d4ed9c37b5f2ab9d971b3ff4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: aries-2025-05-09.zip/aries-bbs-go/integration/rust_signer/Cargo.toml
+SPDXID: SPDXRef-item10580973
+FileChecksum: SHA1: ad03634ed19144cff68d3fb39bb09d8d4400e968
+FileChecksum: SHA256: 3a44fd12e4b217153a0b92efe80401b2a2cc0b810cb6297f8c2c417bb750341e
+FileChecksum: MD5: 554d4bfe8e912286e46af210e617458a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: aries-2025-05-09.zip/aries-bbs-go/integration/rust_signer/Cargo.lock
+SPDXID: SPDXRef-item10580974
+FileChecksum: SHA1: b1a46db3c4e3531d0c73f73778fd82f872af9354
+FileChecksum: SHA256: 778809d8641aceeaa24372da50f4933df66777be59592a2ce14d7c379965bf9b
+FileChecksum: MD5: 1aa50985f73eb57d3fc7746ed37c1905
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: aries-2025-05-09.zip/aries-bbs-go/Makefile
+SPDXID: SPDXRef-item10580989
+FileChecksum: SHA1: fcc06585c2bd7fe3356a0cb7af518139ecac82f4
+FileChecksum: SHA256: 20af64a300762453328be0883a8b6104619942f4e879009a327c4370985d0817
+FileChecksum: MD5: 41f9527cc3c54dde586b33101326869d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: aries-2025-05-09.zip/aries-bbs-go/.github/workflows/go.yml
+SPDXID: SPDXRef-item10580993
+FileChecksum: SHA1: 106bdc8ed1d42cb0e960db6801e573bc2b245f0a
+FileChecksum: SHA256: a7ee2b3bbe6438c57f97bde8f68fd86d915f2d626168980d1b2338312809bd95
+FileChecksum: MD5: 5d4691f03291945f296119387a991abc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: aries-2025-05-09.zip/aries-bbs-go/go.mod
+SPDXID: SPDXRef-item10580995
+FileChecksum: SHA1: f1c27648ec5db60279bd9c86646cd83fb4f20bf1
+FileChecksum: SHA256: 73b3f1a294df8c178f25686b6f107c269bbc8443686283582a58c2b6ac82ec8d
+FileChecksum: MD5: c058dbe78735ca5325dcc6cb5e25ef6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: aries-2025-05-09.zip/aries-bbs-go/README.md
+SPDXID: SPDXRef-item10580996
+FileChecksum: SHA1: 26c5ce4e7f4f24398768dd3c9920c4d1dbfaf0b1
+FileChecksum: SHA256: c068e45fda2d60a14a7d6f375f04739c5735c711a7a94d83978d61d0be965faf
+FileChecksum: MD5: 59121c2ce658ad84af99dfb7324fa82c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: aries-2025-05-09.zip/aries-bbs-go/go.sum
+SPDXID: SPDXRef-item10580997
+FileChecksum: SHA1: 88db5816a8a58b14d25a7c61cae21bdd5856fb06
+FileChecksum: SHA256: 89f6a776e48c3dde288f063fa2da703e4438ac00a0c9e64c5262533bc7cd1215
+FileChecksum: MD5: 146e7227812361903989637e07198440
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
