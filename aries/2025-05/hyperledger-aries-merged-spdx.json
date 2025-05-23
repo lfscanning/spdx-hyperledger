@@ -1,0 +1,3587 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-05-23T23:54:45Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250214231819-98dbdd2c0be6+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay",
+            "Tool: fossology-4.3.0",
+            "Person: gary (garylegal@sourceauditor.com)"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "extractedText": "BSD-3-Clause AND OTHER",
+            "licenseId": "LicenseRef-fixed-0x615cec632db4b8a7"
+        }
+    ],
+    "name": "/tmp/tmpvqz0rpo3/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "https://github.com/lfscanning/spdx-hyperledger/aries/2025-05/hyperledger-aries-full/9ed11c44-b164-44b0-ac69-1c91e3d3cf39",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Application-ff68536e666c95f8",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "aries-bbs-go/go.mod",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project hyperledger",
+            "versionInfo": "e950615f2e453b36a3b29cadd9a640427c3a63c5"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-3db3691fdfc2ae27",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project hyperledger",
+            "versionInfo": "e950615f2e453b36a3b29cadd9a640427c3a63c5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b4d019f4874c0c2a",
+            "description": "A cross-platform symbolication library written in Rust, using `gimli`",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/addr2line@0.21.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "(Apache-2.0 AND Apache-2.0) OR (MIT AND MIT)",
+            "licenseDeclared": "Apache-2.0 OR MIT",
+            "name": "addr2line",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: gimli-rs",
+            "versionInfo": "0.21.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e0bbf5a70bf9447b",
+            "description": "A simple clean-room implementation of the Adler-32 checksum",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/adler@1.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "0BSD AND 0BSD AND (MIT OR Apache-2.0) AND Apache-2.0 AND MIT",
+            "licenseDeclared": "0BSD OR MIT OR Apache-2.0",
+            "name": "adler",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: Jonas Schievink",
+            "versionInfo": "1.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d9300e3d237ad51c",
+            "description": "Macros to take array references of slices",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/arrayref@0.3.7",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-2-Clause",
+            "licenseDeclared": "BSD-2-Clause",
+            "name": "arrayref",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: David Roundy",
+            "versionInfo": "0.3.7"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a5c2bd60a7717e9f",
+            "description": "Automatic cfg for Rust compiler features",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/autocfg@1.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "(Apache-2.0 AND MIT AND MIT) OR Apache-2.0",
+            "licenseDeclared": "Apache-2.0 OR MIT",
+            "name": "autocfg",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: Josh Stone",
+            "versionInfo": "1.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-cf973ac557d740bd",
+            "description": "A library to acquire a stack trace (backtrace) at runtime in a Rust program.\n",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/backtrace@0.3.71",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/rust-lang/backtrace-rs",
+            "licenseConcluded": "(Apache-2.0 AND Apache-2.0) OR (MIT AND MIT AND MIT) OR Apache-2.0",
+            "licenseDeclared": "MIT OR Apache-2.0",
+            "name": "backtrace",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: The Rust Programming Language",
+            "versionInfo": "0.3.71"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2ef176305343b5af",
+            "description": "The BBS+ signature scheme",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/bbs@0.4.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "name": "bbs",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: Hyperledger Project Archive",
+            "versionInfo": "0.4.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e07f039859d427cf",
+            "description": "BLAKE2 hash functions",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/blake2@0.8.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "(Apache-2.0 AND MIT AND MIT) OR Apache-2.0",
+            "licenseDeclared": "MIT OR Apache-2.0",
+            "name": "blake2",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: Rust Crypto",
+            "versionInfo": "0.8.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-123fa5b12d3bf3a7",
+            "description": "Bytes related utility functions",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/byte-tools@0.3.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "(Apache-2.0 AND MIT AND MIT) OR Apache-2.0",
+            "licenseDeclared": "MIT OR Apache-2.0",
+            "name": "byte-tools",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: Rust Crypto",
+            "versionInfo": "0.3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-71467e15ac205578",
+            "description": "Library for reading/writing numbers in big-endian and little-endian.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/byteorder@1.5.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/BurntSushi/byteorder",
+            "licenseConcluded": "(MIT AND MIT) OR (Unlicense AND Unlicense)",
+            "licenseDeclared": "Unlicense OR MIT",
+            "name": "byteorder",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: Andrew Gallant",
+            "versionInfo": "1.5.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-af26a9597f272826",
+            "description": "A build-time dependency for Cargo build scripts to assist in invoking the native\nC compiler to compile native C code into a static archive to be linked into Rust\ncode.\n",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/cc@1.0.90",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/rust-lang/cc-rs",
+            "licenseConcluded": "(Apache-2.0 AND Apache-2.0) OR (MIT AND MIT AND MIT) OR Apache-2.0",
+            "licenseDeclared": "MIT OR Apache-2.0",
+            "name": "cc",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: The Rust Programming Language",
+            "versionInfo": "1.0.90"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-801c3c511ccf3a6e",
+            "description": "A macro to ergonomically define an item depending on a large number of #[cfg]\nparameters. Structured like an if-else chain, the first matching branch is the\nitem that gets emitted.\n",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/cfg-if@1.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/alexcrichton/cfg-if",
+            "licenseConcluded": "(Apache-2.0 AND Apache-2.0) OR (MIT AND MIT)",
+            "licenseDeclared": "Apache-2.0 OR MIT",
+            "name": "cfg-if",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: The Rust Programming Language",
+            "versionInfo": "1.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1eaa70ea4985d9b4",
+            "description": "Concurrent work-stealing deque",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/crossbeam-deque@0.8.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/crossbeam-rs/crossbeam/tree/master/crossbeam-deque",
+            "licenseConcluded": "((MIT AND (MIT OR Apache-2.0)) AND (Apache-2.0 OR MIT) AND Apache-2.0 AND MIT AND MIT) OR Apache-2.0",
+            "licenseDeclared": "MIT OR Apache-2.0",
+            "name": "crossbeam-deque",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: Crossbeam",
+            "versionInfo": "0.8.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-886db7236fc33b3",
+            "description": "Epoch-based garbage collection",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/crossbeam-epoch@0.9.18",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/crossbeam-rs/crossbeam/tree/master/crossbeam-epoch",
+            "licenseConcluded": "((MIT AND (MIT OR Apache-2.0)) AND (Apache-2.0 OR MIT) AND Apache-2.0 AND MIT AND MIT) OR Apache-2.0",
+            "licenseDeclared": "MIT OR Apache-2.0",
+            "name": "crossbeam-epoch",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: Crossbeam",
+            "versionInfo": "0.9.18"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8054d95b6493adc3",
+            "description": "Utilities for concurrent programming",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/crossbeam-utils@0.8.19",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/crossbeam-rs/crossbeam/tree/master/crossbeam-utils",
+            "licenseConcluded": "((MIT AND (MIT OR Apache-2.0)) AND (Apache-2.0 OR MIT) AND Apache-2.0 AND MIT AND MIT) OR Apache-2.0",
+            "licenseDeclared": "MIT OR Apache-2.0",
+            "name": "crossbeam-utils",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: Crossbeam",
+            "versionInfo": "0.8.19"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1077e21d0cb9a81f",
+            "description": "Trait for Message Authentication Code (MAC) algorithms",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/crypto-mac@0.7.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT",
+            "licenseDeclared": "MIT OR Apache-2.0",
+            "name": "crypto-mac",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: Rust Crypto",
+            "versionInfo": "0.7.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a4d2ac92ae71873d",
+            "description": "Traits for cryptographic hash functions and message authentication codes",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/digest@0.8.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "(Apache-2.0 AND MIT AND MIT) OR Apache-2.0",
+            "licenseDeclared": "MIT OR Apache-2.0",
+            "name": "digest",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: Rust Crypto",
+            "versionInfo": "0.8.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2aa97e4087d804b6",
+            "description": "The enum `Either` with variants `Left` and `Right` is a general purpose sum type with two cases.\n",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/either@1.10.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "(Apache-2.0 AND Apache-2.0 AND MIT AND MIT AND MIT) OR Apache-2.0",
+            "licenseDeclared": "MIT OR Apache-2.0",
+            "name": "either",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: rayon-rs",
+            "versionInfo": "1.10.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-328d825efa2b6b51",
+            "description": "Experimental error handling abstraction.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/failure@0.1.8",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://rust-lang-nursery.github.io/failure/",
+            "licenseConcluded": "Apache-2.0 AND MIT",
+            "licenseDeclared": "MIT OR Apache-2.0",
+            "name": "failure",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: rust-lang-deprecated",
+            "versionInfo": "0.1.8"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-197cd56b7344d6cb",
+            "description": "derives for the failure crate",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/failure_derive@0.1.8",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://rust-lang-nursery.github.io/failure/",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT OR Apache-2.0",
+            "name": "failure_derive",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: rust-lang-deprecated",
+            "versionInfo": "0.1.8"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-fc0deced5486f609",
+            "description": "Library for building and interfacing with finite fields",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/ff-zeroize@0.6.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/algorand/ff-zeroize",
+            "name": "ff-zeroize",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: Algorand",
+            "versionInfo": "0.6.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-667cf13c998a42cd",
+            "description": "Procedural macro library used to build custom prime field implementations",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/ff_derive-zeroize@0.6.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/ebfull/ff",
+            "name": "ff_derive-zeroize",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: Zero-knowledge Cryptography in Rust",
+            "versionInfo": "0.6.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-23dbbd6ae7914f00",
+            "description": "Rust crate for the Fuchsia cryptographically secure pseudorandom number generator",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/fuchsia-cprng@0.1.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND LicenseRef-scancode-google-patent-license-fuchsia",
+            "licenseDeclared": "LicenseRef-fixed-0x615cec632db4b8a7",
+            "name": "fuchsia-cprng",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "versionInfo": "0.1.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-36c91e17f1313f84",
+            "description": "Generic types implementing functionality of arrays",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/generic-array@0.12.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseDeclared": "MIT",
+            "name": "generic-array",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: Bart\u0142omiej Kami\u0144ski",
+            "versionInfo": "0.12.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-dd25c9d642a81ff8",
+            "description": "A small cross-platform library for retrieving random data from system source",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/getrandom@0.1.16",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "(Apache-2.0 AND Apache-2.0 AND MIT AND MIT AND MIT) OR Apache-2.0",
+            "licenseDeclared": "MIT OR Apache-2.0",
+            "name": "getrandom",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: rust-random",
+            "versionInfo": "0.1.16"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1bc1d2c129b5b7a1",
+            "description": "A library for reading and writing the DWARF debugging format.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/gimli@0.28.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "((Apache-2.0 OR MIT) AND (MIT OR Apache-2.0) AND (MIT OR Apache-2.0) AND Apache-2.0 AND Apache-2.0 AND Apache-2.0) OR (MIT AND MIT)",
+            "licenseDeclared": "MIT OR Apache-2.0",
+            "name": "gimli",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: gimli-rs",
+            "versionInfo": "0.28.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5ca58f534c56b624",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:golang/github.com/ibm/mathlib@v0.0.3-0.20231011094432-44ee0eb539da",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "name": "github.com/IBM/mathlib",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/go.mod",
+            "versionInfo": "v0.0.3-0.20231011094432-44ee0eb539da"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a3ab329d62ae514f",
+            "description": "Package bitset implements bitsets, a mapping\nbetween non-negative integers and boolean values. It should be more\nefficient than map[uint] bool.\n\nIt provides methods for setting, clearing, flipping, and testing\nindividual integers.\n\nBut it also provides set intersection, union, difference,\ncomplement, and symmetric operations, as well as tests to\ncheck whether any, all, or no bits are set, and querying a\nbitset's current length and number of positive bits.\n\nBitSets are expanded to the size of the largest set bit; the\nmemory allocation is approximately Max bits, where Max is\nthe largest set bit. BitSets are never shrunk. On creation,\na hint can be given for the number of bits that will be used.\n\nMany of the methods, including Set,Clear, and Flip, return\na BitSet pointer, which allows for chaining.\n\nExample use:\n\nAs an alternative to BitSets, one should check out the 'big' package,\nwhich provides a (less set-theoretical) view of bitsets.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:golang/github.com/bits-and-blooms/bitset@v1.7.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/bits-and-blooms/bitset",
+            "name": "github.com/bits-and-blooms/bitset",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/go.mod",
+            "supplier": "Organization: BitSet and Bloom filters libraries",
+            "versionInfo": "v1.7.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7d5541015756a059",
+            "description": "Package btcutil provides bitcoin-specific convenience functions and types.\n\nA Block defines a bitcoin block that provides easier and more efficient\nmanipulation of raw wire protocol blocks.  It also memoizes hashes for the\nblock and its transactions on their first access so subsequent accesses don't\nhave to repeat the relatively expensive hashing operations.\n\nA Tx defines a bitcoin transaction that provides more efficient manipulation of\nraw wire protocol transactions.  It memoizes the hash for the transaction on its\nfirst access so subsequent accesses don't have to repeat the relatively\nexpensive hashing operations.\n\nThe Address interface provides an abstraction for a Bitcoin address.  While the\nmost common type is a pay-to-pubkey-hash, Bitcoin already supports others and\nmay well support more in the future.  This package currently provides\nimplementations for the pay-to-pubkey, pay-to-pubkey-hash, and\npay-to-script-hash address types.\n\nTo decode/encode an address:",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:golang/github.com/btcsuite/btcutil@v1.0.3-0.20201208143702-a53e38424cce",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/btcsuite/btcutil",
+            "name": "github.com/btcsuite/btcutil",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/go.mod",
+            "supplier": "Organization: Bitcoin in Go",
+            "versionInfo": "v1.0.3-0.20201208143702-a53e38424cce"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e90d11599216190",
+            "description": "Package bavard contains helper functions to generate consistent code from text/template templates.\nit is used by github.com/consensys/gnark && github.com/consensys/gnark-crypto",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:golang/github.com/consensys/bavard@v0.1.13",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/consensys/bavard",
+            "name": "github.com/consensys/bavard",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/go.mod",
+            "versionInfo": "v0.1.13"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-90b7c8f4bd63b48",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:golang/github.com/consensys/gnark-crypto@v0.12.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/consensys/gnark-crypto",
+            "name": "github.com/consensys/gnark-crypto",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/go.mod",
+            "versionInfo": "v0.12.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-881878d734c14947",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:golang/github.com/davecgh/go-spew@v1.1.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/davecgh/go-spew",
+            "name": "github.com/davecgh/go-spew",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/go.mod",
+            "supplier": "Organization: Dave Collins",
+            "versionInfo": "v1.1.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5696ed3ca2fa7db5",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:golang/github.com/hyperledger/aries-bbs-go",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/hyperledger/aries-bbs-go",
+            "name": "github.com/hyperledger/aries-bbs-go",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/go.mod"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f18f64ce4c524524",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:golang/github.com/hyperledger/fabric-amcl@v0.0.0-20230602173724-9e02669dceb2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/hyperledger/fabric-amcl",
+            "name": "github.com/hyperledger/fabric-amcl",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/go.mod",
+            "versionInfo": "v0.0.0-20230602173724-9e02669dceb2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-de364c939bfbf38e",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:golang/github.com/kilic/bls12-381@v0.1.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/kilic/bls12-381",
+            "name": "github.com/kilic/bls12-381",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/go.mod",
+            "versionInfo": "v0.1.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4eb952bb729e2622",
+            "description": "Package addchain provides addition chain types and operations on them.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:golang/github.com/mmcloughlin/addchain@v0.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/mmcloughlin/addchain",
+            "name": "github.com/mmcloughlin/addchain",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/go.mod",
+            "supplier": "Organization: Michael McLoughlin",
+            "versionInfo": "v0.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2846ac021939bc95",
+            "description": "Package errors provides simple error handling primitives.\n\nThe traditional error handling idiom in Go is roughly akin to\n\nwhich when applied recursively up the call stack results in error reports\nwithout context or debugging information. The errors package allows\nprogrammers to add context to the failure path in their code in a way\nthat does not destroy the original value of the error.\n\nThe errors.Wrap function returns a new error that adds context to the\noriginal error by recording a stack trace at the point Wrap is called,\ntogether with the supplied message. For example\n\nIf additional control is required, the errors.WithStack and\nerrors.WithMessage functions destructure errors.Wrap into its component\noperations: annotating an error with a stack trace and with a message,\nrespectively.\n\nUsing errors.Wrap constructs a stack of errors, adding context to the\npreceding error. Depending on the nature of the error it may be necessary\nto reverse the operation of errors.Wrap to retrieve the original error\nfor inspection. Any error value which implements this interface\n\ncan be inspected by errors.Cause. errors.Cause will recursively retrieve\nthe topmost error that does not implement causer, which is assumed to be\nthe original cause. For example:\n\nAlthough the causer interface is not exported by this package, it is\nconsidered a part of its stable public interface.\n\nAll error values returned from this package implement fmt.Formatter and can\nbe formatted by the fmt package. The following verbs are supported:\n\nNew, Errorf, Wrap, and Wrapf record a stack trace at the point they are\ninvoked. This information can be retrieved with the following interface:\n\nThe returned errors.StackTrace type is defined as\n\nThe Frame type represents a call site in the stack trace. Frame supports\nthe fmt.Formatter interface that can be used for printing information about\nthe stack trace of this error. For example:\n\nAlthough the stackTracer interface is not exported by this package, it is\nconsidered a part of its stable public interface.\n\nSee the documentation for Frame.Format for more details.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:golang/github.com/pkg/errors@v0.9.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pkg/errors",
+            "licenseConcluded": "BSD-2-Clause",
+            "licenseDeclared": "BSD-2-Clause",
+            "name": "github.com/pkg/errors",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/go.mod",
+            "supplier": "Organization: pkg",
+            "versionInfo": "v0.9.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4a0201a7e8dd2521",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:golang/github.com/pmezard/go-difflib@v1.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pmezard/go-difflib",
+            "name": "github.com/pmezard/go-difflib",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/go.mod",
+            "supplier": "Organization: Patrick M\u00e9zard",
+            "versionInfo": "v1.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-234cd67e8dac2d35",
+            "description": "Package testify is a set of packages that provide many tools for testifying that your code will behave as you intend.\n\ntestify contains the following packages:\n\nThe assert package provides a comprehensive set of assertion functions that tie in to the Go testing system.\n\nThe mock package provides a system by which it is possible to mock your objects and verify calls are happening as expected.\n\nThe suite package provides a basic structure for using structs as testing suites, and methods on those structs as tests.  It includes setup/teardown functionality in the way of interfaces.\n\nA golangci-lint compatible linter for testify is available called testifylint.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:golang/github.com/stretchr/testify@v1.9.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/stretchr/testify",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "github.com/stretchr/testify",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/go.mod",
+            "supplier": "Organization: Stretchr, Inc.",
+            "versionInfo": "v1.9.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-70acab43059ea699",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:golang/golang.org/x/crypto@v0.21.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://cs.opensource.google/go/x/crypto",
+            "name": "golang.org/x/crypto",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/go.mod",
+            "versionInfo": "v0.21.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2755631912d273d1",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:golang/golang.org/x/sys@v0.18.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://cs.opensource.google/go/x/sys",
+            "name": "golang.org/x/sys",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/go.mod",
+            "versionInfo": "v0.18.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7d8b802872449cf3",
+            "description": "Package yaml implements YAML support for the Go language.\n\nSource code and other details for the project are available at GitHub:",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:golang/gopkg.in/yaml.v3@v3.0.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/go-yaml/yaml",
+            "licenseConcluded": "Apache-2.0 AND MIT",
+            "licenseDeclared": "Apache-2.0 AND MIT",
+            "name": "gopkg.in/yaml.v3",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/go.mod",
+            "supplier": "Organization: go-yaml",
+            "versionInfo": "v3.0.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-77b1f7e08c4613a7",
+            "description": "Encoding and decoding data into/from hexadecimal representation.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/hex@0.4.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "(Apache-2.0 AND Apache-2.0) OR (MIT AND MIT AND MIT) OR Apache-2.0",
+            "licenseDeclared": "MIT OR Apache-2.0",
+            "name": "hex",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: KokaKiwi",
+            "versionInfo": "0.4.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-74458c43bb10e2f1",
+            "description": "HMAC-based Extract-and-Expand Key Derivation Function (HKDF)",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/hkdf@0.8.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/RustCrypto/KDFs/",
+            "licenseConcluded": "Apache-2.0 AND MIT",
+            "licenseDeclared": "Apache-2.0 AND MIT",
+            "name": "hkdf",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: Rust Crypto",
+            "versionInfo": "0.8.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-dc5fc04cd3161316",
+            "description": "Generic implementation of Hash-based Message Authentication Code (HMAC)",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/hmac@0.7.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT",
+            "licenseDeclared": "MIT OR Apache-2.0",
+            "name": "hmac",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: Rust Crypto",
+            "versionInfo": "0.7.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c98a22fd76097817",
+            "description": "Raw FFI bindings to platform libraries like libc.\n",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/libc@0.2.153",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/rust-lang/libc",
+            "licenseConcluded": "((Apache-2.0 AND MIT) AND (Apache-2.0 WITH LLVM-exception AND LicenseRef-scancode-generic-cla) AND LicenseRef-scancode-unknown-license-reference AND Apache-2.0 AND MIT AND MIT) OR Apache-2.0",
+            "licenseDeclared": "MIT OR Apache-2.0",
+            "name": "libc",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: The Rust Programming Language",
+            "versionInfo": "0.2.153"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-cce266242dc0da40",
+            "description": "Provides extremely fast (uses SIMD on x86_64, aarch64 and wasm32) routines for\n1, 2 or 3 byte search and single substring search.\n",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/memchr@2.7.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/BurntSushi/memchr",
+            "licenseConcluded": "((MIT OR Unlicense) AND Unlicense AND MIT AND MIT) OR (Unlicense AND Unlicense)",
+            "licenseDeclared": "Unlicense OR MIT",
+            "name": "memchr",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: Andrew Gallant",
+            "versionInfo": "2.7.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-548c7f4fea1e6dcf",
+            "description": "DEFLATE compression and decompression library rewritten in Rust based on miniz",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/miniz_oxide@0.7.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/Frommi/miniz_oxide/tree/master/miniz_oxide",
+            "licenseConcluded": "Apache-2.0 AND MIT AND MIT AND Apache-2.0 AND Zlib",
+            "licenseDeclared": "MIT OR Zlib OR Apache-2.0",
+            "name": "miniz_oxide",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "versionInfo": "0.7.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5a73c84f0b8d8fe6",
+            "description": "Big integer implementation for Rust",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/num-bigint@0.2.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/rust-num/num-bigint",
+            "licenseConcluded": "(Apache-2.0 AND Apache-2.0 AND LGPL-3.0-or-later AND (MIT OR Apache-2.0) AND Apache-2.0) OR (MIT AND BSD-3-Clause AND MIT AND MIT) OR Apache-2.0",
+            "licenseDeclared": "MIT OR Apache-2.0",
+            "name": "num-bigint",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: rust-num",
+            "versionInfo": "0.2.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-bbb8962f291526e4",
+            "description": "Integer traits and functions",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/num-integer@0.1.46",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/rust-num/num-integer",
+            "licenseConcluded": "(Apache-2.0 AND Apache-2.0) OR (MIT AND MIT AND MIT) OR Apache-2.0",
+            "licenseDeclared": "MIT OR Apache-2.0",
+            "name": "num-integer",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: rust-num",
+            "versionInfo": "0.1.46"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-24f7d85e8210bd17",
+            "description": "Numeric traits for generic mathematics",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/num-traits@0.2.18",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/rust-num/num-traits",
+            "licenseConcluded": "(Apache-2.0 AND Apache-2.0) OR (MIT AND MIT AND MIT) OR Apache-2.0",
+            "licenseDeclared": "MIT OR Apache-2.0",
+            "name": "num-traits",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: rust-num",
+            "versionInfo": "0.2.18"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6d5e7c9901df8ccf",
+            "description": "A unified interface for reading and writing object file formats.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/object@0.32.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "(Apache-2.0 AND Apache-2.0) OR (MIT AND MIT)",
+            "licenseDeclared": "Apache-2.0 OR MIT",
+            "name": "object",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: gimli-rs",
+            "versionInfo": "0.32.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e802e1e8781b671f",
+            "description": "Macro for opaque Debug trait implementation",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/opaque-debug@0.2.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "(Apache-2.0 AND MIT AND MIT) OR Apache-2.0",
+            "licenseDeclared": "MIT OR Apache-2.0",
+            "name": "opaque-debug",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: Rust Crypto",
+            "versionInfo": "0.2.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a638ac19e6dea3b9",
+            "description": "Pairing-friendly elliptic curve library",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/pairing-plus@0.19.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/algorand/pairing-plus",
+            "name": "pairing-plus",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: Algorand",
+            "versionInfo": "0.19.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-fa69ab2cc3d54115",
+            "description": "Cross-platform cryptography-oriented low-level SIMD library.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/ppv-lite86@0.2.17",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "(Apache-2.0 AND Apache-2.0) OR (MIT AND MIT)",
+            "licenseDeclared": "MIT OR Apache-2.0",
+            "name": "ppv-lite86",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: cryptocorrosion",
+            "versionInfo": "0.2.17"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6db4beb961112328",
+            "description": "A substitute implementation of the compiler's `proc_macro` API to decouple token-based libraries from the procedural macro use case.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/proc-macro2@1.0.79",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "(((Apache-2.0 WITH LLVM-exception AND LicenseRef-scancode-generic-cla) AND Apache-2.0 AND MIT) AND LicenseRef-scancode-unknown-license-reference AND Apache-2.0 AND MIT AND MIT) OR Apache-2.0",
+            "licenseDeclared": "MIT OR Apache-2.0",
+            "name": "proc-macro2",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: David Tolnay",
+            "versionInfo": "1.0.79"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e3ef4e94de6e8559",
+            "description": "Quasi-quoting macro quote!(...)",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/quote@1.0.35",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "(((Apache-2.0 WITH LLVM-exception AND LicenseRef-scancode-generic-cla) AND Apache-2.0 AND MIT) AND LicenseRef-scancode-unknown-license-reference AND Apache-2.0 AND MIT AND MIT) OR Apache-2.0",
+            "licenseDeclared": "MIT OR Apache-2.0",
+            "name": "quote",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: David Tolnay",
+            "versionInfo": "1.0.35"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-aace0d7c308454e4",
+            "description": "Random number generators and other randomness functionality.\n",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/rand@0.4.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://rust-random.github.io/book",
+            "licenseConcluded": "((MIT OR Apache-2.0) AND MIT AND Apache-2.0 AND MIT AND MIT) OR ((Apache-2.0 AND MIT) AND MIT) OR Apache-2.0",
+            "licenseDeclared": "MIT OR Apache-2.0",
+            "name": "rand",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: rust-random",
+            "versionInfo": "0.4.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f001a9b058a3b7c1",
+            "description": "Random number generators and other randomness functionality.\n",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/rand@0.7.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://rust-random.github.io/book",
+            "licenseConcluded": "(Apache-2.0 AND Apache-2.0 AND (Apache-2.0 OR MIT) AND MIT AND MIT) OR Apache-2.0",
+            "licenseDeclared": "MIT OR Apache-2.0",
+            "name": "rand",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: rust-random",
+            "versionInfo": "0.7.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-488f1c359e00b4e0",
+            "description": "ChaCha random number generator\n",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/rand_chacha@0.2.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://rust-random.github.io/book",
+            "licenseConcluded": "(Apache-2.0 AND Apache-2.0 AND (Apache-2.0 OR MIT) AND MIT AND MIT) OR Apache-2.0",
+            "licenseDeclared": "MIT OR Apache-2.0",
+            "name": "rand_chacha",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: rust-random",
+            "versionInfo": "0.2.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-21b0ee1aa652963b",
+            "description": "Core random number generator traits and tools for implementation.\n",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/rand_core@0.4.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://rust-random.github.io/book",
+            "licenseConcluded": "(Apache-2.0 AND Apache-2.0 AND (Apache-2.0 OR MIT) AND Apache-2.0) OR (MIT AND MIT AND MIT) OR Apache-2.0",
+            "licenseDeclared": "MIT OR Apache-2.0",
+            "name": "rand_core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: rust-random",
+            "versionInfo": "0.4.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6d4c69e2e3446e94",
+            "description": "Core random number generator traits and tools for implementation.\n",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/rand_core@0.3.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://rust-random.github.io/book",
+            "licenseConcluded": "(Apache-2.0 AND Apache-2.0 AND (Apache-2.0 OR MIT) AND MIT AND MIT) OR ((Apache-2.0 AND MIT) AND MIT) OR Apache-2.0",
+            "licenseDeclared": "MIT OR Apache-2.0",
+            "name": "rand_core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: rust-random",
+            "versionInfo": "0.3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ae04eebc6cb8450c",
+            "description": "Core random number generator traits and tools for implementation.\n",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/rand_core@0.5.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://rust-random.github.io/book",
+            "licenseConcluded": "(Apache-2.0 AND Apache-2.0 AND (Apache-2.0 OR MIT) AND MIT AND MIT) OR Apache-2.0",
+            "licenseDeclared": "MIT OR Apache-2.0",
+            "name": "rand_core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: rust-random",
+            "versionInfo": "0.5.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9a118b7c28155638",
+            "description": "HC128 random number generator\n",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/rand_hc@0.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://rust-random.github.io/book",
+            "licenseConcluded": "(Apache-2.0 AND Apache-2.0 AND (Apache-2.0 OR MIT) AND Apache-2.0) OR (MIT AND MIT AND MIT) OR Apache-2.0",
+            "licenseDeclared": "MIT OR Apache-2.0",
+            "name": "rand_hc",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: rust-random",
+            "versionInfo": "0.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2c609011d69112e5",
+            "description": "Xorshift random number generator\n",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/rand_xorshift@0.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://rust-random.github.io/book",
+            "licenseConcluded": "(Apache-2.0 AND Apache-2.0) OR (MIT AND MIT)",
+            "licenseDeclared": "MIT OR Apache-2.0",
+            "name": "rand_xorshift",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: rust-random",
+            "versionInfo": "0.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2d5e98c5ea3247d7",
+            "description": "Simple work-stealing parallelism for Rust",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/rayon@1.10.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "((MIT OR Apache-2.0) AND MIT AND Apache-2.0 AND MIT AND MIT) OR Apache-2.0",
+            "licenseDeclared": "MIT OR Apache-2.0",
+            "name": "rayon",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: rayon-rs",
+            "versionInfo": "1.10.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d7eb0a66717b52bc",
+            "description": "Core APIs for Rayon",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/rayon-core@1.12.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "(Apache-2.0 AND MIT AND MIT) OR Apache-2.0",
+            "licenseDeclared": "MIT OR Apache-2.0",
+            "name": "rayon-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: rayon-rs",
+            "versionInfo": "1.12.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f1680e5aaaf5ce2a",
+            "description": "An implementation of random number generator based on rdrand and rdseed instructions",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/rdrand@0.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "ISC",
+            "licenseDeclared": "ISC",
+            "name": "rdrand",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: Simonas Kazlauskas",
+            "versionInfo": "0.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1cc4c56315a6553f",
+            "description": "Package tmplfunc provides an extension of Go templates\nin which templates can be invoked as if they were functions.\n\nFor example, after parsing\n\nthis package installs a function named link allowing the template\nto be invoked as\n\ninstead of the longer-form (assuming an appropriate function named dict)\n\nThe function installed for a given template depends on the name of the\ndefined template, which can include not just a function name but also\na list of parameter names. The function name and parameter names must\nconsist only of letters, digits, and underscores, with a leading non-digit.\n\nIf there is no parameter list, then the function is expected to take\nat most one argument, made available in the template body as \u201c.\u201d (dot).\nIf such a function is called with no arguments, dot will be a nil interface value.\n\nIf there is a parameter list, then the function requires an argument for\neach parameter, except for optional and variadic parameters, explained below.\nInside the template, the top-level value \u201c.\u201d is a map[string]interface{} in which\neach parameter name is mapped to the corresponding argument value.\nA parameter x can therefore be accessed as {{(index . \"x\")}} or, more concisely, {{.x}}.\n\nThe first special case in parameter handling is that\na parameter can be made optional by adding a \u201c?\u201d suffix after its name.\nIf the argument list ends before that parameter, the corresponding map entry\nwill be present and set to a nil value.\nThe second special case is that a parameter can be made variadic\nby adding a \u201c...\u201d suffix after its name.\nThe corresponding map entry contains a []interface{} holding the\nzero or more arguments corresponding to that parameter.\n\nIn the parameter list, required parameters must precede optional parameters,\nwhich must in turn precede any variadic parameter.\n\nFor example, we can revise the link template given earlier to make the\nlink text optional, substituting the URL when the text is omitted:\n\nThis package is meant to be used with templates from either the\ntext/template or html/template packages. Given a *template.Template\nvariable t, substitute:\n\nParse, ParseFiles, and ParseGlob parse the new templates but also add\nfunctions that invoke them, named according to the function signatures.\nTemplates can only invoke functions for templates that have already been\ndefined or that are being defined in the same Parse, ParseFiles, or ParseGlob call.\nFor example, templates in two files x.tmpl and y.tmpl can call each other\nonly if ParseFiles or ParseGlob is used to parse both files in a single call.\nOtherwise, the parsing of the first file will report that calls to templates in\nthe second file are calling unknown functions.\n\nWhen used with the html/template package, all function-invoked template\ncalls are treated as invoking templates producing HTML. In order to use a\ntemplate that produces some other kind of text fragment, the template must\nbe invoked directly using the {{template \"name\"}} form, not as a function call.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:golang/rsc.io/tmplfunc@v0.0.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/rsc/tmplfunc",
+            "name": "rsc.io/tmplfunc",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/go.mod",
+            "supplier": "Organization: Russ Cox",
+            "versionInfo": "v0.0.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-dd7192ea2db1894",
+            "description": "Rust compiler symbol demangling.\n",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/rustc-demangle@0.1.23",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/rust-lang/rustc-demangle",
+            "licenseConcluded": "(Apache-2.0 AND Apache-2.0) OR (MIT AND MIT)",
+            "licenseDeclared": "MIT OR Apache-2.0",
+            "name": "rustc-demangle",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: The Rust Programming Language",
+            "versionInfo": "0.1.23"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-74ed11ee157001e1",
+            "description": "A generic serialization/deserialization framework",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/serde@1.0.197",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://serde.rs",
+            "licenseConcluded": "(((Apache-2.0 WITH LLVM-exception AND LicenseRef-scancode-generic-cla) AND Apache-2.0 AND MIT) AND LicenseRef-scancode-unknown-license-reference AND Apache-2.0 AND MIT AND MIT) OR Apache-2.0",
+            "licenseDeclared": "MIT OR Apache-2.0",
+            "name": "serde",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: serde-rs",
+            "versionInfo": "1.0.197"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1b84ce3928d2b85a",
+            "description": "Macros 1.1 implementation of #[derive(Serialize, Deserialize)]",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/serde_derive@1.0.197",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://serde.rs",
+            "licenseConcluded": "(((Apache-2.0 WITH LLVM-exception AND LicenseRef-scancode-generic-cla) AND Apache-2.0 AND MIT) AND LicenseRef-scancode-unknown-license-reference AND Apache-2.0 AND MIT AND MIT) OR Apache-2.0",
+            "licenseDeclared": "MIT OR Apache-2.0",
+            "name": "serde_derive",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: serde-rs",
+            "versionInfo": "1.0.197"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-66e8a157d9c46237",
+            "description": "Pure-Rust traits and utilities for constant-time cryptographic implementations.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/subtle@1.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://dalek.rs/",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "subtle",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: dalek cryptography",
+            "versionInfo": "1.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4fb3d17253f7855e",
+            "description": "Parser for Rust source code",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/syn@2.0.55",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "((Apache-2.0 WITH LLVM-exception AND LicenseRef-scancode-generic-cla) AND Apache-2.0 AND MIT) AND LicenseRef-scancode-unknown-license-reference AND (Apache-2.0 OR MIT) AND (MIT OR Apache-2.0) AND Apache-2.0 AND MIT",
+            "licenseDeclared": "MIT OR Apache-2.0",
+            "name": "syn",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: David Tolnay",
+            "versionInfo": "2.0.55"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c51b3fbd00ef26cd",
+            "description": "Parser for Rust source code",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/syn@1.0.109",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "((Apache-2.0 WITH LLVM-exception AND LicenseRef-scancode-generic-cla) AND Apache-2.0 AND MIT) AND LicenseRef-scancode-unknown-license-reference AND (Apache-2.0 OR MIT) AND (MIT OR Apache-2.0) AND Apache-2.0 AND MIT",
+            "licenseDeclared": "MIT OR Apache-2.0",
+            "name": "syn",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: David Tolnay",
+            "versionInfo": "1.0.109"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b8b16ff9a842f463",
+            "description": "Helper methods and macros for custom derives",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/synstructure@0.12.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "synstructure",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: Nika Layzell",
+            "versionInfo": "0.12.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6dee2e63a87a1265",
+            "description": "Typenum is a Rust library for type-level numbers evaluated at\n    compile time. It currently supports bits, unsigned integers, and signed\n    integers. It also provides a type-level array of type-level numbers, but its\n    implementation is incomplete.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/typenum@1.17.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "(Apache-2.0 AND Apache-2.0) OR (MIT AND MIT AND MIT) OR Apache-2.0",
+            "licenseDeclared": "MIT OR Apache-2.0",
+            "name": "typenum",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: Paho Lurie-Gregg",
+            "versionInfo": "1.17.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-75827c1abd86d146",
+            "description": "Determine whether characters have the XID_Start or XID_Continue properties according to Unicode Standard Annex #31",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/unicode-ident@1.0.12",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "(MIT OR Apache-2.0) AND Unicode-DFS-2016 AND Apache-2.0 AND LicenseRef-scancode-unicode AND LicenseRef-scancode-unicode AND (Apache-2.0 AND MIT AND LicenseRef-scancode-unicode AND (Apache-2.0 WITH LLVM-exception AND LicenseRef-scancode-generic-cla)) AND MIT",
+            "licenseDeclared": "(MIT OR Apache-2.0) AND Unicode-DFS-2016",
+            "name": "unicode-ident",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: David Tolnay",
+            "versionInfo": "1.0.12"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-797ee4bd983c11e8",
+            "description": "Determine whether characters have the XID_Start\nor XID_Continue properties according to\nUnicode Standard Annex #31.\n",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/unicode-xid@0.2.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/unicode-rs/unicode-xid",
+            "licenseConcluded": "(Apache-2.0 AND MIT AND MIT) OR Apache-2.0",
+            "licenseDeclared": "MIT OR Apache-2.0",
+            "name": "unicode-xid",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: unicode-rs",
+            "versionInfo": "0.2.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d117a1252422476d",
+            "description": "WASI API bindings for Rust",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/wasi@0.9.0%2Bwasi-snapshot-preview1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "(Apache-2.0 AND Apache-2.0 AND Apache-2.0 WITH LLVM-exception AND Apache-2.0 WITH LLVM-exception AND LicenseRef-scancode-generic-cla AND Apache-2.0 WITH LLVM-exception) OR Apache-2.0 OR (MIT AND MIT)",
+            "licenseDeclared": "Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT",
+            "name": "wasi",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: Bytecode Alliance",
+            "versionInfo": "0.9.0+wasi-snapshot-preview1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b1ae5a266ed7bd7f",
+            "description": "Raw FFI bindings for all of Windows API.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/winapi@0.3.9",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "((Apache-2.0 OR MIT) AND (MIT AND Apache-2.0) AND (MIT AND Apache-2.0) AND (Apache-2.0 OR MIT) AND (MIT OR Apache-2.0) AND MIT AND Apache-2.0 AND MIT AND MIT) OR Apache-2.0",
+            "licenseDeclared": "MIT OR Apache-2.0",
+            "name": "winapi",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: Peter Atashian",
+            "versionInfo": "0.3.9"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c2d323328b0a1dbd",
+            "description": "Import libraries for the i686-pc-windows-gnu target. Please don't use this crate directly, depend on winapi instead.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/winapi-i686-pc-windows-gnu@0.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 OR (MIT AND MIT) OR ((Apache-2.0 AND MIT) AND MIT) OR (Apache-2.0 AND NOASSERTION)",
+            "licenseDeclared": "MIT OR Apache-2.0",
+            "name": "winapi-i686-pc-windows-gnu",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: Peter Atashian",
+            "versionInfo": "0.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4bb1e1349efd88e8",
+            "description": "Import libraries for the x86_64-pc-windows-gnu target. Please don't use this crate directly, depend on winapi instead.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/winapi-x86_64-pc-windows-gnu@0.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT OR ((Apache-2.0 AND MIT) AND MIT) OR (Apache-2.0 AND NOASSERTION)",
+            "licenseDeclared": "MIT OR Apache-2.0",
+            "name": "winapi-x86_64-pc-windows-gnu",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: Peter Atashian",
+            "versionInfo": "0.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3611c5f462b820d2",
+            "description": "Securely clear secrets from memory with a simple trait built on\nstable Rust primitives which guarantee memory is zeroed using an\noperation will not be 'optimized away' by the compiler.\nUses a portable pure Rust implementation that works everywhere,\neven WASM!\n",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/zeroize@1.7.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND (Apache-2.0 OR MIT) AND MIT AND MIT",
+            "licenseDeclared": "Apache-2.0 OR MIT",
+            "name": "zeroize",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: Rust Crypto",
+            "versionInfo": "1.7.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d16f69d55ebc343e",
+            "description": "Custom derive support for zeroize",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:cargo/zeroize_derive@1.4.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND (Apache-2.0 OR MIT) AND MIT AND MIT",
+            "licenseDeclared": "Apache-2.0 OR MIT",
+            "name": "zeroize_derive",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "supplier": "Organization: Rust Crypto",
+            "versionInfo": "1.4.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Filesystem-5572dba9837dc5ec",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND CC-BY-4.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "hyperledger.aries",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project hyperledger",
+            "versionInfo": "2025-05"
+        },
+        {
+            "SPDXID": "SPDXRef-hyperledger-aries-aries",
+            "comment": "This package was added to the Trivy analysis for the aries by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/hyperledger/aries/archive/aea26e5a78d196c92ee64f87ecdbc0608efa9959.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/hyperledger/aries@aea26e5a78d196c92ee64f87ecdbc0608efa9959",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": true,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND CC-BY-4.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "aries",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project hyperledger",
+            "supplier": "Organization: Linux Foundation Project hyperledger",
+            "versionInfo": "aea26e5a78d196c92ee64f87ecdbc0608efa9959"
+        },
+        {
+            "SPDXID": "SPDXRef-hyperledger-aries-aries-bbs-go",
+            "comment": "This package was added to the Trivy analysis for the aries-bbs-go by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/hyperledger/aries-bbs-go/archive/e950615f2e453b36a3b29cadd9a640427c3a63c5.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/hyperledger/aries-bbs-go@e950615f2e453b36a3b29cadd9a640427c3a63c5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": true,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND CC-BY-4.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "aries-bbs-go",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project hyperledger",
+            "supplier": "Organization: Linux Foundation Project hyperledger",
+            "versionInfo": "e950615f2e453b36a3b29cadd9a640427c3a63c5"
+        }
+    ],
+    "files": [
+        {
+            "SPDXID": "SPDXRef-item10580949",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4ac43b6a9e1e1fd0f4e1d8e01cde5dba92247054"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d1e5ecde0bd2d7679bbb33eb89ba35f10a12282fd1414b9b9ed77ab1c3391167"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0c2ad829e3486fff72e7eef5aa604eef"
+                }
+            ],
+            "copyrightText": " copyright in all new contributions will be retained by the copyright holder as independent works of authorship and that no contributor or copyright holder will be required to assign copyrights to the Project. ",
+            "fileName": "aries-2025-05-09.zip/aries/Hyperledger Aries Technical Charter.md",
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0",
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item10580962",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f242311c3bf83cd7b3b436562b73e74afa7b595a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7c0558c365d644b7588d481e22f26421cd3ba23492d2c0ce0fd382466aad2c13"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d1fe67b259330a3f0ef2f10d39cebdf1"
+                }
+            ],
+            "copyrightText": " copyright owner or by an individual or Legal Entity authorized to submit on behalf of\n(c) You must retain, in the Source form of any Derivative Works\ncopyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and\nCopyright 2017 Soramitsu LLC ",
+            "fileName": "aries-2025-05-09.zip/aries/LICENSE",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item10580951",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ac9807aeb0efcc602b42d04ad209b3541541b883"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f485643b7d6844407df46c82fb7842b52782f264e99d8305bb2cac36a31279b4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "81afe3188c7be682f48476077941b063"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "aries-2025-05-09.zip/aries/collateral/Hyperledger_Aries_Logo_Black.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item10580952",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3f42c5e847c8bbdb51ee28fe9c9733187f72af7c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d734cf07a63a3293e2b335da632c183c6061cb10335cf95e42aebad5edab322b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5e7752262cf27b2699660ecf28d50387"
+                }
+            ],
+            "copyrightText": " Copyright: Copyright(C)2000-2006 Adobe Systems, Inc. All Rights Reserved. systemdict/setpacking known currentpacking\ttrue setpacking}if userdict/Adobe_AGM_Utils 75 dict dup begin put bdf bind def}bind def nd{null def}bdf xdf exch def}bdf ldf load def}bdf ddf put}bdf xddf 3 -1 roll put}\nCopyright: Copyright(C)1997-2007 Adobe Systems, Inc. All Rights Reserved. systemdict/setpacking known\nCopyright: Copyright 1997-2006 Adobe Systems Incorporated. All Rights Reserved.\n%%Version: 2.31 0\n10 dict begin\n/Adobe_CoolType_Passthru currentdict def\n/Adobe_CoolType_Core_Defined userdict/Adobe_CoolType_Core known def\nAdobe_CoolType_Core_Defined {/Adobe_CoolType_Core userdict/Adobe_CoolType_Core\nCopyright: Copyright(C)2000-2006 Adobe Systems, Inc. All Rights Reserved. systemdict/setpacking known ",
+            "fileName": "aries-2025-05-09.zip/aries/collateral/Hyperledger_Aries_Logo_Color.eps",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item10580953",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7af7ff5db3353b1a91667e84491311382ce4ad6d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "971f64f5da678cf7f9ef22eb658901e6405fc5329921b1f5870ee780a66e4f68"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "49918028dd3f368375a1b48e681ec951"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "aries-2025-05-09.zip/aries/collateral/Hyperledger_Aries_Logo_White.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item10580954",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "529c891db56e609afc5e54a9d6ab9db94c27667a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e2f4639f6f4f11c9380dc94a1566a768320be9889a552b10be248ee064f52d8d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b859bd280b290779690560ee4ddfd063"
+                }
+            ],
+            "copyrightText": " Copyright: Copyright(C)2000-2006 Adobe Systems, Inc. All Rights Reserved. systemdict/setpacking known currentpacking\ttrue setpacking}if userdict/Adobe_AGM_Utils 75 dict dup begin put bdf bind def}bind def nd{null def}bdf xdf exch def}bdf ldf load def}bdf ddf put}bdf xddf 3 -1 roll put}\nCopyright: Copyright(C)1997-2007 Adobe Systems, Inc. All Rights Reserved. systemdict/setpacking known\nCopyright: Copyright 1997-2006 Adobe Systems Incorporated. All Rights Reserved.\n%%Version: 2.31 0\n10 dict begin\n/Adobe_CoolType_Passthru currentdict def\n/Adobe_CoolType_Core_Defined userdict/Adobe_CoolType_Core known def\nAdobe_CoolType_Core_Defined {/Adobe_CoolType_Core userdict/Adobe_CoolType_Core\nCopyright: Copyright(C)2000-2006 Adobe Systems, Inc. All Rights Reserved. systemdict/setpacking known ",
+            "fileName": "aries-2025-05-09.zip/aries/collateral/Hyperledger_Aries_Logo_White.eps",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item10580955",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ae8e0fcdd000b3b5a9b20b3d68e88c936f824fe1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "460f8b313691a7946c5e2bd1c2580957f6f970bb9ca1917714df602478e39712"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1b0d4e184680952aeac74500b8a2c85b"
+                }
+            ],
+            "copyrightText": " Copyright: Copyright(C)2000-2006 Adobe Systems, Inc. All Rights Reserved. systemdict/setpacking known currentpacking\ttrue setpacking}if userdict/Adobe_AGM_Utils 75 dict dup begin put bdf bind def}bind def nd{null def}bdf xdf exch def}bdf ldf load def}bdf ddf put}bdf xddf 3 -1 roll put}\nCopyright: Copyright(C)1997-2007 Adobe Systems, Inc. All Rights Reserved. systemdict/setpacking known\nCopyright: Copyright 1997-2006 Adobe Systems Incorporated. All Rights Reserved.\n%%Version: 2.31 0\n10 dict begin\n/Adobe_CoolType_Passthru currentdict def\n/Adobe_CoolType_Core_Defined userdict/Adobe_CoolType_Core known def\nAdobe_CoolType_Core_Defined {/Adobe_CoolType_Core userdict/Adobe_CoolType_Core\nCopyright: Copyright(C)2000-2006 Adobe Systems, Inc. All Rights Reserved. systemdict/setpacking known ",
+            "fileName": "aries-2025-05-09.zip/aries/collateral/Hyperledger_Aries_Logo_Black.eps",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item10580956",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c17149a0342be6446bfa4eb4f48c02ba107ec955"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "cf8202f0d424c959f8b8ae102ffe5a114eef3adeff7c60dcaf1545cc5fc22548"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "89aee3f7759125ae9824a93067b31592"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "aries-2025-05-09.zip/aries/collateral/Hyperledger_Aries_Logo_Color.svg",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item10580957",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "86739216d9e3e5b38a0341fc77e7dcbe8db8d21c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "26725d7e5cfecd1839a75420badd41a9d1351afca0c529ffdf33427be6f63685"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1229ec675da9f003f27f864c75f89d22"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "aries-2025-05-09.zip/aries/collateral/Hyperledger_Aries_Logo_Color.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item10580958",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9879c91a1c0d3f8dd3d62ddf106bf5b557bc8572"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b9ceda963b77c6e3e58910ee837b6a1c940207e17146bd884632a344c0da16c4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "426dfb4a3846ed09aa33f94784a4bfe8"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "aries-2025-05-09.zip/aries/collateral/Hyperledger_Aries_Logo_Color.jpg",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item10580959",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2a63e907d16f0a7349ee46841be9e9570ebc5d38"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5e5854b0d421e17118f06933a5492ebabf61c56226c279faea7b918b4796391b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f8f922cb94943f2d6de75106ad6e9cd6"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "aries-2025-05-09.zip/aries/collateral/Hyperledger_Aries_Logo_White.svg",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item10580960",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5c9567905baf50952b4741b0264a761d83157751"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "fb285fb0ab4387cb172b5ea2662404769bbf95fd5cc9b513aed45356fbed8948"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b6daec0dc4a5cecf9974e4c2efe8e7b3"
+                }
+            ],
+            "copyrightText": " \u00a9\tD\u00895\u00f8\u00ad4J\u0094\u00d9O4\u009a\u008d\u00eb[w#*T\u00b7T\u00a5-\u00e9O8\u00e2\u0525(\u00cc\u00eb\u00ceg2\u00ed\u00e0@ =]\u009c:(\u00f6<y\u00e7V+P\u00a2E\u0083O\u00f1\u00e3oL\u008a\u02bc\u00b4\u0288V\u0099\u008e\u00a4\u00b9\u009a\u0086H\u00d0n\u024a\u00bc\u0082\u00beD\u00b7I'\u00e1\u008f^\u01cc\u00ffbIIh\u0676\u00b5RP?\u00c0?Nz]9\u0096\\\u0086\u00e0#\u00fa?%\u00b7\u00f7\u074b\u00c4,\u0098\u00b0o*C\u00c8rt\u009dG\u0098\u00aa\u00c7#\u00d5\u00d6?|\"_\u0091X\u00fb?\u00f4L\u00a4\u0091\u00e1j-+?Tf\u00afb?w\u00ab\u008bg\u0094\u00ac\u00b4+\u0090?/\u00efS7\u00d2\u00fb\u00be\u00feC\u00e8\u008f\u00c8\u00ee?'6\u00bd\u00af?@P:9\u01b2\u00feRu\u00f7\u02ccO\u00f7z\u0084\u00e8\u00da\u00f8z`fm\u00eaF\u00ee7Q\u034eb\u00c3\u00d4Z\u00ab\"n\u00f3BqE\u008b\u00dc?\u008e\u04bd\u00e4\u00bbM\u009amkY\u0091\u00cbh\u00e6U\u00d2?W\u0095eO\n\u00daxT\u0095\u00cftq\u00a5\u00a6\u00b2D\u00a8\u00ce)\u0089\u00c4j\u008d[U\u00ed\u00aegYWH ",
+            "fileName": "aries-2025-05-09.zip/aries/collateral/Hyperledger_Aries_Logo_Black.jpg",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item10580961",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f28d79d9b48176b9d1829b1be6f8d4bf8ab16323"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c6ed85f014b489211548e495c580041fe8b5a15daabac73ad105310df005066f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d90758e66dd62303c298562942ca2919"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "aries-2025-05-09.zip/aries/collateral/Hyperledger_Aries_Logo_Black.svg",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item10580963",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b9d55e995fdb08fc35a99e4d3882e77ebf57d217"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "dbcba8f50a6475033c3d4e40c8ea87f6787ef00ebc5695d958c894a3efcf73b5"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "53930074261af28ab33ff3b52eab5690"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "aries-2025-05-09.zip/aries/TSC.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item10580964",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1d56c3dfe71e039868c4a3f0ef72f7772dccdcb2"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3340d2f6c5381371cd26fc7ccf27fff5e093545956a45a9196aad4b24b61bf74"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9fe3890eb3c20ccd92916170cd63947a"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "aries-2025-05-09.zip/aries/.gitignore",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item10580965",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "218a6b07c22c51d3635f9d01356bd62406866f9e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8b51f2d22defcb1c34b003b59e8afceb1857177be273adb1db91473f98349611"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d5837ec10127f9f9416b9e69fdb53292"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "aries-2025-05-09.zip/aries/README.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item10580966",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4422f357e8c9e742bf50607a4deaf66eb8a87e49"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "6dc99ace20f789becc90fa982606260ab1a755c661ce4ed17d7d40533b64c9c2"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0c8c4d5d88bfeae3ce98447ca96e9bc4"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "aries-2025-05-09.zip/aries/SECURITY.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item10580967",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "eface86aa0d85f01a79736b1bdb1de1380ab12cf"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5f0ae9cc32a41b59ddf2726dc2c61051068f106ab6ec29972efea11b27148acb"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a2f0b1cadc751e8b22f786d4d554f103"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "aries-2025-05-09.zip/aries/MAINTAINERS.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item10580979",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9a1aadd6b3ed64345c4b259dd1185a3d2cbf91ab"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2ca14a5fdad55413df3cfcc71e81bb9b6bc675b0bea4e5b64589ba0422fce4d0"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5e9e0156d7dc61d92463484340bf739f"
+                }
+            ],
+            "copyrightText": " Copyright SecureKey Technologies Inc. All Rights Reserved. ",
+            "fileName": "aries-2025-05-09.zip/aries-bbs-go/bbs/proof_of_knowledge.go",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item10580982",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "31ac16cd09ed4f5c244bf484ac139922e0399aef"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "cdccfa9e09ebed7aa635d8665fe62c2cbf4e01b88400b1c3cdbe7816d5059130"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "dad6fd9de1705c21e062781a806ae496"
+                }
+            ],
+            "copyrightText": " Copyright SecureKey Technologies Inc. All Rights Reserved. ",
+            "fileName": "aries-2025-05-09.zip/aries-bbs-go/bbs/signature.go",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item10580986",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e307cdecd149e514a6ed4a680624b011799b68b5"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e4f719924d9f609e1cd6ff439e29c3efc8387bb5f45e53f6e4f3e1d53cee8cd6"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "100d82b88ae68a51c17cfb5020836dba"
+                }
+            ],
+            "copyrightText": " Copyright SecureKey Technologies Inc. All Rights Reserved. ",
+            "fileName": "aries-2025-05-09.zip/aries-bbs-go/bbs/signature_message.go",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item10580985",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f73ca63da028f0780349438708164fa0a44e52f9"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "228217f9ad62f08794df50db3b1682217e18c5d64f4c0e0158722355b96e776a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9e7d065f74672e6089e02366711554db"
+                }
+            ],
+            "copyrightText": " Copyright SecureKey Technologies Inc. All Rights Reserved. ",
+            "fileName": "aries-2025-05-09.zip/aries-bbs-go/bbs/signature_proof.go",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item10580983",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "74b13cdc6fd3da35f35ba22ea6ae2aed3009543c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "17b13dec6d5484ff047eda0048e3e3b983399945be8fa137f4166ddbf2e0c2a7"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4deecfe91a7e3bece555b0c2382a1362"
+                }
+            ],
+            "copyrightText": " Copyright SecureKey Technologies Inc. All Rights Reserved. ",
+            "fileName": "aries-2025-05-09.zip/aries-bbs-go/bbs/signature_test.go",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item10580980",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2c6032a88fe5f968463d5e0f5fb645401860a14c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4b303850f6779cbbbb29374fe7886ace83aee6f9ec167d4c163fe296904aa8b6"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "8c268d0dfd1cd66cc4b44580b6222fcb"
+                }
+            ],
+            "copyrightText": " Copyright SecureKey Technologies Inc. All Rights Reserved. ",
+            "fileName": "aries-2025-05-09.zip/aries-bbs-go/bbs/utils.go",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item10580988",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "eb9e87e216cf013170d2f688dbf5b454b7809eb3"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e42fb8ae5f82678ed65fce760dfe3e973c9fea5357f9b9f5f781ff488b09b377"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "658be1361d4dd0e69ba98cde6bc88276"
+                }
+            ],
+            "copyrightText": " Copyright SecureKey Technologies Inc. All Rights Reserved. ",
+            "fileName": "aries-2025-05-09.zip/aries-bbs-go/bbs/utils_test.go",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item10580975",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2f0c0955741b40d0cec618a91794294516eb2479"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0885fcea95242c8c2f6b5cc5a65a244fe6e35f16abb22aec15f2db5847ae5cab"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0924b0c75c2e327ff4f0035a9b331ef8"
+                }
+            ],
+            "copyrightText": " Copyright IBM Corp. All Rights Reserved. ",
+            "fileName": "aries-2025-05-09.zip/aries-bbs-go/integration/rust_test.go",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item10580994",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7f185dd1b4d3dafcd38887fbf62daf1cc1dc4e91"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "435c32c4527372ff1d9ddb7e2d2ed8c5a3c4760aad28d33bad46ebe2d2c32283"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "040004e94970249ef4a3a224f5c57072"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "aries-2025-05-09.zip/aries-bbs-go/.github/settings.yml",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item10580984",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "aa1494df5d33d28eaf0e074fdc4ce99d7caee9b4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "26f2aad1e22d7d61cc7aeac34aebd3da85dcb7bc0760f8cb9cdfe2ffebbd85d4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "61025f4cdd8a3df131c174d96c3c7934"
+                }
+            ],
+            "copyrightText": " Copyright SecureKey Technologies Inc. All Rights Reserved. ",
+            "fileName": "aries-2025-05-09.zip/aries-bbs-go/bbs/bbs12381g2pub.go",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item10580987",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5895a795a3c319958ab2455bb163821a616e354d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "51900224d84ae644c395792680219c22c782f2c4d10006e685e921a2a3737f10"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f9ff5d10e04a0eb2974d5327e4b129d0"
+                }
+            ],
+            "copyrightText": " Copyright SecureKey Technologies Inc. All Rights Reserved. ",
+            "fileName": "aries-2025-05-09.zip/aries-bbs-go/bbs/bbs_test.go",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item10580981",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3a337faa8912a76afb3e247bccd73130ded15473"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a28bd051308756713feea9b8e7ff614e7ec768491a6d262314d95314a965ffc5"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "33efd072e8d1a94c98cb5a4c79961b69"
+                }
+            ],
+            "copyrightText": " Copyright SecureKey Technologies Inc. All Rights Reserved. ",
+            "fileName": "aries-2025-05-09.zip/aries-bbs-go/bbs/fr.go",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item10580978",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8d2edd40b6b9d43af556ad211259b7ab12b906b3"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b729ce2b23bb5669434854453cea32b07a0e358bf79d6224d606a1afe7c8e5f4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "8acee3bf5e163db4fad97fedfe69ebc7"
+                }
+            ],
+            "copyrightText": " Copyright SecureKey Technologies Inc. All Rights Reserved. ",
+            "fileName": "aries-2025-05-09.zip/aries-bbs-go/bbs/keys.go",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item10580977",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "cc5875a5aa32a180862f8ca98a0ab4ceceb35b8d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e6398802858ac00335e68348b7fc7a3dfa639f6c9075292894683a1575311dc7"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9583114b43b0c44e0fbe160268fd5793"
+                }
+            ],
+            "copyrightText": " Copyright SecureKey Technologies Inc. All Rights Reserved. ",
+            "fileName": "aries-2025-05-09.zip/aries-bbs-go/bbs/keys_test.go",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item10580990",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7df059597099bb7dcf25d2a9aedfaf4465f72d8d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "86d3f3a95c324c9479bd8986968f4327"
+                }
+            ],
+            "copyrightText": " copyright owner or by an individual or Legal Entity authorized to submit on behalf of\n(c) You must retain, in the Source form of any Derivative Works\ncopyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and\nCopyright [yyyy] [name of copyright owner] ",
+            "fileName": "aries-2025-05-09.zip/aries-bbs-go/LICENSE",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item10580972",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "bf260c82f32d287e7bb207a9af5b6e046a65167e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "68e3bb107a4ae6657ab21c78f7ec5956fb804d522a6f292fad2ae341708c5e12"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9e1b9825d4ed9c37b5f2ab9d971b3ff4"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "aries-2025-05-09.zip/aries-bbs-go/integration/rust_signer/src/main.rs",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item10580973",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ad03634ed19144cff68d3fb39bb09d8d4400e968"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3a44fd12e4b217153a0b92efe80401b2a2cc0b810cb6297f8c2c417bb750341e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "554d4bfe8e912286e46af210e617458a"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "aries-2025-05-09.zip/aries-bbs-go/integration/rust_signer/Cargo.toml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item10580974",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b1a46db3c4e3531d0c73f73778fd82f872af9354"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "778809d8641aceeaa24372da50f4933df66777be59592a2ce14d7c379965bf9b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1aa50985f73eb57d3fc7746ed37c1905"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "aries-2025-05-09.zip/aries-bbs-go/integration/rust_signer/Cargo.lock",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item10580989",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "fcc06585c2bd7fe3356a0cb7af518139ecac82f4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "20af64a300762453328be0883a8b6104619942f4e879009a327c4370985d0817"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "41f9527cc3c54dde586b33101326869d"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "aries-2025-05-09.zip/aries-bbs-go/Makefile",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item10580993",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "106bdc8ed1d42cb0e960db6801e573bc2b245f0a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a7ee2b3bbe6438c57f97bde8f68fd86d915f2d626168980d1b2338312809bd95"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5d4691f03291945f296119387a991abc"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "aries-2025-05-09.zip/aries-bbs-go/.github/workflows/go.yml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item10580995",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f1c27648ec5db60279bd9c86646cd83fb4f20bf1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "73b3f1a294df8c178f25686b6f107c269bbc8443686283582a58c2b6ac82ec8d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c058dbe78735ca5325dcc6cb5e25ef6e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "aries-2025-05-09.zip/aries-bbs-go/go.mod",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item10580996",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "26c5ce4e7f4f24398768dd3c9920c4d1dbfaf0b1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c068e45fda2d60a14a7d6f375f04739c5735c711a7a94d83978d61d0be965faf"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "59121c2ce658ad84af99dfb7324fa82c"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "aries-2025-05-09.zip/aries-bbs-go/README.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item10580997",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "88db5816a8a58b14d25a7c61cae21bdd5856fb06"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "89f6a776e48c3dde288f063fa2da703e4438ac00a0c9e64c5262533bc7cd1215"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "146e7227812361903989637e07198440"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "aries-2025-05-09.zip/aries-bbs-go/go.sum",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-Application-3db3691fdfc2ae27",
+            "relatedSpdxElement": "SPDXRef-Package-2ef176305343b5af",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-ff68536e666c95f8",
+            "relatedSpdxElement": "SPDXRef-Package-5696ed3ca2fa7db5",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-hyperledger-aries-aries-bbs-go",
+            "relatedSpdxElement": "SPDXRef-Application-3db3691fdfc2ae27",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-hyperledger-aries-aries-bbs-go",
+            "relatedSpdxElement": "SPDXRef-Application-ff68536e666c95f8",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-1077e21d0cb9a81f",
+            "relatedSpdxElement": "SPDXRef-Package-36c91e17f1313f84",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-1077e21d0cb9a81f",
+            "relatedSpdxElement": "SPDXRef-Package-66e8a157d9c46237",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-197cd56b7344d6cb",
+            "relatedSpdxElement": "SPDXRef-Package-6db4beb961112328",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-197cd56b7344d6cb",
+            "relatedSpdxElement": "SPDXRef-Package-b8b16ff9a842f463",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-197cd56b7344d6cb",
+            "relatedSpdxElement": "SPDXRef-Package-c51b3fbd00ef26cd",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-197cd56b7344d6cb",
+            "relatedSpdxElement": "SPDXRef-Package-e3ef4e94de6e8559",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-1b84ce3928d2b85a",
+            "relatedSpdxElement": "SPDXRef-Package-4fb3d17253f7855e",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-1b84ce3928d2b85a",
+            "relatedSpdxElement": "SPDXRef-Package-6db4beb961112328",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-1b84ce3928d2b85a",
+            "relatedSpdxElement": "SPDXRef-Package-e3ef4e94de6e8559",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-1eaa70ea4985d9b4",
+            "relatedSpdxElement": "SPDXRef-Package-8054d95b6493adc3",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-1eaa70ea4985d9b4",
+            "relatedSpdxElement": "SPDXRef-Package-886db7236fc33b3",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-234cd67e8dac2d35",
+            "relatedSpdxElement": "SPDXRef-Package-4a0201a7e8dd2521",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-234cd67e8dac2d35",
+            "relatedSpdxElement": "SPDXRef-Package-7d8b802872449cf3",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-234cd67e8dac2d35",
+            "relatedSpdxElement": "SPDXRef-Package-881878d734c14947",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-24f7d85e8210bd17",
+            "relatedSpdxElement": "SPDXRef-Package-a5c2bd60a7717e9f",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2c609011d69112e5",
+            "relatedSpdxElement": "SPDXRef-Package-ae04eebc6cb8450c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2d5e98c5ea3247d7",
+            "relatedSpdxElement": "SPDXRef-Package-2aa97e4087d804b6",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2d5e98c5ea3247d7",
+            "relatedSpdxElement": "SPDXRef-Package-d7eb0a66717b52bc",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2ef176305343b5af",
+            "relatedSpdxElement": "SPDXRef-Package-2d5e98c5ea3247d7",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2ef176305343b5af",
+            "relatedSpdxElement": "SPDXRef-Package-328d825efa2b6b51",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2ef176305343b5af",
+            "relatedSpdxElement": "SPDXRef-Package-3611c5f462b820d2",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2ef176305343b5af",
+            "relatedSpdxElement": "SPDXRef-Package-74458c43bb10e2f1",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2ef176305343b5af",
+            "relatedSpdxElement": "SPDXRef-Package-74ed11ee157001e1",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2ef176305343b5af",
+            "relatedSpdxElement": "SPDXRef-Package-77b1f7e08c4613a7",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2ef176305343b5af",
+            "relatedSpdxElement": "SPDXRef-Package-a638ac19e6dea3b9",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2ef176305343b5af",
+            "relatedSpdxElement": "SPDXRef-Package-d9300e3d237ad51c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2ef176305343b5af",
+            "relatedSpdxElement": "SPDXRef-Package-e07f039859d427cf",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2ef176305343b5af",
+            "relatedSpdxElement": "SPDXRef-Package-f001a9b058a3b7c1",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2ef176305343b5af",
+            "relatedSpdxElement": "SPDXRef-Package-fc0deced5486f609",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-328d825efa2b6b51",
+            "relatedSpdxElement": "SPDXRef-Package-197cd56b7344d6cb",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-328d825efa2b6b51",
+            "relatedSpdxElement": "SPDXRef-Package-cf973ac557d740bd",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-3611c5f462b820d2",
+            "relatedSpdxElement": "SPDXRef-Package-d16f69d55ebc343e",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-36c91e17f1313f84",
+            "relatedSpdxElement": "SPDXRef-Package-6dee2e63a87a1265",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-488f1c359e00b4e0",
+            "relatedSpdxElement": "SPDXRef-Package-ae04eebc6cb8450c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-488f1c359e00b4e0",
+            "relatedSpdxElement": "SPDXRef-Package-fa69ab2cc3d54115",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-4fb3d17253f7855e",
+            "relatedSpdxElement": "SPDXRef-Package-6db4beb961112328",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-4fb3d17253f7855e",
+            "relatedSpdxElement": "SPDXRef-Package-75827c1abd86d146",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-4fb3d17253f7855e",
+            "relatedSpdxElement": "SPDXRef-Package-e3ef4e94de6e8559",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-548c7f4fea1e6dcf",
+            "relatedSpdxElement": "SPDXRef-Package-e0bbf5a70bf9447b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5696ed3ca2fa7db5",
+            "relatedSpdxElement": "SPDXRef-Package-1cc4c56315a6553f",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5696ed3ca2fa7db5",
+            "relatedSpdxElement": "SPDXRef-Package-234cd67e8dac2d35",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5696ed3ca2fa7db5",
+            "relatedSpdxElement": "SPDXRef-Package-2755631912d273d1",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5696ed3ca2fa7db5",
+            "relatedSpdxElement": "SPDXRef-Package-2846ac021939bc95",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5696ed3ca2fa7db5",
+            "relatedSpdxElement": "SPDXRef-Package-4eb952bb729e2622",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5696ed3ca2fa7db5",
+            "relatedSpdxElement": "SPDXRef-Package-5ca58f534c56b624",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5696ed3ca2fa7db5",
+            "relatedSpdxElement": "SPDXRef-Package-70acab43059ea699",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5696ed3ca2fa7db5",
+            "relatedSpdxElement": "SPDXRef-Package-7d5541015756a059",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5696ed3ca2fa7db5",
+            "relatedSpdxElement": "SPDXRef-Package-90b7c8f4bd63b48",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5696ed3ca2fa7db5",
+            "relatedSpdxElement": "SPDXRef-Package-a3ab329d62ae514f",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5696ed3ca2fa7db5",
+            "relatedSpdxElement": "SPDXRef-Package-de364c939bfbf38e",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5696ed3ca2fa7db5",
+            "relatedSpdxElement": "SPDXRef-Package-e90d11599216190",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5696ed3ca2fa7db5",
+            "relatedSpdxElement": "SPDXRef-Package-f18f64ce4c524524",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5a73c84f0b8d8fe6",
+            "relatedSpdxElement": "SPDXRef-Package-24f7d85e8210bd17",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5a73c84f0b8d8fe6",
+            "relatedSpdxElement": "SPDXRef-Package-a5c2bd60a7717e9f",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5a73c84f0b8d8fe6",
+            "relatedSpdxElement": "SPDXRef-Package-bbb8962f291526e4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-667cf13c998a42cd",
+            "relatedSpdxElement": "SPDXRef-Package-24f7d85e8210bd17",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-667cf13c998a42cd",
+            "relatedSpdxElement": "SPDXRef-Package-5a73c84f0b8d8fe6",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-667cf13c998a42cd",
+            "relatedSpdxElement": "SPDXRef-Package-6db4beb961112328",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-667cf13c998a42cd",
+            "relatedSpdxElement": "SPDXRef-Package-bbb8962f291526e4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-667cf13c998a42cd",
+            "relatedSpdxElement": "SPDXRef-Package-c51b3fbd00ef26cd",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-667cf13c998a42cd",
+            "relatedSpdxElement": "SPDXRef-Package-e3ef4e94de6e8559",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-6d4c69e2e3446e94",
+            "relatedSpdxElement": "SPDXRef-Package-21b0ee1aa652963b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-6d5e7c9901df8ccf",
+            "relatedSpdxElement": "SPDXRef-Package-cce266242dc0da40",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-6db4beb961112328",
+            "relatedSpdxElement": "SPDXRef-Package-75827c1abd86d146",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-74458c43bb10e2f1",
+            "relatedSpdxElement": "SPDXRef-Package-a4d2ac92ae71873d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-74458c43bb10e2f1",
+            "relatedSpdxElement": "SPDXRef-Package-dc5fc04cd3161316",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-74ed11ee157001e1",
+            "relatedSpdxElement": "SPDXRef-Package-1b84ce3928d2b85a",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-886db7236fc33b3",
+            "relatedSpdxElement": "SPDXRef-Package-8054d95b6493adc3",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-9a118b7c28155638",
+            "relatedSpdxElement": "SPDXRef-Package-ae04eebc6cb8450c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a4d2ac92ae71873d",
+            "relatedSpdxElement": "SPDXRef-Package-36c91e17f1313f84",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a638ac19e6dea3b9",
+            "relatedSpdxElement": "SPDXRef-Package-2c609011d69112e5",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a638ac19e6dea3b9",
+            "relatedSpdxElement": "SPDXRef-Package-3611c5f462b820d2",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a638ac19e6dea3b9",
+            "relatedSpdxElement": "SPDXRef-Package-71467e15ac205578",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a638ac19e6dea3b9",
+            "relatedSpdxElement": "SPDXRef-Package-a4d2ac92ae71873d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a638ac19e6dea3b9",
+            "relatedSpdxElement": "SPDXRef-Package-aace0d7c308454e4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a638ac19e6dea3b9",
+            "relatedSpdxElement": "SPDXRef-Package-ae04eebc6cb8450c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a638ac19e6dea3b9",
+            "relatedSpdxElement": "SPDXRef-Package-fc0deced5486f609",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-aace0d7c308454e4",
+            "relatedSpdxElement": "SPDXRef-Package-23dbbd6ae7914f00",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-aace0d7c308454e4",
+            "relatedSpdxElement": "SPDXRef-Package-6d4c69e2e3446e94",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-aace0d7c308454e4",
+            "relatedSpdxElement": "SPDXRef-Package-b1ae5a266ed7bd7f",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-aace0d7c308454e4",
+            "relatedSpdxElement": "SPDXRef-Package-c98a22fd76097817",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-aace0d7c308454e4",
+            "relatedSpdxElement": "SPDXRef-Package-f1680e5aaaf5ce2a",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ae04eebc6cb8450c",
+            "relatedSpdxElement": "SPDXRef-Package-dd25c9d642a81ff8",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b1ae5a266ed7bd7f",
+            "relatedSpdxElement": "SPDXRef-Package-4bb1e1349efd88e8",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b1ae5a266ed7bd7f",
+            "relatedSpdxElement": "SPDXRef-Package-c2d323328b0a1dbd",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b4d019f4874c0c2a",
+            "relatedSpdxElement": "SPDXRef-Package-1bc1d2c129b5b7a1",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b8b16ff9a842f463",
+            "relatedSpdxElement": "SPDXRef-Package-6db4beb961112328",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b8b16ff9a842f463",
+            "relatedSpdxElement": "SPDXRef-Package-797ee4bd983c11e8",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b8b16ff9a842f463",
+            "relatedSpdxElement": "SPDXRef-Package-c51b3fbd00ef26cd",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b8b16ff9a842f463",
+            "relatedSpdxElement": "SPDXRef-Package-e3ef4e94de6e8559",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-bbb8962f291526e4",
+            "relatedSpdxElement": "SPDXRef-Package-24f7d85e8210bd17",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c51b3fbd00ef26cd",
+            "relatedSpdxElement": "SPDXRef-Package-6db4beb961112328",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c51b3fbd00ef26cd",
+            "relatedSpdxElement": "SPDXRef-Package-75827c1abd86d146",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c51b3fbd00ef26cd",
+            "relatedSpdxElement": "SPDXRef-Package-e3ef4e94de6e8559",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-cf973ac557d740bd",
+            "relatedSpdxElement": "SPDXRef-Package-548c7f4fea1e6dcf",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-cf973ac557d740bd",
+            "relatedSpdxElement": "SPDXRef-Package-6d5e7c9901df8ccf",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-cf973ac557d740bd",
+            "relatedSpdxElement": "SPDXRef-Package-801c3c511ccf3a6e",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-cf973ac557d740bd",
+            "relatedSpdxElement": "SPDXRef-Package-af26a9597f272826",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-cf973ac557d740bd",
+            "relatedSpdxElement": "SPDXRef-Package-b4d019f4874c0c2a",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-cf973ac557d740bd",
+            "relatedSpdxElement": "SPDXRef-Package-c98a22fd76097817",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-cf973ac557d740bd",
+            "relatedSpdxElement": "SPDXRef-Package-dd7192ea2db1894",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-d16f69d55ebc343e",
+            "relatedSpdxElement": "SPDXRef-Package-4fb3d17253f7855e",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-d16f69d55ebc343e",
+            "relatedSpdxElement": "SPDXRef-Package-6db4beb961112328",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-d16f69d55ebc343e",
+            "relatedSpdxElement": "SPDXRef-Package-e3ef4e94de6e8559",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-d7eb0a66717b52bc",
+            "relatedSpdxElement": "SPDXRef-Package-1eaa70ea4985d9b4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-d7eb0a66717b52bc",
+            "relatedSpdxElement": "SPDXRef-Package-8054d95b6493adc3",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-dc5fc04cd3161316",
+            "relatedSpdxElement": "SPDXRef-Package-1077e21d0cb9a81f",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-dc5fc04cd3161316",
+            "relatedSpdxElement": "SPDXRef-Package-a4d2ac92ae71873d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-dd25c9d642a81ff8",
+            "relatedSpdxElement": "SPDXRef-Package-801c3c511ccf3a6e",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-dd25c9d642a81ff8",
+            "relatedSpdxElement": "SPDXRef-Package-c98a22fd76097817",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-dd25c9d642a81ff8",
+            "relatedSpdxElement": "SPDXRef-Package-d117a1252422476d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e07f039859d427cf",
+            "relatedSpdxElement": "SPDXRef-Package-1077e21d0cb9a81f",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e07f039859d427cf",
+            "relatedSpdxElement": "SPDXRef-Package-123fa5b12d3bf3a7",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e07f039859d427cf",
+            "relatedSpdxElement": "SPDXRef-Package-a4d2ac92ae71873d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e07f039859d427cf",
+            "relatedSpdxElement": "SPDXRef-Package-e802e1e8781b671f",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e3ef4e94de6e8559",
+            "relatedSpdxElement": "SPDXRef-Package-6db4beb961112328",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-f001a9b058a3b7c1",
+            "relatedSpdxElement": "SPDXRef-Package-488f1c359e00b4e0",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-f001a9b058a3b7c1",
+            "relatedSpdxElement": "SPDXRef-Package-9a118b7c28155638",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-f001a9b058a3b7c1",
+            "relatedSpdxElement": "SPDXRef-Package-ae04eebc6cb8450c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-f001a9b058a3b7c1",
+            "relatedSpdxElement": "SPDXRef-Package-c98a22fd76097817",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-f001a9b058a3b7c1",
+            "relatedSpdxElement": "SPDXRef-Package-dd25c9d642a81ff8",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-f1680e5aaaf5ce2a",
+            "relatedSpdxElement": "SPDXRef-Package-6d4c69e2e3446e94",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-fc0deced5486f609",
+            "relatedSpdxElement": "SPDXRef-Package-3611c5f462b820d2",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-fc0deced5486f609",
+            "relatedSpdxElement": "SPDXRef-Package-667cf13c998a42cd",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-fc0deced5486f609",
+            "relatedSpdxElement": "SPDXRef-Package-71467e15ac205578",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-fc0deced5486f609",
+            "relatedSpdxElement": "SPDXRef-Package-ae04eebc6cb8450c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-5572dba9837dc5ec",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-5572dba9837dc5ec",
+            "relatedSpdxElement": "SPDXRef-hyperledger-aries-aries",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-5572dba9837dc5ec",
+            "relatedSpdxElement": "SPDXRef-hyperledger-aries-aries-bbs-go",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-hyperledger-aries-aries",
+            "relatedSpdxElement": "SPDXRef-item10580949",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-hyperledger-aries-aries",
+            "relatedSpdxElement": "SPDXRef-item10580962",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-hyperledger-aries-aries",
+            "relatedSpdxElement": "SPDXRef-item10580951",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-hyperledger-aries-aries",
+            "relatedSpdxElement": "SPDXRef-item10580952",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-hyperledger-aries-aries",
+            "relatedSpdxElement": "SPDXRef-item10580953",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-hyperledger-aries-aries",
+            "relatedSpdxElement": "SPDXRef-item10580954",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-hyperledger-aries-aries",
+            "relatedSpdxElement": "SPDXRef-item10580955",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-hyperledger-aries-aries",
+            "relatedSpdxElement": "SPDXRef-item10580956",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-hyperledger-aries-aries",
+            "relatedSpdxElement": "SPDXRef-item10580957",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-hyperledger-aries-aries",
+            "relatedSpdxElement": "SPDXRef-item10580958",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-hyperledger-aries-aries",
+            "relatedSpdxElement": "SPDXRef-item10580959",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-hyperledger-aries-aries",
+            "relatedSpdxElement": "SPDXRef-item10580960",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-hyperledger-aries-aries",
+            "relatedSpdxElement": "SPDXRef-item10580961",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-hyperledger-aries-aries",
+            "relatedSpdxElement": "SPDXRef-item10580963",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-hyperledger-aries-aries",
+            "relatedSpdxElement": "SPDXRef-item10580964",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-hyperledger-aries-aries",
+            "relatedSpdxElement": "SPDXRef-item10580965",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-hyperledger-aries-aries",
+            "relatedSpdxElement": "SPDXRef-item10580966",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-hyperledger-aries-aries",
+            "relatedSpdxElement": "SPDXRef-item10580967",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-hyperledger-aries-aries-bbs-go",
+            "relatedSpdxElement": "SPDXRef-item10580979",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-hyperledger-aries-aries-bbs-go",
+            "relatedSpdxElement": "SPDXRef-item10580982",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-hyperledger-aries-aries-bbs-go",
+            "relatedSpdxElement": "SPDXRef-item10580986",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-hyperledger-aries-aries-bbs-go",
+            "relatedSpdxElement": "SPDXRef-item10580985",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-hyperledger-aries-aries-bbs-go",
+            "relatedSpdxElement": "SPDXRef-item10580983",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-hyperledger-aries-aries-bbs-go",
+            "relatedSpdxElement": "SPDXRef-item10580980",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-hyperledger-aries-aries-bbs-go",
+            "relatedSpdxElement": "SPDXRef-item10580988",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-hyperledger-aries-aries-bbs-go",
+            "relatedSpdxElement": "SPDXRef-item10580975",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-hyperledger-aries-aries-bbs-go",
+            "relatedSpdxElement": "SPDXRef-item10580994",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-hyperledger-aries-aries-bbs-go",
+            "relatedSpdxElement": "SPDXRef-item10580984",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-hyperledger-aries-aries-bbs-go",
+            "relatedSpdxElement": "SPDXRef-item10580987",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-hyperledger-aries-aries-bbs-go",
+            "relatedSpdxElement": "SPDXRef-item10580981",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-hyperledger-aries-aries-bbs-go",
+            "relatedSpdxElement": "SPDXRef-item10580978",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-hyperledger-aries-aries-bbs-go",
+            "relatedSpdxElement": "SPDXRef-item10580977",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-hyperledger-aries-aries-bbs-go",
+            "relatedSpdxElement": "SPDXRef-item10580990",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-hyperledger-aries-aries-bbs-go",
+            "relatedSpdxElement": "SPDXRef-item10580972",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-hyperledger-aries-aries-bbs-go",
+            "relatedSpdxElement": "SPDXRef-item10580973",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-hyperledger-aries-aries-bbs-go",
+            "relatedSpdxElement": "SPDXRef-item10580974",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-hyperledger-aries-aries-bbs-go",
+            "relatedSpdxElement": "SPDXRef-item10580989",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-hyperledger-aries-aries-bbs-go",
+            "relatedSpdxElement": "SPDXRef-item10580993",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-hyperledger-aries-aries-bbs-go",
+            "relatedSpdxElement": "SPDXRef-item10580995",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-hyperledger-aries-aries-bbs-go",
+            "relatedSpdxElement": "SPDXRef-item10580996",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-hyperledger-aries-aries-bbs-go",
+            "relatedSpdxElement": "SPDXRef-item10580997",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
